@@ -1,0 +1,83 @@
+╔═══════════════════════════════════════════════════════════════╗
+║               REPORTE DE MERCADO – MARKET SCANNER             ║
+║                  Generado: 2026-03-18  00:59:51               ║
+╚═══════════════════════════════════════════════════════════════╝
+
+═════════════════════════════════════════════════════════════════
+  1.  NOTICIAS DESTACADAS DEL SECTOR  (RSS Feeds)
+═════════════════════════════════════════════════════════════════
+
+  [Search Engine Journal]
+  https://www.searchenginejournal.com/feed/
+  ·····························································
+  1. Search Referral Traffic Down 60% For Small Publishers, Data Shows via @sejournal, @MattGSouthern
+     Fecha : Tue, 17 Mar 2026 23:55:47 +0000
+     URL   : https://www.searchenginejournal.com/search-referral-traffic-down-60-for-small-publishers-data-shows/569959/
+  2. Google AI Overviews Cut Germany’s Top Organic CTR By 59% via @sejournal, @MattGSouthern
+     Fecha : Tue, 17 Mar 2026 23:19:03 +0000
+     URL   : https://www.searchenginejournal.com/google-ai-overviews-cut-germanys-top-organic-ctr-by-59/569954/
+  3. Google Removes ‘What People Suggest,’ Expands Health AI Tools via @sejournal, @MattGSouthern
+     Fecha : Tue, 17 Mar 2026 18:49:48 +0000
+     URL   : https://www.searchenginejournal.com/google-removes-what-people-suggest-expands-health-ai-tools/569942/
+
+  [TechCrunch]
+  https://techcrunch.com/feed/
+  ·····························································
+  1. Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’
+     Fecha : Tue, 17 Mar 2026 21:39:17 +0000
+     URL   : https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/
+  2. Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise
+     Fecha : Tue, 17 Mar 2026 21:00:00 +0000
+     URL   : https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/
+  3. Why Garry Tan’s Claude Code setup has gotten so much love, and hate
+     Fecha : Tue, 17 Mar 2026 20:50:04 +0000
+     URL   : https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/
+
+  [Product Hunt]
+  https://www.producthunt.com/feed
+  ·····························································
+  1. Kipps.AI Campaign
+     Fecha : 2026-03-02T20:08:15-08:00
+     URL   : https://www.producthunt.com/products/kipps-ai
+  2. mTarsier
+     Fecha : 2026-03-15T07:36:17-07:00
+     URL   : https://www.producthunt.com/products/mcp360
+  3. Ocean Orchestrator
+     Fecha : 2026-03-16T08:03:04-07:00
+     URL   : https://www.producthunt.com/products/ocean-orchestrator
+
+  [The Verge – AI]
+  https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+  ·····························································
+  1. Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse
+     Fecha : 2026-03-17T14:00:00-04:00
+     URL   : https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing
+  2. Now everyone in the US is getting Google&#8217;s personalized Gemini AI
+     Fecha : 2026-03-17T12:33:41-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence
+  3. Microsoft appoints a new Copilot boss after AI leadership shake-up
+     Fecha : 2026-03-17T11:17:27-04:00
+     URL   : https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial
+
+═════════════════════════════════════════════════════════════════
+  2.  TITULARES RECIENTES DE COMPETIDORES
+═════════════════════════════════════════════════════════════════
+
+  [Profound (tryprofound.com)]
+  https://www.tryprofound.com
+  ·····························································
+  1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
+
+  [Semrush Blog]
+  https://www.semrush.com/blog/
+  ·····························································
+  1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
+
+  [Ahrefs Blog]
+  https://ahrefs.com/blog/
+  ·····························································
+  1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
+
+═════════════════════════════════════════════════════════════════
+  Fin del reporte  ·  2026-03-18  00:59:51
+═════════════════════════════════════════════════════════════════

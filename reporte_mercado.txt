@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-03-18  09:00:23               ║
+║                  Generado: 2026-03-19  08:54:37               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Explains Why HTTPS Migration May Negatively Impact SEO via @sejournal, @martinibuster
-     Fecha : Wed, 18 Mar 2026 08:25:41 +0000
-     URL   : https://www.searchenginejournal.com/google-explains-why-https-migration-may-negatively-impact-seo/569969/
-  2. Search Referral Traffic Down 60% For Small Publishers, Data Shows via @sejournal, @MattGSouthern
-     Fecha : Tue, 17 Mar 2026 23:55:47 +0000
-     URL   : https://www.searchenginejournal.com/search-referral-traffic-down-60-for-small-publishers-data-shows/569959/
-  3. Google AI Overviews Cut Germany’s Top Organic CTR By 59% via @sejournal, @MattGSouthern
-     Fecha : Tue, 17 Mar 2026 23:19:03 +0000
-     URL   : https://www.searchenginejournal.com/google-ai-overviews-cut-germanys-top-organic-ctr-by-59/569954/
+  1. Authentic Human Conversation™
+     Fecha : Wed, 18 Mar 2026 13:30:44 +0000
+     URL   : https://www.searchenginejournal.com/authentic-human-conversation/569924/
+  2. How To Build An SEO Commissioning Workflow: From Tickets To Requirements via @sejournal, @billhunt
+     Fecha : Wed, 18 Mar 2026 13:00:27 +0000
+     URL   : https://www.searchenginejournal.com/how-to-build-an-seo-commissioning-workflow/566093/
+  3. How To Use AI To Streamline Time-Consuming SEO Tasks via @sejournal, @coreydmorris
+     Fecha : Wed, 18 Mar 2026 12:00:20 +0000
+     URL   : https://www.searchenginejournal.com/how-to-use-ai-to-streamline-time-consuming-seo-tasks/566499/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’
-     Fecha : Tue, 17 Mar 2026 21:39:17 +0000
-     URL   : https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/
-  2. Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise
-     Fecha : Tue, 17 Mar 2026 21:00:00 +0000
-     URL   : https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/
-  3. Why Garry Tan’s Claude Code setup has gotten so much love, and hate
-     Fecha : Tue, 17 Mar 2026 20:50:04 +0000
-     URL   : https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/
+  1. Multiverse Computing pushes its compressed AI models into the mainstream
+     Fecha : Thu, 19 Mar 2026 08:00:00 +0000
+     URL   : https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/
+  2. Two Palantir veterans just came out of stealth with $30 million and a Sequoia stamp of approval
+     Fecha : Thu, 19 Mar 2026 06:11:53 +0000
+     URL   : https://techcrunch.com/2026/03/18/two-palantir-veterans-just-came-out-of-stealth-with-30-million-and-a-sequoia-stamp-of-approval/
+  3. Meta is having trouble with rogue AI agents
+     Fecha : Wed, 18 Mar 2026 23:42:46 +0000
+     URL   : https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. ArticleBack
-     Fecha : 2026-03-17T11:33:03-07:00
-     URL   : https://www.producthunt.com/products/articleback
-  2. Soul 2.0
-     Fecha : 2026-02-21T08:44:27-08:00
-     URL   : https://www.producthunt.com/products/soul-2-0
-  3. Lightfield
-     Fecha : 2026-03-04T11:10:42-08:00
-     URL   : https://www.producthunt.com/products/lightfield
+  1. JSTRUX — From Idea to Profit
+     Fecha : 2026-03-18T05:44:02-07:00
+     URL   : https://www.producthunt.com/products/jstrux-from-idea-to-profit
+  2. Doodles Ai
+     Fecha : 2026-03-18T13:05:35-07:00
+     URL   : https://www.producthunt.com/products/doodles-ai
+  3. Cimanote
+     Fecha : 2026-03-18T04:08:39-07:00
+     URL   : https://www.producthunt.com/products/cimanote
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse
-     Fecha : 2026-03-17T14:00:00-04:00
-     URL   : https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing
-  2. Now everyone in the US is getting Google&#8217;s personalized Gemini AI
-     Fecha : 2026-03-17T12:33:41-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence
-  3. Microsoft appoints a new Copilot boss after AI leadership shake-up
-     Fecha : 2026-03-17T11:17:27-04:00
-     URL   : https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial
+  1. David Sacks’ big Iran warning gets big time ignored
+     Fecha : 2026-03-18T14:44:21-04:00
+     URL   : https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket
+  2. ChatGPT did not cure a dog’s cancer
+     Fecha : 2026-03-18T14:14:39-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer
+  3. DLSS 5: Has Nvidia&#8217;s AI graphics technology gone too far?
+     Fecha : 2026-03-18T08:30:00-04:00
+     URL   : https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-03-18  09:00:23
+  Fin del reporte  ·  2026-03-19  08:54:37
 ═════════════════════════════════════════════════════════════════

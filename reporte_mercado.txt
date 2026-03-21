@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-03-20  08:53:09               ║
+║                  Generado: 2026-03-21  08:43:12               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Expands UCP With Cart, Catalog, Onboarding via @sejournal, @MattGSouthern
+  1. Google AI Mode Goes Personal, Crawl Limits Clarified – SEO Pulse via @sejournal, @MattGSouthern
+     Fecha : Fri, 20 Mar 2026 12:30:24 +0000
+     URL   : https://www.searchenginejournal.com/seo-pulse-google-ai-mode-goes-personal-crawl-limits-clarified/570110/
+  2. Google Ads Creative Tools Expand, Microsoft Simplifies Bidding – PPC Pulse via @sejournal, @brookeosmundson
+     Fecha : Fri, 20 Mar 2026 11:30:55 +0000
+     URL   : https://www.searchenginejournal.com/ppc-pulse-google-ads-creative-tools-expand-microsoft-simplifies-bidding/570104/
+  3. Google Expands UCP With Cart, Catalog, Onboarding via @sejournal, @MattGSouthern
      Fecha : Thu, 19 Mar 2026 15:35:16 +0000
      URL   : https://www.searchenginejournal.com/google-expands-ucp-with-cart-catalog-onboarding/570084/
-  2. The Content Moat Is Dead. The Context Moat Is What Survives via @sejournal, @DuaneForrester
-     Fecha : Thu, 19 Mar 2026 13:30:49 +0000
-     URL   : https://www.searchenginejournal.com/the-content-moat-is-dead-the-context-moat-is-what-survives/569778/
-  3. What Can Log File Data Tell Me That Tools Can’t? – Ask An SEO via @sejournal, @HelenPollitt1
-     Fecha : Thu, 19 Mar 2026 12:30:50 +0000
-     URL   : https://www.searchenginejournal.com/ask-an-seo-should-seos-use-log-file-data/567932/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Amazon acquires Rivr, maker of a stair-climbing delivery robot
-     Fecha : Thu, 19 Mar 2026 23:28:37 +0000
-     URL   : https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/
-  2. Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI
-     Fecha : Thu, 19 Mar 2026 22:09:24 +0000
-     URL   : https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/
-  3. Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant
-     Fecha : Thu, 19 Mar 2026 21:13:50 +0000
-     URL   : https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/
+  1. New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput
+     Fecha : Sat, 21 Mar 2026 01:40:28 +0000
+     URL   : https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/
+  2. Elon Musk misled Twitter investors while trying to get out of acquisition, jury says
+     Fecha : Fri, 20 Mar 2026 23:29:17 +0000
+     URL   : https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/
+  3. Microsoft rolls back some of its Copilot AI bloat on Windows
+     Fecha : Fri, 20 Mar 2026 20:53:09 +0000
+     URL   : https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Claude Code Channels
-     Fecha : 2026-03-19T21:35:29-07:00
-     URL   : https://www.producthunt.com/products/claude
-  2. Gaze Guard
-     Fecha : 2026-03-19T14:59:19-07:00
-     URL   : https://www.producthunt.com/products/gaze-guard
-  3. Chat
-     Fecha : 2026-03-19T17:15:04-07:00
-     URL   : https://www.producthunt.com/products/chat-5
+  1. Fractal
+     Fecha : 2026-02-26T17:57:01-08:00
+     URL   : https://www.producthunt.com/products/fractal-2
+  2. murmur
+     Fecha : 2026-03-16T22:03:11-07:00
+     URL   : https://www.producthunt.com/products/murmur-7
+  3. Contral
+     Fecha : 2026-03-20T13:40:44-07:00
+     URL   : https://www.producthunt.com/products/contral
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. OpenAI is planning a desktop ‘superapp’
-     Fecha : 2026-03-19T20:09:38-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp
-  2. A rogue AI led to a serious security incident at Meta
-     Fecha : 2026-03-19T14:20:05-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident
-  3. Adobe’s AI image generator can now be trained on your own art
-     Fecha : 2026-03-19T09:00:00-04:00
-     URL   : https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta
+  1. Trump takes another shot at dismantling state AI regulation
+     Fecha : 2026-03-20T14:17:02-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework
+  2. Google Search is now using AI to replace headlines
+     Fecha : 2026-03-20T10:30:00-04:00
+     URL   : https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment
+  3. Amazon is making an Alexa phone
+     Fecha : 2026-03-20T09:42:51-04:00
+     URL   : https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-03-20  08:53:09
+  Fin del reporte  ·  2026-03-21  08:43:12
 ═════════════════════════════════════════════════════════════════

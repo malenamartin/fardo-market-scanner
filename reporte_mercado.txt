@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-03-21  08:43:12               ║
+║                  Generado: 2026-03-22  08:45:25               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -23,41 +23,41 @@
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput
-     Fecha : Sat, 21 Mar 2026 01:40:28 +0000
-     URL   : https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/
-  2. Elon Musk misled Twitter investors while trying to get out of acquisition, jury says
-     Fecha : Fri, 20 Mar 2026 23:29:17 +0000
-     URL   : https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/
-  3. Microsoft rolls back some of its Copilot AI bloat on Windows
-     Fecha : Fri, 20 Mar 2026 20:53:09 +0000
-     URL   : https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/
+  1. Are AI tokens the new signing bonus or just a cost of doing business?
+     Fecha : Sun, 22 Mar 2026 06:20:43 +0000
+     URL   : https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/
+  2. It’s been 20 years since the first tweet
+     Fecha : Sat, 21 Mar 2026 20:30:47 +0000
+     URL   : https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/
+  3. Publisher pulls horror novel ‘Shy Girl’ over AI concerns
+     Fecha : Sat, 21 Mar 2026 19:30:27 +0000
+     URL   : https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Fractal
-     Fecha : 2026-02-26T17:57:01-08:00
-     URL   : https://www.producthunt.com/products/fractal-2
-  2. murmur
-     Fecha : 2026-03-16T22:03:11-07:00
-     URL   : https://www.producthunt.com/products/murmur-7
-  3. Contral
-     Fecha : 2026-03-20T13:40:44-07:00
-     URL   : https://www.producthunt.com/products/contral
+  1. Bench for Claude Code
+     Fecha : 2026-03-14T08:12:31-07:00
+     URL   : https://www.producthunt.com/products/bench-for-claude-code
+  2. Claude Code Scheduled Tasks
+     Fecha : 2026-03-06T20:07:31-08:00
+     URL   : https://www.producthunt.com/products/claude-code-scheduled-tasks
+  3. Silicon Friendly
+     Fecha : 2026-03-01T05:45:48-08:00
+     URL   : https://www.producthunt.com/products/silicon-friendly
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Trump takes another shot at dismantling state AI regulation
+  1. The gen AI Kool-Aid tastes like eugenics
+     Fecha : 2026-03-21T10:00:00-04:00
+     URL   : https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview
+  2. Gemini task automation is slow, clunky, and super impressive
+     Fecha : 2026-03-21T07:30:00-04:00
+     URL   : https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on
+  3. Trump takes another shot at dismantling state AI regulation
      Fecha : 2026-03-20T14:17:02-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework
-  2. Google Search is now using AI to replace headlines
-     Fecha : 2026-03-20T10:30:00-04:00
-     URL   : https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment
-  3. Amazon is making an Alexa phone
-     Fecha : 2026-03-20T09:42:51-04:00
-     URL   : https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-03-21  08:43:12
+  Fin del reporte  ·  2026-03-22  08:45:25
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-03-24  09:01:09               ║
+║                  Generado: 2026-03-25  09:00:29               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. SEO 2.0: How Content Marketing Drives Visibility in AI Search via @sejournal, @hethr_campbell
-     Fecha : Tue, 24 Mar 2026 07:45:16 +0000
-     URL   : https://www.searchenginejournal.com/seo-2-0-how-content-marketing-drives-visibility-in-ai-search/570308/
-  2. Bing AI Dashboard Maps Grounding Queries To Cited Pages via @sejournal, @MattGSouthern
-     Fecha : Tue, 24 Mar 2026 05:00:14 +0000
-     URL   : https://www.searchenginejournal.com/bing-ai-dashboard-maps-grounding-queries-to-cited-pages/570323/
-  3. Google Responds To Error That Causes Old Branding To Persist In SERPs via @sejournal, @martinibuster
-     Fecha : Mon, 23 Mar 2026 21:23:14 +0000
-     URL   : https://www.searchenginejournal.com/google-responds-to-error-that-causes-old-branding-to-persist-in-serps/570315/
+  1. Is Your Website Ready for AI Search? A Practical Audit for CMOs via @sejournal, @lorenbaker
+     Fecha : Wed, 25 Mar 2026 07:45:26 +0000
+     URL   : https://www.searchenginejournal.com/is-your-website-ready-for-ai-search-a-practical-audit-for-cmos/570413/
+  2. Google Adds AI & Bot Labels To Forum, Q&A Structured Data via @sejournal, @MattGSouthern
+     Fecha : Tue, 24 Mar 2026 19:50:55 +0000
+     URL   : https://www.searchenginejournal.com/google-adds-ai-bot-labels-to-forum-qa-structured-data/570425/
+  3. Google Begins Rolling Out The March 2026 Spam Update via @sejournal, @MattGSouthern
+     Fecha : Tue, 24 Mar 2026 19:38:20 +0000
+     URL   : https://www.searchenginejournal.com/google-begins-rolling-out-the-march-2026-spam-update/570428/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Delve halts demos, Insight Partners scrubs investment post amid ‘fake compliance’ allegations
-     Fecha : Tue, 24 Mar 2026 05:26:20 +0000
-     URL   : https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/
-  2. Emil Michael, now a senior Pentagon official, says he’ll never forgive Uber investors who ousted him and Kalanick
-     Fecha : Mon, 23 Mar 2026 23:49:10 +0000
-     URL   : https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/
-  3. Bengaluru food delivery startup Swish raises $38M, its third round in 18 months
-     Fecha : Mon, 23 Mar 2026 23:30:00 +0000
-     URL   : https://techcrunch.com/2026/03/23/bengaluru-food-startup-swish-raises-38m-in-its-third-round-in-18-months/
+  1. A former Thiel fellow’s startup just launched a drone it says can replace police helicopters
+     Fecha : Wed, 25 Mar 2026 02:30:00 +0000
+     URL   : https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/
+  2. Amazon just bought a startup making kid-size humanoid robots
+     Fecha : Wed, 25 Mar 2026 00:53:39 +0000
+     URL   : https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/
+  3. With $3.5B in fresh capital, Kleiner Perkins is going all in on AI
+     Fecha : Wed, 25 Mar 2026 00:47:20 +0000
+     URL   : https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. imgcmd
-     Fecha : 2026-03-23T18:51:56-07:00
-     URL   : https://www.producthunt.com/products/imgcmd
-  2. Redbean
-     Fecha : 2026-03-16T01:36:08-07:00
-     URL   : https://www.producthunt.com/products/redbean-ai
-  3. Cekura
-     Fecha : 2026-03-18T17:15:21-07:00
-     URL   : https://www.producthunt.com/products/vocera
+  1. Omma
+     Fecha : 2026-03-19T21:06:14-07:00
+     URL   : https://www.producthunt.com/products/omma
+  2. Aikido × Lovable
+     Fecha : 2026-03-24T15:43:58-07:00
+     URL   : https://www.producthunt.com/products/aikido-2
+  3. Pendium
+     Fecha : 2026-03-19T13:58:05-07:00
+     URL   : https://www.producthunt.com/products/pendium-ai
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Google’s new Pixel 10 ads made me go ‘Wait, WHAT are they trying to sell?’
-     Fecha : 2026-03-23T15:49:11-04:00
-     URL   : https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom
-  2. Nvidia CEO Jensen Huang says &#8216;I think we&#8217;ve achieved AGI&#8217;
-     Fecha : 2026-03-23T15:42:33-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi
-  3. Confronting the CEO of the AI company that impersonated me
-     Fecha : 2026-03-23T09:30:00-04:00
-     URL   : https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation
+  1. OpenAI just gave up on Sora and its billion-dollar Disney deal
+     Fecha : 2026-03-24T17:08:10-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt
+  2. Arm’s first CPU ever will plug into Meta’s AI data centers later this year
+     Fecha : 2026-03-24T16:43:14-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta
+  3. ChatGPT and Gemini are fighting to be the AI bot that sells you stuff
+     Fecha : 2026-03-24T13:13:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-03-24  09:01:09
+  Fin del reporte  ·  2026-03-25  09:00:29
 ═════════════════════════════════════════════════════════════════

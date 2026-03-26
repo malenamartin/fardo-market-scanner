@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-03-25  09:00:29               ║
+║                  Generado: 2026-03-26  09:07:31               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Is Your Website Ready for AI Search? A Practical Audit for CMOs via @sejournal, @lorenbaker
-     Fecha : Wed, 25 Mar 2026 07:45:26 +0000
-     URL   : https://www.searchenginejournal.com/is-your-website-ready-for-ai-search-a-practical-audit-for-cmos/570413/
-  2. Google Adds AI & Bot Labels To Forum, Q&A Structured Data via @sejournal, @MattGSouthern
-     Fecha : Tue, 24 Mar 2026 19:50:55 +0000
-     URL   : https://www.searchenginejournal.com/google-adds-ai-bot-labels-to-forum-qa-structured-data/570425/
-  3. Google Begins Rolling Out The March 2026 Spam Update via @sejournal, @MattGSouthern
-     Fecha : Tue, 24 Mar 2026 19:38:20 +0000
-     URL   : https://www.searchenginejournal.com/google-begins-rolling-out-the-march-2026-spam-update/570428/
+  1. Google Analytics Launches Scenario Planner and Projections via @sejournal, @brookeosmundson
+     Fecha : Wed, 25 Mar 2026 17:07:42 +0000
+     URL   : https://www.searchenginejournal.com/google-analytics-launches-scenario-planner-and-projections/570520/
+  2. Half Your Traffic Left. The SEO Industry Sent Thoughts and Frameworks
+     Fecha : Wed, 25 Mar 2026 13:30:38 +0000
+     URL   : https://www.searchenginejournal.com/half-your-traffic-left-the-seo-industry-sent-thoughts-and-frameworks/570380/
+  3. How Zero-Party & First-Party Data Can Fuel Your Intent-Based SEO Strategy via @sejournal, @rio_seo
+     Fecha : Wed, 25 Mar 2026 11:00:38 +0000
+     URL   : https://www.searchenginejournal.com/zero-party-data-how-to-use-first-party-insights-to-power-intent-based-content-strategy/568189/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. A former Thiel fellow’s startup just launched a drone it says can replace police helicopters
-     Fecha : Wed, 25 Mar 2026 02:30:00 +0000
-     URL   : https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/
-  2. Amazon just bought a startup making kid-size humanoid robots
-     Fecha : Wed, 25 Mar 2026 00:53:39 +0000
-     URL   : https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/
-  3. With $3.5B in fresh capital, Kleiner Perkins is going all in on AI
-     Fecha : Wed, 25 Mar 2026 00:47:20 +0000
-     URL   : https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/
+  1. A little-known Croatian startup is coming for the robotaxi market with help from Uber
+     Fecha : Thu, 26 Mar 2026 08:15:00 +0000
+     URL   : https://techcrunch.com/2026/03/26/a-little-known-croatian-startup-is-coming-for-the-robotaxi-market-with-help-from-uber/
+  2. The least surprising chapter of the Manus story is what’s happening right now
+     Fecha : Thu, 26 Mar 2026 02:46:48 +0000
+     URL   : https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/
+  3. Mercor competitor Deccan AI raises $25M, sources experts from India
+     Fecha : Thu, 26 Mar 2026 00:30:00 +0000
+     URL   : https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Omma
-     Fecha : 2026-03-19T21:06:14-07:00
-     URL   : https://www.producthunt.com/products/omma
-  2. Aikido × Lovable
-     Fecha : 2026-03-24T15:43:58-07:00
-     URL   : https://www.producthunt.com/products/aikido-2
-  3. Pendium
-     Fecha : 2026-03-19T13:58:05-07:00
-     URL   : https://www.producthunt.com/products/pendium-ai
+  1. Breadcrumb
+     Fecha : 2026-03-25T15:44:16-07:00
+     URL   : https://www.producthunt.com/products/breadcrumb-2
+  2. Venn.ai
+     Fecha : 2026-03-21T12:19:35-07:00
+     URL   : https://www.producthunt.com/products/venn-ai-2
+  3. StreamPad
+     Fecha : 2026-03-24T06:12:11-07:00
+     URL   : https://www.producthunt.com/products/streampad
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. OpenAI just gave up on Sora and its billion-dollar Disney deal
-     Fecha : 2026-03-24T17:08:10-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt
-  2. Arm’s first CPU ever will plug into Meta’s AI data centers later this year
-     Fecha : 2026-03-24T16:43:14-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta
-  3. ChatGPT and Gemini are fighting to be the AI bot that sells you stuff
-     Fecha : 2026-03-24T13:13:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features
+  1. Meta is laying off hundreds of employees as it pours money into AI
+     Fecha : 2026-03-25T17:10:32-04:00
+     URL   : https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees
+  2. Disney’s big bets on the metaverse and AI slop aren’t going so well
+     Fecha : 2026-03-25T16:02:48-04:00
+     URL   : https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse
+  3. Can you monitor a situation without monitors? The Polymarket sports bar tried
+     Fecha : 2026-03-25T14:19:32-04:00
+     URL   : https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-03-25  09:00:29
+  Fin del reporte  ·  2026-03-26  09:07:31
 ═════════════════════════════════════════════════════════════════

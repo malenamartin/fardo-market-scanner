@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-03-28  08:51:08               ║
+║                  Generado: 2026-03-29  08:52:08               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Why Google’s New “Google-Agent” Is The Biggest Mindset Shift In SEO History via @sejournal, @marie_haynes
+  1. Answer Engine Optimization: How To Get Your Content Into AI Responses via @sejournal, @slobodanmanic
+     Fecha : Sat, 28 Mar 2026 12:00:24 +0000
+     URL   : https://www.searchenginejournal.com/answer-engine-optimization-how-to-get-your-content-into-ai-responses/570055/
+  2. Why Google’s New “Google-Agent” Is The Biggest Mindset Shift In SEO History via @sejournal, @marie_haynes
      Fecha : Fri, 27 Mar 2026 13:30:12 +0000
      URL   : https://www.searchenginejournal.com/why-googles-new-google-agent-is-the-biggest-mindset-shift-in-seo-history/570590/
-  2. Google Tests AI Headlines, Rolls Out Spam Update – SEO Pulse via @sejournal, @MattGSouthern
+  3. Google Tests AI Headlines, Rolls Out Spam Update – SEO Pulse via @sejournal, @MattGSouthern
      Fecha : Fri, 27 Mar 2026 12:30:42 +0000
      URL   : https://www.searchenginejournal.com/seo-pulse-google-tests-ai-headlines-rolls-out-spam-update/570613/
-  3. Google Adds Scenario Planner, Performance Max Updates, And Veo – PPC Pulse via @sejournal, @brookeosmundson
-     Fecha : Fri, 27 Mar 2026 11:30:20 +0000
-     URL   : https://www.searchenginejournal.com/ppc-pulse-google-adds-scenario-planner-performance-max-updates-and-veo/570617/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Whoop has LeBron – now it wants your mom
-     Fecha : Sat, 28 Mar 2026 02:31:10 +0000
-     URL   : https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/
-  2. Physical Intelligence is reportedly in talks to raise $1 billion, again
-     Fecha : Fri, 27 Mar 2026 23:59:40 +0000
-     URL   : https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/
-  3. Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO
-     Fecha : Fri, 27 Mar 2026 21:44:45 +0000
-     URL   : https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/
+  1. Bluesky leans into AI with Attie, an app for building custom feeds
+     Fecha : Sat, 28 Mar 2026 23:00:00 +0000
+     URL   : https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/
+  2. Mark Zuckerberg texted Elon Musk to offer help with DOGE
+     Fecha : Sat, 28 Mar 2026 21:23:58 +0000
+     URL   : https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/
+  3. Stanford study outlines dangers of asking AI chatbots for personal advice
+     Fecha : Sat, 28 Mar 2026 20:45:54 +0000
+     URL   : https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. DwellRecord
-     Fecha : 2026-03-27T21:22:14-07:00
-     URL   : https://www.producthunt.com/products/dwellrecord
-  2. Able
-     Fecha : 2026-03-18T07:54:53-07:00
-     URL   : https://www.producthunt.com/products/able-3
-  3. Santana
-     Fecha : 2026-03-27T05:45:33-07:00
-     URL   : https://www.producthunt.com/products/santana
+  1. SUN (a16z Speedrun 006)
+     Fecha : 2026-03-25T16:58:04-07:00
+     URL   : https://www.producthunt.com/products/sun-ai
+  2. Pensieve
+     Fecha : 2026-03-25T15:39:20-07:00
+     URL   : https://www.producthunt.com/products/pensieve-5
+  3. GuideYou
+     Fecha : 2026-03-28T13:21:38-07:00
+     URL   : https://www.producthunt.com/products/guideyou
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. The latest in data centers, AI, and energy
-     Fecha : 2026-03-27T14:35:53-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy
-  2. Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban
-     Fecha : 2026-03-26T20:33:44-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction
-  3. David Sacks is no longer the White House AI and Crypto Czar
-     Fecha : 2026-03-26T19:40:22-04:00
-     URL   : https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar
+  1. Suno leans into customization with v5.5
+     Fecha : 2026-03-28T14:33:10-04:00
+     URL   : https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model
+  2. Why can’t TikTok identify AI generated ads when I can?
+     Fecha : 2026-03-28T10:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure
+  3. Why OpenAI killed Sora
+     Fecha : 2026-03-28T08:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-03-28  08:51:08
+  Fin del reporte  ·  2026-03-29  08:52:08
 ═════════════════════════════════════════════════════════════════

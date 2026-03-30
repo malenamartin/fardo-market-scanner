@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-03-29  08:52:08               ║
+║                  Generado: 2026-03-30  09:22:27               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Answer Engine Optimization: How To Get Your Content Into AI Responses via @sejournal, @slobodanmanic
+  1. Google Gemini Sends More Traffic To Sites Than Perplexity: Report via @sejournal, @MattGSouthern
+     Fecha : Mon, 30 Mar 2026 05:00:13 +0000
+     URL   : https://www.searchenginejournal.com/google-gemini-sends-more-traffic-to-sites-than-perplexity-report/570714/
+  2. The Death Of The Static GBP: Why Dynamic Profiles Are The New Local Ranking Factor via @sejournal, @AdamHeitzman
+     Fecha : Sun, 29 Mar 2026 12:00:48 +0000
+     URL   : https://www.searchenginejournal.com/why-dynamic-profiles-are-the-new-local-ranking-factor/568200/
+  3. Answer Engine Optimization: How To Get Your Content Into AI Responses via @sejournal, @slobodanmanic
      Fecha : Sat, 28 Mar 2026 12:00:24 +0000
      URL   : https://www.searchenginejournal.com/answer-engine-optimization-how-to-get-your-content-into-ai-responses/570055/
-  2. Why Google’s New “Google-Agent” Is The Biggest Mindset Shift In SEO History via @sejournal, @marie_haynes
-     Fecha : Fri, 27 Mar 2026 13:30:12 +0000
-     URL   : https://www.searchenginejournal.com/why-googles-new-google-agent-is-the-biggest-mindset-shift-in-seo-history/570590/
-  3. Google Tests AI Headlines, Rolls Out Spam Update – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Fri, 27 Mar 2026 12:30:42 +0000
-     URL   : https://www.searchenginejournal.com/seo-pulse-google-tests-ai-headlines-rolls-out-spam-update/570613/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Bluesky leans into AI with Attie, an app for building custom feeds
-     Fecha : Sat, 28 Mar 2026 23:00:00 +0000
-     URL   : https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/
-  2. Mark Zuckerberg texted Elon Musk to offer help with DOGE
-     Fecha : Sat, 28 Mar 2026 21:23:58 +0000
-     URL   : https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/
-  3. Stanford study outlines dangers of asking AI chatbots for personal advice
-     Fecha : Sat, 28 Mar 2026 20:45:54 +0000
-     URL   : https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/
+  1. Why OpenAI really shut down Sora
+     Fecha : Mon, 30 Mar 2026 03:09:38 +0000
+     URL   : https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/
+  2. The Pixel 10a doesn’t have a camera bump, and it’s great
+     Fecha : Sun, 29 Mar 2026 21:30:00 +0000
+     URL   : https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/
+  3. YouTube CEO says the best YouTubers will ‘never leave their home’
+     Fecha : Sun, 29 Mar 2026 21:17:52 +0000
+     URL   : https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. SUN (a16z Speedrun 006)
-     Fecha : 2026-03-25T16:58:04-07:00
-     URL   : https://www.producthunt.com/products/sun-ai
-  2. Pensieve
-     Fecha : 2026-03-25T15:39:20-07:00
-     URL   : https://www.producthunt.com/products/pensieve-5
-  3. GuideYou
-     Fecha : 2026-03-28T13:21:38-07:00
-     URL   : https://www.producthunt.com/products/guideyou
+  1. VibeTalent
+     Fecha : 2026-03-29T23:40:18-07:00
+     URL   : https://www.producthunt.com/products/vibetalent
+  2. Latchkey
+     Fecha : 2026-03-28T18:21:40-07:00
+     URL   : https://www.producthunt.com/products/imbue-7
+  3. ClawKing
+     Fecha : 2026-03-29T07:24:53-07:00
+     URL   : https://www.producthunt.com/products/clawking
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Suno leans into customization with v5.5
+  1. All the latest in AI &#8216;music&#8217;
+     Fecha : 2026-03-29T21:32:14-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit
+  2. Bluesky’s new app is an AI for customizing your feed
+     Fecha : 2026-03-29T17:44:41-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds
+  3. Suno leans into customization with v5.5
      Fecha : 2026-03-28T14:33:10-04:00
      URL   : https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model
-  2. Why can’t TikTok identify AI generated ads when I can?
-     Fecha : 2026-03-28T10:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure
-  3. Why OpenAI killed Sora
-     Fecha : 2026-03-28T08:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-03-29  08:52:08
+  Fin del reporte  ·  2026-03-30  09:22:27
 ═════════════════════════════════════════════════════════════════

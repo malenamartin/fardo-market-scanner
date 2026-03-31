@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-03-30  09:22:27               ║
+║                  Generado: 2026-03-31  09:11:22               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Gemini Sends More Traffic To Sites Than Perplexity: Report via @sejournal, @MattGSouthern
-     Fecha : Mon, 30 Mar 2026 05:00:13 +0000
-     URL   : https://www.searchenginejournal.com/google-gemini-sends-more-traffic-to-sites-than-perplexity-report/570714/
-  2. The Death Of The Static GBP: Why Dynamic Profiles Are The New Local Ranking Factor via @sejournal, @AdamHeitzman
-     Fecha : Sun, 29 Mar 2026 12:00:48 +0000
-     URL   : https://www.searchenginejournal.com/why-dynamic-profiles-are-the-new-local-ranking-factor/568200/
-  3. Answer Engine Optimization: How To Get Your Content Into AI Responses via @sejournal, @slobodanmanic
-     Fecha : Sat, 28 Mar 2026 12:00:24 +0000
-     URL   : https://www.searchenginejournal.com/answer-engine-optimization-how-to-get-your-content-into-ai-responses/570055/
+  1. How To Identify Which LLM Is Actually Working For You [Webinar] via @sejournal, @hethr_campbell
+     Fecha : Tue, 31 Mar 2026 07:45:37 +0000
+     URL   : https://www.searchenginejournal.com/how-to-identify-which-llm-is-actually-working-for-your-or-your-clients-brand-webinar/570019/
+  2. Google: Pages Are Getting Larger & It Still Matters via @sejournal, @MattGSouthern
+     Fecha : Mon, 30 Mar 2026 17:09:42 +0000
+     URL   : https://www.searchenginejournal.com/google-pages-are-getting-larger-it-still-matters/570875/
+  3. New AI Jobs Index Ranks 784 Occupations By Loss Risk via @sejournal, @MattGSouthern
+     Fecha : Mon, 30 Mar 2026 16:26:59 +0000
+     URL   : https://www.searchenginejournal.com/new-ai-jobs-index-ranks-784-occupations-by-loss-risk/570867/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Why OpenAI really shut down Sora
-     Fecha : Mon, 30 Mar 2026 03:09:38 +0000
-     URL   : https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/
-  2. The Pixel 10a doesn’t have a camera bump, and it’s great
-     Fecha : Sun, 29 Mar 2026 21:30:00 +0000
-     URL   : https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/
-  3. YouTube CEO says the best YouTubers will ‘never leave their home’
-     Fecha : Sun, 29 Mar 2026 21:17:52 +0000
-     URL   : https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/
+  1. Airbnb is introducing a private car pick-up service
+     Fecha : Tue, 31 Mar 2026 09:00:00 +0000
+     URL   : https://techcrunch.com/2026/03/31/airbnb-private-car-pick-up-service-welcome-pickups/
+  2. The Silicon Valley congressional race is getting ugly
+     Fecha : Tue, 31 Mar 2026 07:23:06 +0000
+     URL   : https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/
+  3. Allbirds is selling for $39 million. It raised nearly 10 times that amount in its IPO.
+     Fecha : Tue, 31 Mar 2026 05:30:20 +0000
+     URL   : https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. VibeTalent
-     Fecha : 2026-03-29T23:40:18-07:00
-     URL   : https://www.producthunt.com/products/vibetalent
-  2. Latchkey
-     Fecha : 2026-03-28T18:21:40-07:00
-     URL   : https://www.producthunt.com/products/imbue-7
-  3. ClawKing
-     Fecha : 2026-03-29T07:24:53-07:00
-     URL   : https://www.producthunt.com/products/clawking
+  1. OpenClawCloud
+     Fecha : 2026-03-30T19:18:13-07:00
+     URL   : https://www.producthunt.com/products/openclawcloud
+  2. LobeHub IM Integration
+     Fecha : 2026-03-13T00:51:46-07:00
+     URL   : https://www.producthunt.com/products/lobehub
+  3. MacMonitor
+     Fecha : 2026-03-28T01:44:48-07:00
+     URL   : https://www.producthunt.com/products/macmonitor
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. All the latest in AI &#8216;music&#8217;
+  1. Okta&#8217;s CEO is betting big on AI agent identity
+     Fecha : 2026-03-30T11:15:00-04:00
+     URL   : https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity
+  2. All the latest in AI &#8216;music&#8217;
      Fecha : 2026-03-29T21:32:14-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit
-  2. Bluesky’s new app is an AI for customizing your feed
+  3. Bluesky’s new app is an AI for customizing your feed
      Fecha : 2026-03-29T17:44:41-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds
-  3. Suno leans into customization with v5.5
-     Fecha : 2026-03-28T14:33:10-04:00
-     URL   : https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-03-30  09:22:27
+  Fin del reporte  ·  2026-03-31  09:11:22
 ═════════════════════════════════════════════════════════════════

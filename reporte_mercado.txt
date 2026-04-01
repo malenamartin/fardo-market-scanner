@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-03-31  09:11:22               ║
+║                  Generado: 2026-04-01  09:17:34               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. How To Identify Which LLM Is Actually Working For You [Webinar] via @sejournal, @hethr_campbell
-     Fecha : Tue, 31 Mar 2026 07:45:37 +0000
-     URL   : https://www.searchenginejournal.com/how-to-identify-which-llm-is-actually-working-for-your-or-your-clients-brand-webinar/570019/
-  2. Google: Pages Are Getting Larger & It Still Matters via @sejournal, @MattGSouthern
-     Fecha : Mon, 30 Mar 2026 17:09:42 +0000
-     URL   : https://www.searchenginejournal.com/google-pages-are-getting-larger-it-still-matters/570875/
-  3. New AI Jobs Index Ranks 784 Occupations By Loss Risk via @sejournal, @MattGSouthern
-     Fecha : Mon, 30 Mar 2026 16:26:59 +0000
-     URL   : https://www.searchenginejournal.com/new-ai-jobs-index-ranks-784-occupations-by-loss-risk/570867/
+  1. Google Answers Why Core Updates Can Roll Out In Stages via @sejournal, @martinibuster
+     Fecha : Wed, 01 Apr 2026 09:14:57 +0000
+     URL   : https://www.searchenginejournal.com/google-answers-why-core-updates-can-roll-out-in-stages/571003/
+  2. Google Explains Googlebot Byte Limits And Crawling Architecture via @sejournal, @MattGSouthern
+     Fecha : Tue, 31 Mar 2026 15:28:38 +0000
+     URL   : https://www.searchenginejournal.com/google-explains-googlebot-byte-limits-and-crawling-architecture/570961/
+  3. The Science Of What AI Actually Rewards via @sejournal, @Kevin_Indig
+     Fecha : Tue, 31 Mar 2026 13:30:37 +0000
+     URL   : https://www.searchenginejournal.com/the-science-of-what-ai-actually-rewards/570849/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Airbnb is introducing a private car pick-up service
-     Fecha : Tue, 31 Mar 2026 09:00:00 +0000
-     URL   : https://techcrunch.com/2026/03/31/airbnb-private-car-pick-up-service-welcome-pickups/
-  2. The Silicon Valley congressional race is getting ugly
-     Fecha : Tue, 31 Mar 2026 07:23:06 +0000
-     URL   : https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/
-  3. Allbirds is selling for $39 million. It raised nearly 10 times that amount in its IPO.
-     Fecha : Tue, 31 Mar 2026 05:30:20 +0000
-     URL   : https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/
+  1. Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project
+     Fecha : Wed, 01 Apr 2026 01:42:59 +0000
+     URL   : https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/
+  2. Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’
+     Fecha : Wed, 01 Apr 2026 01:00:00 +0000
+     URL   : https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/
+  3. Anthropic is having a month
+     Fecha : Tue, 31 Mar 2026 23:58:26 +0000
+     URL   : https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. OpenClawCloud
-     Fecha : 2026-03-30T19:18:13-07:00
-     URL   : https://www.producthunt.com/products/openclawcloud
-  2. LobeHub IM Integration
-     Fecha : 2026-03-13T00:51:46-07:00
-     URL   : https://www.producthunt.com/products/lobehub
-  3. MacMonitor
-     Fecha : 2026-03-28T01:44:48-07:00
-     URL   : https://www.producthunt.com/products/macmonitor
+  1. Ditch
+     Fecha : 2026-03-31T22:06:44-07:00
+     URL   : https://www.producthunt.com/products/ditch-2
+  2. EDAMAME Security
+     Fecha : 2026-03-31T05:48:23-07:00
+     URL   : https://www.producthunt.com/products/axios-litellm-detector
+  3. Prospecting by Clarify
+     Fecha : 2026-03-29T16:52:59-07:00
+     URL   : https://www.producthunt.com/products/clarify-6
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Okta&#8217;s CEO is betting big on AI agent identity
-     Fecha : 2026-03-30T11:15:00-04:00
-     URL   : https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity
-  2. All the latest in AI &#8216;music&#8217;
-     Fecha : 2026-03-29T21:32:14-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit
-  3. Bluesky’s new app is an AI for customizing your feed
-     Fecha : 2026-03-29T17:44:41-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds
+  1. Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent
+     Fecha : 2026-03-31T18:24:19-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak
+  2. You can now use ChatGPT with Apple’s CarPlay
+     Fecha : 2026-03-31T17:03:18-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt
+  3. The Galaxy S26’s photo app can sloppify your memories
+     Fecha : 2026-03-31T14:15:00-04:00
+     URL   : https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-03-31  09:11:22
+  Fin del reporte  ·  2026-04-01  09:17:34
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-04-01  09:17:34               ║
+║                  Generado: 2026-04-02  09:09:47               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Answers Why Core Updates Can Roll Out In Stages via @sejournal, @martinibuster
-     Fecha : Wed, 01 Apr 2026 09:14:57 +0000
-     URL   : https://www.searchenginejournal.com/google-answers-why-core-updates-can-roll-out-in-stages/571003/
-  2. Google Explains Googlebot Byte Limits And Crawling Architecture via @sejournal, @MattGSouthern
-     Fecha : Tue, 31 Mar 2026 15:28:38 +0000
-     URL   : https://www.searchenginejournal.com/google-explains-googlebot-byte-limits-and-crawling-architecture/570961/
-  3. The Science Of What AI Actually Rewards via @sejournal, @Kevin_Indig
-     Fecha : Tue, 31 Mar 2026 13:30:37 +0000
-     URL   : https://www.searchenginejournal.com/the-science-of-what-ai-actually-rewards/570849/
+  1. How To Do Evergreen Content In 2026 (And Beyond)
+     Fecha : Wed, 01 Apr 2026 13:30:00 +0000
+     URL   : https://www.searchenginejournal.com/how-to-do-evergreen-content-in-2026-and-beyond/570903/
+  2. Building An In-House PPC Team: Why A Hybrid Model May Protect Your Ad Spend via @sejournal, @LisaRocksSEM
+     Fecha : Wed, 01 Apr 2026 12:30:40 +0000
+     URL   : https://www.searchenginejournal.com/building-an-in-house-ppc-team-why-a-hybrid-model-may-protect-your-ad-spend/569020/
+  3. Who Owns SEO In The Enterprise? The Accountability Gap That Kills Performance via @sejournal, @billhunt
+     Fecha : Wed, 01 Apr 2026 11:30:02 +0000
+     URL   : https://www.searchenginejournal.com/who-owns-seo-in-the-enterprise-the-accountability-gap-that-kills-performance/566095/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project
-     Fecha : Wed, 01 Apr 2026 01:42:59 +0000
-     URL   : https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/
-  2. Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’
-     Fecha : Wed, 01 Apr 2026 01:00:00 +0000
-     URL   : https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/
-  3. Anthropic is having a month
-     Fecha : Tue, 31 Mar 2026 23:58:26 +0000
-     URL   : https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/
+  1. De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack
+     Fecha : Wed, 01 Apr 2026 22:58:39 +0000
+     URL   : https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/
+  2. Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident
+     Fecha : Wed, 01 Apr 2026 22:12:13 +0000
+     URL   : https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/
+  3. The reputation of troubled YC startup Delve has gotten even worse
+     Fecha : Wed, 01 Apr 2026 21:23:47 +0000
+     URL   : https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Ditch
-     Fecha : 2026-03-31T22:06:44-07:00
-     URL   : https://www.producthunt.com/products/ditch-2
-  2. EDAMAME Security
-     Fecha : 2026-03-31T05:48:23-07:00
-     URL   : https://www.producthunt.com/products/axios-litellm-detector
-  3. Prospecting by Clarify
-     Fecha : 2026-03-29T16:52:59-07:00
-     URL   : https://www.producthunt.com/products/clarify-6
+  1. WP Copilot
+     Fecha : 2026-04-01T18:42:28-07:00
+     URL   : https://www.producthunt.com/products/wp-copilot
+  2. GitCity
+     Fecha : 2026-04-01T03:20:46-07:00
+     URL   : https://www.producthunt.com/products/gitcity
+  3. Grok 4.2 Beta 2
+     Fecha : 2026-03-02T08:49:08-08:00
+     URL   : https://www.producthunt.com/products/grok-4-2-beta-2
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent
+  1. AI can push your Stream Deck buttons for you
+     Fecha : 2026-04-01T08:38:58-04:00
+     URL   : https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update
+  2. Baidu’s robotaxis froze in traffic, creating chaos
+     Fecha : 2026-04-01T06:39:52-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china
+  3. Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent
      Fecha : 2026-03-31T18:24:19-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak
-  2. You can now use ChatGPT with Apple’s CarPlay
-     Fecha : 2026-03-31T17:03:18-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt
-  3. The Galaxy S26’s photo app can sloppify your memories
-     Fecha : 2026-03-31T14:15:00-04:00
-     URL   : https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -66,7 +66,7 @@
   [Profound (tryprofound.com)]
   https://www.tryprofound.com
   ·····························································
-  1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
+  1. [HTTP 429 – bloqueado o redirigido]
 
   [Semrush Blog]
   https://www.semrush.com/blog/
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-04-01  09:17:34
+  Fin del reporte  ·  2026-04-02  09:09:47
 ═════════════════════════════════════════════════════════════════

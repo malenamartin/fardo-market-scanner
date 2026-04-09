@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-04-08  09:13:09               ║
+║                  Generado: 2026-04-09  09:19:17               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. How To Turn AI Search Visibility Data Into a GEO Strategy That Closes Citation Gaps [Webinar] via @sejournal, @hethr_campbell
-     Fecha : Wed, 08 Apr 2026 07:45:37 +0000
-     URL   : https://www.searchenginejournal.com/how-to-turn-ai-search-visibility-data-into-a-geo-strategy-that-closes-citation-gaps-webinar/570420/
-  2. Google CEO Says AI Could ‘Break Pretty Much All Software’ via @sejournal, @MattGSouthern
-     Fecha : Tue, 07 Apr 2026 20:47:28 +0000
-     URL   : https://www.searchenginejournal.com/pichai-says-ai-could-break-pretty-much-all-software/571387/
-  3. How Consumers Navigate High-Stakes Purchases In AI Mode via @sejournal, @Kevin_Indig
-     Fecha : Tue, 07 Apr 2026 13:30:28 +0000
-     URL   : https://www.searchenginejournal.com/how-consumers-navigate-high-stakes-purchases-in-ai-mode/571361/
+  1. Breaking Content & SEO Silos To Build Entity Authority in AI Search
+     Fecha : Thu, 09 Apr 2026 05:00:49 +0000
+     URL   : https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/
+  2. OpenAI, Meta, ByteDance Lead AI Bot Traffic In Publishing via @sejournal, @MattGSouthern
+     Fecha : Thu, 09 Apr 2026 04:20:50 +0000
+     URL   : https://www.searchenginejournal.com/openai-meta-bytedance-lead-ai-bot-traffic-in-publishing/571483/
+  3. Google Confirms March 2026 Core Update Is Complete via @sejournal, @MattGSouthern
+     Fecha : Wed, 08 Apr 2026 13:33:15 +0000
+     URL   : https://www.searchenginejournal.com/google-confirms-march-2026-core-update-is-complete/571459/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Google quietly launched an AI dictation app that works offline
-     Fecha : Wed, 08 Apr 2026 05:40:19 +0000
-     URL   : https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/
-  2. I can’t help rooting for tiny open source AI model maker Arcee
-     Fecha : Tue, 07 Apr 2026 21:35:02 +0000
-     URL   : https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/
-  3. VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups
-     Fecha : Tue, 07 Apr 2026 21:24:54 +0000
-     URL   : https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/
+  1. WireGuard VPN developer can’t ship software updates after Microsoft locks account
+     Fecha : Wed, 08 Apr 2026 21:50:41 +0000
+     URL   : https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/
+  2. A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage
+     Fecha : Wed, 08 Apr 2026 21:19:07 +0000
+     URL   : https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/
+  3. Poke makes using AI agents as easy as sending a text
+     Fecha : Wed, 08 Apr 2026 21:05:13 +0000
+     URL   : https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. BizCalc
-     Fecha : 2026-04-06T15:27:54-07:00
-     URL   : https://www.producthunt.com/products/bizcalc
-  2. Mo
-     Fecha : 2026-04-07T14:46:06-07:00
-     URL   : https://www.producthunt.com/products/mo-4
-  3. PawseKeys
-     Fecha : 2026-04-02T17:54:45-07:00
-     URL   : https://www.producthunt.com/products/pawsekeys-remote-keyboard-locker-mac
+  1. brag.fast
+     Fecha : 2026-04-03T23:34:27-07:00
+     URL   : https://www.producthunt.com/products/brag-fast
+  2. BeMorphy
+     Fecha : 2026-04-08T03:31:38-07:00
+     URL   : https://www.producthunt.com/products/bemorphy
+  3. Ycode Open Source
+     Fecha : 2026-04-08T00:15:15-07:00
+     URL   : https://www.producthunt.com/products/ycode
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to
-     Fecha : 2026-04-07T16:13:23-04:00
-     URL   : https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts
-  2. A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;
-     Fecha : 2026-04-07T14:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity
-  3. Suno and major music labels reportedly clash over AI music sharing
-     Fecha : 2026-04-07T12:21:22-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement
+  1. Gemini gets notebooks to help you organize projects
+     Fecha : 2026-04-08T20:06:12-04:00
+     URL   : https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm
+  2. OpenAI made economic proposals — here’s what DC thinks of them
+     Fecha : 2026-04-08T16:14:00-04:00
+     URL   : https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them
+  3. Meta is reentering the AI race with a new model called Muse Spark
+     Fecha : 2026-04-08T12:12:54-04:00
+     URL   : https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-04-08  09:13:09
+  Fin del reporte  ·  2026-04-09  09:19:17
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-04-12  08:59:12               ║
+║                  Generado: 2026-04-13  10:02:48               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. What Pichai’s Interview Reveals About Google’s Search Direction via @sejournal, @MattGSouthern
+  1. How AI Agents See Your Website (And How To Build For Them) via @sejournal, @slobodanmanic
+     Fecha : Sun, 12 Apr 2026 12:00:14 +0000
+     URL   : https://www.searchenginejournal.com/how-ai-agents-see-your-website-and-how-to-build-for-them/570443/
+  2. What Pichai’s Interview Reveals About Google’s Search Direction via @sejournal, @MattGSouthern
      Fecha : Sat, 11 Apr 2026 12:00:21 +0000
      URL   : https://www.searchenginejournal.com/what-pichais-interview-reveals-about-googles-search-direction/571574/
-  2. What I Learned About The Future Of Search And AI From Sundar Pichai’s Latest Interview via @sejournal, @marie_haynes
+  3. What I Learned About The Future Of Search And AI From Sundar Pichai’s Latest Interview via @sejournal, @marie_haynes
      Fecha : Fri, 10 Apr 2026 13:30:47 +0000
      URL   : https://www.searchenginejournal.com/what-i-learned-about-the-future-of-search-and-ai-from-sundar-pichais-latest-interview/571376/
-  3. Core Update Done, GSC Bug Fixed, Mueller On Gurus – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Fri, 10 Apr 2026 12:30:00 +0000
-     URL   : https://www.searchenginejournal.com/seo-pulse-core-update-done-gsc-bug-fixed-mueller-on-gurus/571626/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups
-     Fecha : Sun, 12 Apr 2026 03:00:00 +0000
-     URL   : https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/
-  2. Kalshi wins temporary pause in Arizona criminal case
-     Fecha : Sat, 11 Apr 2026 21:20:24 +0000
-     URL   : https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/
-  3. AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok
-     Fecha : Sat, 11 Apr 2026 20:32:23 +0000
-     URL   : https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/
+  1. The largest orbital compute cluster is open for business
+     Fecha : Mon, 13 Apr 2026 07:01:00 +0000
+     URL   : https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/
+  2. Trump officials may be encouraging banks to test Anthropic’s Mythos model
+     Fecha : Sun, 12 Apr 2026 21:14:38 +0000
+     URL   : https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/
+  3. Apple reportedly testing four designs for upcoming smart glasses
+     Fecha : Sun, 12 Apr 2026 19:58:42 +0000
+     URL   : https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Ray
-     Fecha : 2026-04-11T15:50:47-07:00
-     URL   : https://www.producthunt.com/products/ray-7
-  2. Music Marketplace by Eleven Labs
-     Fecha : 2026-03-19T08:57:48-07:00
-     URL   : https://www.producthunt.com/products/music-marketplace-by-eleven-labs
-  3. R0Y
-     Fecha : 2026-03-01T02:32:58-08:00
-     URL   : https://www.producthunt.com/products/r0y-ai-financial-studio
+  1. Revenue by Sleek Analytics
+     Fecha : 2026-04-12T06:04:07-07:00
+     URL   : https://www.producthunt.com/products/sleek-analytics
+  2. WinScript
+     Fecha : 2026-04-09T06:10:21-07:00
+     URL   : https://www.producthunt.com/products/winscript
+  3. Libertify.com
+     Fecha : 2026-04-12T12:58:03-07:00
+     URL   : https://www.producthunt.com/products/libertify-com
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Your article about AI doesn’t need AI art
+  1. Sam Altman reportedly targeted in second attack
+     Fecha : 2026-04-13T05:25:57-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting
+  2. The AI code wars are heating up
+     Fecha : 2026-04-12T08:00:00-04:00
+     URL   : https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic
+  3. Your article about AI doesn’t need AI art
      Fecha : 2026-04-11T11:00:00-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai
-  2. My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative
-     Fecha : 2026-04-11T10:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion
-  3. How Iran out-shitposted the White House
-     Fecha : 2026-04-11T09:00:00-04:00
-     URL   : https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-04-12  08:59:12
+  Fin del reporte  ·  2026-04-13  10:02:48
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-04-13  10:02:48               ║
+║                  Generado: 2026-04-14  09:26:54               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. How AI Agents See Your Website (And How To Build For Them) via @sejournal, @slobodanmanic
-     Fecha : Sun, 12 Apr 2026 12:00:14 +0000
-     URL   : https://www.searchenginejournal.com/how-ai-agents-see-your-website-and-how-to-build-for-them/570443/
-  2. What Pichai’s Interview Reveals About Google’s Search Direction via @sejournal, @MattGSouthern
-     Fecha : Sat, 11 Apr 2026 12:00:21 +0000
-     URL   : https://www.searchenginejournal.com/what-pichais-interview-reveals-about-googles-search-direction/571574/
-  3. What I Learned About The Future Of Search And AI From Sundar Pichai’s Latest Interview via @sejournal, @marie_haynes
-     Fecha : Fri, 10 Apr 2026 13:30:47 +0000
-     URL   : https://www.searchenginejournal.com/what-i-learned-about-the-future-of-search-and-ai-from-sundar-pichais-latest-interview/571376/
+  1. New Google Spam Policy Targets Back Button Hijacking via @sejournal, @MattGSouthern
+     Fecha : Mon, 13 Apr 2026 16:43:40 +0000
+     URL   : https://www.searchenginejournal.com/new-google-spam-policy-targets-back-button-hijacking/571859/
+  2. The Dangerous Seduction Of Click-Chasing
+     Fecha : Mon, 13 Apr 2026 13:30:13 +0000
+     URL   : https://www.searchenginejournal.com/the-dangerous-seduction-of-click-chasing/571533/
+  3. How To Measure PPC Performance When AI Controls The Auction via @sejournal, @brookeosmundson
+     Fecha : Mon, 13 Apr 2026 13:00:22 +0000
+     URL   : https://www.searchenginejournal.com/how-to-measure-ppc-performance-when-ai-controls-the-auction/570184/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. The largest orbital compute cluster is open for business
-     Fecha : Mon, 13 Apr 2026 07:01:00 +0000
-     URL   : https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/
-  2. Trump officials may be encouraging banks to test Anthropic’s Mythos model
-     Fecha : Sun, 12 Apr 2026 21:14:38 +0000
-     URL   : https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/
-  3. Apple reportedly testing four designs for upcoming smart glasses
-     Fecha : Sun, 12 Apr 2026 19:58:42 +0000
-     URL   : https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/
+  1. Inertia moves to commercialize one of the world’s most elaborate science experiments
+     Fecha : Tue, 14 Apr 2026 09:00:00 +0000
+     URL   : https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/
+  2. An Amazon warehouse worker died on the job at Oregon facility
+     Fecha : Tue, 14 Apr 2026 00:26:18 +0000
+     URL   : https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/
+  3. OpenAI has bought AI personal finance startup Hiro
+     Fecha : Tue, 14 Apr 2026 00:23:33 +0000
+     URL   : https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Revenue by Sleek Analytics
-     Fecha : 2026-04-12T06:04:07-07:00
-     URL   : https://www.producthunt.com/products/sleek-analytics
-  2. WinScript
-     Fecha : 2026-04-09T06:10:21-07:00
-     URL   : https://www.producthunt.com/products/winscript
-  3. Libertify.com
-     Fecha : 2026-04-12T12:58:03-07:00
-     URL   : https://www.producthunt.com/products/libertify-com
+  1. LeetCode App
+     Fecha : 2026-04-13T01:38:17-07:00
+     URL   : https://www.producthunt.com/products/leetcode
+  2. SecuSpark
+     Fecha : 2026-04-01T19:33:00-07:00
+     URL   : https://www.producthunt.com/products/secuspark
+  3. Caveman
+     Fecha : 2026-04-13T09:18:57-07:00
+     URL   : https://www.producthunt.com/products/caveman-claude-code-skill-plugin
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Sam Altman reportedly targeted in second attack
-     Fecha : 2026-04-13T05:25:57-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting
-  2. The AI code wars are heating up
-     Fecha : 2026-04-12T08:00:00-04:00
-     URL   : https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic
-  3. Your article about AI doesn’t need AI art
-     Fecha : 2026-04-11T11:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai
+  1. Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ
+     Fecha : 2026-04-13T20:02:38-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack
+  2. AI influencers are ‘everywhere’ at Coachella
+     Fecha : 2026-04-13T15:53:46-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella
+  3. Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic
+     Fecha : 2026-04-13T12:21:08-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-04-13  10:02:48
+  Fin del reporte  ·  2026-04-14  09:26:54
 ═════════════════════════════════════════════════════════════════

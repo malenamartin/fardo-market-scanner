@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-04-14  09:26:54               ║
+║                  Generado: 2026-04-15  09:43:00               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. New Google Spam Policy Targets Back Button Hijacking via @sejournal, @MattGSouthern
-     Fecha : Mon, 13 Apr 2026 16:43:40 +0000
-     URL   : https://www.searchenginejournal.com/new-google-spam-policy-targets-back-button-hijacking/571859/
-  2. The Dangerous Seduction Of Click-Chasing
-     Fecha : Mon, 13 Apr 2026 13:30:13 +0000
-     URL   : https://www.searchenginejournal.com/the-dangerous-seduction-of-click-chasing/571533/
-  3. How To Measure PPC Performance When AI Controls The Auction via @sejournal, @brookeosmundson
-     Fecha : Mon, 13 Apr 2026 13:00:22 +0000
-     URL   : https://www.searchenginejournal.com/how-to-measure-ppc-performance-when-ai-controls-the-auction/570184/
+  1. New Google Search Console Message Glitch Gives SEOs A Scare via @sejournal, @martinibuster
+     Fecha : Tue, 14 Apr 2026 22:22:03 +0000
+     URL   : https://www.searchenginejournal.com/new-google-search-console-message-glitch-gives-seos-a-scare/572072/
+  2. Google Chrome Skills Turn Gemini Prompts Into Reusable Workflows via @sejournal, @MattGSouthern
+     Fecha : Tue, 14 Apr 2026 19:10:44 +0000
+     URL   : https://www.searchenginejournal.com/google-chrome-skills-turn-gemini-prompts-into-reusable-workflows/571994/
+  3. Your Webinar Program Isn’t Working? (So, Copy Ours) via @sejournal, @hethr_campbell
+     Fecha : Tue, 14 Apr 2026 16:48:05 +0000
+     URL   : https://www.searchenginejournal.com/why-your-webinar-program-isnt-working-so-copy-ours/571950/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Inertia moves to commercialize one of the world’s most elaborate science experiments
-     Fecha : Tue, 14 Apr 2026 09:00:00 +0000
-     URL   : https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/
-  2. An Amazon warehouse worker died on the job at Oregon facility
-     Fecha : Tue, 14 Apr 2026 00:26:18 +0000
-     URL   : https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/
-  3. OpenAI has bought AI personal finance startup Hiro
-     Fecha : Tue, 14 Apr 2026 00:23:33 +0000
-     URL   : https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/
+  1. Anthropic’s rise is giving some OpenAI investors second thoughts
+     Fecha : Wed, 15 Apr 2026 02:31:04 +0000
+     URL   : https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/
+  2. AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report
+     Fecha : Tue, 14 Apr 2026 21:33:38 +0000
+     URL   : https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/
+  3. Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites
+     Fecha : Tue, 14 Apr 2026 18:31:34 +0000
+     URL   : https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. LeetCode App
-     Fecha : 2026-04-13T01:38:17-07:00
-     URL   : https://www.producthunt.com/products/leetcode
-  2. SecuSpark
-     Fecha : 2026-04-01T19:33:00-07:00
-     URL   : https://www.producthunt.com/products/secuspark
-  3. Caveman
-     Fecha : 2026-04-13T09:18:57-07:00
-     URL   : https://www.producthunt.com/products/caveman-claude-code-skill-plugin
+  1. Fathom 3.0
+     Fecha : 2026-04-14T14:36:11-07:00
+     URL   : https://www.producthunt.com/products/fathom
+  2. Carousels Generator
+     Fecha : 2026-04-08T05:54:27-07:00
+     URL   : https://www.producthunt.com/products/carousels-generator
+  3. Lexie
+     Fecha : 2026-03-18T09:36:16-07:00
+     URL   : https://www.producthunt.com/products/lexielearn
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ
-     Fecha : 2026-04-13T20:02:38-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack
-  2. AI influencers are ‘everywhere’ at Coachella
-     Fecha : 2026-04-13T15:53:46-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella
-  3. Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic
-     Fecha : 2026-04-13T12:21:08-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic
+  1. The attacks on Sam Altman are a warning for the AI world
+     Fecha : 2026-04-14T14:04:42-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home
+  2. Chrome now lets you turn AI prompts into repeatable &#8216;Skills&#8217;
+     Fecha : 2026-04-14T13:00:00-04:00
+     URL   : https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch
+  3. Has Google’s AI watermarking system been reverse-engineered?
+     Fecha : 2026-04-14T09:53:53-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-04-14  09:26:54
+  Fin del reporte  ·  2026-04-15  09:43:00
 ═════════════════════════════════════════════════════════════════

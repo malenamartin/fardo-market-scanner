@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-04-15  09:43:00               ║
+║                  Generado: 2026-04-16  09:26:57               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. New Google Search Console Message Glitch Gives SEOs A Scare via @sejournal, @martinibuster
-     Fecha : Tue, 14 Apr 2026 22:22:03 +0000
-     URL   : https://www.searchenginejournal.com/new-google-search-console-message-glitch-gives-seos-a-scare/572072/
-  2. Google Chrome Skills Turn Gemini Prompts Into Reusable Workflows via @sejournal, @MattGSouthern
-     Fecha : Tue, 14 Apr 2026 19:10:44 +0000
-     URL   : https://www.searchenginejournal.com/google-chrome-skills-turn-gemini-prompts-into-reusable-workflows/571994/
-  3. Your Webinar Program Isn’t Working? (So, Copy Ours) via @sejournal, @hethr_campbell
-     Fecha : Tue, 14 Apr 2026 16:48:05 +0000
-     URL   : https://www.searchenginejournal.com/why-your-webinar-program-isnt-working-so-copy-ours/571950/
+  1. How To Become The AI Search Authority In Your Company [Webinar] via @sejournal, @lorenbaker
+     Fecha : Wed, 15 Apr 2026 19:24:58 +0000
+     URL   : https://www.searchenginejournal.com/how-to-become-the-ai-search-authority-in-your-company-webinar/572189/
+  2. The AI Slop Loop via @sejournal, @lilyraynyc
+     Fecha : Wed, 15 Apr 2026 13:30:55 +0000
+     URL   : https://www.searchenginejournal.com/the-ai-slop-loop/572090/
+  3. Google Is Replacing Dynamic Search Ads With AI Max via @sejournal, @brookeosmundson
+     Fecha : Wed, 15 Apr 2026 13:00:03 +0000
+     URL   : https://www.searchenginejournal.com/google-is-replacing-dynamic-search-ads-with-ai-max/571949/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Anthropic’s rise is giving some OpenAI investors second thoughts
-     Fecha : Wed, 15 Apr 2026 02:31:04 +0000
-     URL   : https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/
-  2. AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report
-     Fecha : Tue, 14 Apr 2026 21:33:38 +0000
-     URL   : https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/
-  3. Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites
-     Fecha : Tue, 14 Apr 2026 18:31:34 +0000
-     URL   : https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/
+  1. DeepL, known for text translation, now wants to translate your voice
+     Fecha : Thu, 16 Apr 2026 08:00:00 +0000
+     URL   : https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/
+  2. Amazon-backed X-energy files to raise up to $800M in IPO
+     Fecha : Wed, 15 Apr 2026 22:44:26 +0000
+     URL   : https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/
+  3. Ford EV and tech chief leaving automaker
+     Fecha : Wed, 15 Apr 2026 21:52:05 +0000
+     URL   : https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Fathom 3.0
-     Fecha : 2026-04-14T14:36:11-07:00
-     URL   : https://www.producthunt.com/products/fathom
-  2. Carousels Generator
-     Fecha : 2026-04-08T05:54:27-07:00
-     URL   : https://www.producthunt.com/products/carousels-generator
-  3. Lexie
-     Fecha : 2026-03-18T09:36:16-07:00
-     URL   : https://www.producthunt.com/products/lexielearn
+  1. Flixier Edit by Transcript
+     Fecha : 2026-04-07T05:35:00-07:00
+     URL   : https://www.producthunt.com/products/flixier
+  2. Resend CLI 2.0
+     Fecha : 2026-04-15T15:14:26-07:00
+     URL   : https://www.producthunt.com/products/resend
+  3. Mantle SAFEs
+     Fecha : 2026-04-02T09:21:43-07:00
+     URL   : https://www.producthunt.com/products/withmantle
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. The attacks on Sam Altman are a warning for the AI world
-     Fecha : 2026-04-14T14:04:42-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home
-  2. Chrome now lets you turn AI prompts into repeatable &#8216;Skills&#8217;
-     Fecha : 2026-04-14T13:00:00-04:00
-     URL   : https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch
-  3. Has Google’s AI watermarking system been reverse-engineered?
-     Fecha : 2026-04-14T09:53:53-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered
+  1. Trump’s posting even more AI-generated Trump-Jesus fan art
+     Fecha : 2026-04-15T15:50:31-04:00
+     URL   : https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme
+  2. Google launches a Gemini AI app on Mac
+     Fecha : 2026-04-15T14:10:15-04:00
+     URL   : https://www.theverge.com/tech/912638/google-gemini-mac-app
+  3. Allbirds announced a switch from shoes to AI and its stock jumped 600 percent
+     Fecha : 2026-04-15T12:13:30-04:00
+     URL   : https://www.theverge.com/news/912484/allbirds-ai-hyperscale
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-04-15  09:43:00
+  Fin del reporte  ·  2026-04-16  09:26:57
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-04-16  09:26:57               ║
+║                  Generado: 2026-04-17  09:25:56               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. How To Become The AI Search Authority In Your Company [Webinar] via @sejournal, @lorenbaker
-     Fecha : Wed, 15 Apr 2026 19:24:58 +0000
-     URL   : https://www.searchenginejournal.com/how-to-become-the-ai-search-authority-in-your-company-webinar/572189/
-  2. The AI Slop Loop via @sejournal, @lilyraynyc
-     Fecha : Wed, 15 Apr 2026 13:30:55 +0000
-     URL   : https://www.searchenginejournal.com/the-ai-slop-loop/572090/
-  3. Google Is Replacing Dynamic Search Ads With AI Max via @sejournal, @brookeosmundson
-     Fecha : Wed, 15 Apr 2026 13:00:03 +0000
-     URL   : https://www.searchenginejournal.com/google-is-replacing-dynamic-search-ads-with-ai-max/571949/
+  1. Google AI Mode in Chrome Gets Side-by-Side Browsing via @sejournal, @MattGSouthern
+     Fecha : Thu, 16 Apr 2026 21:02:14 +0000
+     URL   : https://www.searchenginejournal.com/google-ai-mode-in-chrome-gets-side-by-side-browsing/572273/
+  2. ChatGPT Often Retrieves But Rarely Cites Reddit Pages, Data Shows via @sejournal, @MattGSouthern
+     Fecha : Thu, 16 Apr 2026 16:54:56 +0000
+     URL   : https://www.searchenginejournal.com/chatgpt-often-retrieves-but-rarely-cites-reddit-pages-data-shows/572243/
+  3. Gen Z Workers Pick Human-Only Output Over AI-Assisted via @sejournal, @MattGSouthern
+     Fecha : Thu, 16 Apr 2026 14:47:19 +0000
+     URL   : https://www.searchenginejournal.com/gen-z-workers-pick-human-only-output-over-ai-assisted/572230/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. DeepL, known for text translation, now wants to translate your voice
-     Fecha : Thu, 16 Apr 2026 08:00:00 +0000
-     URL   : https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/
-  2. Amazon-backed X-energy files to raise up to $800M in IPO
-     Fecha : Wed, 15 Apr 2026 22:44:26 +0000
-     URL   : https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/
-  3. Ford EV and tech chief leaving automaker
-     Fecha : Wed, 15 Apr 2026 21:52:05 +0000
-     URL   : https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/
+  1. New leaders, new fund: Sequoia has raised $7B to expand its AI bets
+     Fecha : Fri, 17 Apr 2026 02:55:06 +0000
+     URL   : https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/
+  2. Factory hits $1.5B valuation to build AI coding for enterprises
+     Fecha : Thu, 16 Apr 2026 22:55:30 +0000
+     URL   : https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/
+  3. Luma launches AI-powered production studio with faith-focused Wonder Project
+     Fecha : Thu, 16 Apr 2026 21:58:08 +0000
+     URL   : https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Flixier Edit by Transcript
-     Fecha : 2026-04-07T05:35:00-07:00
-     URL   : https://www.producthunt.com/products/flixier
-  2. Resend CLI 2.0
-     Fecha : 2026-04-15T15:14:26-07:00
-     URL   : https://www.producthunt.com/products/resend
-  3. Mantle SAFEs
-     Fecha : 2026-04-02T09:21:43-07:00
-     URL   : https://www.producthunt.com/products/withmantle
+  1. Codex 2.0
+     Fecha : 2026-04-16T10:18:10-07:00
+     URL   : https://www.producthunt.com/products/openai
+  2. Arky
+     Fecha : 2026-04-16T23:50:44-07:00
+     URL   : https://www.producthunt.com/products/arky
+  3. gridland
+     Fecha : 2026-04-16T16:26:16-07:00
+     URL   : https://www.producthunt.com/products/gridland
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Trump’s posting even more AI-generated Trump-Jesus fan art
-     Fecha : 2026-04-15T15:50:31-04:00
-     URL   : https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme
-  2. Google launches a Gemini AI app on Mac
-     Fecha : 2026-04-15T14:10:15-04:00
-     URL   : https://www.theverge.com/tech/912638/google-gemini-mac-app
-  3. Allbirds announced a switch from shoes to AI and its stock jumped 600 percent
-     Fecha : 2026-04-15T12:13:30-04:00
-     URL   : https://www.theverge.com/news/912484/allbirds-ai-hyperscale
+  1. OpenAI’s big Codex update is a direct shot at Claude Code
+     Fecha : 2026-04-16T13:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos
+  2. Google’s AI Mode update lets you open links without leaving the page
+     Fecha : 2026-04-16T13:00:00-04:00
+     URL   : https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources
+  3. Gemini can now pull from Google Photos to generate personalized images
+     Fecha : 2026-04-16T12:00:00-04:00
+     URL   : https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-04-16  09:26:57
+  Fin del reporte  ·  2026-04-17  09:25:56
 ═════════════════════════════════════════════════════════════════

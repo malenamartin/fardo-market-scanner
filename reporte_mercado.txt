@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-04-17  09:25:56               ║
+║                  Generado: 2026-04-18  08:59:58               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google AI Mode in Chrome Gets Side-by-Side Browsing via @sejournal, @MattGSouthern
+  1. Google Bans Back Button Hijacking, Agentic Search Grows – SEO Pulse via @sejournal, @MattGSouthern
+     Fecha : Fri, 17 Apr 2026 12:30:22 +0000
+     URL   : https://www.searchenginejournal.com/seo-pulse-google-targets-back-button-hijacking-agentic-search-grows/572282/
+  2. Google’s Product Feed Strategy Points To The Future Of Retail Discovery via @sejournal, @brookeosmundson
+     Fecha : Fri, 17 Apr 2026 11:30:50 +0000
+     URL   : https://www.searchenginejournal.com/googles-product-feed-strategy-points-to-the-future-of-retail-discovery/572291/
+  3. Google AI Mode in Chrome Gets Side-by-Side Browsing via @sejournal, @MattGSouthern
      Fecha : Thu, 16 Apr 2026 21:02:14 +0000
      URL   : https://www.searchenginejournal.com/google-ai-mode-in-chrome-gets-side-by-side-browsing/572273/
-  2. ChatGPT Often Retrieves But Rarely Cites Reddit Pages, Data Shows via @sejournal, @MattGSouthern
-     Fecha : Thu, 16 Apr 2026 16:54:56 +0000
-     URL   : https://www.searchenginejournal.com/chatgpt-often-retrieves-but-rarely-cites-reddit-pages-data-shows/572243/
-  3. Gen Z Workers Pick Human-Only Output Over AI-Assisted via @sejournal, @MattGSouthern
-     Fecha : Thu, 16 Apr 2026 14:47:19 +0000
-     URL   : https://www.searchenginejournal.com/gen-z-workers-pick-human-only-output-over-ai-assisted/572230/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. New leaders, new fund: Sequoia has raised $7B to expand its AI bets
-     Fecha : Fri, 17 Apr 2026 02:55:06 +0000
-     URL   : https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/
-  2. Factory hits $1.5B valuation to build AI coding for enterprises
-     Fecha : Thu, 16 Apr 2026 22:55:30 +0000
-     URL   : https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/
-  3. Luma launches AI-powered production studio with faith-focused Wonder Project
-     Fecha : Thu, 16 Apr 2026 21:58:08 +0000
-     URL   : https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/
+  1. Once close enough for an acquisition, Stripe and Airwallex are now going after each other
+     Fecha : Sat, 18 Apr 2026 05:20:11 +0000
+     URL   : https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/
+  2. Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.
+     Fecha : Fri, 17 Apr 2026 22:34:02 +0000
+     URL   : https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/
+  3. Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’
+     Fecha : Fri, 17 Apr 2026 20:38:17 +0000
+     URL   : https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Codex 2.0
-     Fecha : 2026-04-16T10:18:10-07:00
-     URL   : https://www.producthunt.com/products/openai
-  2. Arky
-     Fecha : 2026-04-16T23:50:44-07:00
-     URL   : https://www.producthunt.com/products/arky
-  3. gridland
-     Fecha : 2026-04-16T16:26:16-07:00
-     URL   : https://www.producthunt.com/products/gridland
+  1. React Email 6.0 by Resend
+     Fecha : 2026-04-17T07:36:36-07:00
+     URL   : https://www.producthunt.com/products/react-email-6-0-resend
+  2. .MD This Page
+     Fecha : 2026-04-17T01:39:10-07:00
+     URL   : https://www.producthunt.com/products/md-this-page
+  3. Claude Design by Anthropic Labs
+     Fecha : 2026-04-17T08:21:45-07:00
+     URL   : https://www.producthunt.com/products/claude
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. OpenAI’s big Codex update is a direct shot at Claude Code
-     Fecha : 2026-04-16T13:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos
-  2. Google’s AI Mode update lets you open links without leaving the page
-     Fecha : 2026-04-16T13:00:00-04:00
-     URL   : https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources
-  3. Gemini can now pull from Google Photos to generate personalized images
-     Fecha : 2026-04-16T12:00:00-04:00
-     URL   : https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana
+  1. OpenAI’s former Sora boss is leaving
+     Fecha : 2026-04-17T17:13:25-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing
+  2. Should you stare into Sam Altman&#8217;s orb before your next date?
+     Fecha : 2026-04-17T16:42:47-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb
+  3. Anthropic’s new cybersecurity model could get it back in the government’s good graces
+     Fecha : 2026-04-17T16:14:21-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-04-17  09:25:56
+  Fin del reporte  ·  2026-04-18  08:59:58
 ═════════════════════════════════════════════════════════════════

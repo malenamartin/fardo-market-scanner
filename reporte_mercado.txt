@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-04-20  10:05:05               ║
+║                  Generado: 2026-04-21  09:46:15               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Selling To AI: The Complete Guide To Agentic Commerce via @sejournal, @slobodanmanic
-     Fecha : Sun, 19 Apr 2026 12:00:04 +0000
-     URL   : https://www.searchenginejournal.com/selling-to-ai-the-complete-guide-to-agentic-commerce/570452/
-  2. AI Adoption Outpaced The PC & Internet: Dive Into The Stanford Report Data via @sejournal, @MattGSouthern
-     Fecha : Sat, 18 Apr 2026 12:00:58 +0000
-     URL   : https://www.searchenginejournal.com/ai-adoption-outpaced-the-pc-internet-dive-into-the-stanford-report-data/572305/
-  3. Google Bans Back Button Hijacking, Agentic Search Grows – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Fri, 17 Apr 2026 12:30:22 +0000
-     URL   : https://www.searchenginejournal.com/seo-pulse-google-targets-back-button-hijacking-agentic-search-grows/572282/
+  1. How To Build AI Visibility In 90 Days [Webinar] via @sejournal, @hethr_campbell
+     Fecha : Mon, 20 Apr 2026 18:01:12 +0000
+     URL   : https://www.searchenginejournal.com/how-to-build-ai-visibility-in-90-days-webinar/572471/
+  2. Google May Have To Share Search Data With Rivals via @sejournal, @MattGSouthern
+     Fecha : Mon, 20 Apr 2026 12:41:36 +0000
+     URL   : https://www.searchenginejournal.com/google-may-have-to-share-search-data-with-rivals/572434/
+  3. Winning Google Ads Campaign Structures For DTC Ecommerce via @sejournal, @MenachemAni
+     Fecha : Mon, 20 Apr 2026 12:30:09 +0000
+     URL   : https://www.searchenginejournal.com/winning-google-ads-campaign-structures-for-dtc-ecommerce/571400/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. OpenAI’s existential questions
-     Fecha : Sun, 19 Apr 2026 21:24:06 +0000
-     URL   : https://techcrunch.com/2026/04/19/openais-existential-questions/
-  2. The 12-month window
-     Fecha : Sun, 19 Apr 2026 19:30:00 +0000
-     URL   : https://techcrunch.com/2026/04/19/the-12-month-window/
-  3. Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch
-     Fecha : Sun, 19 Apr 2026 19:02:09 +0000
-     URL   : https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/
+  1. Who is John Ternus, the incoming Apple CEO?
+     Fecha : Tue, 21 Apr 2026 01:02:04 +0000
+     URL   : https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/
+  2. Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return
+     Fecha : Mon, 20 Apr 2026 23:10:27 +0000
+     URL   : https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/
+  3. Google rolls out Gemini in Chrome in 7 new countries
+     Fecha : Mon, 20 Apr 2026 22:00:00 +0000
+     URL   : https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. MIRA vision
-     Fecha : 2026-04-15T17:43:33-07:00
-     URL   : https://www.producthunt.com/products/mira-vision
-  2. Embedist
-     Fecha : 2026-04-19T01:51:38-07:00
-     URL   : https://www.producthunt.com/products/embedist
-  3. Mav9
-     Fecha : 2026-04-15T17:43:16-07:00
-     URL   : https://www.producthunt.com/products/mav9
+  1. MAXIA Oracle
+     Fecha : 2026-04-20T06:30:58-07:00
+     URL   : https://www.producthunt.com/products/maxia-oracle
+  2. Spectrum
+     Fecha : 2026-04-14T00:11:51-07:00
+     URL   : https://www.producthunt.com/products/spectrum-5
+  3. YourMemory
+     Fecha : 2026-04-20T11:25:47-07:00
+     URL   : https://www.producthunt.com/products/yourmemory
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Cloud development platform Vercel was hacked
+  1. Silicon Valley has forgotten what normal people want
+     Fecha : 2026-04-20T16:30:00-04:00
+     URL   : https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos
+  2. Fortnite developers can make AI characters now — just don&#8217;t try to date them
+     Fecha : 2026-04-20T12:58:39-04:00
+     URL   : https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations
+  3. Cloud development platform Vercel was hacked
      Fecha : 2026-04-19T15:54:52-04:00
      URL   : https://www.theverge.com/tech/914723/vercel-hacked
-  2. The RAM shortage could last years
-     Fecha : 2026-04-18T17:08:45-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years
-  3. OpenAI’s former Sora boss is leaving
-     Fecha : 2026-04-17T17:13:25-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-04-20  10:05:05
+  Fin del reporte  ·  2026-04-21  09:46:15
 ═════════════════════════════════════════════════════════════════

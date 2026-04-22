@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-04-21  09:46:15               ║
+║                  Generado: 2026-04-22  09:43:51               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. How To Build AI Visibility In 90 Days [Webinar] via @sejournal, @hethr_campbell
-     Fecha : Mon, 20 Apr 2026 18:01:12 +0000
-     URL   : https://www.searchenginejournal.com/how-to-build-ai-visibility-in-90-days-webinar/572471/
-  2. Google May Have To Share Search Data With Rivals via @sejournal, @MattGSouthern
-     Fecha : Mon, 20 Apr 2026 12:41:36 +0000
-     URL   : https://www.searchenginejournal.com/google-may-have-to-share-search-data-with-rivals/572434/
-  3. Winning Google Ads Campaign Structures For DTC Ecommerce via @sejournal, @MenachemAni
-     Fecha : Mon, 20 Apr 2026 12:30:09 +0000
-     URL   : https://www.searchenginejournal.com/winning-google-ads-campaign-structures-for-dtc-ecommerce/571400/
+  1. AI Overviews & Local SEO: What Multi-Location Brands Must Do [Webinar] via @sejournal, @lorenbaker
+     Fecha : Wed, 22 Apr 2026 07:45:36 +0000
+     URL   : https://www.searchenginejournal.com/ai-overviews-local-seo-what-multi-location-brands-must-do-webinar/572476/
+  2. ChatGPT Ads Now Offer CPC Bidding Between $3 And $5: Report via @sejournal, @MattGSouthern
+     Fecha : Tue, 21 Apr 2026 19:53:13 +0000
+     URL   : https://www.searchenginejournal.com/chatgpt-ads-now-offer-cpc-bidding-between-3-and-5-report/572652/
+  3. Google Ads Makes Call Recording Default For AI Lead Calls via @sejournal, @MattGSouthern
+     Fecha : Tue, 21 Apr 2026 15:16:00 +0000
+     URL   : https://www.searchenginejournal.com/google-ads-makes-call-recording-default-for-ai-lead-calls/572613/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Who is John Ternus, the incoming Apple CEO?
-     Fecha : Tue, 21 Apr 2026 01:02:04 +0000
-     URL   : https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/
-  2. Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return
-     Fecha : Mon, 20 Apr 2026 23:10:27 +0000
-     URL   : https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/
-  3. Google rolls out Gemini in Chrome in 7 new countries
-     Fecha : Mon, 20 Apr 2026 22:00:00 +0000
-     URL   : https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/
+  1. Redwood Materials lays off 10% in restructuring to chase energy storage business
+     Fecha : Wed, 22 Apr 2026 00:37:33 +0000
+     URL   : https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/
+  2. Meta will record employees’ keystrokes and use it to train its AI models
+     Fecha : Tue, 21 Apr 2026 23:45:21 +0000
+     URL   : https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/
+  3. Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims
+     Fecha : Tue, 21 Apr 2026 23:26:45 +0000
+     URL   : https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. MAXIA Oracle
-     Fecha : 2026-04-20T06:30:58-07:00
-     URL   : https://www.producthunt.com/products/maxia-oracle
-  2. Spectrum
-     Fecha : 2026-04-14T00:11:51-07:00
-     URL   : https://www.producthunt.com/products/spectrum-5
-  3. YourMemory
-     Fecha : 2026-04-20T11:25:47-07:00
-     URL   : https://www.producthunt.com/products/yourmemory
+  1. BlankOut
+     Fecha : 2026-04-21T01:29:36-07:00
+     URL   : https://www.producthunt.com/products/blankout
+  2. AdsAgent - Google Ads Claude Connector
+     Fecha : 2026-04-21T14:49:05-07:00
+     URL   : https://www.producthunt.com/products/adsagent-google-ads-claude-connector
+  3. Entendo
+     Fecha : 2026-04-10T14:58:06-07:00
+     URL   : https://www.producthunt.com/products/entendo
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Silicon Valley has forgotten what normal people want
-     Fecha : 2026-04-20T16:30:00-04:00
-     URL   : https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos
-  2. Fortnite developers can make AI characters now — just don&#8217;t try to date them
-     Fecha : 2026-04-20T12:58:39-04:00
-     URL   : https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations
-  3. Cloud development platform Vercel was hacked
-     Fecha : 2026-04-19T15:54:52-04:00
-     URL   : https://www.theverge.com/tech/914723/vercel-hacked
+  1. Anthropic’s most dangerous AI model just fell into the wrong hands
+     Fecha : 2026-04-22T05:18:40-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security
+  2. SpaceX cuts a deal to maybe buy Cursor for $60 billion
+     Fecha : 2026-04-21T18:45:37-04:00
+     URL   : https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition
+  3. AI backlash is coming for elections
+     Fecha : 2026-04-21T15:00:05-04:00
+     URL   : https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-04-21  09:46:15
+  Fin del reporte  ·  2026-04-22  09:43:51
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-04-22  09:43:51               ║
+║                  Generado: 2026-04-23  09:51:27               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. AI Overviews & Local SEO: What Multi-Location Brands Must Do [Webinar] via @sejournal, @lorenbaker
-     Fecha : Wed, 22 Apr 2026 07:45:36 +0000
-     URL   : https://www.searchenginejournal.com/ai-overviews-local-seo-what-multi-location-brands-must-do-webinar/572476/
-  2. ChatGPT Ads Now Offer CPC Bidding Between $3 And $5: Report via @sejournal, @MattGSouthern
-     Fecha : Tue, 21 Apr 2026 19:53:13 +0000
-     URL   : https://www.searchenginejournal.com/chatgpt-ads-now-offer-cpc-bidding-between-3-and-5-report/572652/
-  3. Google Ads Makes Call Recording Default For AI Lead Calls via @sejournal, @MattGSouthern
-     Fecha : Tue, 21 Apr 2026 15:16:00 +0000
-     URL   : https://www.searchenginejournal.com/google-ads-makes-call-recording-default-for-ai-lead-calls/572613/
+  1. Google Ads Posts GEO Partner Manager Role via @sejournal, @MattGSouthern
+     Fecha : Wed, 22 Apr 2026 18:37:29 +0000
+     URL   : https://www.searchenginejournal.com/google-ads-posts-geo-partner-manager-role/572741/
+  2. AI Search Is Eating Itself & The SEO Industry Is The Source
+     Fecha : Wed, 22 Apr 2026 13:30:25 +0000
+     URL   : https://www.searchenginejournal.com/ai-search-is-eating-itself-the-seo-industry-is-the-source/572537/
+  3. Does AI Actually Reward Quality Content?
+     Fecha : Wed, 22 Apr 2026 12:30:13 +0000
+     URL   : https://www.searchenginejournal.com/does-ai-actually-reward-quality-content/570627/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Redwood Materials lays off 10% in restructuring to chase energy storage business
-     Fecha : Wed, 22 Apr 2026 00:37:33 +0000
-     URL   : https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/
-  2. Meta will record employees’ keystrokes and use it to train its AI models
-     Fecha : Tue, 21 Apr 2026 23:45:21 +0000
-     URL   : https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/
-  3. Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims
-     Fecha : Tue, 21 Apr 2026 23:26:45 +0000
-     URL   : https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/
+  1. India’s app market is booming — but global platforms are capturing most of the gains
+     Fecha : Thu, 23 Apr 2026 04:38:45 +0000
+     URL   : https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/
+  2. Shade lands $14M to let creative teams search their video libraries in plain English
+     Fecha : Thu, 23 Apr 2026 04:17:52 +0000
+     URL   : https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/
+  3. Tesla just increased its spending plan to $25B — here’s where the money is going
+     Fecha : Wed, 22 Apr 2026 23:56:52 +0000
+     URL   : https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. BlankOut
-     Fecha : 2026-04-21T01:29:36-07:00
-     URL   : https://www.producthunt.com/products/blankout
-  2. AdsAgent - Google Ads Claude Connector
-     Fecha : 2026-04-21T14:49:05-07:00
-     URL   : https://www.producthunt.com/products/adsagent-google-ads-claude-connector
-  3. Entendo
-     Fecha : 2026-04-10T14:58:06-07:00
-     URL   : https://www.producthunt.com/products/entendo
+  1. Talk to Review
+     Fecha : 2026-04-22T03:27:26-07:00
+     URL   : https://www.producthunt.com/products/talk-to-review
+  2. octoscope
+     Fecha : 2026-04-22T09:26:01-07:00
+     URL   : https://www.producthunt.com/products/octoscope
+  3. Instamor
+     Fecha : 2026-04-22T12:51:28-07:00
+     URL   : https://www.producthunt.com/products/instamor-short-video-dating
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Anthropic’s most dangerous AI model just fell into the wrong hands
-     Fecha : 2026-04-22T05:18:40-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security
-  2. SpaceX cuts a deal to maybe buy Cursor for $60 billion
-     Fecha : 2026-04-21T18:45:37-04:00
-     URL   : https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition
-  3. AI backlash is coming for elections
-     Fecha : 2026-04-21T15:00:05-04:00
-     URL   : https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs
+  1. AI failure could trigger the next financial crisis, warns Elizabeth Warren
+     Fecha : 2026-04-22T16:29:05-04:00
+     URL   : https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren
+  2. OpenAI now lets teams make custom bots that can do work on their own
+     Fecha : 2026-04-22T16:09:02-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots
+  3. Watch Sony’s elite ping-pong robot beat top-ranked players
+     Fecha : 2026-04-22T13:43:38-04:00
+     URL   : https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-04-22  09:43:51
+  Fin del reporte  ·  2026-04-23  09:51:27
 ═════════════════════════════════════════════════════════════════

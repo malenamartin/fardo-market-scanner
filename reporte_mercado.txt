@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-04-24  09:50:55               ║
+║                  Generado: 2026-04-25  09:03:19               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google May Expand Unsupported Robots.txt Rules List via @sejournal, @MattGSouthern
-     Fecha : Thu, 23 Apr 2026 16:40:21 +0000
-     URL   : https://www.searchenginejournal.com/google-may-expand-unsupported-robots-txt-rules-list/572866/
-  2. OpenAI’s Crawler Docs Now List OAI-AdsBot For ChatGPT Ads via @sejournal, @MattGSouthern
-     Fecha : Thu, 23 Apr 2026 16:10:03 +0000
-     URL   : https://www.searchenginejournal.com/openais-crawler-docs-now-list-oai-adsbot-for-chatgpt-ads/572861/
-  3. Google Adds View-Through Conversion Optimization To Demand Gen via @sejournal, @MattGSouthern
-     Fecha : Thu, 23 Apr 2026 16:00:49 +0000
-     URL   : https://www.searchenginejournal.com/google-adds-view-through-conversion-optimization-to-demand-gen/572840/
+  1. Google’s Robots.txt Docs Expand, Deep Links Get Rules, EU Steps In – SEO Pulse via @sejournal, @MattGSouthern
+     Fecha : Fri, 24 Apr 2026 12:30:27 +0000
+     URL   : https://www.searchenginejournal.com/seo-pulse-googles-robots-txt-docs-expand-deep-links-get-rules-eu-steps-in/572877/
+  2. Why Microsoft’s AI Ad Strategy Deserves More Attention From PPC Managers via @sejournal, @brookeosmundson
+     Fecha : Fri, 24 Apr 2026 11:30:00 +0000
+     URL   : https://www.searchenginejournal.com/why-microsofts-ai-ad-strategy-deserves-more-attention-from-ppc-managers/572874/
+  3. Localized Distribution In The AI Era: The DIRHAM Framework via @sejournal, @gregjarboe
+     Fecha : Fri, 24 Apr 2026 10:45:06 +0000
+     URL   : https://www.searchenginejournal.com/localized-distribution-in-the-ai-era-the-dirham-framework/569851/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Porsche is adding an all-electric Cayenne coupe to its lineup
-     Fecha : Fri, 24 Apr 2026 04:01:00 +0000
-     URL   : https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/
-  2. Bob Iger rejoins Thrive Capital as advisor after Disney exit
-     Fecha : Fri, 24 Apr 2026 00:11:25 +0000
-     URL   : https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/
-  3. Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation
-     Fecha : Thu, 23 Apr 2026 23:32:33 +0000
-     URL   : https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/
+  1. Lachy Groom to back India startup Pronto at a $200M valuation, sources say
+     Fecha : Sat, 25 Apr 2026 03:30:00 +0000
+     URL   : https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/
+  2. Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’
+     Fecha : Fri, 24 Apr 2026 23:32:11 +0000
+     URL   : https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/
+  3. Palantir is reportedly helping the IRS investigate financial crimes
+     Fecha : Fri, 24 Apr 2026 21:53:44 +0000
+     URL   : https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Haiker
-     Fecha : 2026-04-23T07:43:39-07:00
-     URL   : https://www.producthunt.com/products/haiker
-  2. Codex 3.0 by OpenAI
-     Fecha : 2026-04-23T11:48:21-07:00
-     URL   : https://www.producthunt.com/products/codex-3-0-by-openai
-  3. Spira AI
-     Fecha : 2026-04-23T01:15:57-07:00
-     URL   : https://www.producthunt.com/products/spira-ai
+  1. Architecto
+     Fecha : 2026-04-09T23:55:36-07:00
+     URL   : https://www.producthunt.com/products/architecto
+  2. ZeroHuman.
+     Fecha : 2026-03-10T08:25:06-07:00
+     URL   : https://www.producthunt.com/products/zerohuman
+  3. Inrō AI
+     Fecha : 2026-04-21T11:52:34-07:00
+     URL   : https://www.producthunt.com/products/inro
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. China’s DeepSeek previews new AI model a year after jolting US rivals
-     Fecha : 2026-04-24T05:45:30-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model
-  2. Prestigious photo contest answers ‘what is a photo?’
-     Fecha : 2026-04-24T05:40:07-04:00
-     URL   : https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo
-  3. Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax
-     Fecha : 2026-04-23T18:27:11-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors
+  1. How Project Maven taught the military to love AI
+     Fecha : 2026-04-24T13:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson
+  2. AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy
+     Fecha : 2026-04-24T10:43:07-04:00
+     URL   : https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition
+  3. Musk vs. Altman is here, and it&#8217;s going to get messy
+     Fecha : 2026-04-24T08:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-04-24  09:50:55
+  Fin del reporte  ·  2026-04-25  09:03:19
 ═════════════════════════════════════════════════════════════════

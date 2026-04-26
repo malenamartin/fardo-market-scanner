@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-04-25  09:03:19               ║
+║                  Generado: 2026-04-26  09:09:12               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,41 +10,41 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google’s Robots.txt Docs Expand, Deep Links Get Rules, EU Steps In – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Fri, 24 Apr 2026 12:30:27 +0000
-     URL   : https://www.searchenginejournal.com/seo-pulse-googles-robots-txt-docs-expand-deep-links-get-rules-eu-steps-in/572877/
-  2. Why Microsoft’s AI Ad Strategy Deserves More Attention From PPC Managers via @sejournal, @brookeosmundson
-     Fecha : Fri, 24 Apr 2026 11:30:00 +0000
-     URL   : https://www.searchenginejournal.com/why-microsofts-ai-ad-strategy-deserves-more-attention-from-ppc-managers/572874/
-  3. Localized Distribution In The AI Era: The DIRHAM Framework via @sejournal, @gregjarboe
-     Fecha : Fri, 24 Apr 2026 10:45:06 +0000
-     URL   : https://www.searchenginejournal.com/localized-distribution-in-the-ai-era-the-dirham-framework/569851/
+  1. AI Overview CTR Fell 61%, But Clicks Didn’t Collapse via @sejournal, @MattGSouthern
+     Fecha : Sun, 26 Apr 2026 05:00:17 +0000
+     URL   : https://www.searchenginejournal.com/ai-overview-ctr-fell-61-but-clicks-didnt-collapse/572993/
+  2. Google Pushes “Bounce Clicks” Explanation For AI Overview Traffic Loss via @sejournal, @MattGSouthern
+     Fecha : Sat, 25 Apr 2026 13:00:57 +0000
+     URL   : https://www.searchenginejournal.com/google-pushes-bounce-clicks-explanation-for-ai-overview-traffic-loss/572986/
+  3. Google’s Updates Push Search Further Into Task Completion via @sejournal, @MattGSouthern
+     Fecha : Sat, 25 Apr 2026 12:00:14 +0000
+     URL   : https://www.searchenginejournal.com/googles-updates-push-search-further-into-task-completion/572888/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Lachy Groom to back India startup Pronto at a $200M valuation, sources say
-     Fecha : Sat, 25 Apr 2026 03:30:00 +0000
-     URL   : https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/
-  2. Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’
-     Fecha : Fri, 24 Apr 2026 23:32:11 +0000
-     URL   : https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/
-  3. Palantir is reportedly helping the IRS investigate financial crimes
-     Fecha : Fri, 24 Apr 2026 21:53:44 +0000
-     URL   : https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/
+  1. Anthropic created a test marketplace for agent-on-agent commerce
+     Fecha : Sat, 25 Apr 2026 21:43:37 +0000
+     URL   : https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/
+  2. Maine’s governor vetoes data center moratorium
+     Fecha : Sat, 25 Apr 2026 20:57:08 +0000
+     URL   : https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/
+  3. OpenAI CEO apologizes to Tumbler Ridge community
+     Fecha : Sat, 25 Apr 2026 17:17:56 +0000
+     URL   : https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Architecto
-     Fecha : 2026-04-09T23:55:36-07:00
-     URL   : https://www.producthunt.com/products/architecto
-  2. ZeroHuman.
-     Fecha : 2026-03-10T08:25:06-07:00
-     URL   : https://www.producthunt.com/products/zerohuman
-  3. Inrō AI
-     Fecha : 2026-04-21T11:52:34-07:00
-     URL   : https://www.producthunt.com/products/inro
+  1. QuickCompare by Trismik
+     Fecha : 2026-04-24T07:07:21-07:00
+     URL   : https://www.producthunt.com/products/quickcompare-by-trismik
+  2. GPT-5.5 by OpenAI
+     Fecha : 2026-04-24T20:54:05-07:00
+     URL   : https://www.producthunt.com/products/openai
+  3. Pica
+     Fecha : 2026-04-24T17:23:51-07:00
+     URL   : https://www.producthunt.com/products/pica
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-04-25  09:03:19
+  Fin del reporte  ·  2026-04-26  09:09:12
 ═════════════════════════════════════════════════════════════════

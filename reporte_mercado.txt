@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-04-26  09:09:12               ║
+║                  Generado: 2026-04-27  10:24:13               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,41 +10,41 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. AI Overview CTR Fell 61%, But Clicks Didn’t Collapse via @sejournal, @MattGSouthern
+  1. The Fully Non-Human Web: No One Builds The Page, No One Visits It via @sejournal, @slobodanmanic
+     Fecha : Sun, 26 Apr 2026 12:00:08 +0000
+     URL   : https://www.searchenginejournal.com/the-fully-non-human-web-no-one-builds-the-page-no-one-visits-it/571406/
+  2. AI Overview CTR Fell 61%, But Clicks Didn’t Collapse via @sejournal, @MattGSouthern
      Fecha : Sun, 26 Apr 2026 05:00:17 +0000
      URL   : https://www.searchenginejournal.com/ai-overview-ctr-fell-61-but-clicks-didnt-collapse/572993/
-  2. Google Pushes “Bounce Clicks” Explanation For AI Overview Traffic Loss via @sejournal, @MattGSouthern
+  3. Google Pushes “Bounce Clicks” Explanation For AI Overview Traffic Loss via @sejournal, @MattGSouthern
      Fecha : Sat, 25 Apr 2026 13:00:57 +0000
      URL   : https://www.searchenginejournal.com/google-pushes-bounce-clicks-explanation-for-ai-overview-traffic-loss/572986/
-  3. Google’s Updates Push Search Further Into Task Completion via @sejournal, @MattGSouthern
-     Fecha : Sat, 25 Apr 2026 12:00:14 +0000
-     URL   : https://www.searchenginejournal.com/googles-updates-push-search-further-into-task-completion/572888/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Anthropic created a test marketplace for agent-on-agent commerce
-     Fecha : Sat, 25 Apr 2026 21:43:37 +0000
-     URL   : https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/
-  2. Maine’s governor vetoes data center moratorium
-     Fecha : Sat, 25 Apr 2026 20:57:08 +0000
-     URL   : https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/
-  3. OpenAI CEO apologizes to Tumbler Ridge community
-     Fecha : Sat, 25 Apr 2026 17:17:56 +0000
-     URL   : https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/
+  1. Meta inks deal for solar power at night, beamed from space
+     Fecha : Mon, 27 Apr 2026 10:00:00 +0000
+     URL   : https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/
+  2. Truecaller faces mounting pressures as its growth matures
+     Fecha : Mon, 27 Apr 2026 03:00:00 +0000
+     URL   : https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/
+  3. The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder
+     Fecha : Sun, 26 Apr 2026 22:00:46 +0000
+     URL   : https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. QuickCompare by Trismik
-     Fecha : 2026-04-24T07:07:21-07:00
-     URL   : https://www.producthunt.com/products/quickcompare-by-trismik
-  2. GPT-5.5 by OpenAI
-     Fecha : 2026-04-24T20:54:05-07:00
-     URL   : https://www.producthunt.com/products/openai
-  3. Pica
-     Fecha : 2026-04-24T17:23:51-07:00
-     URL   : https://www.producthunt.com/products/pica
+  1. SNEWPapers
+     Fecha : 2026-04-25T02:16:52-07:00
+     URL   : https://www.producthunt.com/products/snewpapers
+  2. Vouch API
+     Fecha : 2026-04-26T00:59:29-07:00
+     URL   : https://www.producthunt.com/products/vouch-api
+  3. PlayJoob
+     Fecha : 2026-03-30T22:37:51-07:00
+     URL   : https://www.producthunt.com/products/playjoob
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-04-26  09:09:12
+  Fin del reporte  ·  2026-04-27  10:24:13
 ═════════════════════════════════════════════════════════════════

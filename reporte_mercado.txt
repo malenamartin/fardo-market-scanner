@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-04-27  10:24:13               ║
+║                  Generado: 2026-04-28  10:22:42               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. The Fully Non-Human Web: No One Builds The Page, No One Visits It via @sejournal, @slobodanmanic
-     Fecha : Sun, 26 Apr 2026 12:00:08 +0000
-     URL   : https://www.searchenginejournal.com/the-fully-non-human-web-no-one-builds-the-page-no-one-visits-it/571406/
-  2. AI Overview CTR Fell 61%, But Clicks Didn’t Collapse via @sejournal, @MattGSouthern
-     Fecha : Sun, 26 Apr 2026 05:00:17 +0000
-     URL   : https://www.searchenginejournal.com/ai-overview-ctr-fell-61-but-clicks-didnt-collapse/572993/
-  3. Google Pushes “Bounce Clicks” Explanation For AI Overview Traffic Loss via @sejournal, @MattGSouthern
-     Fecha : Sat, 25 Apr 2026 13:00:57 +0000
-     URL   : https://www.searchenginejournal.com/google-pushes-bounce-clicks-explanation-for-ai-overview-traffic-loss/572986/
+  1. AEO In 2026: Which Content Formats Earn AI Citations & How to Produce More [Webinar] via @sejournal, @hethr_campbell
+     Fecha : Tue, 28 Apr 2026 07:45:45 +0000
+     URL   : https://www.searchenginejournal.com/aeo-in-2026-which-content-formats-earn-ai-citations-how-to-produce-more-webinar/572870/
+  2. AI Search Success: How To Benchmark Website Performance In Your Industry via @sejournal, @DebugBear
+     Fecha : Tue, 28 Apr 2026 05:00:57 +0000
+     URL   : https://www.searchenginejournal.com/ai-search-industry-benchmark-debugbear-spa/571866/
+  3. How to Turn Webinars Into Your Best Lead Gen Channel in 5 Phases via @sejournal, @hethr_campbell
+     Fecha : Tue, 28 Apr 2026 02:50:25 +0000
+     URL   : https://www.searchenginejournal.com/how-to-turn-webinars-into-your-best-lead-gen-channel-in-5-phases/573137/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Meta inks deal for solar power at night, beamed from space
-     Fecha : Mon, 27 Apr 2026 10:00:00 +0000
-     URL   : https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/
-  2. Truecaller faces mounting pressures as its growth matures
-     Fecha : Mon, 27 Apr 2026 03:00:00 +0000
-     URL   : https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/
-  3. The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder
-     Fecha : Sun, 26 Apr 2026 22:00:46 +0000
-     URL   : https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/
+  1. Drizzle on top: a new high-end dog food brand is coming for the 1%
+     Fecha : Tue, 28 Apr 2026 05:02:04 +0000
+     URL   : https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/
+  2. India’s Snabbit closes $56M round as investor interest in on-demand home services heats up
+     Fecha : Tue, 28 Apr 2026 03:30:00 +0000
+     URL   : https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/
+  3. Letterboxd, the social platform for film buffs, reportedly looking for new owner
+     Fecha : Mon, 27 Apr 2026 20:37:49 +0000
+     URL   : https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. SNEWPapers
-     Fecha : 2026-04-25T02:16:52-07:00
-     URL   : https://www.producthunt.com/products/snewpapers
-  2. Vouch API
-     Fecha : 2026-04-26T00:59:29-07:00
-     URL   : https://www.producthunt.com/products/vouch-api
-  3. PlayJoob
-     Fecha : 2026-03-30T22:37:51-07:00
-     URL   : https://www.producthunt.com/products/playjoob
+  1. WUPHF by Nex.ai
+     Fecha : 2026-04-25T02:07:15-07:00
+     URL   : https://www.producthunt.com/products/wuphf-2
+  2. Heym
+     Fecha : 2026-04-24T00:06:51-07:00
+     URL   : https://www.producthunt.com/products/heym
+  3. Social Fetch
+     Fecha : 2026-04-22T00:55:12-07:00
+     URL   : https://www.producthunt.com/products/social-fetch
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. How Project Maven taught the military to love AI
-     Fecha : 2026-04-24T13:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson
-  2. AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy
-     Fecha : 2026-04-24T10:43:07-04:00
-     URL   : https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition
-  3. Musk vs. Altman is here, and it&#8217;s going to get messy
-     Fecha : 2026-04-24T08:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip
+  1. Jury selection in Musk v. Altman: ‘People don’t like him’
+     Fecha : 2026-04-27T23:39:33-04:00
+     URL   : https://www.theverge.com/tech/919469/elon-musk-dont-like
+  2. Google is testing AI chatbot search for YouTube
+     Fecha : 2026-04-27T20:01:54-04:00
+     URL   : https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search
+  3. Canonical lays out a plan for AI in Ubuntu Linux
+     Fecha : 2026-04-27T16:47:45-04:00
+     URL   : https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-04-27  10:24:13
+  Fin del reporte  ·  2026-04-28  10:22:42
 ═════════════════════════════════════════════════════════════════

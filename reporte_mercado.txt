@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-04-28  10:22:42               ║
+║                  Generado: 2026-04-29  10:12:14               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. AEO In 2026: Which Content Formats Earn AI Citations & How to Produce More [Webinar] via @sejournal, @hethr_campbell
-     Fecha : Tue, 28 Apr 2026 07:45:45 +0000
-     URL   : https://www.searchenginejournal.com/aeo-in-2026-which-content-formats-earn-ai-citations-how-to-produce-more-webinar/572870/
-  2. AI Search Success: How To Benchmark Website Performance In Your Industry via @sejournal, @DebugBear
-     Fecha : Tue, 28 Apr 2026 05:00:57 +0000
-     URL   : https://www.searchenginejournal.com/ai-search-industry-benchmark-debugbear-spa/571866/
-  3. How to Turn Webinars Into Your Best Lead Gen Channel in 5 Phases via @sejournal, @hethr_campbell
-     Fecha : Tue, 28 Apr 2026 02:50:25 +0000
-     URL   : https://www.searchenginejournal.com/how-to-turn-webinars-into-your-best-lead-gen-channel-in-5-phases/573137/
+  1. Why Your Content Isn’t Being Cited in AI Answers (And How to Fix It) [Webinar] via @sejournal, @lorenbaker
+     Fecha : Wed, 29 Apr 2026 07:45:07 +0000
+     URL   : https://www.searchenginejournal.com/why-your-content-isnt-being-cited-in-ai-answers-and-how-to-fix-it-webinar/572482/
+  2. OpenAI Crawl Activity Tripled Since GPT-5, Data Shows via @sejournal, @MattGSouthern
+     Fecha : Wed, 29 Apr 2026 00:23:39 +0000
+     URL   : https://www.searchenginejournal.com/openai-crawl-activity-tripled-since-gpt-5-data-shows/573316/
+  3. The AI Skills Salary Premium via @sejournal, @Kevin_Indig
+     Fecha : Tue, 28 Apr 2026 13:30:43 +0000
+     URL   : https://www.searchenginejournal.com/the-ai-skills-salary-premium/573067/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Drizzle on top: a new high-end dog food brand is coming for the 1%
-     Fecha : Tue, 28 Apr 2026 05:02:04 +0000
-     URL   : https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/
-  2. India’s Snabbit closes $56M round as investor interest in on-demand home services heats up
-     Fecha : Tue, 28 Apr 2026 03:30:00 +0000
-     URL   : https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/
-  3. Letterboxd, the social platform for film buffs, reportedly looking for new owner
-     Fecha : Mon, 27 Apr 2026 20:37:49 +0000
-     URL   : https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/
+  1. Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.
+     Fecha : Wed, 29 Apr 2026 09:45:00 +0000
+     URL   : https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/
+  2. How one venture firm is investing in an increasingly fragmented world
+     Fecha : Wed, 29 Apr 2026 03:00:00 +0000
+     URL   : https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/
+  3. At his OpenAI trial, Musk relitigates an old friendship
+     Fecha : Wed, 29 Apr 2026 00:40:16 +0000
+     URL   : https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. WUPHF by Nex.ai
-     Fecha : 2026-04-25T02:07:15-07:00
-     URL   : https://www.producthunt.com/products/wuphf-2
-  2. Heym
-     Fecha : 2026-04-24T00:06:51-07:00
-     URL   : https://www.producthunt.com/products/heym
-  3. Social Fetch
-     Fecha : 2026-04-22T00:55:12-07:00
-     URL   : https://www.producthunt.com/products/social-fetch
+  1. Gro v2
+     Fecha : 2026-04-28T00:10:55-07:00
+     URL   : https://www.producthunt.com/products/gro-2
+  2. Snapr
+     Fecha : 2026-04-25T19:52:42-07:00
+     URL   : https://www.producthunt.com/products/snapr-5
+  3. Dreambase Data Agent Skills
+     Fecha : 2026-04-28T14:32:44-07:00
+     URL   : https://www.producthunt.com/products/dreambase-ai
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Jury selection in Musk v. Altman: ‘People don’t like him’
-     Fecha : 2026-04-27T23:39:33-04:00
-     URL   : https://www.theverge.com/tech/919469/elon-musk-dont-like
-  2. Google is testing AI chatbot search for YouTube
-     Fecha : 2026-04-27T20:01:54-04:00
-     URL   : https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search
-  3. Canonical lays out a plan for AI in Ubuntu Linux
-     Fecha : 2026-04-27T16:47:45-04:00
-     URL   : https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features
+  1. GitHub rushed to fix a critical vulnerability in less than six hours
+     Fecha : 2026-04-29T06:04:25-04:00
+     URL   : https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix
+  2. General Motors is adding Gemini to four million cars
+     Fecha : 2026-04-29T05:14:38-04:00
+     URL   : https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update
+  3. Elon Musk appeared more petty than prepared
+     Fecha : 2026-04-28T19:17:12-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-04-28  10:22:42
+  Fin del reporte  ·  2026-04-29  10:12:14
 ═════════════════════════════════════════════════════════════════

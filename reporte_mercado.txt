@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-04-29  10:12:14               ║
+║                  Generado: 2026-04-30  10:13:58               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Why Your Content Isn’t Being Cited in AI Answers (And How to Fix It) [Webinar] via @sejournal, @lorenbaker
-     Fecha : Wed, 29 Apr 2026 07:45:07 +0000
-     URL   : https://www.searchenginejournal.com/why-your-content-isnt-being-cited-in-ai-answers-and-how-to-fix-it-webinar/572482/
-  2. OpenAI Crawl Activity Tripled Since GPT-5, Data Shows via @sejournal, @MattGSouthern
-     Fecha : Wed, 29 Apr 2026 00:23:39 +0000
-     URL   : https://www.searchenginejournal.com/openai-crawl-activity-tripled-since-gpt-5-data-shows/573316/
-  3. The AI Skills Salary Premium via @sejournal, @Kevin_Indig
-     Fecha : Tue, 28 Apr 2026 13:30:43 +0000
-     URL   : https://www.searchenginejournal.com/the-ai-skills-salary-premium/573067/
+  1. The 90-Day GEO Playbook for Local Search: How To Show Up When AI Does The Searching
+     Fecha : Thu, 30 Apr 2026 05:00:21 +0000
+     URL   : https://www.searchenginejournal.com/geo-playbook-local-search-spa/572960/
+  2. Google Search Revenue Grew 19% In Q1, Pichai Cites AI via @sejournal, @MattGSouthern
+     Fecha : Wed, 29 Apr 2026 22:00:02 +0000
+     URL   : https://www.searchenginejournal.com/google-search-revenue-grew-19-in-q1-pichai-cites-ai/573378/
+  3. Earn AI Citations: What Your Content Needs To Look Like [A 4-Article Playbook] via @sejournal, @AirOpsHQ
+     Fecha : Wed, 29 Apr 2026 16:40:22 +0000
+     URL   : https://www.searchenginejournal.com/rundowns/earn-ai-citations-what-your-content-needs-to-look-like-a-4-article-playbook/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.
-     Fecha : Wed, 29 Apr 2026 09:45:00 +0000
-     URL   : https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/
-  2. How one venture firm is investing in an increasingly fragmented world
-     Fecha : Wed, 29 Apr 2026 03:00:00 +0000
-     URL   : https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/
-  3. At his OpenAI trial, Musk relitigates an old friendship
-     Fecha : Wed, 29 Apr 2026 00:40:16 +0000
-     URL   : https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/
+  1. SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO
+     Fecha : Thu, 30 Apr 2026 03:58:22 +0000
+     URL   : https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/
+  2. Amazon, Meta join fight to end Google Pay, PhonePe dominance in India
+     Fecha : Thu, 30 Apr 2026 01:00:00 +0000
+     URL   : https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/
+  3. Amazon’s cloud business is surging — and so is its capital spending
+     Fecha : Thu, 30 Apr 2026 00:14:23 +0000
+     URL   : https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Gro v2
-     Fecha : 2026-04-28T00:10:55-07:00
-     URL   : https://www.producthunt.com/products/gro-2
-  2. Snapr
-     Fecha : 2026-04-25T19:52:42-07:00
-     URL   : https://www.producthunt.com/products/snapr-5
-  3. Dreambase Data Agent Skills
-     Fecha : 2026-04-28T14:32:44-07:00
-     URL   : https://www.producthunt.com/products/dreambase-ai
+  1. AstroGrid - Universe Engine
+     Fecha : 2026-04-29T20:22:20-07:00
+     URL   : https://www.producthunt.com/products/astrogrid
+  2. VideoOS by Jupitrr AI
+     Fecha : 2026-03-16T18:34:49-07:00
+     URL   : https://www.producthunt.com/products/jupitrr
+  3. Wonder
+     Fecha : 2026-04-28T23:48:52-07:00
+     URL   : https://www.producthunt.com/products/wonder-public-alpha
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. GitHub rushed to fix a critical vulnerability in less than six hours
-     Fecha : 2026-04-29T06:04:25-04:00
-     URL   : https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix
-  2. General Motors is adding Gemini to four million cars
-     Fecha : 2026-04-29T05:14:38-04:00
-     URL   : https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update
-  3. Elon Musk appeared more petty than prepared
-     Fecha : 2026-04-28T19:17:12-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one
+  1. Elon Musk’s worst enemy in court is Elon Musk
+     Fecha : 2026-04-29T20:01:24-04:00
+     URL   : https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman
+  2. Google Search queries hit an ‘all time high’ last quarter
+     Fecha : 2026-04-29T16:28:11-04:00
+     URL   : https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai
+  3. All the evidence unveiled so far in Musk v. Altman
+     Fecha : 2026-04-29T14:03:05-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-04-29  10:12:14
+  Fin del reporte  ·  2026-04-30  10:13:58
 ═════════════════════════════════════════════════════════════════

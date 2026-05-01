@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-04-30  10:13:58               ║
+║                  Generado: 2026-05-01  09:53:44               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. The 90-Day GEO Playbook for Local Search: How To Show Up When AI Does The Searching
-     Fecha : Thu, 30 Apr 2026 05:00:21 +0000
-     URL   : https://www.searchenginejournal.com/geo-playbook-local-search-spa/572960/
-  2. Google Search Revenue Grew 19% In Q1, Pichai Cites AI via @sejournal, @MattGSouthern
-     Fecha : Wed, 29 Apr 2026 22:00:02 +0000
-     URL   : https://www.searchenginejournal.com/google-search-revenue-grew-19-in-q1-pichai-cites-ai/573378/
-  3. Earn AI Citations: What Your Content Needs To Look Like [A 4-Article Playbook] via @sejournal, @AirOpsHQ
-     Fecha : Wed, 29 Apr 2026 16:40:22 +0000
-     URL   : https://www.searchenginejournal.com/rundowns/earn-ai-citations-what-your-content-needs-to-look-like-a-4-article-playbook/
+  1. How AI Overviews Surface Negative Reviews, Without Anyone Searching for Them via @sejournal, @EraseDotCom
+     Fecha : Fri, 01 May 2026 05:00:50 +0000
+     URL   : https://www.searchenginejournal.com/negative-reviews-ai-overviews-erase-spa/571880/
+  2. ChatGPT vs. Perplexity vs. Gemini: Which LLMs Are Driving Real Conversions? [Expert Panel] via @sejournal, @hethr_campbell
+     Fecha : Thu, 30 Apr 2026 15:30:38 +0000
+     URL   : https://www.searchenginejournal.com/chatgpt-vs-perplexity-vs-gemini-which-llms-are-driving-real-conversions-expert-panel/573459/
+  3. How Brands Are Increasing AI Visibility By Up To 2,000% [Webinar] via @sejournal, @hethr_campbell
+     Fecha : Thu, 30 Apr 2026 15:09:28 +0000
+     URL   : https://www.searchenginejournal.com/how-brands-are-increasing-ai-visibility-by-up-to-2000-webinar/572474/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO
-     Fecha : Thu, 30 Apr 2026 03:58:22 +0000
-     URL   : https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/
-  2. Amazon, Meta join fight to end Google Pay, PhonePe dominance in India
-     Fecha : Thu, 30 Apr 2026 01:00:00 +0000
-     URL   : https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/
-  3. Amazon’s cloud business is surging — and so is its capital spending
-     Fecha : Thu, 30 Apr 2026 00:14:23 +0000
-     URL   : https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/
+  1. ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet
+     Fecha : Fri, 01 May 2026 02:00:00 +0000
+     URL   : https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/
+  2. As Tim Cook steps down, Apple hit record sales — but a chip shortage looms
+     Fecha : Thu, 30 Apr 2026 23:59:15 +0000
+     URL   : https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/
+  3. Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says
+     Fecha : Thu, 30 Apr 2026 23:58:52 +0000
+     URL   : https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. AstroGrid - Universe Engine
-     Fecha : 2026-04-29T20:22:20-07:00
-     URL   : https://www.producthunt.com/products/astrogrid
-  2. VideoOS by Jupitrr AI
-     Fecha : 2026-03-16T18:34:49-07:00
-     URL   : https://www.producthunt.com/products/jupitrr
-  3. Wonder
-     Fecha : 2026-04-28T23:48:52-07:00
-     URL   : https://www.producthunt.com/products/wonder-public-alpha
+  1. Buda
+     Fecha : 2026-04-27T16:18:01-07:00
+     URL   : https://www.producthunt.com/products/buda-2
+  2. ScreenVeil
+     Fecha : 2026-04-28T00:56:19-07:00
+     URL   : https://www.producthunt.com/products/screenveil
+  3. LaunchCut
+     Fecha : 2026-04-30T14:35:28-07:00
+     URL   : https://www.producthunt.com/products/launchcut-2
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Elon Musk’s worst enemy in court is Elon Musk
-     Fecha : 2026-04-29T20:01:24-04:00
-     URL   : https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman
-  2. Google Search queries hit an ‘all time high’ last quarter
-     Fecha : 2026-04-29T16:28:11-04:00
-     URL   : https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai
-  3. All the evidence unveiled so far in Musk v. Altman
-     Fecha : 2026-04-29T14:03:05-04:00
+  1. The craziest part of Musk v. Altman happened while the jury was out of the room
+     Fecha : 2026-04-30T18:59:51-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai
+  2. All the evidence unveiled so far in Musk v. Altman
+     Fecha : 2026-04-30T15:00:00-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial
+  3. Elon Musk confirms xAI used OpenAI’s models to train Grok
+     Fecha : 2026-04-30T14:16:57-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-04-30  10:13:58
+  Fin del reporte  ·  2026-05-01  09:53:44
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-02  09:14:26               ║
+║                  Generado: 2026-05-03  09:26:02               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,41 +10,41 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google’s Preferred Sources Is Now A Global SEO Signal via @sejournal, @martinibuster
+  1. What Google & Microsoft Earnings Say About Search via @sejournal, @MattGSouthern
+     Fecha : Sat, 02 May 2026 12:00:53 +0000
+     URL   : https://www.searchenginejournal.com/what-google-microsoft-earnings-say-about-search/573499/
+  2. Google’s Preferred Sources Is Now A Global SEO Signal via @sejournal, @martinibuster
      Fecha : Fri, 01 May 2026 23:15:53 +0000
      URL   : https://www.searchenginejournal.com/googles-preferred-sources-feature-is-now-a-global-seo-signal/573591/
-  2. Google Tells Developers To Build For AI Agents, Not Just Humans via @sejournal, @MattGSouthern
+  3. Google Tells Developers To Build For AI Agents, Not Just Humans via @sejournal, @MattGSouthern
      Fecha : Fri, 01 May 2026 21:42:23 +0000
      URL   : https://www.searchenginejournal.com/google-tells-developers-to-build-for-ai-agents-not-just-humans/573587/
-  3. 500M AI Searches Later: How To Actually Improve AI Search Visibility & Citations via @sejournal, @hethr_campbell
-     Fecha : Fri, 01 May 2026 16:39:12 +0000
-     URL   : https://www.searchenginejournal.com/500m-ai-searches-later-how-to-actually-improve-ai-search-visibility-citations/573564/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Uber wants to turn its millions of drivers into a sensor grid for self-driving companies
-     Fecha : Sat, 02 May 2026 06:36:28 +0000
-     URL   : https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/
-  2. Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell
-     Fecha : Fri, 01 May 2026 23:06:50 +0000
-     URL   : https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/
-  3. Musely secures $360M from General Catalyst without giving up equity
-     Fecha : Fri, 01 May 2026 22:39:05 +0000
-     URL   : https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/
+  1. AI-generated actors and scripts are now ineligible for Oscars
+     Fecha : Sat, 02 May 2026 21:54:58 +0000
+     URL   : https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/
+  2. Farewell, Jeeves: Ask.com shuts down
+     Fecha : Sat, 02 May 2026 21:11:28 +0000
+     URL   : https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/
+  3. Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027
+     Fecha : Sat, 02 May 2026 17:05:41 +0000
+     URL   : https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Filect
-     Fecha : 2026-04-26T14:57:34-07:00
-     URL   : https://www.producthunt.com/products/filect
-  2. Scholé
-     Fecha : 2026-04-21T15:30:17-07:00
-     URL   : https://www.producthunt.com/products/schole-2
-  3. Breaks
-     Fecha : 2026-04-29T03:16:20-07:00
-     URL   : https://www.producthunt.com/products/breaks
+  1. Huddle01 VMs
+     Fecha : 2026-04-25T11:17:26-07:00
+     URL   : https://www.producthunt.com/products/huddle01-cloud-2
+  2. Aximote In-Car App
+     Fecha : 2026-04-30T07:04:40-07:00
+     URL   : https://www.producthunt.com/products/aximote-in-car-app
+  3. Radar
+     Fecha : 2026-04-23T04:26:09-07:00
+     URL   : https://www.producthunt.com/products/radar-7
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-02  09:14:26
+  Fin del reporte  ·  2026-05-03  09:26:02
 ═════════════════════════════════════════════════════════════════

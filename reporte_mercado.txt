@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-03  09:26:02               ║
+║                  Generado: 2026-05-04  10:20:30               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. What Google & Microsoft Earnings Say About Search via @sejournal, @MattGSouthern
-     Fecha : Sat, 02 May 2026 12:00:53 +0000
-     URL   : https://www.searchenginejournal.com/what-google-microsoft-earnings-say-about-search/573499/
-  2. Google’s Preferred Sources Is Now A Global SEO Signal via @sejournal, @martinibuster
-     Fecha : Fri, 01 May 2026 23:15:53 +0000
-     URL   : https://www.searchenginejournal.com/googles-preferred-sources-feature-is-now-a-global-seo-signal/573591/
-  3. Google Tells Developers To Build For AI Agents, Not Just Humans via @sejournal, @MattGSouthern
-     Fecha : Fri, 01 May 2026 21:42:23 +0000
-     URL   : https://www.searchenginejournal.com/google-tells-developers-to-build-for-ai-agents-not-just-humans/573587/
+  1. Google Engineer Explains ‘Black Box’ AI Models In Search via @sejournal, @MattGSouthern
+     Fecha : Mon, 04 May 2026 04:15:42 +0000
+     URL   : https://www.searchenginejournal.com/google-engineer-explains-black-box-ai-models-in-search/573625/
+  2. Google’s March Core Update Shifted Visibility Away From Aggregators via @sejournal, @MattGSouthern
+     Fecha : Sun, 03 May 2026 20:40:34 +0000
+     URL   : https://www.searchenginejournal.com/googles-march-core-update-shifted-visibility-away-from-aggregators/573621/
+  3. Ask Jeeves Is Gone After Nearly 30 Years Of Search via @sejournal, @MattGSouthern
+     Fecha : Sun, 03 May 2026 19:49:46 +0000
+     URL   : https://www.searchenginejournal.com/ask-jeeves-is-gone-after-nearly-30-years-of-search/573617/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. AI-generated actors and scripts are now ineligible for Oscars
-     Fecha : Sat, 02 May 2026 21:54:58 +0000
-     URL   : https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/
-  2. Farewell, Jeeves: Ask.com shuts down
-     Fecha : Sat, 02 May 2026 21:11:28 +0000
-     URL   : https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/
-  3. Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027
-     Fecha : Sat, 02 May 2026 17:05:41 +0000
-     URL   : https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/
+  1. Ouster’s new color lidar is coming to replace cameras
+     Fecha : Mon, 04 May 2026 10:00:00 +0000
+     URL   : https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/
+  2. Nicolas Sauvage is betting on the boring parts of AI
+     Fecha : Mon, 04 May 2026 07:10:18 +0000
+     URL   : https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/
+  3. We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse
+     Fecha : Mon, 04 May 2026 02:02:25 +0000
+     URL   : https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Huddle01 VMs
-     Fecha : 2026-04-25T11:17:26-07:00
-     URL   : https://www.producthunt.com/products/huddle01-cloud-2
-  2. Aximote In-Car App
-     Fecha : 2026-04-30T07:04:40-07:00
-     URL   : https://www.producthunt.com/products/aximote-in-car-app
-  3. Radar
-     Fecha : 2026-04-23T04:26:09-07:00
-     URL   : https://www.producthunt.com/products/radar-7
+  1. Aaavatar
+     Fecha : 2026-05-03T16:39:06-07:00
+     URL   : https://www.producthunt.com/products/aaavatar
+  2. Flowly
+     Fecha : 2026-05-02T17:13:34-07:00
+     URL   : https://www.producthunt.com/products/flowly-6
+  3. Panels Store
+     Fecha : 2026-05-01T14:00:27-07:00
+     URL   : https://www.producthunt.com/products/panels-store
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. All the evidence revealed so far in Musk v. Altman
+  1. How the internet’s favorite squirrel dad made the hottest camera app of 2026
+     Fecha : 2026-05-03T09:00:00-04:00
+     URL   : https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr
+  2. AI music is flooding streaming services — but who wants it?
+     Fecha : 2026-05-03T08:00:00-04:00
+     URL   : https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it
+  3. All the evidence revealed so far in Musk v. Altman
      Fecha : 2026-05-01T15:14:51-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial
-  2. Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic
-     Fecha : 2026-05-01T10:09:56-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia
-  3. Elon Musk had a bad week in court
-     Fecha : 2026-05-01T09:33:15-04:00
-     URL   : https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-03  09:26:02
+  Fin del reporte  ·  2026-05-04  10:20:30
 ═════════════════════════════════════════════════════════════════

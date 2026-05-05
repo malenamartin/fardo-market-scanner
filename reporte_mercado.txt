@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-04  10:20:30               ║
+║                  Generado: 2026-05-05  10:08:51               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Engineer Explains ‘Black Box’ AI Models In Search via @sejournal, @MattGSouthern
-     Fecha : Mon, 04 May 2026 04:15:42 +0000
-     URL   : https://www.searchenginejournal.com/google-engineer-explains-black-box-ai-models-in-search/573625/
-  2. Google’s March Core Update Shifted Visibility Away From Aggregators via @sejournal, @MattGSouthern
-     Fecha : Sun, 03 May 2026 20:40:34 +0000
-     URL   : https://www.searchenginejournal.com/googles-march-core-update-shifted-visibility-away-from-aggregators/573621/
-  3. Ask Jeeves Is Gone After Nearly 30 Years Of Search via @sejournal, @MattGSouthern
-     Fecha : Sun, 03 May 2026 19:49:46 +0000
-     URL   : https://www.searchenginejournal.com/ask-jeeves-is-gone-after-nearly-30-years-of-search/573617/
+  1. Why AI Search Skips Your Content (And How to Diagnose Where It’s Failing) via @sejournal, @jeffrey_coyle
+     Fecha : Tue, 05 May 2026 05:00:08 +0000
+     URL   : https://www.searchenginejournal.com/why-ai-search-skips-your-content-siteimprove-spa/573264/
+  2. Google On Keyword Fragmentation And User Needs In AI Search via @sejournal, @martinibuster
+     Fecha : Tue, 05 May 2026 01:52:07 +0000
+     URL   : https://www.searchenginejournal.com/google-on-keyword-fragmentation-and-user-needs-in-ai-search/573834/
+  3. Google On AI Search & Why Browsy Queries Favor Full SERPs via @sejournal, @martinibuster
+     Fecha : Mon, 04 May 2026 23:29:53 +0000
+     URL   : https://www.searchenginejournal.com/google-on-ai-search-why-browsy-queries-favor-full-serps/573822/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Ouster’s new color lidar is coming to replace cameras
-     Fecha : Mon, 04 May 2026 10:00:00 +0000
-     URL   : https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/
-  2. Nicolas Sauvage is betting on the boring parts of AI
-     Fecha : Mon, 04 May 2026 07:10:18 +0000
-     URL   : https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/
-  3. We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse
-     Fecha : Mon, 04 May 2026 02:02:25 +0000
-     URL   : https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/
+  1. As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’
+     Fecha : Tue, 05 May 2026 03:31:54 +0000
+     URL   : https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/
+  2. Geothermal startup Fervo Energy to raise up to $1.3B in IPO
+     Fecha : Tue, 05 May 2026 00:13:30 +0000
+     URL   : https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/
+  3. US government warns of severe CopyFail bug affecting major versions of Linux
+     Fecha : Mon, 04 May 2026 22:21:32 +0000
+     URL   : https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Aaavatar
-     Fecha : 2026-05-03T16:39:06-07:00
-     URL   : https://www.producthunt.com/products/aaavatar
-  2. Flowly
-     Fecha : 2026-05-02T17:13:34-07:00
-     URL   : https://www.producthunt.com/products/flowly-6
-  3. Panels Store
-     Fecha : 2026-05-01T14:00:27-07:00
-     URL   : https://www.producthunt.com/products/panels-store
+  1. Airbyte Agents
+     Fecha : 2026-05-04T08:40:19-07:00
+     URL   : https://www.producthunt.com/products/airbyte-agents
+  2. Openclick
+     Fecha : 2026-05-04T13:45:55-07:00
+     URL   : https://www.producthunt.com/products/openclick
+  3. Kilo Code for VS Code 7
+     Fecha : 2026-03-30T01:59:27-07:00
+     URL   : https://www.producthunt.com/products/kilocode
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. How the internet’s favorite squirrel dad made the hottest camera app of 2026
-     Fecha : 2026-05-03T09:00:00-04:00
-     URL   : https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr
-  2. AI music is flooding streaming services — but who wants it?
-     Fecha : 2026-05-03T08:00:00-04:00
-     URL   : https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it
-  3. All the evidence revealed so far in Musk v. Altman
-     Fecha : 2026-05-01T15:14:51-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial
+  1. OpenAI’s president does ‘all the things,’ except answer a question
+     Fecha : 2026-05-04T19:49:33-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial
+  2. The creator of Roomba is back with a furry robot companion
+     Fecha : 2026-05-04T12:51:38-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch
+  3. Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI
+     Fecha : 2026-05-04T11:43:49-04:00
+     URL   : https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-04  10:20:30
+  Fin del reporte  ·  2026-05-05  10:08:51
 ═════════════════════════════════════════════════════════════════

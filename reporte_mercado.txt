@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-06  10:24:34               ║
+║                  Generado: 2026-05-07  10:31:14               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Is Your Small Business Showing Up in Local Search? Here’s How To Find Out [Webinar] via @sejournal, @lorenbaker
-     Fecha : Wed, 06 May 2026 07:45:29 +0000
-     URL   : https://www.searchenginejournal.com/is-your-small-business-showing-up-in-local-search-heres-how-to-find-out-webinar/572608/
-  2. OpenAI Launches Self-Serve Ads Manager for ChatGPT via @sejournal, @brookeosmundson
-     Fecha : Wed, 06 May 2026 00:45:22 +0000
-     URL   : https://www.searchenginejournal.com/openai-launches-self-serve-ads-manager-for-chatgpt/573971/
-  3. Google Is Testing New Bot Authorization Standard via @sejournal, @martinibuster
-     Fecha : Tue, 05 May 2026 23:07:27 +0000
-     URL   : https://www.searchenginejournal.com/google-is-testing-new-bot-authorization-standard/573957/
+  1. Google Answers If Preferred Sources Overrides Low Quality Signals via @sejournal, @martinibuster
+     Fecha : Thu, 07 May 2026 10:29:02 +0000
+     URL   : https://www.searchenginejournal.com/google-answers-if-preferred-sources-overrides-low-quality-signals/574172/
+  2. Google Says AI Creative Should Help Brands Differentiate, Not Blend In via @sejournal, @brookeosmundson
+     Fecha : Wed, 06 May 2026 21:42:07 +0000
+     URL   : https://www.searchenginejournal.com/google-says-ai-creative-should-help-brands-differentiate-not-blend-in/574118/
+  3. Bing Team Describes How Grounding Differs From Search Indexing via @sejournal, @MattGSouthern
+     Fecha : Wed, 06 May 2026 21:27:06 +0000
+     URL   : https://www.searchenginejournal.com/bing-team-describes-how-grounding-differs-from-search-indexing/574119/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Peter Sarlin’s QuTwo reaches $380M valuation in angel round
-     Fecha : Wed, 06 May 2026 06:47:12 +0000
-     URL   : https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/
-  2. Marc Lore says that AI will soon enable anyone open a restaurant
-     Fecha : Wed, 06 May 2026 06:34:32 +0000
-     URL   : https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/
-  3. Nuro receives driverless testing permit ahead of Uber robotaxi service launch
-     Fecha : Wed, 06 May 2026 00:07:47 +0000
-     URL   : https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/
+  1. Five architects of the AI economy explain where the wheels are coming off
+     Fecha : Thu, 07 May 2026 05:25:10 +0000
+     URL   : https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/
+  2. A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom
+     Fecha : Wed, 06 May 2026 22:30:00 +0000
+     URL   : https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/
+  3. Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.
+     Fecha : Wed, 06 May 2026 21:57:56 +0000
+     URL   : https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Contrario
-     Fecha : 2026-04-21T14:24:56-07:00
-     URL   : https://www.producthunt.com/products/contrario
-  2. Custom Integrations by Databox
-     Fecha : 2026-04-28T06:11:50-07:00
-     URL   : https://www.producthunt.com/products/databox
-  3. Gas City 1.0
-     Fecha : 2026-05-01T18:26:03-07:00
-     URL   : https://www.producthunt.com/products/gas-city
+  1. Saydi
+     Fecha : 2026-05-06T04:17:27-07:00
+     URL   : https://www.producthunt.com/products/saydi
+  2. DevPass by LLM Gateway
+     Fecha : 2026-05-05T12:14:26-07:00
+     URL   : https://www.producthunt.com/products/devpass-by-llm-gateway
+  3. GetThis
+     Fecha : 2026-05-05T22:51:47-07:00
+     URL   : https://www.producthunt.com/products/getthis
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Chrome’s AI features may be hogging 4GB of your computer storage
-     Fecha : 2026-05-06T06:13:09-04:00
-     URL   : https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features
-  2. Google Home&#8217;s Gemini AI can handle more complicated requests
-     Fecha : 2026-05-05T17:46:04-04:00
-     URL   : https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade
-  3. Apple agrees to pay iPhone owners $250 million for not delivering AI Siri
-     Fecha : 2026-05-05T17:18:23-04:00
-     URL   : https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement
+  1. Musk’s biggest loyalist became his biggest liability
+     Fecha : 2026-05-06T19:37:02-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony
+  2. Google shuts down Project Mariner
+     Fecha : 2026-05-06T17:21:45-04:00
+     URL   : https://www.theverge.com/tech/925559/google-project-mariner-shut-down
+  3. How David Sacks crashed and burned in the White House
+     Fecha : 2026-05-06T16:18:00-04:00
+     URL   : https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-06  10:24:34
+  Fin del reporte  ·  2026-05-07  10:31:14
 ═════════════════════════════════════════════════════════════════

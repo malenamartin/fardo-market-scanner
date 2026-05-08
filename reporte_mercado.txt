@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-07  10:31:14               ║
+║                  Generado: 2026-05-08  09:46:21               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Answers If Preferred Sources Overrides Low Quality Signals via @sejournal, @martinibuster
-     Fecha : Thu, 07 May 2026 10:29:02 +0000
-     URL   : https://www.searchenginejournal.com/google-answers-if-preferred-sources-overrides-low-quality-signals/574172/
-  2. Google Says AI Creative Should Help Brands Differentiate, Not Blend In via @sejournal, @brookeosmundson
-     Fecha : Wed, 06 May 2026 21:42:07 +0000
-     URL   : https://www.searchenginejournal.com/google-says-ai-creative-should-help-brands-differentiate-not-blend-in/574118/
-  3. Bing Team Describes How Grounding Differs From Search Indexing via @sejournal, @MattGSouthern
-     Fecha : Wed, 06 May 2026 21:27:06 +0000
-     URL   : https://www.searchenginejournal.com/bing-team-describes-how-grounding-differs-from-search-indexing/574119/
+  1. “SEO Expert” Became “AI Search Expert” (Gulp.): How To Control AI Answer Accuracy via @sejournal, @lorenbaker
+     Fecha : Thu, 07 May 2026 16:41:38 +0000
+     URL   : https://www.searchenginejournal.com/seo-expert-became-ai-search-expert-gulp-how-to-control-ai-answer-accuracy/574245/
+  2. Keyword Research Has A New Strategy & It’s Getting Local Businesses Into AI Results [Webinar] via @sejournal, @hethr_campbell
+     Fecha : Thu, 07 May 2026 16:21:50 +0000
+     URL   : https://www.searchenginejournal.com/keyword-research-has-a-new-strategy-its-getting-local-businesses-into-ai-results-webinar/573484/
+  3. Google’s Mueller: Vibe Coding Won’t Handle Your SEO For You via @sejournal, @MattGSouthern
+     Fecha : Thu, 07 May 2026 16:02:11 +0000
+     URL   : https://www.searchenginejournal.com/googles-mueller-vibe-coding-wont-handle-your-seo-for-you/574237/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Five architects of the AI economy explain where the wheels are coming off
-     Fecha : Thu, 07 May 2026 05:25:10 +0000
-     URL   : https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/
-  2. A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom
-     Fecha : Wed, 06 May 2026 22:30:00 +0000
-     URL   : https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/
-  3. Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.
-     Fecha : Wed, 06 May 2026 21:57:56 +0000
-     URL   : https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/
+  1. Why you can never get your doctor to call you back
+     Fecha : Fri, 08 May 2026 04:42:29 +0000
+     URL   : https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/
+  2. Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B
+     Fecha : Thu, 07 May 2026 23:11:43 +0000
+     URL   : https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/
+  3. OpenAI launches new voice intelligence features in its API
+     Fecha : Thu, 07 May 2026 22:24:50 +0000
+     URL   : https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Saydi
-     Fecha : 2026-05-06T04:17:27-07:00
-     URL   : https://www.producthunt.com/products/saydi
-  2. DevPass by LLM Gateway
-     Fecha : 2026-05-05T12:14:26-07:00
-     URL   : https://www.producthunt.com/products/devpass-by-llm-gateway
-  3. GetThis
-     Fecha : 2026-05-05T22:51:47-07:00
-     URL   : https://www.producthunt.com/products/getthis
+  1. ElevenCreative Flows
+     Fecha : 2026-05-01T03:54:52-07:00
+     URL   : https://www.producthunt.com/products/elevencreative-flows
+  2. Transition
+     Fecha : 2026-05-05T15:36:52-07:00
+     URL   : https://www.producthunt.com/products/transition
+  3. Reefy
+     Fecha : 2026-05-07T09:57:11-07:00
+     URL   : https://www.producthunt.com/products/reefy
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Musk’s biggest loyalist became his biggest liability
-     Fecha : 2026-05-06T19:37:02-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony
-  2. Google shuts down Project Mariner
-     Fecha : 2026-05-06T17:21:45-04:00
-     URL   : https://www.theverge.com/tech/925559/google-project-mariner-shut-down
-  3. How David Sacks crashed and burned in the White House
-     Fecha : 2026-05-06T16:18:00-04:00
-     URL   : https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review
+  1. Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster
+     Fecha : 2026-05-07T15:55:22-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster
+  2. Apple&#8217;s AirPods with cameras for AI are apparently close to production
+     Fecha : 2026-05-07T15:39:22-04:00
+     URL   : https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production
+  3. SpaceX has a $55 billion plan to build AI chips in Texas
+     Fecha : 2026-05-07T15:26:16-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-07  10:31:14
+  Fin del reporte  ·  2026-05-08  09:46:21
 ═════════════════════════════════════════════════════════════════

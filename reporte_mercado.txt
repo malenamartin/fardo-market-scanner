@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-09  09:26:02               ║
+║                  Generado: 2026-05-10  09:44:07               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,41 +10,41 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. From Reddit to Revenue: Building Real Community That Drives Sales and AI Visibility via @sejournal, @hethr_campbell
+  1. Google Drops FAQ Rich Results From Search via @sejournal, @MattGSouthern
+     Fecha : Sun, 10 May 2026 08:54:15 +0000
+     URL   : https://www.searchenginejournal.com/google-drops-faq-rich-results-from-search/574429/
+  2. Google Adds More AI Search Links, Still No Click Data For SEOs via @sejournal, @MattGSouthern
+     Fecha : Sat, 09 May 2026 12:00:34 +0000
+     URL   : https://www.searchenginejournal.com/google-expands-ai-search-links-without-new-click-data/574307/
+  3. From Reddit to Revenue: Building Real Community That Drives Sales and AI Visibility via @sejournal, @hethr_campbell
      Fecha : Fri, 08 May 2026 19:53:42 +0000
      URL   : https://www.searchenginejournal.com/from-reddit-to-revenue-building-real-community-that-drives-sales-and-ai-visibility-recap/574380/
-  2. The Agent Runtime Wars Have Begun. Is Your Website Ready? via @sejournal, @slobodanmanic
-     Fecha : Fri, 08 May 2026 13:00:11 +0000
-     URL   : https://www.searchenginejournal.com/the-agent-runtime-wars-have-begun-is-your-website-ready/574174/
-  3. New AI Search Links, Core Update Winners And Losers – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Fri, 08 May 2026 12:30:36 +0000
-     URL   : https://www.searchenginejournal.com/seo-pulse-new-ai-search-links-core-update-winners-and-losers/574314/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Laid-off Oracle workers tried to negotiate better severance. Oracle said no.
-     Fecha : Fri, 08 May 2026 22:59:05 +0000
-     URL   : https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/
-  2. San Francisco’s housing market has lost its mind
-     Fecha : Fri, 08 May 2026 22:32:31 +0000
-     URL   : https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/
-  3. Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app
-     Fecha : Fri, 08 May 2026 20:50:03 +0000
-     URL   : https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/
+  1. Voice AI in India is hard. Wispr Flow is betting on it anyway.
+     Fecha : Sun, 10 May 2026 02:00:00 +0000
+     URL   : https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/
+  2. So you’ve heard these AI terms and nodded along; let’s fix that
+     Fecha : Sat, 09 May 2026 21:45:00 +0000
+     URL   : https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
+  3. Fintech startup Parker files for bankruptcy
+     Fecha : Sat, 09 May 2026 20:32:17 +0000
+     URL   : https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Zappy by ZapDigits
-     Fecha : 2026-05-08T02:57:19-07:00
-     URL   : https://www.producthunt.com/products/zapdigits
-  2. Ghost
-     Fecha : 2026-05-07T10:30:42-07:00
-     URL   : https://www.producthunt.com/products/ghost-8
-  3. Omi A11Y
-     Fecha : 2026-05-04T02:52:31-07:00
-     URL   : https://www.producthunt.com/products/omi-a11y-accessibility-scanner
+  1. Adject 2.0
+     Fecha : 2026-05-08T12:29:52-07:00
+     URL   : https://www.producthunt.com/products/adject
+  2. Tailgrids 3.0
+     Fecha : 2026-05-02T00:08:28-07:00
+     URL   : https://www.producthunt.com/products/tailgrids
+  3. deepsec
+     Fecha : 2026-05-05T04:00:17-07:00
+     URL   : https://www.producthunt.com/products/vercel
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-09  09:26:02
+  Fin del reporte  ·  2026-05-10  09:44:07
 ═════════════════════════════════════════════════════════════════

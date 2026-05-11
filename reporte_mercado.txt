@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-10  09:44:07               ║
+║                  Generado: 2026-05-11  11:31:39               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,41 +10,41 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Drops FAQ Rich Results From Search via @sejournal, @MattGSouthern
-     Fecha : Sun, 10 May 2026 08:54:15 +0000
-     URL   : https://www.searchenginejournal.com/google-drops-faq-rich-results-from-search/574429/
-  2. Google Adds More AI Search Links, Still No Click Data For SEOs via @sejournal, @MattGSouthern
-     Fecha : Sat, 09 May 2026 12:00:34 +0000
-     URL   : https://www.searchenginejournal.com/google-expands-ai-search-links-without-new-click-data/574307/
-  3. From Reddit to Revenue: Building Real Community That Drives Sales and AI Visibility via @sejournal, @hethr_campbell
-     Fecha : Fri, 08 May 2026 19:53:42 +0000
-     URL   : https://www.searchenginejournal.com/from-reddit-to-revenue-building-real-community-that-drives-sales-and-ai-visibility-recap/574380/
+  1. I Helped Build Google’s Keyword System. Here’s Why It’s Becoming Obsolete via @sejournal, @siliconvallaeys
+     Fecha : Mon, 11 May 2026 11:30:56 +0000
+     URL   : https://www.searchenginejournal.com/i-helped-build-googles-keyword-system-heres-why-its-becoming-obsolete/572362/
+  2. Google Ads Will Limit Access To Older Reporting Data via @sejournal, @martinibuster
+     Fecha : Mon, 11 May 2026 09:39:41 +0000
+     URL   : https://www.searchenginejournal.com/google-ads-will-limit-access-to-older-reporting-data/574467/
+  3. Google’s UCP Update: Carts, Catalogs, And Loyalty In AI Shopping via @sejournal, @slobodanmanic
+     Fecha : Sun, 10 May 2026 12:00:07 +0000
+     URL   : https://www.searchenginejournal.com/googles-ucp-update-carts-catalogs-and-loyalty-in-ai-shopping/571496/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Voice AI in India is hard. Wispr Flow is betting on it anyway.
-     Fecha : Sun, 10 May 2026 02:00:00 +0000
-     URL   : https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/
-  2. So you’ve heard these AI terms and nodded along; let’s fix that
-     Fecha : Sat, 09 May 2026 21:45:00 +0000
-     URL   : https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
-  3. Fintech startup Parker files for bankruptcy
-     Fecha : Sat, 09 May 2026 20:32:17 +0000
-     URL   : https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/
+  1. Korea’s biggest manufacturers back Config, the TSMC of robot data
+     Fecha : Mon, 11 May 2026 10:58:00 +0000
+     URL   : https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/
+  2. Get ready for the whisper-filled office of the future
+     Fecha : Sun, 10 May 2026 21:15:30 +0000
+     URL   : https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/
+  3. Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts
+     Fecha : Sun, 10 May 2026 20:40:41 +0000
+     URL   : https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Adject 2.0
-     Fecha : 2026-05-08T12:29:52-07:00
-     URL   : https://www.producthunt.com/products/adject
-  2. Tailgrids 3.0
-     Fecha : 2026-05-02T00:08:28-07:00
-     URL   : https://www.producthunt.com/products/tailgrids
-  3. deepsec
-     Fecha : 2026-05-05T04:00:17-07:00
-     URL   : https://www.producthunt.com/products/vercel
+  1. CacheTray
+     Fecha : 2026-05-10T11:35:54-07:00
+     URL   : https://www.producthunt.com/products/cachetray-clipboard-for-ai-workflows
+  2. Graphbit PRFlow - AI Code Review Agent
+     Fecha : 2025-12-19T01:47:46-08:00
+     URL   : https://www.producthunt.com/products/graphbit
+  3. Web Speed
+     Fecha : 2026-05-09T13:54:58-07:00
+     URL   : https://www.producthunt.com/products/web-speed
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-10  09:44:07
+  Fin del reporte  ·  2026-05-11  11:31:39
 ═════════════════════════════════════════════════════════════════

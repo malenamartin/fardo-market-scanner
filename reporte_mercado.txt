@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-11  11:31:39               ║
+║                  Generado: 2026-05-12  10:38:41               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. I Helped Build Google’s Keyword System. Here’s Why It’s Becoming Obsolete via @sejournal, @siliconvallaeys
-     Fecha : Mon, 11 May 2026 11:30:56 +0000
-     URL   : https://www.searchenginejournal.com/i-helped-build-googles-keyword-system-heres-why-its-becoming-obsolete/572362/
-  2. Google Ads Will Limit Access To Older Reporting Data via @sejournal, @martinibuster
-     Fecha : Mon, 11 May 2026 09:39:41 +0000
-     URL   : https://www.searchenginejournal.com/google-ads-will-limit-access-to-older-reporting-data/574467/
-  3. Google’s UCP Update: Carts, Catalogs, And Loyalty In AI Shopping via @sejournal, @slobodanmanic
-     Fecha : Sun, 10 May 2026 12:00:07 +0000
-     URL   : https://www.searchenginejournal.com/googles-ucp-update-carts-catalogs-and-loyalty-in-ai-shopping/571496/
+  1. The Consensus Gap via @sejournal, @Kevin_Indig
+     Fecha : Tue, 12 May 2026 09:30:46 +0000
+     URL   : https://www.searchenginejournal.com/the-consensus-gap/574534/
+  2. The 90-Day AI Search Sprint: How To Rebuild Your Marketing For 2026 Visibility via @sejournal, @hethr_campbell
+     Fecha : Tue, 12 May 2026 07:45:49 +0000
+     URL   : https://www.searchenginejournal.com/the-90-day-ai-search-sprint-how-to-rebuild-your-marketing-for-2026-visibility-recap/574396/
+  3. The Tech SEO Audit for the AI Search Era: How to Maximize Your AI Visibility via @sejournal, @JetOctopus
+     Fecha : Tue, 12 May 2026 05:00:15 +0000
+     URL   : https://www.searchenginejournal.com/technical-ai-seo-audit-jetoctopus-spa/572262/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Korea’s biggest manufacturers back Config, the TSMC of robot data
-     Fecha : Mon, 11 May 2026 10:58:00 +0000
-     URL   : https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/
-  2. Get ready for the whisper-filled office of the future
-     Fecha : Sun, 10 May 2026 21:15:30 +0000
-     URL   : https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/
-  3. Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts
-     Fecha : Sun, 10 May 2026 20:40:41 +0000
-     URL   : https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/
+  1. Amazon launches 30-minute delivery across the U.S.
+     Fecha : Tue, 12 May 2026 10:00:00 +0000
+     URL   : https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/
+  2. Thinking Machines wants to build an AI that actually listens while it talks
+     Fecha : Tue, 12 May 2026 04:52:35 +0000
+     URL   : https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/
+  3. Riding an AI rally, Robinhood preps second retail venture IPO
+     Fecha : Tue, 12 May 2026 00:09:01 +0000
+     URL   : https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. CacheTray
-     Fecha : 2026-05-10T11:35:54-07:00
-     URL   : https://www.producthunt.com/products/cachetray-clipboard-for-ai-workflows
-  2. Graphbit PRFlow - AI Code Review Agent
-     Fecha : 2025-12-19T01:47:46-08:00
-     URL   : https://www.producthunt.com/products/graphbit
-  3. Web Speed
-     Fecha : 2026-05-09T13:54:58-07:00
-     URL   : https://www.producthunt.com/products/web-speed
+  1. ContentPilots
+     Fecha : 2026-05-10T16:02:13-07:00
+     URL   : https://www.producthunt.com/products/contentpilots
+  2. Kelviq
+     Fecha : 2026-05-05T15:39:25-07:00
+     URL   : https://www.producthunt.com/products/kelviq
+  3. Whale Starts
+     Fecha : 2026-05-11T02:45:29-07:00
+     URL   : https://www.producthunt.com/products/whale-starts
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. All the latest updates on AI data centers
-     Fecha : 2026-05-08T14:45:08-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy
-  2. PlayStation sees AI as a ‘powerful tool’ to help make games
-     Fecha : 2026-05-08T12:30:56-04:00
-     URL   : https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games
-  3. Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure
-     Fecha : 2026-05-08T11:25:02-04:00
-     URL   : https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure
+  1. OpenAI just released its answer to Claude Mythos
+     Fecha : 2026-05-11T19:05:01-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai
+  2. Here&#8217;s what Mira Murati&#8217;s AI company is up to
+     Fecha : 2026-05-11T18:19:15-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model
+  3. Google stopped a zero-day hack that it says was developed with AI
+     Fecha : 2026-05-11T12:09:42-04:00
+     URL   : https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-11  11:31:39
+  Fin del reporte  ·  2026-05-12  10:38:41
 ═════════════════════════════════════════════════════════════════

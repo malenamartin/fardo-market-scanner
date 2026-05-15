@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-14  10:27:22               ║
+║                  Generado: 2026-05-15  10:33:26               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. How To Measure AI Search: Current KPIs You Need To Know [Webinar] via @sejournal, @hethr_campbell
-     Fecha : Thu, 14 May 2026 07:45:54 +0000
-     URL   : https://www.searchenginejournal.com/how-to-measure-ai-search-current-kpis-you-need-to-know/573477/
-  2. Liquid Web WordPress Plugin Rebrand Triggers Backlash via @sejournal, @martinibuster
-     Fecha : Wed, 13 May 2026 23:28:37 +0000
-     URL   : https://www.searchenginejournal.com/liquid-web-wordpress-plugin-rebrand-triggers-backlash/574828/
-  3. Google Quietly Changed How Search Terms Are Reported For Some AI Queries via @sejournal, @brookeosmundson
-     Fecha : Wed, 13 May 2026 19:07:25 +0000
-     URL   : https://www.searchenginejournal.com/google-quietly-changed-how-search-terms-are-reported-for-some-ai-queries/574803/
+  1. Why Your AI Ad Strategy Is Only As Good As Your Data via @sejournal, @gregjarboe
+     Fecha : Fri, 15 May 2026 09:00:23 +0000
+     URL   : https://www.searchenginejournal.com/why-your-ai-ad-strategy-is-only-as-good-as-your-data/574661/
+  2. Google Analytics Adds AI Assistant As Default Channel Group via @sejournal, @MattGSouthern
+     Fecha : Thu, 14 May 2026 15:50:42 +0000
+     URL   : https://www.searchenginejournal.com/google-analytics-adds-ai-assistant-as-default-channel-group/574974/
+  3. Stop Treating AI Visibility As One Problem. It’s Actually Three, On Three Different Layers via @sejournal, @DuaneForrester
+     Fecha : Thu, 14 May 2026 13:00:19 +0000
+     URL   : https://www.searchenginejournal.com/stop-treating-ai-visibility-as-one-problem-its-actually-three-on-three-different-layers/574445/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts
-     Fecha : Thu, 14 May 2026 06:05:31 +0000
-     URL   : https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/
-  2. Clio’s $500M milestone arrives just as Anthropic ups the ante
-     Fecha : Thu, 14 May 2026 05:24:39 +0000
-     URL   : https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/
-  3. Notion just turned its workspace into a hub for AI agents
-     Fecha : Wed, 13 May 2026 21:45:09 +0000
-     URL   : https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/
+  1. What the jury will actually decide in the case of Elon Musk vs. Sam Altman
+     Fecha : Thu, 14 May 2026 22:47:51 +0000
+     URL   : https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/
+  2. Elon Musk’s SpaceXAI has been bleeding staff since its merger
+     Fecha : Thu, 14 May 2026 21:30:44 +0000
+     URL   : https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/
+  3. OpenAI says Codex is coming to your phone
+     Fecha : Thu, 14 May 2026 20:58:55 +0000
+     URL   : https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. DesignMD
-     Fecha : 2026-05-13T07:40:33-07:00
-     URL   : https://www.producthunt.com/products/designmd-2
-  2. Edit Mind
-     Fecha : 2026-05-13T01:27:28-07:00
-     URL   : https://www.producthunt.com/products/edit-mind-3
-  3. Ansvisor
-     Fecha : 2026-05-12T06:53:55-07:00
-     URL   : https://www.producthunt.com/products/ansvisor
+  1. Atlas Navigation
+     Fecha : 2026-05-11T15:24:50-07:00
+     URL   : https://www.producthunt.com/products/atlas-navigation
+  2. PromptScout
+     Fecha : 2026-05-14T06:13:48-07:00
+     URL   : https://www.producthunt.com/products/promptscout
+  3. Standboy
+     Fecha : 2026-05-14T06:02:59-07:00
+     URL   : https://www.producthunt.com/products/standboy
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs
-     Fecha : 2026-05-13T18:04:28-04:00
-     URL   : https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs
-  2. Mark Zuckerberg announces &#8216;completely private&#8217; encrypted Meta AI chat
-     Fecha : 2026-05-13T12:45:43-04:00
-     URL   : https://www.theverge.com/tech/929791/meta-ai-incognito-chats
-  3. Microsoft doesn’t want any of this
-     Fecha : 2026-05-13T11:30:37-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial
+  1. Closing time
+     Fecha : 2026-05-14T18:21:46-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis
+  2. Behold, the Elon Musk jackass trophy
+     Fecha : 2026-05-14T16:59:23-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue
+  3. OpenAI’s Codex is now in the ChatGPT mobile app
+     Fecha : 2026-05-14T16:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-14  10:27:22
+  Fin del reporte  ·  2026-05-15  10:33:26
 ═════════════════════════════════════════════════════════════════

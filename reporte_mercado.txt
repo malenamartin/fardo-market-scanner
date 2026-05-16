@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-15  10:33:26               ║
+║                  Generado: 2026-05-16  09:47:14               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Why Your AI Ad Strategy Is Only As Good As Your Data via @sejournal, @gregjarboe
+  1. Google’s New AI Search Guide Calls AEO And GEO ‘Still SEO’ via @sejournal, @MattGSouthern
+     Fecha : Fri, 15 May 2026 16:14:25 +0000
+     URL   : https://www.searchenginejournal.com/googles-new-ai-search-guide-calls-aeo-and-geo-still-seo/575026/
+  2. GA4 Tracks AI Assistant Traffic, FAQ Results Gone – SEO Pulse via @sejournal, @MattGSouthern
+     Fecha : Fri, 15 May 2026 12:30:12 +0000
+     URL   : https://www.searchenginejournal.com/seo-pulse-ga4-tracks-ai-assistant-traffic-faq-results-gone/575010/
+  3. Why Your AI Ad Strategy Is Only As Good As Your Data via @sejournal, @gregjarboe
      Fecha : Fri, 15 May 2026 09:00:23 +0000
      URL   : https://www.searchenginejournal.com/why-your-ai-ad-strategy-is-only-as-good-as-your-data/574661/
-  2. Google Analytics Adds AI Assistant As Default Channel Group via @sejournal, @MattGSouthern
-     Fecha : Thu, 14 May 2026 15:50:42 +0000
-     URL   : https://www.searchenginejournal.com/google-analytics-adds-ai-assistant-as-default-channel-group/574974/
-  3. Stop Treating AI Visibility As One Problem. It’s Actually Three, On Three Different Layers via @sejournal, @DuaneForrester
-     Fecha : Thu, 14 May 2026 13:00:19 +0000
-     URL   : https://www.searchenginejournal.com/stop-treating-ai-visibility-as-one-problem-its-actually-three-on-three-different-layers/574445/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. What the jury will actually decide in the case of Elon Musk vs. Sam Altman
-     Fecha : Thu, 14 May 2026 22:47:51 +0000
-     URL   : https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/
-  2. Elon Musk’s SpaceXAI has been bleeding staff since its merger
-     Fecha : Thu, 14 May 2026 21:30:44 +0000
-     URL   : https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/
-  3. OpenAI says Codex is coming to your phone
-     Fecha : Thu, 14 May 2026 20:58:55 +0000
-     URL   : https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/
+  1. RJ Scaringe has raised more than $12B across three startups and investors still want more
+     Fecha : Fri, 15 May 2026 20:30:20 +0000
+     URL   : https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/
+  2. General Catalyst posted VC rage bait and it worked, especially on a16z
+     Fecha : Fri, 15 May 2026 20:25:35 +0000
+     URL   : https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/
+  3. A hotel check-in system left a million passports and driver’s licenses open for anyone to see
+     Fecha : Fri, 15 May 2026 18:51:33 +0000
+     URL   : https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Atlas Navigation
-     Fecha : 2026-05-11T15:24:50-07:00
-     URL   : https://www.producthunt.com/products/atlas-navigation
-  2. PromptScout
-     Fecha : 2026-05-14T06:13:48-07:00
-     URL   : https://www.producthunt.com/products/promptscout
-  3. Standboy
-     Fecha : 2026-05-14T06:02:59-07:00
-     URL   : https://www.producthunt.com/products/standboy
+  1. Agentmemory
+     Fecha : 2026-05-11T02:53:56-07:00
+     URL   : https://www.producthunt.com/products/agent-memory-dev
+  2. Wring
+     Fecha : 2026-05-15T07:24:23-07:00
+     URL   : https://www.producthunt.com/products/wring
+  3. Loova Agents
+     Fecha : 2026-05-09T23:39:10-07:00
+     URL   : https://www.producthunt.com/products/loova-agents
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Closing time
-     Fecha : 2026-05-14T18:21:46-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis
-  2. Behold, the Elon Musk jackass trophy
-     Fecha : 2026-05-14T16:59:23-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue
-  3. OpenAI’s Codex is now in the ChatGPT mobile app
-     Fecha : 2026-05-14T16:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview
+  1. YouTube is expanding its AI deepfake detection tool to all adult users
+     Fecha : 2026-05-15T18:25:00-04:00
+     URL   : https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults
+  2. ArXiv will ban researchers who upload papers full of AI slop
+     Fecha : 2026-05-15T16:38:19-04:00
+     URL   : https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers
+  3. OpenAI keeps shuffling its executives in bid to win AI agent battle
+     Fecha : 2026-05-15T14:21:35-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-15  10:33:26
+  Fin del reporte  ·  2026-05-16  09:47:14
 ═════════════════════════════════════════════════════════════════

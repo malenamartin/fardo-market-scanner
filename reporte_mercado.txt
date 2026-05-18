@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-17  09:53:57               ║
+║                  Generado: 2026-05-18  11:50:27               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Meta Doesn’t Know What Business It’s In & The Traffic Data Shows It via @sejournal, @gregjarboe
-     Fecha : Sat, 16 May 2026 15:00:16 +0000
-     URL   : https://www.searchenginejournal.com/meta-doesnt-know-what-business-its-in-the-traffic-data-shows-it/574375/
-  2. SERP FAQ Removal & New Data Challenge Schema’s AI Search Value via @sejournal, @MattGSouthern
-     Fecha : Sat, 16 May 2026 12:00:54 +0000
-     URL   : https://www.searchenginejournal.com/serp-faq-removal-new-data-challenge-schemas-ai-search-value/574993/
-  3. Google’s New AI Search Guide Calls AEO And GEO ‘Still SEO’ via @sejournal, @MattGSouthern
-     Fecha : Fri, 15 May 2026 16:14:25 +0000
-     URL   : https://www.searchenginejournal.com/googles-new-ai-search-guide-calls-aeo-and-geo-still-seo/575026/
+  1. Rethinking Audience Targeting In A Signal-Loss Era (With The R.E.M. Framework) via @sejournal, @SequinsNsearch
+     Fecha : Mon, 18 May 2026 11:15:22 +0000
+     URL   : https://www.searchenginejournal.com/rethinking-audience-targeting-signal-loss-era-rem-framework/572422/
+  2. Anthropic’s Infrastructure Crisis – What It Means for Marketers & SEO Pros via @sejournal, @gregjarboe
+     Fecha : Mon, 18 May 2026 09:30:13 +0000
+     URL   : https://www.searchenginejournal.com/anthropics-infrastructure-crisis-what-it-means-for-marketers-seo-pros/574258/
+  3. Google-Agent: The Web’s New Visitor Just Got An Identity via @sejournal, @slobodanmanic
+     Fecha : Sun, 17 May 2026 12:00:45 +0000
+     URL   : https://www.searchenginejournal.com/google-agent-the-webs-new-visitor-just-got-an-identity/571508/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. The haves and have nots of the AI gold rush
-     Fecha : Sat, 16 May 2026 20:17:16 +0000
-     URL   : https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/
-  2. Marketing operating system Nectar Social raises $30M Series A led by Menlo
-     Fecha : Sat, 16 May 2026 19:26:14 +0000
-     URL   : https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/
-  3. Research repository ArXiv will ban authors for a year if they let AI do all the work
-     Fecha : Sat, 16 May 2026 18:54:28 +0000
-     URL   : https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/
+  1. South Korea’s LetinAR is building optics behind AI glasses
+     Fecha : Mon, 18 May 2026 11:00:00 +0000
+     URL   : https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/
+  2. Apple’s Siri revamp could include auto-deleting chats
+     Fecha : Sun, 17 May 2026 20:15:00 +0000
+     URL   : https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/
+  3. Why trust is a big question at the Elon Musk-OpenAI trial
+     Fecha : Sun, 17 May 2026 19:46:34 +0000
+     URL   : https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Kirki
-     Fecha : 2026-05-16T04:15:00-07:00
-     URL   : https://www.producthunt.com/products/kirki
-  2. Vivago Video Agent
-     Fecha : 2026-05-13T06:02:37-07:00
-     URL   : https://www.producthunt.com/products/viva
-  3. Fere AI
-     Fecha : 2026-04-30T10:44:29-07:00
-     URL   : https://www.producthunt.com/products/fere-ai
+  1. Voiser AI
+     Fecha : 2026-05-17T23:28:32-07:00
+     URL   : https://www.producthunt.com/products/voiser-ai-text-to-speech
+  2. SocLeads 3.0
+     Fecha : 2026-04-15T06:27:47-07:00
+     URL   : https://www.producthunt.com/products/socleads
+  3. Agentspan
+     Fecha : 2026-05-14T19:09:00-07:00
+     URL   : https://www.producthunt.com/products/agentspan
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Sony tries to explain that its AI Camera Assistant doesn’t suck
-     Fecha : 2026-05-16T11:37:05-04:00
-     URL   : https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant
-  2. YouTube is expanding its AI deepfake detection tool to all adult users
-     Fecha : 2026-05-15T18:25:00-04:00
-     URL   : https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults
-  3. ArXiv will ban researchers who upload papers full of AI slop
-     Fecha : 2026-05-15T16:38:19-04:00
-     URL   : https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers
+  1. Revamped Siri will reportedly offer autodeleting chats
+     Fecha : 2026-05-17T14:40:28-04:00
+     URL   : https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats
+  2. University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement
+     Fecha : 2026-05-17T13:22:23-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement
+  3. Chatbots at the drive-thru are just the beginning
+     Fecha : 2026-05-17T08:00:00-04:00
+     URL   : https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-17  09:53:57
+  Fin del reporte  ·  2026-05-18  11:50:27
 ═════════════════════════════════════════════════════════════════

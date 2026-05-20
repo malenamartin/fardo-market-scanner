@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-19  11:27:43               ║
+║                  Generado: 2026-05-20  11:13:27               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. What Google’s UCP Tells Us About Agent-Ready Websites via @sejournal, @slobodanmanic
-     Fecha : Tue, 19 May 2026 09:00:09 +0000
-     URL   : https://www.searchenginejournal.com/what-googles-ucp-tells-us-about-agent-ready-websites/574220/
-  2. Inside AI Citation: Proven Strategies To Get Your Brand Cited via @sejournal, @lorenbaker
-     Fecha : Tue, 19 May 2026 07:45:40 +0000
-     URL   : https://www.searchenginejournal.com/inside-ai-citation-proven-strategies-to-get-your-brand-cited/574807/
-  3. It Works Until It Doesn’t: AI Content Strategies That Backfire via @sejournal, @lilyraynyc
-     Fecha : Mon, 18 May 2026 13:00:17 +0000
-     URL   : https://www.searchenginejournal.com/it-works-until-it-doesnt-ai-content-strategies-that-backfire/574820/
+  1. Can A 300,000-Influencer Network Built On AI-Generated Content Work? via @sejournal, @gregjarboe
+     Fecha : Wed, 20 May 2026 11:00:39 +0000
+     URL   : https://www.searchenginejournal.com/can-a-300000-influencer-network-built-on-ai-generated-content-work/574985/
+  2. Google Ads Budget Misallocation Is More Common Than You Think – And Harder To Spot via @sejournal, @LisaRocksSEM
+     Fecha : Wed, 20 May 2026 09:00:56 +0000
+     URL   : https://www.searchenginejournal.com/google-ads-budget-misallocation-is-more-common-than-you-think-and-harder-to-spot/573615/
+  3. 90% Of Brands Have Zero AI Search Mentions, New Study Finds 4 Key SEO Insights
+     Fecha : Tue, 19 May 2026 21:27:10 +0000
+     URL   : https://www.searchenginejournal.com/ai-seo-mentions-study-victorious-spa/575040/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business
-     Fecha : Tue, 19 May 2026 10:00:00 +0000
-     URL   : https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/
-  2. Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.
-     Fecha : Tue, 19 May 2026 05:50:49 +0000
-     URL   : https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/
-  3. OSHA probing worker death at SpaceX’s Starbase site
-     Fecha : Mon, 18 May 2026 21:55:02 +0000
-     URL   : https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/
+  1. ‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts
+     Fecha : Wed, 20 May 2026 05:45:00 +0000
+     URL   : https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/
+  2. Google just declared itself a contender in AI design at IO 2026
+     Fecha : Tue, 19 May 2026 21:33:30 +0000
+     URL   : https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/
+  3. You can now talk to your Gmail inbox, as seen at Google IO 2026
+     Fecha : Tue, 19 May 2026 21:25:31 +0000
+     URL   : https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. CtrlOps
-     Fecha : 2026-05-16T10:43:18-07:00
-     URL   : https://www.producthunt.com/products/ctrlops
-  2. Mantle Chat
-     Fecha : 2026-04-01T07:17:37-07:00
-     URL   : https://www.producthunt.com/products/mantle-chat
-  3. Drizz
-     Fecha : 2026-05-14T00:03:28-07:00
-     URL   : https://www.producthunt.com/products/drizz-2
+  1. StoreClaw
+     Fecha : 2026-05-11T17:00:55-07:00
+     URL   : https://www.producthunt.com/products/storeclaw
+  2. Manus Scheduled Tasks 2.0
+     Fecha : 2026-05-18T09:54:36-07:00
+     URL   : https://www.producthunt.com/products/manus
+  3. Re_gent
+     Fecha : 2026-05-14T05:19:20-07:00
+     URL   : https://www.producthunt.com/products/re_gent
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Gemini is in danger of going full Copilot
-     Fecha : 2026-05-19T06:30:00-04:00
-     URL   : https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace
-  2. Musk v. Altman proved that AI is led by the wrong people
-     Fecha : 2026-05-18T15:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people
-  3. All of the updates from Elon Musk and Sam Altman’s battle over OpenAI
-     Fecha : 2026-05-18T13:49:49-04:00
-     URL   : https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit
+  1. Demis Hassabis said this might be the ‘foothills of the singularity.’ What?
+     Fecha : 2026-05-19T18:16:02-04:00
+     URL   : https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis
+  2. The future of Google is a search box that does everything
+     Fecha : 2026-05-19T17:24:14-04:00
+     URL   : https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026
+  3. Google’s AI future demands trust — and your personal data
+     Fecha : 2026-05-19T17:00:00-04:00
+     URL   : https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-19  11:27:43
+  Fin del reporte  ·  2026-05-20  11:13:27
 ═════════════════════════════════════════════════════════════════

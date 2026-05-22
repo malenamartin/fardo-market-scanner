@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-21  11:32:33               ║
+║                  Generado: 2026-05-22  10:56:51               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. How To Stress-Test A Staging Environment To Surface Risks Pre-Launch  – Ask An SEO via @sejournal, @HelenPollitt1
-     Fecha : Thu, 21 May 2026 11:30:16 +0000
-     URL   : https://www.searchenginejournal.com/ask-an-seo-how-do-you-stress-test-a-staging-environment/573559/
-  2. WordPress 7.0 Is A Winner: Here’s What You Need To Know via @sejournal, @martinibuster
-     Fecha : Thu, 21 May 2026 10:06:34 +0000
-     URL   : https://www.searchenginejournal.com/wordpress-7-0-is-a-winner-heres-what-you-need-to-know/575510/
-  3. Microsoft Clarity Now Shows Grounding Queries Behind AI Citations via @sejournal, @TaylorDanRW
-     Fecha : Thu, 21 May 2026 09:00:49 +0000
-     URL   : https://www.searchenginejournal.com/microsoft-clarity-now-shows-grounding-queries-behind-ai-citations/575279/
+  1. WordPress 7.0 Faces Security Concerns Over AI API Keys via @sejournal, @martinibuster
+     Fecha : Fri, 22 May 2026 10:37:43 +0000
+     URL   : https://www.searchenginejournal.com/wordpress-7-0-faces-security-concerns-over-ai-api-keys/575679/
+  2. When Marketing Leaders Can’t Explain Search Performance via @sejournal, @coreydmorris
+     Fecha : Fri, 22 May 2026 09:00:18 +0000
+     URL   : https://www.searchenginejournal.com/when-marketing-leaders-cant-explain-search-performance/572464/
+  3. Google Begins Rolling Out May 2026 Core Update via @sejournal, @MattGSouthern
+     Fecha : Thu, 21 May 2026 16:11:57 +0000
+     URL   : https://www.searchenginejournal.com/google-begins-rolling-out-may-2026-core-update/575589/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Beauty booking startup Fresha hits $1 billion valuation with KKR backing
-     Fecha : Thu, 21 May 2026 11:00:00 +0000
-     URL   : https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/
-  2. Truecaller gets into the eSIM business to diversify its revenue streams
-     Fecha : Thu, 21 May 2026 06:00:00 +0000
-     URL   : https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/
-  3. General Catalyst just led a $63M bet on India’s travel payments market
-     Fecha : Thu, 21 May 2026 05:52:38 +0000
-     URL   : https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/
+  1. Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market
+     Fecha : Fri, 22 May 2026 06:41:28 +0000
+     URL   : https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/
+  2. Waymo expands pause to four cities as robotaxis keep driving into floods
+     Fecha : Fri, 22 May 2026 00:37:00 +0000
+     URL   : https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/
+  3. SpaceX scrubs first Starship V3 launch just before liftoff
+     Fecha : Fri, 22 May 2026 00:07:47 +0000
+     URL   : https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Tycoon AI
-     Fecha : 2026-05-20T19:08:22-07:00
-     URL   : https://www.producthunt.com/products/tycoon-us
-  2. Basedash Skills
-     Fecha : 2026-05-20T20:23:45-07:00
-     URL   : https://www.producthunt.com/products/basedash
-  3. Vivaldi 8.0
-     Fecha : 2026-05-20T07:41:40-07:00
-     URL   : https://www.producthunt.com/products/vivaldi
+  1. TestSprite 3.0
+     Fecha : 2026-05-11T21:22:39-07:00
+     URL   : https://www.producthunt.com/products/testsprite
+  2. Nugget AI
+     Fecha : 2026-05-21T19:35:07-07:00
+     URL   : https://www.producthunt.com/products/nugget-ai
+  3. AGG Identify
+     Fecha : 2026-05-17T11:03:02-07:00
+     URL   : https://www.producthunt.com/products/agg-identify
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Meta lays off thousands of employees to offset AI investments
-     Fecha : 2026-05-21T05:20:46-04:00
-     URL   : https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo
-  2. In SpaceX’s IPO, Elon Musk is a risk factor
-     Fecha : 2026-05-20T23:42:45-04:00
-     URL   : https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor
-  3. ‘Solve all diseases,’ you say?
-     Fecha : 2026-05-20T17:06:35-04:00
-     URL   : https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health
+  1. All of the updates from Elon Musk and Sam Altman’s battle over OpenAI
+     Fecha : 2026-05-21T16:15:18-04:00
+     URL   : https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit
+  2. In desperate times, graduates find hope in humiliating tech CEOs
+     Fecha : 2026-05-21T16:00:06-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos
+  3. This AI guitar pedal let me roll my own effects
+     Fecha : 2026-05-21T13:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-21  11:32:33
+  Fin del reporte  ·  2026-05-22  10:56:51
 ═════════════════════════════════════════════════════════════════

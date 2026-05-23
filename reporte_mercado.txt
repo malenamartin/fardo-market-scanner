@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-22  10:56:51               ║
+║                  Generado: 2026-05-23  10:00:45               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. WordPress 7.0 Faces Security Concerns Over AI API Keys via @sejournal, @martinibuster
+  1. 3 Unrelated Stories About AI & Writing Tell The Same Story via @sejournal, @gregjarboe
+     Fecha : Fri, 22 May 2026 14:00:37 +0000
+     URL   : https://www.searchenginejournal.com/3-unrelated-stories-about-ai-writing-tell-the-same-story/575070/
+  2. Google Launches Core Update Amid I/O AI Search Overhaul – SEO Pulse via @sejournal, @MattGSouthern
+     Fecha : Fri, 22 May 2026 12:30:40 +0000
+     URL   : https://www.searchenginejournal.com/seo-pulse-google-launches-core-update-amid-i-o-ai-search-overhaul/575676/
+  3. Security Researcher: WordPress 7.0 Could Trigger Rush To Steal AI API Keys via @sejournal, @martinibuster
      Fecha : Fri, 22 May 2026 10:37:43 +0000
      URL   : https://www.searchenginejournal.com/wordpress-7-0-faces-security-concerns-over-ai-api-keys/575679/
-  2. When Marketing Leaders Can’t Explain Search Performance via @sejournal, @coreydmorris
-     Fecha : Fri, 22 May 2026 09:00:18 +0000
-     URL   : https://www.searchenginejournal.com/when-marketing-leaders-cant-explain-search-performance/572464/
-  3. Google Begins Rolling Out May 2026 Core Update via @sejournal, @MattGSouthern
-     Fecha : Thu, 21 May 2026 16:11:57 +0000
-     URL   : https://www.searchenginejournal.com/google-begins-rolling-out-may-2026-core-update/575589/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market
-     Fecha : Fri, 22 May 2026 06:41:28 +0000
-     URL   : https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/
-  2. Waymo expands pause to four cities as robotaxis keep driving into floods
-     Fecha : Fri, 22 May 2026 00:37:00 +0000
-     URL   : https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/
-  3. SpaceX scrubs first Starship V3 launch just before liftoff
-     Fecha : Fri, 22 May 2026 00:07:47 +0000
-     URL   : https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/
+  1. Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say
+     Fecha : Sat, 23 May 2026 07:01:00 +0000
+     URL   : https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/
+  2. AI is being used to resurrect the voices of dead pilots
+     Fecha : Fri, 22 May 2026 23:03:33 +0000
+     URL   : https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/
+  3. SpaceX launches Starship V3 for the first time, but loses booster on return
+     Fecha : Fri, 22 May 2026 22:55:57 +0000
+     URL   : https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. TestSprite 3.0
-     Fecha : 2026-05-11T21:22:39-07:00
-     URL   : https://www.producthunt.com/products/testsprite
-  2. Nugget AI
-     Fecha : 2026-05-21T19:35:07-07:00
-     URL   : https://www.producthunt.com/products/nugget-ai
-  3. AGG Identify
-     Fecha : 2026-05-17T11:03:02-07:00
-     URL   : https://www.producthunt.com/products/agg-identify
+  1. Forsy
+     Fecha : 2026-05-13T02:49:52-07:00
+     URL   : https://www.producthunt.com/products/forsy
+  2. Finderlock
+     Fecha : 2025-09-18T05:55:33-07:00
+     URL   : https://www.producthunt.com/products/finderlock
+  3. Coca 2.0
+     Fecha : 2026-05-10T12:34:57-07:00
+     URL   : https://www.producthunt.com/products/coca-2-0
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. All of the updates from Elon Musk and Sam Altman’s battle over OpenAI
-     Fecha : 2026-05-21T16:15:18-04:00
-     URL   : https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit
-  2. In desperate times, graduates find hope in humiliating tech CEOs
-     Fecha : 2026-05-21T16:00:06-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos
-  3. This AI guitar pedal let me roll my own effects
-     Fecha : 2026-05-21T13:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal
+  1. Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for
+     Fecha : 2026-05-22T16:39:54-04:00
+     URL   : https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard
+  2. Elon, stop trying to make Grok happen
+     Fecha : 2026-05-22T13:17:06-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen
+  3. The literary world isn’t prepared for AI
+     Fecha : 2026-05-22T10:30:00-04:00
+     URL   : https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-22  10:56:51
+  Fin del reporte  ·  2026-05-23  10:00:45
 ═════════════════════════════════════════════════════════════════

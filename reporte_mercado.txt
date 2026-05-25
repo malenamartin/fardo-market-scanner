@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-24  10:01:35               ║
+║                  Generado: 2026-05-25  11:57:42               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google I/O Didn’t End SEO. The Risk Is Somewhere Else via @sejournal, @MattGSouthern
-     Fecha : Sat, 23 May 2026 12:00:44 +0000
-     URL   : https://www.searchenginejournal.com/google-i-o-didnt-end-seo-the-risk-is-somewhere-else/575660/
-  2. 3 Unrelated Stories About AI & Writing Tell The Same Story via @sejournal, @gregjarboe
-     Fecha : Fri, 22 May 2026 14:00:37 +0000
-     URL   : https://www.searchenginejournal.com/3-unrelated-stories-about-ai-writing-tell-the-same-story/575070/
-  3. Google Launches Core Update Amid I/O AI Search Overhaul – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Fri, 22 May 2026 12:30:40 +0000
-     URL   : https://www.searchenginejournal.com/seo-pulse-google-launches-core-update-amid-i-o-ai-search-overhaul/575676/
+  1. Pichai Says Google Is ‘A Bit Behind’ On Agentic Coding via @sejournal, @MattGSouthern
+     Fecha : Mon, 25 May 2026 11:45:14 +0000
+     URL   : https://www.searchenginejournal.com/pichai-says-google-is-a-bit-behind-on-agentic-coding/575781/
+  2. Why High-Performing Marketers Get Stuck In Execution Mode via @sejournal, @bngsrc
+     Fecha : Mon, 25 May 2026 11:00:49 +0000
+     URL   : https://www.searchenginejournal.com/why-high-performing-marketers-get-stuck-in-execution-mode/574437/
+  3. Digital PR Hasn’t Changed – AI Search Just Made The Fundamentals More Important via @sejournal, @gregjarboe
+     Fecha : Mon, 25 May 2026 09:30:14 +0000
+     URL   : https://www.searchenginejournal.com/digital-pr-hasnt-changed-ai-search-just-made-the-fundamentals-more-important/575383/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest
-     Fecha : Sat, 23 May 2026 20:03:13 +0000
-     URL   : https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/
-  2. These special phone and app features can help protect you from spyware
-     Fecha : Sat, 23 May 2026 16:00:00 +0000
-     URL   : https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/
-  3. Ferrari is using IBM’s AI to create F1 superfans
-     Fecha : Sat, 23 May 2026 15:08:00 +0000
-     URL   : https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/
+  1. Everyone is navigating AI security in real time — even Google
+     Fecha : Sun, 24 May 2026 21:39:21 +0000
+     URL   : https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/
+  2. Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry
+     Fecha : Sun, 24 May 2026 19:00:00 +0000
+     URL   : https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/
+  3. 6 kitchen gadgets that make adulting feel easier
+     Fecha : Sun, 24 May 2026 17:00:00 +0000
+     URL   : https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Stitch 3.0 by Google
-     Fecha : 2026-05-19T22:55:36-07:00
-     URL   : https://www.producthunt.com/products/stitch-by-google
-  2. Edgee Fallback Models
-     Fecha : 2026-05-21T14:20:06-07:00
-     URL   : https://www.producthunt.com/products/edgee
-  3. WhatCable
-     Fecha : 2026-05-22T07:23:28-07:00
-     URL   : https://www.producthunt.com/products/whatcable
+  1. Yansu
+     Fecha : 2026-05-23T18:28:56-07:00
+     URL   : https://www.producthunt.com/products/yansu
+  2. MashuPack
+     Fecha : 2026-05-24T23:30:11-07:00
+     URL   : https://www.producthunt.com/products/mashupack
+  3. Rixx
+     Fecha : 2026-05-19T05:51:38-07:00
+     URL   : https://www.producthunt.com/products/rixx
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Google’s new anything-to-anything AI model is wild
+  1. Hackers are learning to exploit chatbot &#8216;personalities&#8217;
+     Fecha : 2026-05-24T08:00:00-04:00
+     URL   : https://www.theverge.com/column/935545/hackers-ai-chatbots
+  2. Google’s new anything-to-anything AI model is wild
      Fecha : 2026-05-23T07:00:00-04:00
      URL   : https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video
-  2. Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for
+  3. Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for
      Fecha : 2026-05-22T16:39:54-04:00
      URL   : https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard
-  3. Elon, stop trying to make Grok happen
-     Fecha : 2026-05-22T13:17:06-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-24  10:01:35
+  Fin del reporte  ·  2026-05-25  11:57:42
 ═════════════════════════════════════════════════════════════════

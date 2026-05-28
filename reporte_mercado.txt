@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-25  11:57:42               ║
+║                  Generado: 2026-05-28  11:44:43               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Pichai Says Google Is ‘A Bit Behind’ On Agentic Coding via @sejournal, @MattGSouthern
-     Fecha : Mon, 25 May 2026 11:45:14 +0000
-     URL   : https://www.searchenginejournal.com/pichai-says-google-is-a-bit-behind-on-agentic-coding/575781/
-  2. Why High-Performing Marketers Get Stuck In Execution Mode via @sejournal, @bngsrc
-     Fecha : Mon, 25 May 2026 11:00:49 +0000
-     URL   : https://www.searchenginejournal.com/why-high-performing-marketers-get-stuck-in-execution-mode/574437/
-  3. Digital PR Hasn’t Changed – AI Search Just Made The Fundamentals More Important via @sejournal, @gregjarboe
-     Fecha : Mon, 25 May 2026 09:30:14 +0000
-     URL   : https://www.searchenginejournal.com/digital-pr-hasnt-changed-ai-search-just-made-the-fundamentals-more-important/575383/
+  1. The AI Sameness Trap Is Quietly Eroding Your SEO Competitive Advantage via @sejournal, @TaylorDanRW
+     Fecha : Thu, 28 May 2026 11:00:19 +0000
+     URL   : https://www.searchenginejournal.com/ai-convergence-seo/575879/
+  2. WordPress Market Share Declines For Six Months In A Row via @sejournal, @martinibuster
+     Fecha : Thu, 28 May 2026 09:18:49 +0000
+     URL   : https://www.searchenginejournal.com/wordpress-market-share-in-decline/576042/
+  3. Is Performance Max Actually Better Than Running Separate Campaigns? – Ask A PPC via @sejournal, @brookeosmundson
+     Fecha : Thu, 28 May 2026 08:00:12 +0000
+     URL   : https://www.searchenginejournal.com/ask-a-ppc-is-performance-max-actually-better-than-running-separate-campaigns/573174/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Everyone is navigating AI security in real time — even Google
-     Fecha : Sun, 24 May 2026 21:39:21 +0000
-     URL   : https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/
-  2. Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry
-     Fecha : Sun, 24 May 2026 19:00:00 +0000
-     URL   : https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/
-  3. 6 kitchen gadgets that make adulting feel easier
-     Fecha : Sun, 24 May 2026 17:00:00 +0000
-     URL   : https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/
+  1. Vertu wants CEOs to run companies from an AI foldable starting at $6,880
+     Fecha : Thu, 28 May 2026 07:00:00 +0000
+     URL   : https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/
+  2. Google engineer charged with insider trading after making $1.2M on Polymarket
+     Fecha : Thu, 28 May 2026 00:45:37 +0000
+     URL   : https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/
+  3. Why Google’s AI can’t spell Google (or anything else)
+     Fecha : Thu, 28 May 2026 00:17:41 +0000
+     URL   : https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Yansu
-     Fecha : 2026-05-23T18:28:56-07:00
-     URL   : https://www.producthunt.com/products/yansu
-  2. MashuPack
-     Fecha : 2026-05-24T23:30:11-07:00
-     URL   : https://www.producthunt.com/products/mashupack
-  3. Rixx
-     Fecha : 2026-05-19T05:51:38-07:00
-     URL   : https://www.producthunt.com/products/rixx
+  1. Compartment
+     Fecha : 2026-05-27T09:01:54-07:00
+     URL   : https://www.producthunt.com/products/compartment
+  2. SoMerch
+     Fecha : 2026-05-18T00:24:19-07:00
+     URL   : https://www.producthunt.com/products/somerch
+  3. KugelAudio
+     Fecha : 2026-05-27T13:30:22-07:00
+     URL   : https://www.producthunt.com/products/kugelaudio
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Hackers are learning to exploit chatbot &#8216;personalities&#8217;
-     Fecha : 2026-05-24T08:00:00-04:00
-     URL   : https://www.theverge.com/column/935545/hackers-ai-chatbots
-  2. Google’s new anything-to-anything AI model is wild
-     Fecha : 2026-05-23T07:00:00-04:00
-     URL   : https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video
-  3. Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for
-     Fecha : 2026-05-22T16:39:54-04:00
-     URL   : https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard
+  1. YouTube will let you ask AI to make a custom video feed
+     Fecha : 2026-05-28T04:49:07-04:00
+     URL   : https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability
+  2. AI tried to bury this politician — now people have actually heard of him
+     Fecha : 2026-05-27T11:40:00-04:00
+     URL   : https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12
+  3. Robinhood will let your AI agent trade stocks and make (or lose) lots of money
+     Fecha : 2026-05-27T10:36:10-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-25  11:57:42
+  Fin del reporte  ·  2026-05-28  11:44:43
 ═════════════════════════════════════════════════════════════════

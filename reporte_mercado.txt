@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-28  11:44:43               ║
+║                  Generado: 2026-05-29  11:35:20               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. The AI Sameness Trap Is Quietly Eroding Your SEO Competitive Advantage via @sejournal, @TaylorDanRW
+  1. How To See If Competitors Are Advertising In Your Customers’ ChatGPT Answers via @sejournal, @trendos_com
+     Fecha : Thu, 28 May 2026 16:27:33 +0000
+     URL   : https://www.searchenginejournal.com/see-competitor-ads-chatgpt-trendos-spa/575883/
+  2. You’re Using AI At The Execution Layer. The Value Is In The Judgment Layer via @sejournal, @DuaneForrester
+     Fecha : Thu, 28 May 2026 13:30:50 +0000
+     URL   : https://www.searchenginejournal.com/youre-using-ai-at-the-execution-layer-the-value-is-in-the-judgment-layer/575747/
+  3. The AI Sameness Trap Is Quietly Eroding Your SEO Competitive Advantage via @sejournal, @TaylorDanRW
      Fecha : Thu, 28 May 2026 11:00:19 +0000
      URL   : https://www.searchenginejournal.com/ai-convergence-seo/575879/
-  2. WordPress Market Share Declines For Six Months In A Row via @sejournal, @martinibuster
-     Fecha : Thu, 28 May 2026 09:18:49 +0000
-     URL   : https://www.searchenginejournal.com/wordpress-market-share-in-decline/576042/
-  3. Is Performance Max Actually Better Than Running Separate Campaigns? – Ask A PPC via @sejournal, @brookeosmundson
-     Fecha : Thu, 28 May 2026 08:00:12 +0000
-     URL   : https://www.searchenginejournal.com/ask-a-ppc-is-performance-max-actually-better-than-running-separate-campaigns/573174/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Vertu wants CEOs to run companies from an AI foldable starting at $6,880
-     Fecha : Thu, 28 May 2026 07:00:00 +0000
-     URL   : https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/
-  2. Google engineer charged with insider trading after making $1.2M on Polymarket
-     Fecha : Thu, 28 May 2026 00:45:37 +0000
-     URL   : https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/
-  3. Why Google’s AI can’t spell Google (or anything else)
-     Fecha : Thu, 28 May 2026 00:17:41 +0000
-     URL   : https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/
+  1. Blue Origin’s New Glenn rocket explodes during testing in Florida
+     Fecha : Fri, 29 May 2026 01:22:16 +0000
+     URL   : https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/
+  2. Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point
+     Fecha : Fri, 29 May 2026 00:44:37 +0000
+     URL   : https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/
+  3. Waymo dominates autonomous vehicle registrations as Tesla trails behind
+     Fecha : Fri, 29 May 2026 00:14:35 +0000
+     URL   : https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Compartment
-     Fecha : 2026-05-27T09:01:54-07:00
-     URL   : https://www.producthunt.com/products/compartment
-  2. SoMerch
-     Fecha : 2026-05-18T00:24:19-07:00
-     URL   : https://www.producthunt.com/products/somerch
-  3. KugelAudio
-     Fecha : 2026-05-27T13:30:22-07:00
-     URL   : https://www.producthunt.com/products/kugelaudio
+  1. MCP Bridge by Appfactor
+     Fecha : 2026-04-01T12:46:27-07:00
+     URL   : https://www.producthunt.com/products/mcp-bridge-by-appfactor
+  2. Clipline
+     Fecha : 2026-05-28T07:56:30-07:00
+     URL   : https://www.producthunt.com/products/clipline-2
+  3. Agent A by Ahrefs
+     Fecha : 2026-05-28T08:00:52-07:00
+     URL   : https://www.producthunt.com/products/ahrefs
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. YouTube will let you ask AI to make a custom video feed
-     Fecha : 2026-05-28T04:49:07-04:00
-     URL   : https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability
-  2. AI tried to bury this politician — now people have actually heard of him
-     Fecha : 2026-05-27T11:40:00-04:00
-     URL   : https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12
-  3. Robinhood will let your AI agent trade stocks and make (or lose) lots of money
-     Fecha : 2026-05-27T10:36:10-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading
+  1. Adobe’s conversational AI agent is a mediocre design intern
+     Fecha : 2026-05-29T06:00:00-04:00
+     URL   : https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern
+  2. Microsoft 365 Copilot gets a speed boost and cleaner design
+     Fecha : 2026-05-28T16:14:07-04:00
+     URL   : https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign
+  3. Claude’s new model is more ‘honest’ when it messes up
+     Fecha : 2026-05-28T13:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-28  11:44:43
+  Fin del reporte  ·  2026-05-29  11:35:20
 ═════════════════════════════════════════════════════════════════

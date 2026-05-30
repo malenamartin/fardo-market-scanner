@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-29  11:35:20               ║
+║                  Generado: 2026-05-30  10:07:17               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. How To See If Competitors Are Advertising In Your Customers’ ChatGPT Answers via @sejournal, @trendos_com
-     Fecha : Thu, 28 May 2026 16:27:33 +0000
-     URL   : https://www.searchenginejournal.com/see-competitor-ads-chatgpt-trendos-spa/575883/
-  2. You’re Using AI At The Execution Layer. The Value Is In The Judgment Layer via @sejournal, @DuaneForrester
-     Fecha : Thu, 28 May 2026 13:30:50 +0000
-     URL   : https://www.searchenginejournal.com/youre-using-ai-at-the-execution-layer-the-value-is-in-the-judgment-layer/575747/
-  3. The AI Sameness Trap Is Quietly Eroding Your SEO Competitive Advantage via @sejournal, @TaylorDanRW
-     Fecha : Thu, 28 May 2026 11:00:19 +0000
-     URL   : https://www.searchenginejournal.com/ai-convergence-seo/575879/
+  1. AI Content Alone Won’t Fix Your SEO Rankings (Here’s What Will) via @sejournal, @hethr_campbell
+     Fecha : Fri, 29 May 2026 22:40:05 +0000
+     URL   : https://www.searchenginejournal.com/ai-content-alone-wont-fix-your-seo-rankings-heres-what-will/577380/
+  2. Google SERP Layout Shift: Position 1 Now Appears Halfway Down The Page via @sejournal, @lorenbaker
+     Fecha : Fri, 29 May 2026 21:07:47 +0000
+     URL   : https://www.searchenginejournal.com/updated-serps-new-study-measures-the-serp-in-pixels-not-ranks-recap/577359/
+  3. Google AI Overview Data Looks Different For Commercial Queries via @sejournal, @MattGSouthern
+     Fecha : Fri, 29 May 2026 19:23:16 +0000
+     URL   : https://www.searchenginejournal.com/google-ai-overview-data-looks-different-for-commercial-queries/577350/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Blue Origin’s New Glenn rocket explodes during testing in Florida
-     Fecha : Fri, 29 May 2026 01:22:16 +0000
-     URL   : https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/
-  2. Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point
-     Fecha : Fri, 29 May 2026 00:44:37 +0000
-     URL   : https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/
-  3. Waymo dominates autonomous vehicle registrations as Tesla trails behind
-     Fecha : Fri, 29 May 2026 00:14:35 +0000
-     URL   : https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/
+  1. Founders seize on Indian court ruling to revive criticism of Google’s ad business
+     Fecha : Sat, 30 May 2026 02:00:00 +0000
+     URL   : https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/
+  2. I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides
+     Fecha : Sat, 30 May 2026 00:39:13 +0000
+     URL   : https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/
+  3. SpaceX awarded $6.45B in Space Force contracts ahead of IPO
+     Fecha : Fri, 29 May 2026 22:21:38 +0000
+     URL   : https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. MCP Bridge by Appfactor
-     Fecha : 2026-04-01T12:46:27-07:00
-     URL   : https://www.producthunt.com/products/mcp-bridge-by-appfactor
-  2. Clipline
-     Fecha : 2026-05-28T07:56:30-07:00
-     URL   : https://www.producthunt.com/products/clipline-2
-  3. Agent A by Ahrefs
-     Fecha : 2026-05-28T08:00:52-07:00
-     URL   : https://www.producthunt.com/products/ahrefs
+  1. Step 3.7 Flash
+     Fecha : 2026-05-29T05:47:02-07:00
+     URL   : https://www.producthunt.com/products/step-3-5-flash
+  2. Openstatus MCP Health Checker
+     Fecha : 2026-05-28T07:14:25-07:00
+     URL   : https://www.producthunt.com/products/openstatus-2
+  3. Exstats
+     Fecha : 2026-05-18T01:45:37-07:00
+     URL   : https://www.producthunt.com/products/exstats
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Adobe’s conversational AI agent is a mediocre design intern
-     Fecha : 2026-05-29T06:00:00-04:00
-     URL   : https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern
-  2. Microsoft 365 Copilot gets a speed boost and cleaner design
-     Fecha : 2026-05-28T16:14:07-04:00
-     URL   : https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign
-  3. Claude’s new model is more ‘honest’ when it messes up
-     Fecha : 2026-05-28T13:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort
+  1. Tech companies desperately want to film you doing chores
+     Fecha : 2026-05-29T13:37:43-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data
+  2. Jony Ive’s funky Ferrari
+     Fecha : 2026-05-29T08:25:12-04:00
+     URL   : https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast
+  3. This AI startup will clean your home for free to train future robots
+     Fecha : 2026-05-29T07:58:40-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-29  11:35:20
+  Fin del reporte  ·  2026-05-30  10:07:17
 ═════════════════════════════════════════════════════════════════

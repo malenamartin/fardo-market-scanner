@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-05-30  10:07:17               ║
+║                  Generado: 2026-05-31  10:21:17               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. AI Content Alone Won’t Fix Your SEO Rankings (Here’s What Will) via @sejournal, @hethr_campbell
+  1. White-Collar Will Be Fully Automated In 18 Months – So What Makes You Different? via @sejournal, @gregjarboe
+     Fecha : Sun, 31 May 2026 09:30:29 +0000
+     URL   : https://www.searchenginejournal.com/white-collar-will-be-fully-automated-in-18-months-so-what-makes-you-different/575072/
+  2. Google’s I/O Demos Reveal The New Business Visibility Problem via @sejournal, @MattGSouthern
+     Fecha : Sat, 30 May 2026 12:00:25 +0000
+     URL   : https://www.searchenginejournal.com/googles-i-o-demos-reveal-the-new-business-visibility-problem/576217/
+  3. AI Content Alone Won’t Fix Your SEO Rankings (Here’s What Will) via @sejournal, @hethr_campbell
      Fecha : Fri, 29 May 2026 22:40:05 +0000
      URL   : https://www.searchenginejournal.com/ai-content-alone-wont-fix-your-seo-rankings-heres-what-will/577380/
-  2. Google SERP Layout Shift: Position 1 Now Appears Halfway Down The Page via @sejournal, @lorenbaker
-     Fecha : Fri, 29 May 2026 21:07:47 +0000
-     URL   : https://www.searchenginejournal.com/updated-serps-new-study-measures-the-serp-in-pixels-not-ranks-recap/577359/
-  3. Google AI Overview Data Looks Different For Commercial Queries via @sejournal, @MattGSouthern
-     Fecha : Fri, 29 May 2026 19:23:16 +0000
-     URL   : https://www.searchenginejournal.com/google-ai-overview-data-looks-different-for-commercial-queries/577350/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Founders seize on Indian court ruling to revive criticism of Google’s ad business
-     Fecha : Sat, 30 May 2026 02:00:00 +0000
-     URL   : https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/
-  2. I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides
-     Fecha : Sat, 30 May 2026 00:39:13 +0000
-     URL   : https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/
-  3. SpaceX awarded $6.45B in Space Force contracts ahead of IPO
-     Fecha : Fri, 29 May 2026 22:21:38 +0000
-     URL   : https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/
+  1. SoftBank says it will invest up to €75 billion to build French data centers
+     Fecha : Sat, 30 May 2026 21:45:00 +0000
+     URL   : https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/
+  2. This weekend’s two biggest movies were both directed by YouTubers
+     Fecha : Sat, 30 May 2026 21:12:37 +0000
+     URL   : https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/
+  3. Snap alums unveil Ghost Angels fund
+     Fecha : Sat, 30 May 2026 17:00:00 +0000
+     URL   : https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Step 3.7 Flash
-     Fecha : 2026-05-29T05:47:02-07:00
-     URL   : https://www.producthunt.com/products/step-3-5-flash
-  2. Openstatus MCP Health Checker
-     Fecha : 2026-05-28T07:14:25-07:00
-     URL   : https://www.producthunt.com/products/openstatus-2
-  3. Exstats
-     Fecha : 2026-05-18T01:45:37-07:00
-     URL   : https://www.producthunt.com/products/exstats
+  1. Oura Ring 5
+     Fecha : 2026-05-30T11:05:21-07:00
+     URL   : https://www.producthunt.com/products/oura
+  2. Marqly 5.0
+     Fecha : 2026-05-30T02:30:11-07:00
+     URL   : https://www.producthunt.com/products/marqly
+  3. Clipto
+     Fecha : 2026-04-27T03:29:24-07:00
+     URL   : https://www.producthunt.com/products/clipto-ai
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Tech companies desperately want to film you doing chores
-     Fecha : 2026-05-29T13:37:43-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data
-  2. Jony Ive’s funky Ferrari
-     Fecha : 2026-05-29T08:25:12-04:00
-     URL   : https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast
-  3. This AI startup will clean your home for free to train future robots
-     Fecha : 2026-05-29T07:58:40-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning
+  1. How one founder’s bet on ‘the old school web’ is paying off
+     Fecha : 2026-05-30T09:00:00-04:00
+     URL   : https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai
+  2. AI grifters are creating fake Black people to sell Shein junk
+     Fecha : 2026-05-30T09:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping
+  3. The SpaceX IPO is great for Elon Musk and terrible for you
+     Fecha : 2026-05-30T08:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-05-30  10:07:17
+  Fin del reporte  ·  2026-05-31  10:21:17
 ═════════════════════════════════════════════════════════════════

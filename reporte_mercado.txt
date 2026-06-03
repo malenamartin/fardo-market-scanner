@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-02  12:12:17               ║
+║                  Generado: 2026-06-03  12:47:21               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. How To Fix Google Ads Smart Bidding With A Primary Vs. Secondary Conversion Framework
-     Fecha : Tue, 02 Jun 2026 11:00:12 +0000
-     URL   : https://www.searchenginejournal.com/how-to-fix-google-ads-smart-bidding-with-a-primary-vs-secondary-conversion-framework/574075/
-  2. Google Says LLMs.txt Is Purely Speculative… For Now via @sejournal, @martinibuster
-     Fecha : Tue, 02 Jun 2026 10:08:07 +0000
-     URL   : https://www.searchenginejournal.com/google-says-llms-txt-is-purely-speculative-for-now/577576/
-  3. Why Great Content No Longer Works: MIT Research Shows The Shift Reshaping SEO Strategy via @sejournal, @gregjarboe
-     Fecha : Tue, 02 Jun 2026 08:00:16 +0000
-     URL   : https://www.searchenginejournal.com/why-great-content-no-longer-works-mit-research-shows-the-shift-reshaping-seo-strategy/575880/
+  1. What Not To Automate With AI: The SEO Deskilling Trap
+     Fecha : Wed, 03 Jun 2026 12:00:43 +0000
+     URL   : https://www.searchenginejournal.com/what-not-to-automate-with-ai-the-seo-deskilling-trap/574887/
+  2. What Is The Agentic Web? via @sejournal, @slobodanmanic
+     Fecha : Wed, 03 Jun 2026 09:00:26 +0000
+     URL   : https://www.searchenginejournal.com/what-is-the-agentic-web/574224/
+  3. Google Tests Dedicated AI Search Reports In Search Console via @sejournal, @MattGSouthern
+     Fecha : Wed, 03 Jun 2026 05:10:20 +0000
+     URL   : https://www.searchenginejournal.com/google-tests-dedicated-ai-search-reports-in-search-console/577793/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Rocket engine startup Impulse raises $500 million to hire people, not AI
-     Fecha : Tue, 02 Jun 2026 12:00:00 +0000
-     URL   : https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/
-  2. Pacific Fusion’s latest prototype packs 440 gigawatts into an 80-nanosecond burst
-     Fecha : Tue, 02 Jun 2026 11:00:00 +0000
-     URL   : https://techcrunch.com/2026/06/02/pacific-fusions-latest-prototype-packs-440-gigawatts-into-an-80-nanosecond-burst/
-  3. How to make the Startup Battlefield Top 20 — and what every company gets regardless
-     Fecha : Mon, 01 Jun 2026 23:20:52 +0000
-     URL   : https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/
+  1. The world’s largest privately owned laser just turned on
+     Fecha : Wed, 03 Jun 2026 10:00:00 +0000
+     URL   : https://techcrunch.com/2026/06/03/the-worlds-largest-privately-owned-laser-just-turned-on/
+  2. Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis
+     Fecha : Tue, 02 Jun 2026 23:25:20 +0000
+     URL   : https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/
+  3. Cyera eyes $12B valuation at 80x ARR multiple despite operating losses
+     Fecha : Tue, 02 Jun 2026 22:50:56 +0000
+     URL   : https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Rodeo by TwelveLabs
-     Fecha : 2026-05-13T15:57:59-07:00
-     URL   : https://www.producthunt.com/products/twelvelabs
-  2. HumToBeats
-     Fecha : 2026-06-01T22:47:49-07:00
-     URL   : https://www.producthunt.com/products/humtobeats
-  3. Fundraisly
-     Fecha : 2026-05-28T05:39:22-07:00
-     URL   : https://www.producthunt.com/products/fundraisly
+  1. Elentaria
+     Fecha : 2026-05-18T03:10:10-07:00
+     URL   : https://www.producthunt.com/products/elentaria
+  2. EchoFlow
+     Fecha : 2026-06-02T10:18:19-07:00
+     URL   : https://www.producthunt.com/products/echoflow-2
+  3. Uselink
+     Fecha : 2026-06-01T03:35:49-07:00
+     URL   : https://www.producthunt.com/products/uselink
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. This could be Windows’ M1 moment — but expect it to cost a ton
-     Fecha : 2026-06-01T16:02:31-04:00
-     URL   : https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram
-  2. Gemini’s new AI agent is about as good as Google’s demo
-     Fecha : 2026-06-01T16:00:00-04:00
-     URL   : https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on
-  3. Meta&#8217;s own AI was exploited to hijack Instagram accounts
-     Fecha : 2026-06-01T15:20:47-04:00
-     URL   : https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked
+  1. AI has a water problem. Google thinks it has a fix
+     Fecha : 2026-06-03T05:00:00-04:00
+     URL   : https://www.theverge.com/policy/942296/google-water-commitments-data-centers
+  2. Google must let publishers opt out of AI Search features, rules UK
+     Fecha : 2026-06-03T04:45:48-04:00
+     URL   : https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out
+  3. Microsoft Build 2026: The 7 biggest announcements
+     Fecha : 2026-06-02T15:23:52-04:00
+     URL   : https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-02  12:12:17
+  Fin del reporte  ·  2026-06-03  12:47:21
 ═════════════════════════════════════════════════════════════════

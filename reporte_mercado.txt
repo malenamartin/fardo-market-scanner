@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-04  11:21:01               ║
+║                  Generado: 2026-06-05  11:33:50               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google CEO Sundar Pichai Is OK With AI Mode Replacing Classic Search via @sejournal, @martinibuster
-     Fecha : Thu, 04 Jun 2026 10:51:42 +0000
-     URL   : https://www.searchenginejournal.com/googles-ceo-is-comfortable-with-ai-mode-replacing-classic-search/577923/
-  2. GSC’s New AI Overview Reporting: How Can We Use This Information? via @sejournal, @marie_haynes
-     Fecha : Thu, 04 Jun 2026 10:05:54 +0000
-     URL   : https://www.searchenginejournal.com/gscs-new-ai-overview-reporting-how-can-we-use-this-information/577891/
-  3. How Can You Implement Entity Optimization Without Relying On Schema Markup? – Ask An SEO via @sejournal, @HelenPollitt1
-     Fecha : Thu, 04 Jun 2026 08:30:30 +0000
-     URL   : https://www.searchenginejournal.com/ask-an-seo-what-does-entity-optimization-mean/575597/
+  1. What Is A Migration Hangover Traffic Drop & How Do You Avoid It?
+     Fecha : Fri, 05 Jun 2026 10:00:34 +0000
+     URL   : https://www.searchenginejournal.com/what-is-a-migration-hangover-traffic-drop-how-do-you-avoid-it/575102/
+  2. Google’s May Core Update Favored Pages That Match Intent via @sejournal, @MattGSouthern
+     Fecha : Fri, 05 Jun 2026 02:43:01 +0000
+     URL   : https://www.searchenginejournal.com/googles-may-core-update-favored-pages-that-match-intent/577996/
+  3. Google Launches Search Profiles For Creators With 100K Followers via @sejournal, @MattGSouthern
+     Fecha : Thu, 04 Jun 2026 18:00:04 +0000
+     URL   : https://www.searchenginejournal.com/google-launches-search-profiles-for-creators-with-100k-followers/577983/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Benchmark raises its first-ever growth fund as part of $2B capital raise
-     Fecha : Thu, 04 Jun 2026 03:52:15 +0000
-     URL   : https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/
-  2. Quick commerce FirstClub doubles valuation to $255M in nine months
-     Fecha : Thu, 04 Jun 2026 00:30:00 +0000
-     URL   : https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/
-  3. Lovable signs multiyear deal with Google Cloud to up usage 5x, source says
-     Fecha : Wed, 03 Jun 2026 22:56:51 +0000
-     URL   : https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/
+  1. Mira Murati steps back into the spotlight, carefully
+     Fecha : Fri, 05 Jun 2026 05:06:37 +0000
+     URL   : https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/
+  2. Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites
+     Fecha : Fri, 05 Jun 2026 00:06:47 +0000
+     URL   : https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/
+  3. Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns
+     Fecha : Thu, 04 Jun 2026 22:43:26 +0000
+     URL   : https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Empromptu AI
-     Fecha : 2026-06-01T10:12:04-07:00
-     URL   : https://www.producthunt.com/products/empromptu
-  2. Keen Code
-     Fecha : 2026-06-03T07:44:19-07:00
-     URL   : https://www.producthunt.com/products/keen-code-a-cli-coding-agent
-  3. Extella.AI
-     Fecha : 2026-04-07T04:12:18-07:00
-     URL   : https://www.producthunt.com/products/extella-ai
+  1. Leni
+     Fecha : 2026-06-04T04:54:13-07:00
+     URL   : https://www.producthunt.com/products/leni
+  2. Arena Agent Mode
+     Fecha : 2026-06-01T11:22:20-07:00
+     URL   : https://www.producthunt.com/products/arena-5
+  3. Lumo Studios
+     Fecha : 2026-04-25T12:22:27-07:00
+     URL   : https://www.producthunt.com/products/lumo-studios
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Amazon develops a warehouse robot workers can speak to
-     Fecha : 2026-06-04T05:31:14-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus
-  2. As AI gets better, it reveals an empty promise
-     Fecha : 2026-06-03T13:45:35-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise
-  3. Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy
-     Fecha : 2026-06-03T12:07:31-04:00
-     URL   : https://www.theverge.com/tech/942547/amazon-search-bar-ai-images
+  1. Kevin O’Leary agrees to downsize massive Utah data center
+     Fecha : 2026-06-04T14:38:04-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center
+  2. TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;
+     Fecha : 2026-06-04T10:15:44-04:00
+     URL   : https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles
+  3. Elon Musk is steamrolling Wall Street to become a trillionaire
+     Fecha : 2026-06-04T10:00:00-04:00
+     URL   : https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-04  11:21:01
+  Fin del reporte  ·  2026-06-05  11:33:50
 ═════════════════════════════════════════════════════════════════

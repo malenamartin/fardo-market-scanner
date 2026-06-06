@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-05  11:33:50               ║
+║                  Generado: 2026-06-06  10:12:32               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. What Is A Migration Hangover Traffic Drop & How Do You Avoid It?
-     Fecha : Fri, 05 Jun 2026 10:00:34 +0000
-     URL   : https://www.searchenginejournal.com/what-is-a-migration-hangover-traffic-drop-how-do-you-avoid-it/575102/
-  2. Google’s May Core Update Favored Pages That Match Intent via @sejournal, @MattGSouthern
-     Fecha : Fri, 05 Jun 2026 02:43:01 +0000
-     URL   : https://www.searchenginejournal.com/googles-may-core-update-favored-pages-that-match-intent/577996/
-  3. Google Launches Search Profiles For Creators With 100K Followers via @sejournal, @MattGSouthern
-     Fecha : Thu, 04 Jun 2026 18:00:04 +0000
-     URL   : https://www.searchenginejournal.com/google-launches-search-profiles-for-creators-with-100k-followers/577983/
+  1. Google’s Updated Guidance Urges FTC Complaints Against Shady SEOs via @sejournal, @martinibuster
+     Fecha : Sat, 06 Jun 2026 07:18:58 +0000
+     URL   : https://www.searchenginejournal.com/googles-updated-guidance-urges-ftc-complaints-against-shady-seos/578151/
+  2. Google Analytics Is Adding Google Business Profile Data via @sejournal, @MattGSouthern
+     Fecha : Fri, 05 Jun 2026 14:57:11 +0000
+     URL   : https://www.searchenginejournal.com/google-analytics-is-adding-google-business-profile-data/578107/
+  3. AI Literacy Is Not Prompt Literacy. Ann Handley Says It’s Judgment Literacy via @sejournal, @gregjarboe
+     Fecha : Fri, 05 Jun 2026 14:00:29 +0000
+     URL   : https://www.searchenginejournal.com/ai-literacy-is-not-prompt-literacy-ann-handley-says-its-judgment-literacy/577322/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Mira Murati steps back into the spotlight, carefully
-     Fecha : Fri, 05 Jun 2026 05:06:37 +0000
-     URL   : https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/
-  2. Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites
-     Fecha : Fri, 05 Jun 2026 00:06:47 +0000
-     URL   : https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/
-  3. Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns
-     Fecha : Thu, 04 Jun 2026 22:43:26 +0000
-     URL   : https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/
+  1. Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus
+     Fecha : Fri, 05 Jun 2026 22:35:01 +0000
+     URL   : https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/
+  2. Founders share VC horror stories, and some are naming names
+     Fecha : Fri, 05 Jun 2026 21:47:56 +0000
+     URL   : https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/
+  3. Former cyber executive turned whistleblower accuses IBM of covering up several data breaches
+     Fecha : Fri, 05 Jun 2026 20:31:04 +0000
+     URL   : https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Leni
-     Fecha : 2026-06-04T04:54:13-07:00
-     URL   : https://www.producthunt.com/products/leni
-  2. Arena Agent Mode
-     Fecha : 2026-06-01T11:22:20-07:00
-     URL   : https://www.producthunt.com/products/arena-5
-  3. Lumo Studios
-     Fecha : 2026-04-25T12:22:27-07:00
-     URL   : https://www.producthunt.com/products/lumo-studios
+  1. Google Search Profiles
+     Fecha : 2026-06-04T12:56:28-07:00
+     URL   : https://www.producthunt.com/products/google
+  2. Navi+ Menu Builder
+     Fecha : 2026-06-05T03:40:09-07:00
+     URL   : https://www.producthunt.com/products/navi-menu-builder
+  3. Gaming services by IFTTT
+     Fecha : 2026-06-04T12:54:09-07:00
+     URL   : https://www.producthunt.com/products/ifttt
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Kevin O’Leary agrees to downsize massive Utah data center
-     Fecha : 2026-06-04T14:38:04-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center
-  2. TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;
-     Fecha : 2026-06-04T10:15:44-04:00
-     URL   : https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles
-  3. Elon Musk is steamrolling Wall Street to become a trillionaire
-     Fecha : 2026-06-04T10:00:00-04:00
-     URL   : https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds
+  1. This is your laptop… on AI
+     Fecha : 2026-06-05T12:39:07-04:00
+     URL   : https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast
+  2. New York lawmakers pass one-year ban on new data centers
+     Fecha : 2026-06-05T11:25:10-04:00
+     URL   : https://www.theverge.com/policy/944041/new-york-data-center-moratorium
+  3. This AI startup says it can tell if a script will make a hit film
+     Fecha : 2026-06-05T09:57:31-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-05  11:33:50
+  Fin del reporte  ·  2026-06-06  10:12:32
 ═════════════════════════════════════════════════════════════════

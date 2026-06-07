@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-06  10:12:32               ║
+║                  Generado: 2026-06-07  10:33:31               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google’s Updated Guidance Urges FTC Complaints Against Shady SEOs via @sejournal, @martinibuster
-     Fecha : Sat, 06 Jun 2026 07:18:58 +0000
-     URL   : https://www.searchenginejournal.com/googles-updated-guidance-urges-ftc-complaints-against-shady-seos/578151/
-  2. Google Analytics Is Adding Google Business Profile Data via @sejournal, @MattGSouthern
-     Fecha : Fri, 05 Jun 2026 14:57:11 +0000
-     URL   : https://www.searchenginejournal.com/google-analytics-is-adding-google-business-profile-data/578107/
-  3. AI Literacy Is Not Prompt Literacy. Ann Handley Says It’s Judgment Literacy via @sejournal, @gregjarboe
-     Fecha : Fri, 05 Jun 2026 14:00:29 +0000
-     URL   : https://www.searchenginejournal.com/ai-literacy-is-not-prompt-literacy-ann-handley-says-its-judgment-literacy/577322/
+  1. Google’s New Guidance Claims Authority Over SEO, Tools, And AEO/GEO via @sejournal, @martinibuster
+     Fecha : Sun, 07 Jun 2026 09:09:04 +0000
+     URL   : https://www.searchenginejournal.com/googles-new-guidance-claims-authority-over-seo-tools-and-aeo-geo/578162/
+  2. Google Gives Sites AI Search Opt-Out, But Not The Data To Use It via @sejournal, @MattGSouthern
+     Fecha : Sat, 06 Jun 2026 13:31:25 +0000
+     URL   : https://www.searchenginejournal.com/google-gives-sites-ai-search-opt-out-but-not-the-data-to-use-it/577978/
+  3. Your Next AI Visitor Will Know Who Sent It via @sejournal, @slobodanmanic
+     Fecha : Sat, 06 Jun 2026 12:00:26 +0000
+     URL   : https://www.searchenginejournal.com/your-next-ai-visitor-will-know-who-sent-it/575489/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus
-     Fecha : Fri, 05 Jun 2026 22:35:01 +0000
-     URL   : https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/
-  2. Founders share VC horror stories, and some are naming names
-     Fecha : Fri, 05 Jun 2026 21:47:56 +0000
-     URL   : https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/
-  3. Former cyber executive turned whistleblower accuses IBM of covering up several data breaches
-     Fecha : Fri, 05 Jun 2026 20:31:04 +0000
-     URL   : https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/
+  1. OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks
+     Fecha : Sat, 06 Jun 2026 20:32:24 +0000
+     URL   : https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/
+  2. What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates
+     Fecha : Sat, 06 Jun 2026 18:13:36 +0000
+     URL   : https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/
+  3. Sriram Krishnan is leaving his role as White House AI advisor
+     Fecha : Sat, 06 Jun 2026 17:42:15 +0000
+     URL   : https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Google Search Profiles
-     Fecha : 2026-06-04T12:56:28-07:00
-     URL   : https://www.producthunt.com/products/google
-  2. Navi+ Menu Builder
-     Fecha : 2026-06-05T03:40:09-07:00
-     URL   : https://www.producthunt.com/products/navi-menu-builder
-  3. Gaming services by IFTTT
-     Fecha : 2026-06-04T12:54:09-07:00
-     URL   : https://www.producthunt.com/products/ifttt
+  1. Job Postings API
+     Fecha : 2026-06-06T13:32:22-07:00
+     URL   : https://www.producthunt.com/products/free-job-postings-api
+  2. Smmall Cloud for iOS
+     Fecha : 2026-06-04T09:26:25-07:00
+     URL   : https://www.producthunt.com/products/smmall-cloud
+  3. CabinLink
+     Fecha : 2026-06-04T14:23:43-07:00
+     URL   : https://www.producthunt.com/products/cabinlink
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. This is your laptop… on AI
-     Fecha : 2026-06-05T12:39:07-04:00
-     URL   : https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast
-  2. New York lawmakers pass one-year ban on new data centers
-     Fecha : 2026-06-05T11:25:10-04:00
-     URL   : https://www.theverge.com/policy/944041/new-york-data-center-moratorium
-  3. This AI startup says it can tell if a script will make a hit film
-     Fecha : 2026-06-05T09:57:31-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood
+  1. The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center
+     Fecha : 2026-06-06T11:05:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center
+  2. Meta made its own AI-generated clickbait news feed
+     Fecha : 2026-06-06T10:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles
+  3. Here comes new Siri again
+     Fecha : 2026-06-06T08:00:00-04:00
+     URL   : https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-06  10:12:32
+  Fin del reporte  ·  2026-06-07  10:33:31
 ═════════════════════════════════════════════════════════════════

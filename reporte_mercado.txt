@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-07  10:33:31               ║
+║                  Generado: 2026-06-08  12:40:10               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google’s New Guidance Claims Authority Over SEO, Tools, And AEO/GEO via @sejournal, @martinibuster
-     Fecha : Sun, 07 Jun 2026 09:09:04 +0000
-     URL   : https://www.searchenginejournal.com/googles-new-guidance-claims-authority-over-seo-tools-and-aeo-geo/578162/
-  2. Google Gives Sites AI Search Opt-Out, But Not The Data To Use It via @sejournal, @MattGSouthern
-     Fecha : Sat, 06 Jun 2026 13:31:25 +0000
-     URL   : https://www.searchenginejournal.com/google-gives-sites-ai-search-opt-out-but-not-the-data-to-use-it/577978/
-  3. Your Next AI Visitor Will Know Who Sent It via @sejournal, @slobodanmanic
-     Fecha : Sat, 06 Jun 2026 12:00:26 +0000
-     URL   : https://www.searchenginejournal.com/your-next-ai-visitor-will-know-who-sent-it/575489/
+  1. Google Ask Maps Updates – How They Impact Your Business Profile via @sejournal, @MattGSouthern
+     Fecha : Mon, 08 Jun 2026 12:01:18 +0000
+     URL   : https://www.searchenginejournal.com/google-ask-maps-updates-how-they-impact-your-business-profile/577542/
+  2. AI Visibility Used To Mean Citation. Late June 2026, It Starts To Mean Transaction via @sejournal, @slobodanmanic
+     Fecha : Mon, 08 Jun 2026 10:03:33 +0000
+     URL   : https://www.searchenginejournal.com/ai-visibility-used-to-mean-citation-late-june-2026-it-starts-to-mean-transaction/574698/
+  3. WordPress Announces Initiative To Secure All Plugins And Themes via @sejournal, @martinibuster
+     Fecha : Mon, 08 Jun 2026 10:03:25 +0000
+     URL   : https://www.searchenginejournal.com/wordpress-announces-initiative-to-secure-all-plugins-and-themes/578189/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks
-     Fecha : Sat, 06 Jun 2026 20:32:24 +0000
-     URL   : https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/
-  2. What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates
-     Fecha : Sat, 06 Jun 2026 18:13:36 +0000
-     URL   : https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/
-  3. Sriram Krishnan is leaving his role as White House AI advisor
-     Fecha : Sat, 06 Jun 2026 17:42:15 +0000
-     URL   : https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/
+  1. Uber, Wayve and Waymo are headed towards a robotaxi showdown in London
+     Fecha : Mon, 08 Jun 2026 11:00:00 +0000
+     URL   : https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/
+  2. Is this the dawn of the Tokenpocalypse?
+     Fecha : Sun, 07 Jun 2026 20:26:13 +0000
+     URL   : https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/
+  3. Notion restores access to Anthropic after service disruption
+     Fecha : Sun, 07 Jun 2026 17:56:22 +0000
+     URL   : https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Job Postings API
-     Fecha : 2026-06-06T13:32:22-07:00
-     URL   : https://www.producthunt.com/products/free-job-postings-api
-  2. Smmall Cloud for iOS
-     Fecha : 2026-06-04T09:26:25-07:00
-     URL   : https://www.producthunt.com/products/smmall-cloud
-  3. CabinLink
-     Fecha : 2026-06-04T14:23:43-07:00
-     URL   : https://www.producthunt.com/products/cabinlink
+  1. Tamadoggo
+     Fecha : 2026-06-07T09:39:30-07:00
+     URL   : https://www.producthunt.com/products/tamadoggo
+  2. Browse.sh
+     Fecha : 2026-05-21T07:03:19-07:00
+     URL   : https://www.producthunt.com/products/browserbase
+  3. Olo
+     Fecha : 2026-06-07T12:38:31-07:00
+     URL   : https://www.producthunt.com/products/olo-1st-ai-style-companion-for-guys
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center
+  1. WWDC 2026: How to watch and what to expect
+     Fecha : 2026-06-08T07:00:00-04:00
+     URL   : https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch
+  2. AI ‘content creators’ are getting harder to spot
+     Fecha : 2026-06-07T08:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators
+  3. The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center
      Fecha : 2026-06-06T11:05:00-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center
-  2. Meta made its own AI-generated clickbait news feed
-     Fecha : 2026-06-06T10:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles
-  3. Here comes new Siri again
-     Fecha : 2026-06-06T08:00:00-04:00
-     URL   : https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-07  10:33:31
+  Fin del reporte  ·  2026-06-08  12:40:10
 ═════════════════════════════════════════════════════════════════

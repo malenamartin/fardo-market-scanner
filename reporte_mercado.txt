@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-09  11:23:55               ║
+║                  Generado: 2026-06-10  11:44:04               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. The AI Convergence Problem
-     Fecha : Tue, 09 Jun 2026 11:04:48 +0000
-     URL   : https://www.searchenginejournal.com/the-ai-convergence-problem/576068/
-  2. How To Build A Growth Marketing Team On A Startup Budget
-     Fecha : Tue, 09 Jun 2026 09:45:33 +0000
-     URL   : https://www.searchenginejournal.com/how-to-build-a-growth-marketing-team-on-a-startup-budget/575451/
-  3. The CMO And CIO Friction Point: Navigating The AI Agent And AEO Ecosystem
-     Fecha : Tue, 09 Jun 2026 08:00:22 +0000
-     URL   : https://www.searchenginejournal.com/the-cmo-and-cio-friction-point-navigating-the-ai-agent-and-aeo-ecosystem/575379/
+  1. What The Future Of Google Looks Like
+     Fecha : Wed, 10 Jun 2026 11:00:35 +0000
+     URL   : https://www.searchenginejournal.com/what-the-future-of-google-looks-like/578349/
+  2. SEO Panel Agrees: Brand Is The New Backlink For AI SEO via @sejournal, @martinibuster
+     Fecha : Wed, 10 Jun 2026 10:10:18 +0000
+     URL   : https://www.searchenginejournal.com/seo-panel-agrees-brand-is-the-new-backlink-for-ai-seo/578567/
+  3. Why Your Product Feed Is An SEO Asset (And Who Should Own It) via @sejournal, @demirie
+     Fecha : Wed, 10 Jun 2026 09:00:45 +0000
+     URL   : https://www.searchenginejournal.com/why-your-product-feed-is-an-seo-asset-and-who-should-own-it/575543/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Evotrex raises $30M to build the RV that doesn’t need a charging station
-     Fecha : Tue, 09 Jun 2026 09:00:00 +0000
-     URL   : https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/
-  2. Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet
-     Fecha : Tue, 09 Jun 2026 05:07:17 +0000
-     URL   : https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/
-  3. Why Apple’s slow-and-steady AI bet is starting to look pretty smart
-     Fecha : Tue, 09 Jun 2026 01:56:48 +0000
-     URL   : https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/
+  1. Waymo says it built a better benchmark for comparing robotaxis to humans
+     Fecha : Wed, 10 Jun 2026 09:00:00 +0000
+     URL   : https://techcrunch.com/2026/06/10/waymo-says-it-built-a-better-benchmark-for-comparing-robotaxis-to-humans/
+  2. Meta signs first AI data center deal in India with Reliance
+     Fecha : Wed, 10 Jun 2026 07:05:26 +0000
+     URL   : https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/
+  3. Top Lucid Motors executive departs amid new CEO’s leadership shakeup
+     Fecha : Wed, 10 Jun 2026 03:35:07 +0000
+     URL   : https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. ChocolateBar
-     Fecha : 2026-06-03T02:07:06-07:00
-     URL   : https://www.producthunt.com/products/chocolatebar
-  2. agmsg
-     Fecha : 2026-06-06T20:17:24-07:00
-     URL   : https://www.producthunt.com/products/agmsg
-  3. VC Boom
-     Fecha : 2026-06-04T08:28:52-07:00
-     URL   : https://www.producthunt.com/products/vcboom
+  1. TypingMind
+     Fecha : 2026-06-06T01:05:56-07:00
+     URL   : https://www.producthunt.com/products/typing-mind
+  2. Publora
+     Fecha : 2026-05-21T07:02:21-07:00
+     URL   : https://www.producthunt.com/products/publora
+  3. Monako Glass
+     Fecha : 2026-06-05T09:23:32-07:00
+     URL   : https://www.producthunt.com/products/monako-glass
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Amazon employees ask Seattle to put the brakes on new data centers
-     Fecha : 2026-06-09T06:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium
-  2. Apple is using AI to fix Safari’s extension problem
-     Fecha : 2026-06-08T18:14:17-04:00
-     URL   : https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions
-  3. OpenAI files for IPO, following Anthropic
-     Fecha : 2026-06-08T17:38:29-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential
+  1. I tried Siri AI, and so far it actually works
+     Fecha : 2026-06-09T19:43:00-04:00
+     URL   : https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc
+  2. GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech
+     Fecha : 2026-06-09T17:00:00-04:00
+     URL   : https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion
+  3. Microsoft AI head calls out Anthropic for acting like Claude is conscious
+     Fecha : 2026-06-09T16:24:25-04:00
+     URL   : https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-09  11:23:55
+  Fin del reporte  ·  2026-06-10  11:44:04
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-10  11:44:04               ║
+║                  Generado: 2026-06-11  12:14:58               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. What The Future Of Google Looks Like
-     Fecha : Wed, 10 Jun 2026 11:00:35 +0000
-     URL   : https://www.searchenginejournal.com/what-the-future-of-google-looks-like/578349/
-  2. SEO Panel Agrees: Brand Is The New Backlink For AI SEO via @sejournal, @martinibuster
-     Fecha : Wed, 10 Jun 2026 10:10:18 +0000
-     URL   : https://www.searchenginejournal.com/seo-panel-agrees-brand-is-the-new-backlink-for-ai-seo/578567/
-  3. Why Your Product Feed Is An SEO Asset (And Who Should Own It) via @sejournal, @demirie
-     Fecha : Wed, 10 Jun 2026 09:00:45 +0000
-     URL   : https://www.searchenginejournal.com/why-your-product-feed-is-an-seo-asset-and-who-should-own-it/575543/
+  1. Google Is Building An Audience Loyalty Ecosystem
+     Fecha : Thu, 11 Jun 2026 11:16:36 +0000
+     URL   : https://www.searchenginejournal.com/google-is-building-an-audience-loyalty-ecosystem/578690/
+  2. UpdraftPlus WordPress Vulnerability Puts 3 Million Sites At Risk via @sejournal, @martinibuster
+     Fecha : Thu, 11 Jun 2026 10:23:42 +0000
+     URL   : https://www.searchenginejournal.com/updraftplus-wordpress-vulnerability-puts-3-million-sites-at-risk/578912/
+  3. Anthropic Asks The AI Industry To Hit The Brakes – Here’s What It Means For SEO & Search Marketers via @sejournal, @gregjarboe
+     Fecha : Thu, 11 Jun 2026 10:00:51 +0000
+     URL   : https://www.searchenginejournal.com/anthropic-asks-the-ai-industry-to-hit-the-brakes-heres-what-it-means-for-seo-search-marketers/578156/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Waymo says it built a better benchmark for comparing robotaxis to humans
-     Fecha : Wed, 10 Jun 2026 09:00:00 +0000
-     URL   : https://techcrunch.com/2026/06/10/waymo-says-it-built-a-better-benchmark-for-comparing-robotaxis-to-humans/
-  2. Meta signs first AI data center deal in India with Reliance
-     Fecha : Wed, 10 Jun 2026 07:05:26 +0000
-     URL   : https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/
-  3. Top Lucid Motors executive departs amid new CEO’s leadership shakeup
-     Fecha : Wed, 10 Jun 2026 03:35:07 +0000
-     URL   : https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/
+  1. Anthropic taps TCS to scale its enterprise AI deployments
+     Fecha : Thu, 11 Jun 2026 11:48:55 +0000
+     URL   : https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/
+  2. Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing
+     Fecha : Thu, 11 Jun 2026 04:02:19 +0000
+     URL   : https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/
+  3. Anthropic’s Dario Amodei has just one direct report
+     Fecha : Thu, 11 Jun 2026 03:53:06 +0000
+     URL   : https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. TypingMind
-     Fecha : 2026-06-06T01:05:56-07:00
-     URL   : https://www.producthunt.com/products/typing-mind
-  2. Publora
-     Fecha : 2026-05-21T07:02:21-07:00
-     URL   : https://www.producthunt.com/products/publora
-  3. Monako Glass
-     Fecha : 2026-06-05T09:23:32-07:00
-     URL   : https://www.producthunt.com/products/monako-glass
+  1. Respan Gateway
+     Fecha : 2026-06-06T13:52:00-07:00
+     URL   : https://www.producthunt.com/products/keywords-ai
+  2. CrustRecruiter
+     Fecha : 2026-06-10T04:49:14-07:00
+     URL   : https://www.producthunt.com/products/crustdata-2
+  3. Airbrush Studio
+     Fecha : 2026-06-10T02:15:09-07:00
+     URL   : https://www.producthunt.com/products/airbrush-studio
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. I tried Siri AI, and so far it actually works
-     Fecha : 2026-06-09T19:43:00-04:00
-     URL   : https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc
-  2. GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech
-     Fecha : 2026-06-09T17:00:00-04:00
-     URL   : https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion
-  3. Microsoft AI head calls out Anthropic for acting like Claude is conscious
-     Fecha : 2026-06-09T16:24:25-04:00
-     URL   : https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious
+  1. Anthropic apologizes for invisible Claude Fable guardrails
+     Fecha : 2026-06-11T07:40:43-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail
+  2. Deezer launches an AI music detector for other streaming services
+     Fecha : 2026-06-11T04:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple
+  3. Claude Fable won’t answer basic biology questions
+     Fecha : 2026-06-10T14:43:34-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-10  11:44:04
+  Fin del reporte  ·  2026-06-11  12:14:58
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-11  12:14:58               ║
+║                  Generado: 2026-06-12  11:49:13               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Is Building An Audience Loyalty Ecosystem
-     Fecha : Thu, 11 Jun 2026 11:16:36 +0000
-     URL   : https://www.searchenginejournal.com/google-is-building-an-audience-loyalty-ecosystem/578690/
-  2. UpdraftPlus WordPress Vulnerability Puts 3 Million Sites At Risk via @sejournal, @martinibuster
-     Fecha : Thu, 11 Jun 2026 10:23:42 +0000
-     URL   : https://www.searchenginejournal.com/updraftplus-wordpress-vulnerability-puts-3-million-sites-at-risk/578912/
-  3. Anthropic Asks The AI Industry To Hit The Brakes – Here’s What It Means For SEO & Search Marketers via @sejournal, @gregjarboe
-     Fecha : Thu, 11 Jun 2026 10:00:51 +0000
-     URL   : https://www.searchenginejournal.com/anthropic-asks-the-ai-industry-to-hit-the-brakes-heres-what-it-means-for-seo-search-marketers/578156/
+  1. AI Overview Click Data Reveals Unexpected User Behavior Patterns For Marketers via @sejournal, @gregjarboe
+     Fecha : Fri, 12 Jun 2026 11:02:35 +0000
+     URL   : https://www.searchenginejournal.com/ai-overview-click-data-reveals-unexpected-user-behavior-patterns-for-marketers/578379/
+  2. Google’s Agent-Friendly Checklist Is The Accessibility Audit Restated via @sejournal, @slobodanmanic
+     Fecha : Fri, 12 Jun 2026 09:00:35 +0000
+     URL   : https://www.searchenginejournal.com/googles-agent-friendly-checklist-is-the-accessibility-audit-restated/575495/
+  3. AI Bots Keep Overloading Servers. Should Website Owners Keep Paying? via @sejournal, @martinibuster
+     Fecha : Thu, 11 Jun 2026 23:53:14 +0000
+     URL   : https://www.searchenginejournal.com/ai-bots-keep-overloading-servers-should-website-owners-keep-paying/579018/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Anthropic taps TCS to scale its enterprise AI deployments
-     Fecha : Thu, 11 Jun 2026 11:48:55 +0000
-     URL   : https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/
-  2. Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing
-     Fecha : Thu, 11 Jun 2026 04:02:19 +0000
-     URL   : https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/
-  3. Anthropic’s Dario Amodei has just one direct report
-     Fecha : Thu, 11 Jun 2026 03:53:06 +0000
-     URL   : https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/
+  1. US spy law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies
+     Fecha : Fri, 12 Jun 2026 11:43:32 +0000
+     URL   : https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/
+  2. Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale
+     Fecha : Fri, 12 Jun 2026 04:30:00 +0000
+     URL   : https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/
+  3. Equal AI raises $30M to screen calls so Indians don’t have to
+     Fecha : Fri, 12 Jun 2026 04:30:00 +0000
+     URL   : https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Respan Gateway
-     Fecha : 2026-06-06T13:52:00-07:00
-     URL   : https://www.producthunt.com/products/keywords-ai
-  2. CrustRecruiter
-     Fecha : 2026-06-10T04:49:14-07:00
-     URL   : https://www.producthunt.com/products/crustdata-2
-  3. Airbrush Studio
-     Fecha : 2026-06-10T02:15:09-07:00
-     URL   : https://www.producthunt.com/products/airbrush-studio
+  1. Keep
+     Fecha : 2026-06-11T23:45:17-07:00
+     URL   : https://www.producthunt.com/products/keep-8
+  2. Bob's CLI
+     Fecha : 2026-06-11T20:34:56-07:00
+     URL   : https://www.producthunt.com/products/bob-s-cli
+  3. Meet Warren 3.0
+     Fecha : 2026-06-11T04:04:31-07:00
+     URL   : https://www.producthunt.com/products/underpay
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Anthropic apologizes for invisible Claude Fable guardrails
+  1. Siri won’t be your AI girlfriend
+     Fecha : 2026-06-12T03:00:31-04:00
+     URL   : https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend
+  2. Amazon&#8217;s data centers used 2.5 billion gallons of water last year
+     Fecha : 2026-06-11T13:26:57-04:00
+     URL   : https://www.theverge.com/tech/948534/amazon-data-centers-water-use
+  3. Anthropic apologizes for invisible Claude Fable guardrails
      Fecha : 2026-06-11T07:40:43-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail
-  2. Deezer launches an AI music detector for other streaming services
-     Fecha : 2026-06-11T04:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple
-  3. Claude Fable won’t answer basic biology questions
-     Fecha : 2026-06-10T14:43:34-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-11  12:14:58
+  Fin del reporte  ·  2026-06-12  11:49:13
 ═════════════════════════════════════════════════════════════════

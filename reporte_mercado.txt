@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-13  10:34:33               ║
+║                  Generado: 2026-06-14  10:52:33               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Government Order Shuts Down Fable 5 Despite Anthropic’s Objections via @sejournal, @martinibuster
+  1. What Apple’s Gemini-Powered Siri Means For Search Visibility via @sejournal, @MattGSouthern
+     Fecha : Sat, 13 Jun 2026 12:00:28 +0000
+     URL   : https://www.searchenginejournal.com/what-apples-gemini-powered-siri-means-for-search-visibility/578931/
+  2. Anthropic Forced To Shut Down Fable 5 By U.S. Government Order via @sejournal, @martinibuster
      Fecha : Sat, 13 Jun 2026 04:12:48 +0000
      URL   : https://www.searchenginejournal.com/government-order-shuts-down-fable-5-despite-anthropics-objections/579168/
-  2. Google Publishes Tennessee Search “Blacklist” Guidance via @sejournal, @martinibuster
+  3. Google Publishes Tennessee Search “Blacklist” Guidance via @sejournal, @martinibuster
      Fecha : Fri, 12 Jun 2026 22:52:58 +0000
      URL   : https://www.searchenginejournal.com/google-publishes-tennessee-search-blacklist-guidance/579161/
-  3. MonsterInsights Website Compromised And Sending Phishing Emails via @sejournal, @martinibuster
-     Fecha : Fri, 12 Jun 2026 21:09:18 +0000
-     URL   : https://www.searchenginejournal.com/monsterinsights-website-compromised-and-sending-phishing-emails/579140/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Andrew Yang thinks the next big startup opportunity is lowering the cost of living
-     Fecha : Sat, 13 Jun 2026 04:14:19 +0000
-     URL   : https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/
-  2. Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI
-     Fecha : Sat, 13 Jun 2026 02:26:30 +0000
-     URL   : https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/
-  3. SpaceX IPO: Live updates on everything you need to know
-     Fecha : Fri, 12 Jun 2026 23:15:14 +0000
-     URL   : https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/
+  1. As Anthropic suspends access to new models, India debates its AI future
+     Fecha : Sun, 14 Jun 2026 03:00:00 +0000
+     URL   : https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/
+  2. Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand
+     Fecha : Sun, 14 Jun 2026 00:03:49 +0000
+     URL   : https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/
+  3. KPMG pulls report on AI usage due to apparent hallucinations
+     Fecha : Sat, 13 Jun 2026 20:42:31 +0000
+     URL   : https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Vercel Drop
-     Fecha : 2026-06-12T14:49:02-07:00
-     URL   : https://www.producthunt.com/products/vercel
-  2. Kimi K2.7 Code
-     Fecha : 2026-06-12T05:27:54-07:00
-     URL   : https://www.producthunt.com/products/kimi-ai-assistant
-  3. CakewordAI
-     Fecha : 2026-06-12T14:14:13-07:00
-     URL   : https://www.producthunt.com/products/cakewordai-snap-learn
+  1. Slashy
+     Fecha : 2026-06-13T21:38:45-07:00
+     URL   : https://www.producthunt.com/products/slashy-3
+  2. Allergo
+     Fecha : 2026-05-05T04:45:45-07:00
+     URL   : https://www.producthunt.com/products/allergo-allergy-translation-cards
+  3. Permute 4.0
+     Fecha : 2026-06-10T16:57:58-07:00
+     URL   : https://www.producthunt.com/products/permute
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Siri is good now??
-     Fecha : 2026-06-12T13:17:04-04:00
-     URL   : https://www.theverge.com/podcast/949079/siri-ai-good-vergecast
-  2. Elon Musk is the world&#8217;s first trillionaire
-     Fecha : 2026-06-12T12:24:39-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo
-  3. SpaceX’s massive IPO: all the latest news
-     Fecha : 2026-06-12T10:35:48-04:00
-     URL   : https://www.theverge.com/business/948996/spacex-ipo-elon-musk
+  1. Amazon security research reportedly led to the White House’s Anthropic Fable ban
+     Fecha : 2026-06-13T17:39:26-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban
+  2. My yard is dying, so I made an app for that
+     Fecha : 2026-06-13T09:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing
+  3. Anthropic cuts off Fable 5 and Mythos 5 access following government order
+     Fecha : 2026-06-13T08:55:49-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-13  10:34:33
+  Fin del reporte  ·  2026-06-14  10:52:33
 ═════════════════════════════════════════════════════════════════

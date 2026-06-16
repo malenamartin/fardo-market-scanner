@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-15  14:30:19               ║
+║                  Generado: 2026-06-16  13:00:41               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. The Review Gap: Finding Client Opportunities In Competitor Feedback
-     Fecha : Mon, 15 Jun 2026 13:30:06 +0000
-     URL   : https://www.searchenginejournal.com/the-review-gap-finding-client-opportunities-in-competitor-feedback/576052/
-  2. Agentic Commerce And The New Rules Of Google Ads via @sejournal, @tonyadam
-     Fecha : Mon, 15 Jun 2026 11:30:02 +0000
-     URL   : https://www.searchenginejournal.com/agentic-commerce-and-the-new-rules-of-google-ads/577406/
-  3. Google’s Unexpected Take On Site Folder Structure And SEO via @sejournal, @martinibuster
-     Fecha : Mon, 15 Jun 2026 10:44:07 +0000
-     URL   : https://www.searchenginejournal.com/googles-unexpected-take-on-site-folder-structure-and-seo/579268/
+  1. Schema, LLMs & The Low Bar For ‘Evidence’ In GEO
+     Fecha : Tue, 16 Jun 2026 11:00:57 +0000
+     URL   : https://www.searchenginejournal.com/schema-llms-the-low-bar-for-evidence-in-geo/576090/
+  2. Google Says Markdown For AI SEO Strips Away The Parts That Matter via @sejournal, @martinibuster
+     Fecha : Tue, 16 Jun 2026 09:16:22 +0000
+     URL   : https://www.searchenginejournal.com/google-says-markdown-for-ai-seo-strips-away-the-parts-that-matter/579496/
+  3. Why GSC Impressions Are Up But Traffic Is Falling: 4 Things To Consider First – Ask An SEO via @sejournal, @rollerblader
+     Fecha : Tue, 16 Jun 2026 09:00:17 +0000
+     URL   : https://www.searchenginejournal.com/ask-an-seo-why-gsc-impressions-are-up-but-traffic-is-falling-4-things-to-consider-first/569246/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech
-     Fecha : Mon, 15 Jun 2026 13:46:08 +0000
-     URL   : https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/
-  2. Fox to acquire Roku in $22 billion deal
-     Fecha : Mon, 15 Jun 2026 13:43:05 +0000
-     URL   : https://techcrunch.com/2026/06/15/fox-to-acquire-roku-in-22-billion-deal/
-  3. As AI agents become employees, NewCore emerges with $66M to give them identities
-     Fecha : Mon, 15 Jun 2026 13:00:00 +0000
-     URL   : https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/
+  1. India orders temporary ban on Telegram over exam fraud concerns
+     Fecha : Tue, 16 Jun 2026 11:33:35 +0000
+     URL   : https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/
+  2. This startup’s super metals could soon be in military drones, luxury watches, and chef’s knives
+     Fecha : Tue, 16 Jun 2026 11:25:00 +0000
+     URL   : https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/
+  3. SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO
+     Fecha : Tue, 16 Jun 2026 11:21:41 +0000
+     URL   : https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. AutoEdit
-     Fecha : 2026-06-04T04:01:38-07:00
-     URL   : https://www.producthunt.com/products/autoedit
-  2. Wobo 2.0
-     Fecha : 2026-06-08T14:49:56-07:00
-     URL   : https://www.producthunt.com/products/wobo-ai
-  3. Tinfoil Pigeons
-     Fecha : 2026-06-12T12:51:31-07:00
-     URL   : https://www.producthunt.com/products/tinfoil-pigeons
+  1. Voice Calls in Chatwoot
+     Fecha : 2026-06-15T19:51:53-07:00
+     URL   : https://www.producthunt.com/products/chatwoot
+  2. Kraina
+     Fecha : 2026-06-15T09:43:32-07:00
+     URL   : https://www.producthunt.com/products/kraina
+  3. Tadka
+     Fecha : 2026-06-12T04:08:51-07:00
+     URL   : https://www.producthunt.com/products/tadka
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use
-     Fecha : 2026-06-15T10:00:00-04:00
-     URL   : https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military
-  2. China may have accessed Mythos
-     Fecha : 2026-06-14T14:27:55-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos
-  3. Amazon security research reportedly led to the White House’s Anthropic Fable ban
-     Fecha : 2026-06-13T17:39:26-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban
+  1. SpaceX is officially buying Cursor for $60 billion
+     Fecha : 2026-06-16T07:41:31-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion
+  2. Inside the fight over Claude Mythos 5
+     Fecha : 2026-06-15T23:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls
+  3. Facebook’s new AI Mode search gets its info from public posts
+     Fecha : 2026-06-15T17:15:08-04:00
+     URL   : https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-15  14:30:19
+  Fin del reporte  ·  2026-06-16  13:00:41
 ═════════════════════════════════════════════════════════════════

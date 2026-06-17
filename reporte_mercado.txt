@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-16  13:00:41               ║
+║                  Generado: 2026-06-17  12:22:12               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Schema, LLMs & The Low Bar For ‘Evidence’ In GEO
-     Fecha : Tue, 16 Jun 2026 11:00:57 +0000
-     URL   : https://www.searchenginejournal.com/schema-llms-the-low-bar-for-evidence-in-geo/576090/
-  2. Google Says Markdown For AI SEO Strips Away The Parts That Matter via @sejournal, @martinibuster
-     Fecha : Tue, 16 Jun 2026 09:16:22 +0000
-     URL   : https://www.searchenginejournal.com/google-says-markdown-for-ai-seo-strips-away-the-parts-that-matter/579496/
-  3. Why GSC Impressions Are Up But Traffic Is Falling: 4 Things To Consider First – Ask An SEO via @sejournal, @rollerblader
-     Fecha : Tue, 16 Jun 2026 09:00:17 +0000
-     URL   : https://www.searchenginejournal.com/ask-an-seo-why-gsc-impressions-are-up-but-traffic-is-falling-4-things-to-consider-first/569246/
+  1. Written For Readers Who Don’t Read via @sejournal, @pedrodias
+     Fecha : Wed, 17 Jun 2026 11:30:05 +0000
+     URL   : https://www.searchenginejournal.com/written-for-readers-who-dont-read/579568/
+  2. Google Explains Why URLs Blocked By Robots.txt Can Still Be Indexed via @sejournal, @martinibuster
+     Fecha : Wed, 17 Jun 2026 10:58:48 +0000
+     URL   : https://www.searchenginejournal.com/google-explains-why-urls-blocked-by-robots-txt-can-still-be-indexed/579634/
+  3. Why Publishing More Content Is Making Your SEO Worse via @sejournal, @cshel
+     Fecha : Wed, 17 Jun 2026 10:00:05 +0000
+     URL   : https://www.searchenginejournal.com/why-publishing-more-content-is-making-your-seo-worse/576047/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. India orders temporary ban on Telegram over exam fraud concerns
-     Fecha : Tue, 16 Jun 2026 11:33:35 +0000
-     URL   : https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/
-  2. This startup’s super metals could soon be in military drones, luxury watches, and chef’s knives
-     Fecha : Tue, 16 Jun 2026 11:25:00 +0000
-     URL   : https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/
-  3. SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO
-     Fecha : Tue, 16 Jun 2026 11:21:41 +0000
-     URL   : https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/
+  1. DeepL acquires Mixhalo for live-event audio streaming and translation
+     Fecha : Wed, 17 Jun 2026 12:14:44 +0000
+     URL   : https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/
+  2. Uber will bring its premium robotaxi service to Houston in 2027
+     Fecha : Wed, 17 Jun 2026 11:00:00 +0000
+     URL   : https://techcrunch.com/2026/06/17/uber-will-bring-its-premium-robotaxi-service-to-houston-in-2027/
+  3. Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’
+     Fecha : Wed, 17 Jun 2026 11:00:00 +0000
+     URL   : https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Voice Calls in Chatwoot
-     Fecha : 2026-06-15T19:51:53-07:00
-     URL   : https://www.producthunt.com/products/chatwoot
-  2. Kraina
-     Fecha : 2026-06-15T09:43:32-07:00
-     URL   : https://www.producthunt.com/products/kraina
-  3. Tadka
-     Fecha : 2026-06-12T04:08:51-07:00
-     URL   : https://www.producthunt.com/products/tadka
+  1. SolonGate
+     Fecha : 2026-06-16T07:36:07-07:00
+     URL   : https://www.producthunt.com/products/solongate
+  2. Locus Founder
+     Fecha : 2026-06-14T12:19:27-07:00
+     URL   : https://www.producthunt.com/products/locus-founder
+  3. Henji
+     Fecha : 2026-06-16T21:24:48-07:00
+     URL   : https://www.producthunt.com/products/henji
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. SpaceX is officially buying Cursor for $60 billion
-     Fecha : 2026-06-16T07:41:31-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion
-  2. Inside the fight over Claude Mythos 5
-     Fecha : 2026-06-15T23:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls
-  3. Facebook’s new AI Mode search gets its info from public posts
-     Fecha : 2026-06-15T17:15:08-04:00
-     URL   : https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook
+  1. The next humanoid robot might not look human at all
+     Fecha : 2026-06-17T05:46:56-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno
+  2. Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone
+     Fecha : 2026-06-16T13:04:05-04:00
+     URL   : https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor
+  3. Qualcomm’s latest chip hints that more powerful smart glasses could be on the way
+     Fecha : 2026-06-16T13:00:00-04:00
+     URL   : https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-16  13:00:41
+  Fin del reporte  ·  2026-06-17  12:22:12
 ═════════════════════════════════════════════════════════════════

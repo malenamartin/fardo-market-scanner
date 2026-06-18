@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-17  12:22:12               ║
+║                  Generado: 2026-06-18  11:55:02               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Written For Readers Who Don’t Read via @sejournal, @pedrodias
-     Fecha : Wed, 17 Jun 2026 11:30:05 +0000
-     URL   : https://www.searchenginejournal.com/written-for-readers-who-dont-read/579568/
-  2. Google Explains Why URLs Blocked By Robots.txt Can Still Be Indexed via @sejournal, @martinibuster
-     Fecha : Wed, 17 Jun 2026 10:58:48 +0000
-     URL   : https://www.searchenginejournal.com/google-explains-why-urls-blocked-by-robots-txt-can-still-be-indexed/579634/
-  3. Why Publishing More Content Is Making Your SEO Worse via @sejournal, @cshel
-     Fecha : Wed, 17 Jun 2026 10:00:05 +0000
-     URL   : https://www.searchenginejournal.com/why-publishing-more-content-is-making-your-seo-worse/576047/
+  1. Google Is Becoming A Personalizing Mirror Before You Even Type A Query via @sejournal, @TaylorDanRW
+     Fecha : Thu, 18 Jun 2026 11:00:31 +0000
+     URL   : https://www.searchenginejournal.com/the-search-mirror-personal-intelligence-and-agentic-browsing/578430/
+  2. Google Exposes The Fundamental Flaw Of LLMs.txt via @sejournal, @martinibuster
+     Fecha : Thu, 18 Jun 2026 09:56:49 +0000
+     URL   : https://www.searchenginejournal.com/google-exposes-llms-txt-flaw/579814/
+  3. Google Tightens Requirements For Domain Migrations via @sejournal, @martinibuster
+     Fecha : Thu, 18 Jun 2026 09:17:45 +0000
+     URL   : https://www.searchenginejournal.com/google-tightens-requirements-for-domain-migrations/579781/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. DeepL acquires Mixhalo for live-event audio streaming and translation
-     Fecha : Wed, 17 Jun 2026 12:14:44 +0000
-     URL   : https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/
-  2. Uber will bring its premium robotaxi service to Houston in 2027
-     Fecha : Wed, 17 Jun 2026 11:00:00 +0000
-     URL   : https://techcrunch.com/2026/06/17/uber-will-bring-its-premium-robotaxi-service-to-houston-in-2027/
-  3. Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’
-     Fecha : Wed, 17 Jun 2026 11:00:00 +0000
-     URL   : https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/
+  1. NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX
+     Fecha : Thu, 18 Jun 2026 06:26:24 +0000
+     URL   : https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/
+  2. How to turn off AI in your Google Docs
+     Fecha : Thu, 18 Jun 2026 01:23:51 +0000
+     URL   : https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/
+  3. AI is hurting Apple in more ways than one: it may force iPhone price increases
+     Fecha : Wed, 17 Jun 2026 23:28:21 +0000
+     URL   : https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. SolonGate
-     Fecha : 2026-06-16T07:36:07-07:00
-     URL   : https://www.producthunt.com/products/solongate
-  2. Locus Founder
-     Fecha : 2026-06-14T12:19:27-07:00
-     URL   : https://www.producthunt.com/products/locus-founder
-  3. Henji
-     Fecha : 2026-06-16T21:24:48-07:00
-     URL   : https://www.producthunt.com/products/henji
+  1. Honestly
+     Fecha : 2026-06-16T03:10:37-07:00
+     URL   : https://www.producthunt.com/products/honestly
+  2. InstantDelay
+     Fecha : 2026-06-17T13:40:44-07:00
+     URL   : https://www.producthunt.com/products/instantdelay
+  3. Buddy
+     Fecha : 2026-06-16T05:22:49-07:00
+     URL   : https://www.producthunt.com/products/buddy-free-figma-agent
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. The next humanoid robot might not look human at all
-     Fecha : 2026-06-17T05:46:56-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno
-  2. Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone
-     Fecha : 2026-06-16T13:04:05-04:00
-     URL   : https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor
-  3. Qualcomm’s latest chip hints that more powerful smart glasses could be on the way
-     Fecha : 2026-06-16T13:00:00-04:00
-     URL   : https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables
+  1. Midjourney goes from generating cat images to full-body ultrasound scans
+     Fecha : 2026-06-17T23:12:31-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan
+  2. Anthropic got hit by export rules nobody understands
+     Fecha : 2026-06-17T14:28:50-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls
+  3. Two-thirds of Americans think AI is advancing too quickly
+     Fecha : 2026-06-17T13:20:24-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-17  12:22:12
+  Fin del reporte  ·  2026-06-18  11:55:02
 ═════════════════════════════════════════════════════════════════

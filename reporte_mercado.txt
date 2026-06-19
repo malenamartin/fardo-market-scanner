@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-18  11:55:02               ║
+║                  Generado: 2026-06-19  12:14:12               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Is Becoming A Personalizing Mirror Before You Even Type A Query via @sejournal, @TaylorDanRW
-     Fecha : Thu, 18 Jun 2026 11:00:31 +0000
-     URL   : https://www.searchenginejournal.com/the-search-mirror-personal-intelligence-and-agentic-browsing/578430/
-  2. Google Exposes The Fundamental Flaw Of LLMs.txt via @sejournal, @martinibuster
-     Fecha : Thu, 18 Jun 2026 09:56:49 +0000
-     URL   : https://www.searchenginejournal.com/google-exposes-llms-txt-flaw/579814/
-  3. Google Tightens Requirements For Domain Migrations via @sejournal, @martinibuster
-     Fecha : Thu, 18 Jun 2026 09:17:45 +0000
-     URL   : https://www.searchenginejournal.com/google-tightens-requirements-for-domain-migrations/579781/
+  1. Google Research Shows How AI Spam Can Be Detected via @sejournal, @martinibuster
+     Fecha : Fri, 19 Jun 2026 11:45:35 +0000
+     URL   : https://www.searchenginejournal.com/google-generated-ai-detected/579987/
+  2. AI Mode Sends A Different Visitor. Your Website Wasn’t Built For Them via @sejournal, @slobodanmanic
+     Fecha : Fri, 19 Jun 2026 09:00:22 +0000
+     URL   : https://www.searchenginejournal.com/ai-mode-sends-a-different-visitor-your-website-wasnt-built-for-them/576185/
+  3. OpenAI Brings Improved Health Responses To Free ChatGPT via @sejournal, @MattGSouthern
+     Fecha : Thu, 18 Jun 2026 21:29:10 +0000
+     URL   : https://www.searchenginejournal.com/openai-brings-improved-health-responses-to-free-chatgpt/579919/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX
-     Fecha : Thu, 18 Jun 2026 06:26:24 +0000
-     URL   : https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/
-  2. How to turn off AI in your Google Docs
-     Fecha : Thu, 18 Jun 2026 01:23:51 +0000
-     URL   : https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/
-  3. AI is hurting Apple in more ways than one: it may force iPhone price increases
-     Fecha : Wed, 17 Jun 2026 23:28:21 +0000
-     URL   : https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/
+  1. The US says ASML’s top chip tool may be in China. ASML says it isn’t
+     Fecha : Fri, 19 Jun 2026 07:59:12 +0000
+     URL   : https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/
+  2. Telegram ban in India sparks a rush to VPNs, rival apps
+     Fecha : Fri, 19 Jun 2026 01:01:00 +0000
+     URL   : https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/
+  3. Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M
+     Fecha : Fri, 19 Jun 2026 00:51:11 +0000
+     URL   : https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Honestly
-     Fecha : 2026-06-16T03:10:37-07:00
-     URL   : https://www.producthunt.com/products/honestly
-  2. InstantDelay
-     Fecha : 2026-06-17T13:40:44-07:00
-     URL   : https://www.producthunt.com/products/instantdelay
-  3. Buddy
-     Fecha : 2026-06-16T05:22:49-07:00
-     URL   : https://www.producthunt.com/products/buddy-free-figma-agent
+  1. Blazly Backlinker
+     Fecha : 2026-06-18T07:58:24-07:00
+     URL   : https://www.producthunt.com/products/blazly-backlinker
+  2. Screen Ruler
+     Fecha : 2026-06-18T06:13:30-07:00
+     URL   : https://www.producthunt.com/products/screen-ruler
+  3. Zernio WhatsApp API
+     Fecha : 2026-06-11T07:18:43-07:00
+     URL   : https://www.producthunt.com/products/zernio
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Midjourney goes from generating cat images to full-body ultrasound scans
-     Fecha : 2026-06-17T23:12:31-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan
-  2. Anthropic got hit by export rules nobody understands
-     Fecha : 2026-06-17T14:28:50-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls
-  3. Two-thirds of Americans think AI is advancing too quickly
-     Fecha : 2026-06-17T13:20:24-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly
+  1. Barret Zoph is out at OpenAI again after just five months
+     Fecha : 2026-06-19T00:49:33-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab
+  2. Amazon employees say they’re facing termination for backing data center limits
+     Fecha : 2026-06-18T12:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action
+  3. Who decides when AI is too dangerous?
+     Fecha : 2026-06-18T10:00:00-04:00
+     URL   : https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-18  11:55:02
+  Fin del reporte  ·  2026-06-19  12:14:12
 ═════════════════════════════════════════════════════════════════

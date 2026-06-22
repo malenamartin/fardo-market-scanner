@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-21  11:21:19               ║
+║                  Generado: 2026-06-22  13:40:38               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. The Content Framework That Worked In 2019 Is Now Working Against You via @sejournal, @gregjarboe
-     Fecha : Sat, 20 Jun 2026 14:00:50 +0000
-     URL   : https://www.searchenginejournal.com/the-content-framework-that-worked-in-2019-is-now-working-against-you/579051/
-  2. Deindexing Reports Keep Coming, Google Sees Nothing Unusual via @sejournal, @MattGSouthern
-     Fecha : Sat, 20 Jun 2026 12:30:44 +0000
-     URL   : https://www.searchenginejournal.com/deindexing-reports-keep-coming-google-sees-nothing-unusual/579847/
-  3. We Need To Change Our Approach To AI Prompt Tracking via @sejournal, @TaylorDanRW
-     Fecha : Fri, 19 Jun 2026 13:45:33 +0000
-     URL   : https://www.searchenginejournal.com/we-need-to-change-our-approach-to-ai-prompt-tracking/579646/
+  1. A German Court Made Google Liable For What Its AI Says About You via @sejournal, @slobodanmanic
+     Fecha : Mon, 22 Jun 2026 13:00:47 +0000
+     URL   : https://www.searchenginejournal.com/a-german-court-made-google-liable-for-what-its-ai-says-about-you/579295/
+  2. Google Says X-Frame-Options Matters For SEO via @sejournal, @martinibuster
+     Fecha : Mon, 22 Jun 2026 11:35:18 +0000
+     URL   : https://www.searchenginejournal.com/google-says-x-frame-options-matters-for-seo/580126/
+  3. Preferred Sources & AI Mode Are Creating Filter Bubbles – A New Discovery Problem via @sejournal, @MattGSouthern
+     Fecha : Mon, 22 Jun 2026 11:00:02 +0000
+     URL   : https://www.searchenginejournal.com/preferred-sources-ai-mode-are-creating-filter-bubbles-a-new-discovery-problem/579738/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’
-     Fecha : Sat, 20 Jun 2026 20:32:29 +0000
-     URL   : https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/
-  2. In the Weights is your new AI-centric vanity search
-     Fecha : Sat, 20 Jun 2026 19:41:11 +0000
-     URL   : https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/
-  3. Founders Fund’s outlier bet on humanely killed fish
-     Fecha : Sat, 20 Jun 2026 18:26:02 +0000
-     URL   : https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/
+  1. Seedcamp raises $320M for its new fund to expand its US footprint
+     Fecha : Mon, 22 Jun 2026 13:37:25 +0000
+     URL   : https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/
+  2. Klue hack results in data breach at several cybersecurity firms
+     Fecha : Mon, 22 Jun 2026 13:36:08 +0000
+     URL   : https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/
+  3. Ethan Thornton is trying to do everything all at once
+     Fecha : Mon, 22 Jun 2026 05:31:59 +0000
+     URL   : https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Backgrind
-     Fecha : 2026-06-16T09:36:06-07:00
-     URL   : https://www.producthunt.com/products/backgrind
-  2. Atomic Mail Agentic
-     Fecha : 2026-06-18T12:36:02-07:00
-     URL   : https://www.producthunt.com/products/atomic-mail-agentic
-  3. Agent 37
-     Fecha : 2026-06-20T12:03:23-07:00
-     URL   : https://www.producthunt.com/products/agent-37-38
+  1. AirJelly
+     Fecha : 2026-04-29T02:48:28-07:00
+     URL   : https://www.producthunt.com/products/airjelly
+  2. OnBrand by SlideSpeak
+     Fecha : 2026-06-18T03:55:37-07:00
+     URL   : https://www.producthunt.com/products/onbrand-2
+  3. AgentX
+     Fecha : 2026-06-21T00:13:56-07:00
+     URL   : https://www.producthunt.com/products/agentx
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. The Atlantic created a searchable database of the music used to train AI
+  1. Read this before you vibe-code another app
+     Fecha : 2026-06-22T07:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps
+  2. The Atlantic created a searchable database of the music used to train AI
      Fecha : 2026-06-20T14:46:48-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data
-  2. The film about Sam Altman has been dropped by Amazon MGM
+  3. The film about Sam Altman has been dropped by Amazon MGM
      Fecha : 2026-06-19T10:15:29-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped
-  3. Barret Zoph is out at OpenAI again after just five months
-     Fecha : 2026-06-19T00:49:33-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-21  11:21:19
+  Fin del reporte  ·  2026-06-22  13:40:38
 ═════════════════════════════════════════════════════════════════

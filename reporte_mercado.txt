@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-22  13:40:38               ║
+║                  Generado: 2026-06-23  11:24:20               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. A German Court Made Google Liable For What Its AI Says About You via @sejournal, @slobodanmanic
-     Fecha : Mon, 22 Jun 2026 13:00:47 +0000
-     URL   : https://www.searchenginejournal.com/a-german-court-made-google-liable-for-what-its-ai-says-about-you/579295/
-  2. Google Says X-Frame-Options Matters For SEO via @sejournal, @martinibuster
-     Fecha : Mon, 22 Jun 2026 11:35:18 +0000
-     URL   : https://www.searchenginejournal.com/google-says-x-frame-options-matters-for-seo/580126/
-  3. Preferred Sources & AI Mode Are Creating Filter Bubbles – A New Discovery Problem via @sejournal, @MattGSouthern
-     Fecha : Mon, 22 Jun 2026 11:00:02 +0000
-     URL   : https://www.searchenginejournal.com/preferred-sources-ai-mode-are-creating-filter-bubbles-a-new-discovery-problem/579738/
+  1. How To Define & Report SEO KPIs That Actually Move The C-Suite via @sejournal, @AdamHeitzman
+     Fecha : Tue, 23 Jun 2026 11:00:35 +0000
+     URL   : https://www.searchenginejournal.com/how-to-define-report-seo-kpis-that-actually-move-the-c-suite/576233/
+  2. AI-Recommended Brands Saw 2.5x More Site Visits: Similarweb via @sejournal, @MattGSouthern
+     Fecha : Tue, 23 Jun 2026 10:11:34 +0000
+     URL   : https://www.searchenginejournal.com/ai-recommended-brands-saw-2-5x-more-site-visits-similarweb/580241/
+  3. Google Cautions Against Markdown Versions Of Websites For AI SEO via @sejournal, @martinibuster
+     Fecha : Tue, 23 Jun 2026 10:04:38 +0000
+     URL   : https://www.searchenginejournal.com/google-cautions-against-markdown-versions-of-websites-for-ai-seo/580235/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Seedcamp raises $320M for its new fund to expand its US footprint
-     Fecha : Mon, 22 Jun 2026 13:37:25 +0000
-     URL   : https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/
-  2. Klue hack results in data breach at several cybersecurity firms
-     Fecha : Mon, 22 Jun 2026 13:36:08 +0000
-     URL   : https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/
-  3. Ethan Thornton is trying to do everything all at once
-     Fecha : Mon, 22 Jun 2026 05:31:59 +0000
-     URL   : https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/
+  1. The running list: major tech layoffs in 2026 where employers cited AI
+     Fecha : Tue, 23 Jun 2026 01:27:55 +0000
+     URL   : https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
+  2. OpenAI launches new initiative to help find and patch open source bugs
+     Fecha : Tue, 23 Jun 2026 00:11:31 +0000
+     URL   : https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/
+  3. Tesla pushes back on Autopilot narrative after fatal Texas crash
+     Fecha : Mon, 22 Jun 2026 22:59:57 +0000
+     URL   : https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. AirJelly
-     Fecha : 2026-04-29T02:48:28-07:00
-     URL   : https://www.producthunt.com/products/airjelly
-  2. OnBrand by SlideSpeak
-     Fecha : 2026-06-18T03:55:37-07:00
-     URL   : https://www.producthunt.com/products/onbrand-2
-  3. AgentX
-     Fecha : 2026-06-21T00:13:56-07:00
-     URL   : https://www.producthunt.com/products/agentx
+  1. Conduit
+     Fecha : 2026-06-20T10:14:04-07:00
+     URL   : https://www.producthunt.com/products/conduit-12
+  2. jebi
+     Fecha : 2026-06-13T08:03:34-07:00
+     URL   : https://www.producthunt.com/products/jebi-the-terminal-that-thinks-with-you
+  3. Jotform AI App Builder
+     Fecha : 2026-06-16T06:27:06-07:00
+     URL   : https://www.producthunt.com/products/jotform
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Read this before you vibe-code another app
+  1. Nvidia says its AI data center design runs hotter to use a lot less water
+     Fecha : 2026-06-22T19:24:32-04:00
+     URL   : https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling
+  2. AI is cursing renters with the promise of impossible homes
+     Fecha : 2026-06-22T16:00:00-04:00
+     URL   : https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings
+  3. Read this before you vibe-code another app
      Fecha : 2026-06-22T07:00:00-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps
-  2. The Atlantic created a searchable database of the music used to train AI
-     Fecha : 2026-06-20T14:46:48-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data
-  3. The film about Sam Altman has been dropped by Amazon MGM
-     Fecha : 2026-06-19T10:15:29-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-22  13:40:38
+  Fin del reporte  ·  2026-06-23  11:24:20
 ═════════════════════════════════════════════════════════════════

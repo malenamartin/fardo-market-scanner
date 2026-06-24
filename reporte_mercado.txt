@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-23  11:24:20               ║
+║                  Generado: 2026-06-24  11:10:51               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. How To Define & Report SEO KPIs That Actually Move The C-Suite via @sejournal, @AdamHeitzman
-     Fecha : Tue, 23 Jun 2026 11:00:35 +0000
-     URL   : https://www.searchenginejournal.com/how-to-define-report-seo-kpis-that-actually-move-the-c-suite/576233/
-  2. AI-Recommended Brands Saw 2.5x More Site Visits: Similarweb via @sejournal, @MattGSouthern
-     Fecha : Tue, 23 Jun 2026 10:11:34 +0000
-     URL   : https://www.searchenginejournal.com/ai-recommended-brands-saw-2-5x-more-site-visits-similarweb/580241/
-  3. Google Cautions Against Markdown Versions Of Websites For AI SEO via @sejournal, @martinibuster
-     Fecha : Tue, 23 Jun 2026 10:04:38 +0000
-     URL   : https://www.searchenginejournal.com/google-cautions-against-markdown-versions-of-websites-for-ai-seo/580235/
+  1. Google DeepMind Admits Large-Scale AI Agent Deployment Is Unsafe Today via @sejournal, @martinibuster
+     Fecha : Wed, 24 Jun 2026 10:58:05 +0000
+     URL   : https://www.searchenginejournal.com/google-deepmind-admits-large-scale-ai-agent-deployment-is-unsafe-today/580321/
+  2. The Grounding Wars Are Coming: How AI Visibility Creates Its Own Black-Hat Playbook via @sejournal, @purnavirji
+     Fecha : Wed, 24 Jun 2026 10:00:21 +0000
+     URL   : https://www.searchenginejournal.com/the-grounding-wars-are-coming-how-ai-visibility-creates-its-own-black-hat-playbook/580247/
+  3. Ultimate Member WordPress Plugin Vulnerability Affects Up To 200k Sites via @sejournal, @martinibuster
+     Fecha : Wed, 24 Jun 2026 08:29:30 +0000
+     URL   : https://www.searchenginejournal.com/ultimate-member-wordpress-plugin-vulnerability/580307/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. The running list: major tech layoffs in 2026 where employers cited AI
-     Fecha : Tue, 23 Jun 2026 01:27:55 +0000
-     URL   : https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
-  2. OpenAI launches new initiative to help find and patch open source bugs
-     Fecha : Tue, 23 Jun 2026 00:11:31 +0000
-     URL   : https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/
-  3. Tesla pushes back on Autopilot narrative after fatal Texas crash
-     Fecha : Mon, 22 Jun 2026 22:59:57 +0000
-     URL   : https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/
+  1. How to invest when everything is moving too fast
+     Fecha : Wed, 24 Jun 2026 06:26:11 +0000
+     URL   : https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/
+  2. Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India
+     Fecha : Wed, 24 Jun 2026 00:30:00 +0000
+     URL   : https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/
+  3. India’s MoEngage bets that the future of marketing is millions of AI agents
+     Fecha : Tue, 23 Jun 2026 23:30:00 +0000
+     URL   : https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Conduit
-     Fecha : 2026-06-20T10:14:04-07:00
-     URL   : https://www.producthunt.com/products/conduit-12
-  2. jebi
-     Fecha : 2026-06-13T08:03:34-07:00
-     URL   : https://www.producthunt.com/products/jebi-the-terminal-that-thinks-with-you
-  3. Jotform AI App Builder
-     Fecha : 2026-06-16T06:27:06-07:00
-     URL   : https://www.producthunt.com/products/jotform
+  1. Crewdle AI
+     Fecha : 2026-06-22T08:45:08-07:00
+     URL   : https://www.producthunt.com/products/crewdle
+  2. Tencent EdgeOne Makers
+     Fecha : 2026-06-16T02:38:23-07:00
+     URL   : https://www.producthunt.com/products/tencent-edgeone-2
+  3. Propane
+     Fecha : 2026-06-17T06:43:29-07:00
+     URL   : https://www.producthunt.com/products/propane
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Nvidia says its AI data center design runs hotter to use a lot less water
-     Fecha : 2026-06-22T19:24:32-04:00
-     URL   : https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling
-  2. AI is cursing renters with the promise of impossible homes
-     Fecha : 2026-06-22T16:00:00-04:00
-     URL   : https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings
-  3. Read this before you vibe-code another app
-     Fecha : 2026-06-22T07:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps
+  1. Google Home will soon get better at recognizing you
+     Fecha : 2026-06-23T18:28:19-04:00
+     URL   : https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing
+  2. Hollywood is bending the knee to OpenAI
+     Fecha : 2026-06-23T18:03:18-04:00
+     URL   : https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt
+  3. Why corporate AI super PACs spent $27 million on a local election
+     Fecha : 2026-06-23T13:00:00-04:00
+     URL   : https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-23  11:24:20
+  Fin del reporte  ·  2026-06-24  11:10:51
 ═════════════════════════════════════════════════════════════════

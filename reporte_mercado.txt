@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-25  10:48:33               ║
+║                  Generado: 2026-06-26  10:56:24               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. WP Rocket Now Offers Free CDN For Your Most Important Pages via @sejournal, @martinibuster
-     Fecha : Thu, 25 Jun 2026 09:53:48 +0000
-     URL   : https://www.searchenginejournal.com/wp-rocket-now-offers-free-cdn-for-your-most-important-pages/580516/
-  2. WordPress Developers Say New AI Feature Does Not Belong In Core via @sejournal, @martinibuster
-     Fecha : Thu, 25 Jun 2026 09:17:57 +0000
-     URL   : https://www.searchenginejournal.com/wordpress-new-ai-feature/580500/
-  3. AI Search Optimization Isn’t The Hard Part – It’s Getting Buy-In via @sejournal, @gregjarboe
-     Fecha : Thu, 25 Jun 2026 09:00:21 +0000
-     URL   : https://www.searchenginejournal.com/ai-search-optimization-isnt-the-hard-part-its-getting-buy-in/580032/
+  1. Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents via @sejournal, @martinibuster
+     Fecha : Fri, 26 Jun 2026 10:06:39 +0000
+     URL   : https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/580578/
+  2. Your Brand Message Is Costing You Half Your Views – What 2 Reports Can Tell Us via @sejournal, @gregjarboe
+     Fecha : Fri, 26 Jun 2026 09:30:44 +0000
+     URL   : https://www.searchenginejournal.com/your-brand-message-is-costing-you-half-your-views-what-2-reports-can-tell-us/580029/
+  3. Google Desktop CTR Climbs While Mobile Dips, Report Finds via @sejournal, @MattGSouthern
+     Fecha : Thu, 25 Jun 2026 14:11:27 +0000
+     URL   : https://www.searchenginejournal.com/google-desktop-ctr-climbs-while-mobile-dips-report-finds/580527/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Cellebrite said it cut off Russia, but Russia used is tools anyway
-     Fecha : Thu, 25 Jun 2026 10:00:00 +0000
-     URL   : https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/
-  2. Europe is pushing back on Washington’s chip war
-     Fecha : Thu, 25 Jun 2026 00:08:36 +0000
-     URL   : https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/
-  3. Former Infosys chief has a new startup that wants to challenge the IT services world
-     Fecha : Wed, 24 Jun 2026 23:26:52 +0000
-     URL   : https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/
+  1. The White House is asking OpenAI to slow roll the release of its new model over safety concerns
+     Fecha : Thu, 25 Jun 2026 23:34:39 +0000
+     URL   : https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/
+  2. YouTube Shorts are getting even shorter with an update that lets you double the playback speed
+     Fecha : Thu, 25 Jun 2026 22:02:12 +0000
+     URL   : https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/
+  3. Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents
+     Fecha : Thu, 25 Jun 2026 20:19:25 +0000
+     URL   : https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Dub Ninja
-     Fecha : 2026-06-23T14:35:49-07:00
-     URL   : https://www.producthunt.com/products/dub-ninja
-  2. Grass 2.0
-     Fecha : 2026-06-24T04:26:29-07:00
-     URL   : https://www.producthunt.com/products/grass-claude-code-from-your-phone
-  3. Blop
-     Fecha : 2026-06-24T11:41:05-07:00
-     URL   : https://www.producthunt.com/products/blop-ai
+  1. Sleek Analytics
+     Fecha : 2026-06-24T22:52:23-07:00
+     URL   : https://www.producthunt.com/products/sleek-analytics
+  2. Gemini Spark
+     Fecha : 2026-06-24T22:47:05-07:00
+     URL   : https://www.producthunt.com/products/gemini-spark
+  3. Agent Arena
+     Fecha : 2026-06-16T09:16:18-07:00
+     URL   : https://www.producthunt.com/products/agent-arena
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Facebook’s Creator Studio has been revived as an AI companion app
+  1. OpenAI will delay GPT-5.6 after Trump administration request
+     Fecha : 2026-06-25T17:57:06-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request
+  2. Ford had to hire back former engineers to fix mistakes made by its automated systems
+     Fecha : 2026-06-25T08:00:00-04:00
+     URL   : https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes
+  3. Facebook’s Creator Studio has been revived as an AI companion app
      Fecha : 2026-06-25T05:06:19-04:00
      URL   : https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch
-  2. Congresswoman denies staff used AI to write defense funding amendment
-     Fecha : 2026-06-24T15:36:46-04:00
-     URL   : https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude
-  3. The $27 million Al proxy war over Alex Bores ends in a draw
-     Fecha : 2026-06-24T13:25:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-25  10:48:33
+  Fin del reporte  ·  2026-06-26  10:56:24
 ═════════════════════════════════════════════════════════════════

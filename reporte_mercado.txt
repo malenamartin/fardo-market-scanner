@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-26  10:56:24               ║
+║                  Generado: 2026-06-27  10:16:52               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents via @sejournal, @martinibuster
-     Fecha : Fri, 26 Jun 2026 10:06:39 +0000
-     URL   : https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/580578/
-  2. Your Brand Message Is Costing You Half Your Views – What 2 Reports Can Tell Us via @sejournal, @gregjarboe
-     Fecha : Fri, 26 Jun 2026 09:30:44 +0000
-     URL   : https://www.searchenginejournal.com/your-brand-message-is-costing-you-half-your-views-what-2-reports-can-tell-us/580029/
-  3. Google Desktop CTR Climbs While Mobile Dips, Report Finds via @sejournal, @MattGSouthern
-     Fecha : Thu, 25 Jun 2026 14:11:27 +0000
-     URL   : https://www.searchenginejournal.com/google-desktop-ctr-climbs-while-mobile-dips-report-finds/580527/
+  1. Bruce Clay, One of the Founding Figures of SEO, Has Died via @sejournal, @martinibuster
+     Fecha : Fri, 26 Jun 2026 22:45:18 +0000
+     URL   : https://www.searchenginejournal.com/bruce-clay-seo-pioneer-who-invented-content-siloing-has-died/580602/
+  2. A Third Of Fintech Is Invisible To AI Agents via @sejournal, @slobodanmanic
+     Fecha : Fri, 26 Jun 2026 13:30:13 +0000
+     URL   : https://www.searchenginejournal.com/a-third-of-fintech-is-invisible-to-ai-agents/576193/
+  3. Google Spam Update Rolls Out, AI Manipulation In Scope – SEO Pulse via @sejournal, @MattGSouthern
+     Fecha : Fri, 26 Jun 2026 12:30:36 +0000
+     URL   : https://www.searchenginejournal.com/seo-pulse-google-spam-update-rolls-out-ai-manipulation-in-scope/580565/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. The White House is asking OpenAI to slow roll the release of its new model over safety concerns
-     Fecha : Thu, 25 Jun 2026 23:34:39 +0000
-     URL   : https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/
-  2. YouTube Shorts are getting even shorter with an update that lets you double the playback speed
-     Fecha : Thu, 25 Jun 2026 22:02:12 +0000
-     URL   : https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/
-  3. Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents
-     Fecha : Thu, 25 Jun 2026 20:19:25 +0000
-     URL   : https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/
+  1. Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies
+     Fecha : Sat, 27 Jun 2026 01:01:37 +0000
+     URL   : https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/
+  2. FTC gives Musk the OK to acquire SpaceX alumni startup Mesh
+     Fecha : Sat, 27 Jun 2026 00:38:34 +0000
+     URL   : https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/
+  3. Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product
+     Fecha : Fri, 26 Jun 2026 22:00:37 +0000
+     URL   : https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Sleek Analytics
-     Fecha : 2026-06-24T22:52:23-07:00
-     URL   : https://www.producthunt.com/products/sleek-analytics
-  2. Gemini Spark
-     Fecha : 2026-06-24T22:47:05-07:00
-     URL   : https://www.producthunt.com/products/gemini-spark
-  3. Agent Arena
-     Fecha : 2026-06-16T09:16:18-07:00
-     URL   : https://www.producthunt.com/products/agent-arena
+  1. Cloud World Model
+     Fecha : 2026-06-21T06:48:25-07:00
+     URL   : https://www.producthunt.com/products/cloud-world-model
+  2. Folio AI
+     Fecha : 2026-06-25T13:15:56-07:00
+     URL   : https://www.producthunt.com/products/folio-ai
+  3. Nada
+     Fecha : 2026-06-24T00:54:20-07:00
+     URL   : https://www.producthunt.com/products/nada-2
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. OpenAI will delay GPT-5.6 after Trump administration request
+  1. OpenAI unveils GPT-5.6 amid US AI regulatory drama
+     Fecha : 2026-06-26T13:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview
+  2. Anthropic&#8217;s Mythos mess is only getting worse
+     Fecha : 2026-06-26T10:07:03-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations
+  3. OpenAI will delay GPT-5.6 after Trump administration request
      Fecha : 2026-06-25T17:57:06-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request
-  2. Ford had to hire back former engineers to fix mistakes made by its automated systems
-     Fecha : 2026-06-25T08:00:00-04:00
-     URL   : https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes
-  3. Facebook’s Creator Studio has been revived as an AI companion app
-     Fecha : 2026-06-25T05:06:19-04:00
-     URL   : https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-26  10:56:24
+  Fin del reporte  ·  2026-06-27  10:16:52
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-27  10:16:52               ║
+║                  Generado: 2026-06-28  10:31:45               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Bruce Clay, One of the Founding Figures of SEO, Has Died via @sejournal, @martinibuster
+  1. Google’s Spam Update Now Reaches AI Answers. Enforcement Is Hard via @sejournal, @MattGSouthern
+     Fecha : Sat, 27 Jun 2026 12:00:59 +0000
+     URL   : https://www.searchenginejournal.com/googles-spam-update-now-reaches-ai-answers-enforcement-is-hard/580535/
+  2. Bruce Clay, One of the Founding Figures of SEO, Has Died via @sejournal, @martinibuster
      Fecha : Fri, 26 Jun 2026 22:45:18 +0000
      URL   : https://www.searchenginejournal.com/bruce-clay-seo-pioneer-who-invented-content-siloing-has-died/580602/
-  2. A Third Of Fintech Is Invisible To AI Agents via @sejournal, @slobodanmanic
+  3. A Third Of Fintech Is Invisible To AI Agents via @sejournal, @slobodanmanic
      Fecha : Fri, 26 Jun 2026 13:30:13 +0000
      URL   : https://www.searchenginejournal.com/a-third-of-fintech-is-invisible-to-ai-agents/576193/
-  3. Google Spam Update Rolls Out, AI Manipulation In Scope – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Fri, 26 Jun 2026 12:30:36 +0000
-     URL   : https://www.searchenginejournal.com/seo-pulse-google-spam-update-rolls-out-ai-manipulation-in-scope/580565/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies
-     Fecha : Sat, 27 Jun 2026 01:01:37 +0000
-     URL   : https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/
-  2. FTC gives Musk the OK to acquire SpaceX alumni startup Mesh
-     Fecha : Sat, 27 Jun 2026 00:38:34 +0000
-     URL   : https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/
-  3. Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product
-     Fecha : Fri, 26 Jun 2026 22:00:37 +0000
-     URL   : https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/
+  1. Indian payments chief thinks AI will be heavily involved in next era of digital payment growth
+     Fecha : Sun, 28 Jun 2026 05:00:00 +0000
+     URL   : https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/
+  2. Instagram is testing more ways to customize ‘Your Algorithm’
+     Fecha : Sat, 27 Jun 2026 21:27:37 +0000
+     URL   : https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/
+  3. SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype
+     Fecha : Sat, 27 Jun 2026 20:42:36 +0000
+     URL   : https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Cloud World Model
-     Fecha : 2026-06-21T06:48:25-07:00
-     URL   : https://www.producthunt.com/products/cloud-world-model
-  2. Folio AI
-     Fecha : 2026-06-25T13:15:56-07:00
-     URL   : https://www.producthunt.com/products/folio-ai
-  3. Nada
-     Fecha : 2026-06-24T00:54:20-07:00
-     URL   : https://www.producthunt.com/products/nada-2
+  1. Lyto
+     Fecha : 2026-06-27T08:17:01-07:00
+     URL   : https://www.producthunt.com/products/lyto
+  2. discode.ai
+     Fecha : 2026-03-20T19:10:53-07:00
+     URL   : https://www.producthunt.com/products/discode-ai
+  3. Dotient
+     Fecha : 2026-06-27T19:55:46-07:00
+     URL   : https://www.producthunt.com/products/dotient
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. OpenAI unveils GPT-5.6 amid US AI regulatory drama
-     Fecha : 2026-06-26T13:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview
-  2. Anthropic&#8217;s Mythos mess is only getting worse
-     Fecha : 2026-06-26T10:07:03-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations
-  3. OpenAI will delay GPT-5.6 after Trump administration request
-     Fecha : 2026-06-25T17:57:06-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request
+  1. Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;
+     Fecha : 2026-06-27T14:39:32-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out
+  2. Why is Apple asking me to pay more for Big Tech’s AI obsession?
+     Fecha : 2026-06-27T09:30:00-04:00
+     URL   : https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech
+  3. Anthropic&#8217;s Mythos 5 is back
+     Fecha : 2026-06-26T20:33:44-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-27  10:16:52
+  Fin del reporte  ·  2026-06-28  10:31:45
 ═════════════════════════════════════════════════════════════════

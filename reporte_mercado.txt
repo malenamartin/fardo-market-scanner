@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-28  10:31:45               ║
+║                  Generado: 2026-06-29  12:43:32               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google’s Spam Update Now Reaches AI Answers. Enforcement Is Hard via @sejournal, @MattGSouthern
-     Fecha : Sat, 27 Jun 2026 12:00:59 +0000
-     URL   : https://www.searchenginejournal.com/googles-spam-update-now-reaches-ai-answers-enforcement-is-hard/580535/
-  2. Bruce Clay, One of the Founding Figures of SEO, Has Died via @sejournal, @martinibuster
-     Fecha : Fri, 26 Jun 2026 22:45:18 +0000
-     URL   : https://www.searchenginejournal.com/bruce-clay-seo-pioneer-who-invented-content-siloing-has-died/580602/
-  3. A Third Of Fintech Is Invisible To AI Agents via @sejournal, @slobodanmanic
-     Fecha : Fri, 26 Jun 2026 13:30:13 +0000
-     URL   : https://www.searchenginejournal.com/a-third-of-fintech-is-invisible-to-ai-agents/576193/
+  1. Why Internal Links Quietly Decay & How To Reclaim The Equity You’re Losing
+     Fecha : Mon, 29 Jun 2026 11:00:27 +0000
+     URL   : https://www.searchenginejournal.com/why-internal-links-quietly-decay-how-to-reclaim-the-equity-youre-losing/579005/
+  2. Google: Meta Descriptions Not Required For SEO. But They’re Worthwhile. via @sejournal, @martinibuster
+     Fecha : Mon, 29 Jun 2026 08:57:26 +0000
+     URL   : https://www.searchenginejournal.com/google-meta-descriptions-not-required-for-seo-but-theyre-worthwhile/580694/
+  3. Search And Agents Are One Product. You Only Need One Playbook via @sejournal, @slobodanmanic
+     Fecha : Sun, 28 Jun 2026 12:00:52 +0000
+     URL   : https://www.searchenginejournal.com/search-and-agents-are-one-product-you-only-need-one-playbook/576191/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Indian payments chief thinks AI will be heavily involved in next era of digital payment growth
-     Fecha : Sun, 28 Jun 2026 05:00:00 +0000
-     URL   : https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/
-  2. Instagram is testing more ways to customize ‘Your Algorithm’
-     Fecha : Sat, 27 Jun 2026 21:27:37 +0000
-     URL   : https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/
-  3. SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype
-     Fecha : Sat, 27 Jun 2026 20:42:36 +0000
-     URL   : https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/
+  1. California law targeting loud streaming ads takes effect on July 1
+     Fecha : Sun, 28 Jun 2026 21:34:14 +0000
+     URL   : https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/
+  2. Ford rehires ‘gray beard’ engineers after AI falls short
+     Fecha : Sun, 28 Jun 2026 19:05:39 +0000
+     URL   : https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/
+  3. Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience
+     Fecha : Sun, 28 Jun 2026 17:03:16 +0000
+     URL   : https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Lyto
-     Fecha : 2026-06-27T08:17:01-07:00
-     URL   : https://www.producthunt.com/products/lyto
-  2. discode.ai
-     Fecha : 2026-03-20T19:10:53-07:00
-     URL   : https://www.producthunt.com/products/discode-ai
-  3. Dotient
-     Fecha : 2026-06-27T19:55:46-07:00
-     URL   : https://www.producthunt.com/products/dotient
+  1. PMB
+     Fecha : 2026-06-27T21:10:11-07:00
+     URL   : https://www.producthunt.com/products/pmb-local-first-memory-for-ai
+  2. Agent Mode by Receiptor AI
+     Fecha : 2026-06-27T05:16:36-07:00
+     URL   : https://www.producthunt.com/products/receiptor-ai
+  3. Intelli
+     Fecha : 2026-06-24T01:29:18-07:00
+     URL   : https://www.producthunt.com/products/intelli
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;
-     Fecha : 2026-06-27T14:39:32-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out
-  2. Why is Apple asking me to pay more for Big Tech’s AI obsession?
-     Fecha : 2026-06-27T09:30:00-04:00
-     URL   : https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech
-  3. Anthropic&#8217;s Mythos 5 is back
-     Fecha : 2026-06-26T20:33:44-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations
+  1. China’s Z.ai claims it can match Mythos on cybersecurity
+     Fecha : 2026-06-28T17:42:51-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity
+  2. Suno launches Spark incubator program to feed independent artists to its AI machine
+     Fecha : 2026-06-28T16:27:36-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine
+  3. Prosecutors used ChatGPT logs as evidence in the Palisades fire trial
+     Fecha : 2026-06-28T10:12:06-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-28  10:31:45
+  Fin del reporte  ·  2026-06-29  12:43:32
 ═════════════════════════════════════════════════════════════════

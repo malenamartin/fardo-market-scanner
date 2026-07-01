@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-06-30  11:15:32               ║
+║                  Generado: 2026-07-01  11:29:51               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Multi-Location Search Visibility: Winning In Google & AI via @sejournal, @seosteve
-     Fecha : Tue, 30 Jun 2026 09:30:33 +0000
-     URL   : https://www.searchenginejournal.com/multi-location-search-visibility-winning-in-google-ai/578834/
-  2. Google’s Liz Reid: Personalization Can Help Small Publishers via @sejournal, @MattGSouthern
-     Fecha : Tue, 30 Jun 2026 02:54:23 +0000
-     URL   : https://www.searchenginejournal.com/googles-liz-reid-personalization-can-help-small-publishers/581010/
-  3. Google Defends AI Training As Fair Use In Governance Paper via @sejournal, @MattGSouthern
-     Fecha : Mon, 29 Jun 2026 15:38:04 +0000
-     URL   : https://www.searchenginejournal.com/google-defends-ai-training-as-fair-use-in-governance-paper/580776/
+  1. New WordPress Plugin Safely And Easily Connects AI To Your Website via @sejournal, @martinibuster
+     Fecha : Wed, 01 Jul 2026 11:05:25 +0000
+     URL   : https://www.searchenginejournal.com/new-wordpress-plugin-safely-and-easily-connects-ai-to-your-website/581219/
+  2. The 4-Step Test That Catches AI Errors Before They Shape Your Strategy via @sejournal, @alexanderkesler
+     Fecha : Wed, 01 Jul 2026 10:00:56 +0000
+     URL   : https://www.searchenginejournal.com/the-4-step-test-that-catches-ai-errors-before-they-shape-your-strategy/577687/
+  3. Anthropic’s Claude Sonnet 5 Is “Near-Opus Intelligence” For All Plans via @sejournal, @martinibuster
+     Fecha : Wed, 01 Jul 2026 09:56:37 +0000
+     URL   : https://www.searchenginejournal.com/anthropics-claude-sonnet-5-is-near-opus-intelligence-for-all-plans/581202/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Crypto exchange OKX wants AI agents to hire and pay each other
-     Fecha : Tue, 30 Jun 2026 09:00:00 +0000
-     URL   : https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/
-  2. The AI jobs debate just got messier
-     Fecha : Tue, 30 Jun 2026 04:01:00 +0000
-     URL   : https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/
-  3. Vibe coding platform Base44 launches own model as AI startups seek defensibility
-     Fecha : Tue, 30 Jun 2026 02:28:41 +0000
-     URL   : https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/
+  1. The ‘Father of the Internet’ is finally retiring
+     Fecha : Wed, 01 Jul 2026 03:15:37 +0000
+     URL   : https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/
+  2. Trump drops restrictions on Anthropic’s Mythos and Fable models
+     Fecha : Wed, 01 Jul 2026 02:16:06 +0000
+     URL   : https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/
+  3. Wayve launches $85M employee tender offer at $8.5B valuation
+     Fecha : Wed, 01 Jul 2026 02:04:40 +0000
+     URL   : https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Cursor for iOS
-     Fecha : 2026-06-29T20:52:28-07:00
-     URL   : https://www.producthunt.com/products/cursor-for-ios
-  2. Foresight by Lightning Rod
-     Fecha : 2026-06-22T08:28:19-07:00
-     URL   : https://www.producthunt.com/products/training-data-generator
-  3. Skills Marketplace by Databox
-     Fecha : 2026-06-22T07:09:08-07:00
-     URL   : https://www.producthunt.com/products/databox
+  1. Adam CAD Copilot
+     Fecha : 2026-06-30T12:59:32-07:00
+     URL   : https://www.producthunt.com/products/adam-cad-copilot
+  2. N71
+     Fecha : 2026-06-23T10:53:19-07:00
+     URL   : https://www.producthunt.com/products/n71
+  3. Fuser Apps
+     Fecha : 2026-06-22T23:44:07-07:00
+     URL   : https://www.producthunt.com/products/fuser
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright
-     Fecha : 2026-06-29T15:47:35-04:00
-     URL   : https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label
-  2. OpenAI is teasing new hardware… for Codex
-     Fecha : 2026-06-29T14:52:03-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder
-  3. Lawmakers want to ban AI companies from selling your health data
-     Fecha : 2026-06-29T12:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon
+  1. Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return
+     Fecha : 2026-06-30T20:03:55-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back
+  2. Google’s NotebookLM can sum up your research in a TikTok-style clip
+     Fecha : 2026-06-30T15:24:51-04:00
+     URL   : https://www.theverge.com/tech/959778/google-notebooklm-ai-clips
+  3. Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show
+     Fecha : 2026-06-30T13:19:15-04:00
+     URL   : https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-06-30  11:15:32
+  Fin del reporte  ·  2026-07-01  11:29:51
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-02  10:48:02               ║
+║                  Generado: 2026-07-03  10:45:29               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,41 +10,41 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Should I Block AI Crawlers Or Measure Their Value First? – Ask An SEO via @sejournal, @HelenPollitt1
-     Fecha : Thu, 02 Jul 2026 09:30:54 +0000
-     URL   : https://www.searchenginejournal.com/ask-an-seo-should-i-block-ai-crawlers-or-measure-their-value-first/580005/
-  2. Google AI Overviews Study Finds Lost Clicks Weren’t Lower Quality via @sejournal, @MattGSouthern
-     Fecha : Wed, 01 Jul 2026 23:56:14 +0000
-     URL   : https://www.searchenginejournal.com/google-ai-overviews-study-finds-lost-clicks-werent-lower-quality/581298/
-  3. OpenAI Hiring Points To Image & Video Ads Coming To ChatGPT via @sejournal, @MattGSouthern
-     Fecha : Wed, 01 Jul 2026 21:44:34 +0000
-     URL   : https://www.searchenginejournal.com/openai-hiring-points-to-image-video-ads-coming-to-chatgpt/581289/
+  1. AI Search Is Nothing Without SEO & It Knows It via @sejournal, @TaylorDanRW
+     Fecha : Fri, 03 Jul 2026 09:30:26 +0000
+     URL   : https://www.searchenginejournal.com/ai-search-is-nothing-without-seo-it-knows-it/580452/
+  2. Google’s Mueller Flags A Case On Why LCP Fixes Miss the Target via @sejournal, @MattGSouthern
+     Fecha : Thu, 02 Jul 2026 22:50:47 +0000
+     URL   : https://www.searchenginejournal.com/googles-mueller-flags-a-case-on-why-lcp-fixes-miss-the-target/581413/
+  3. Google Ends Cache-Served AMP Pages In Search via @sejournal, @MattGSouthern
+     Fecha : Thu, 02 Jul 2026 20:06:10 +0000
+     URL   : https://www.searchenginejournal.com/google-ends-cache-served-amp-pages-in-search/581405/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office
-     Fecha : Thu, 02 Jul 2026 05:30:00 +0000
-     URL   : https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/
-  2. Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year
-     Fecha : Wed, 01 Jul 2026 23:57:55 +0000
-     URL   : https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/
-  3. Bending Spoons defies SaaS slump, surges 40% on first day of trading
-     Fecha : Wed, 01 Jul 2026 22:47:04 +0000
-     URL   : https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/
+  1. Politician who investigated spyware abuses had his phone hacked with Pegasus spyware
+     Fecha : Fri, 03 Jul 2026 05:05:00 +0000
+     URL   : https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/
+  2. Last chance to apply — Startup Battlefield Australia applications close July 6
+     Fecha : Fri, 03 Jul 2026 00:00:00 +0000
+     URL   : https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/
+  3. Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped
+     Fecha : Thu, 02 Jul 2026 23:38:10 +0000
+     URL   : https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Banger Mail
-     Fecha : 2026-07-01T18:00:26-07:00
-     URL   : https://www.producthunt.com/products/banger-mail
-  2. Macuse
-     Fecha : 2026-07-01T02:26:16-07:00
-     URL   : https://www.producthunt.com/products/macuse
-  3. Solaris
-     Fecha : 2026-06-30T13:58:22-07:00
-     URL   : https://www.producthunt.com/products/build-club
+  1. Vox
+     Fecha : 2026-07-02T17:08:51-07:00
+     URL   : https://www.producthunt.com/products/vox-5
+  2. Goals from Loops
+     Fecha : 2026-07-02T03:03:16-07:00
+     URL   : https://www.producthunt.com/products/loops
+  3. Glaze by Raycast
+     Fecha : 2026-07-02T08:57:02-07:00
+     URL   : https://www.producthunt.com/products/glaze-4
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-02  10:48:02
+  Fin del reporte  ·  2026-07-03  10:45:29
 ═════════════════════════════════════════════════════════════════

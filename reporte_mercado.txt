@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-03  10:45:29               ║
+║                  Generado: 2026-07-04  10:18:58               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. AI Search Is Nothing Without SEO & It Knows It via @sejournal, @TaylorDanRW
+  1. Lighthouse Fails Your Llms.txt Without Markdown Links via @sejournal, @slobodanmanic
+     Fecha : Fri, 03 Jul 2026 14:00:03 +0000
+     URL   : https://www.searchenginejournal.com/lighthouse-fails-your-llms-txt-without-markdown-links/577590/
+  2. Where Clicks Go, What Agents Skip, Who’s Leaving Bing – SEO Pulse via @sejournal, @MattGSouthern
+     Fecha : Fri, 03 Jul 2026 12:30:55 +0000
+     URL   : https://www.searchenginejournal.com/seo-pulse-where-clicks-go-what-agents-skip-whos-leaving-bing/581426/
+  3. AI Search Is Nothing Without SEO & It Knows It via @sejournal, @TaylorDanRW
      Fecha : Fri, 03 Jul 2026 09:30:26 +0000
      URL   : https://www.searchenginejournal.com/ai-search-is-nothing-without-seo-it-knows-it/580452/
-  2. Google’s Mueller Flags A Case On Why LCP Fixes Miss the Target via @sejournal, @MattGSouthern
-     Fecha : Thu, 02 Jul 2026 22:50:47 +0000
-     URL   : https://www.searchenginejournal.com/googles-mueller-flags-a-case-on-why-lcp-fixes-miss-the-target/581413/
-  3. Google Ends Cache-Served AMP Pages In Search via @sejournal, @MattGSouthern
-     Fecha : Thu, 02 Jul 2026 20:06:10 +0000
-     URL   : https://www.searchenginejournal.com/google-ends-cache-served-amp-pages-in-search/581405/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Politician who investigated spyware abuses had his phone hacked with Pegasus spyware
-     Fecha : Fri, 03 Jul 2026 05:05:00 +0000
-     URL   : https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/
-  2. Last chance to apply — Startup Battlefield Australia applications close July 6
-     Fecha : Fri, 03 Jul 2026 00:00:00 +0000
-     URL   : https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/
-  3. Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped
-     Fecha : Thu, 02 Jul 2026 23:38:10 +0000
-     URL   : https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/
+  1. The only AI glossary you’ll need this year
+     Fecha : Fri, 03 Jul 2026 21:20:00 +0000
+     URL   : https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
+  2. The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari
+     Fecha : Fri, 03 Jul 2026 18:43:00 +0000
+     URL   : https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/
+  3. The Dune keypad device can be your meeting controller and more
+     Fecha : Fri, 03 Jul 2026 18:28:30 +0000
+     URL   : https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Vox
-     Fecha : 2026-07-02T17:08:51-07:00
-     URL   : https://www.producthunt.com/products/vox-5
-  2. Goals from Loops
-     Fecha : 2026-07-02T03:03:16-07:00
-     URL   : https://www.producthunt.com/products/loops
-  3. Glaze by Raycast
-     Fecha : 2026-07-02T08:57:02-07:00
-     URL   : https://www.producthunt.com/products/glaze-4
+  1. Vida
+     Fecha : 2026-06-17T13:02:52-07:00
+     URL   : https://www.producthunt.com/products/vida-5
+  2. PhoneDeck
+     Fecha : 2026-06-03T03:23:56-07:00
+     URL   : https://www.producthunt.com/products/phonedeck
+  3. ChecklistFox
+     Fecha : 2026-07-03T13:40:09-07:00
+     URL   : https://www.producthunt.com/products/checklistfox
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. OpenAI floats giving Trump administration 5 percent cut of AI boom
+  1. Anthropic wants to develop its own drugs
+     Fecha : 2026-07-03T09:56:52-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development
+  2. A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered
+     Fecha : 2026-07-03T07:49:10-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video
+  3. OpenAI floats giving Trump administration 5 percent cut of AI boom
      Fecha : 2026-07-02T06:23:27-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump
-  2. Google built a great smart speaker, but Gemini isn’t ready for it
-     Fecha : 2026-07-01T08:00:00-04:00
-     URL   : https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home
-  3. Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return
-     Fecha : 2026-06-30T20:03:55-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-03  10:45:29
+  Fin del reporte  ·  2026-07-04  10:18:58
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-05  10:23:53               ║
+║                  Generado: 2026-07-06  12:10:50               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Fake DMCA Complaints Keep Erasing Real Pages From Google – What To Watch For via @sejournal, @MattGSouthern
-     Fecha : Sat, 04 Jul 2026 12:30:57 +0000
-     URL   : https://www.searchenginejournal.com/fake-dmca-complaints-keep-erasing-real-pages-from-google-what-to-watch-for/581299/
-  2. Lighthouse Fails Your Llms.txt Without Markdown Links via @sejournal, @slobodanmanic
-     Fecha : Fri, 03 Jul 2026 14:00:03 +0000
-     URL   : https://www.searchenginejournal.com/lighthouse-fails-your-llms-txt-without-markdown-links/577590/
-  3. Where Clicks Go, What Agents Skip, Who’s Leaving Bing – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Fri, 03 Jul 2026 12:30:55 +0000
-     URL   : https://www.searchenginejournal.com/seo-pulse-where-clicks-go-what-agents-skip-whos-leaving-bing/581426/
+  1. AI Content Didn’t Stop Working, Your Metrics Did via @sejournal, @MattGSouthern
+     Fecha : Mon, 06 Jul 2026 11:30:07 +0000
+     URL   : https://www.searchenginejournal.com/ai-content-didnt-stop-working-your-metrics-did/580976/
+  2. Google Answers Question About LLMs-Author.txt For SEO via @sejournal, @martinibuster
+     Fecha : Mon, 06 Jul 2026 10:05:35 +0000
+     URL   : https://www.searchenginejournal.com/google-answers-question-about-llms-author-txt-for-seo/581547/
+  3. Google’s Open Knowledge Format Could Work For Websites, Too via @sejournal, @slobodanmanic
+     Fecha : Mon, 06 Jul 2026 09:00:43 +0000
+     URL   : https://www.searchenginejournal.com/googles-open-knowledge-format-could-work-for-websites-too/579200/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. New Google commercial imagines a Declaration of Independence written with help from AI
-     Fecha : Sat, 04 Jul 2026 20:55:25 +0000
-     URL   : https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/
-  2. Midjourney wants Hollywood studios to reveal the details of their AI usage
-     Fecha : Sat, 04 Jul 2026 18:00:05 +0000
-     URL   : https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/
-  3. Alibaba reportedly bans employees from using Claude Code
-     Fecha : Sat, 04 Jul 2026 16:32:08 +0000
-     URL   : https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/
+  1. Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent
+     Fecha : Mon, 06 Jul 2026 09:00:00 +0000
+     URL   : https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/
+  2. This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon
+     Fecha : Mon, 06 Jul 2026 06:05:29 +0000
+     URL   : https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/
+  3. Uber’s European expansion plans may have hit a speed bump
+     Fecha : Sun, 05 Jul 2026 21:35:17 +0000
+     URL   : https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Pennen
-     Fecha : 2026-07-03T14:30:43-07:00
-     URL   : https://www.producthunt.com/products/pennen
-  2. CircleChat
-     Fecha : 2026-07-04T09:05:42-07:00
-     URL   : https://www.producthunt.com/products/circlechat
-  3. MentionDrop MCP
-     Fecha : 2026-06-19T00:54:26-07:00
-     URL   : https://www.producthunt.com/products/mentiondrop
+  1. Octolens
+     Fecha : 2026-06-29T09:11:04-07:00
+     URL   : https://www.producthunt.com/products/octolens-ai
+  2. Typeahead 2.0
+     Fecha : 2026-07-02T14:39:18-07:00
+     URL   : https://www.producthunt.com/products/typeahead
+  3. Astryx
+     Fecha : 2026-07-05T20:52:49-07:00
+     URL   : https://www.producthunt.com/products/meta
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. The fanfiction community is at war with AI — and itself
+  1. Some of the nation’s rich are letting AI teach their kids
+     Fecha : 2026-07-05T18:30:54-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep
+  2. Infuriating Google commercial imagines the founding fathers embracing AI
+     Fecha : 2026-07-05T10:23:11-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence
+  3. The fanfiction community is at war with AI — and itself
      Fecha : 2026-07-04T08:00:00-04:00
      URL   : https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector
-  2. Anthropic wants to develop its own drugs
-     Fecha : 2026-07-03T09:56:52-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development
-  3. A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered
-     Fecha : 2026-07-03T07:49:10-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-05  10:23:53
+  Fin del reporte  ·  2026-07-06  12:10:50
 ═════════════════════════════════════════════════════════════════

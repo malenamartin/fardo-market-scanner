@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-06  12:10:50               ║
+║                  Generado: 2026-07-07  11:15:27               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. AI Content Didn’t Stop Working, Your Metrics Did via @sejournal, @MattGSouthern
-     Fecha : Mon, 06 Jul 2026 11:30:07 +0000
-     URL   : https://www.searchenginejournal.com/ai-content-didnt-stop-working-your-metrics-did/580976/
-  2. Google Answers Question About LLMs-Author.txt For SEO via @sejournal, @martinibuster
-     Fecha : Mon, 06 Jul 2026 10:05:35 +0000
-     URL   : https://www.searchenginejournal.com/google-answers-question-about-llms-author-txt-for-seo/581547/
-  3. Google’s Open Knowledge Format Could Work For Websites, Too via @sejournal, @slobodanmanic
-     Fecha : Mon, 06 Jul 2026 09:00:43 +0000
-     URL   : https://www.searchenginejournal.com/googles-open-knowledge-format-could-work-for-websites-too/579200/
+  1. 62% Of AI Brand Recommendations Vanish After One Buyer Question – New Clovion Data via @sejournal, @gregjarboe
+     Fecha : Tue, 07 Jul 2026 11:00:06 +0000
+     URL   : https://www.searchenginejournal.com/62-of-ai-brand-recommendations-vanish-after-one-buyer-question-new-clovion-data/581469/
+  2. Google On Using Markdown For AI SEO via @sejournal, @martinibuster
+     Fecha : Tue, 07 Jul 2026 09:20:34 +0000
+     URL   : https://www.searchenginejournal.com/google-on-using-markdown-for-ai-seo/581606/
+  3. The Web Is Growing A Second Layer – Almost A Third Head via @sejournal, @demirie
+     Fecha : Tue, 07 Jul 2026 09:00:09 +0000
+     URL   : https://www.searchenginejournal.com/the-web-is-growing-a-second-layer-almost-a-third-head/581147/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent
-     Fecha : Mon, 06 Jul 2026 09:00:00 +0000
-     URL   : https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/
-  2. This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon
-     Fecha : Mon, 06 Jul 2026 06:05:29 +0000
-     URL   : https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/
-  3. Uber’s European expansion plans may have hit a speed bump
-     Fecha : Sun, 05 Jul 2026 21:35:17 +0000
-     URL   : https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/
+  1. The first American autonomous ground vehicles are fighting in Ukraine
+     Fecha : Tue, 07 Jul 2026 09:00:00 +0000
+     URL   : https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/
+  2. Netflix invented binge-watching. Now it may have outgrown it.
+     Fecha : Tue, 07 Jul 2026 00:47:33 +0000
+     URL   : https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/
+  3. The ‘first’ AI-run ransomware attack still needed a human
+     Fecha : Mon, 06 Jul 2026 23:56:14 +0000
+     URL   : https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Octolens
-     Fecha : 2026-06-29T09:11:04-07:00
-     URL   : https://www.producthunt.com/products/octolens-ai
-  2. Typeahead 2.0
-     Fecha : 2026-07-02T14:39:18-07:00
-     URL   : https://www.producthunt.com/products/typeahead
-  3. Astryx
-     Fecha : 2026-07-05T20:52:49-07:00
-     URL   : https://www.producthunt.com/products/meta
+  1. Badge
+     Fecha : 2026-04-24T09:55:34-07:00
+     URL   : https://www.producthunt.com/products/badge-3
+  2. Scribble Network
+     Fecha : 2026-06-30T04:38:46-07:00
+     URL   : https://www.producthunt.com/products/scribble-network
+  3. Dupely
+     Fecha : 2026-06-15T06:22:36-07:00
+     URL   : https://www.producthunt.com/products/dupely
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Some of the nation’s rich are letting AI teach their kids
+  1. I spy
+     Fecha : 2026-07-06T12:00:00-04:00
+     URL   : https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy
+  2. Microsoft is laying off 4,800 employees
+     Fecha : 2026-07-06T09:30:00-04:00
+     URL   : https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox
+  3. Some of the nation’s rich are letting AI teach their kids
      Fecha : 2026-07-05T18:30:54-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep
-  2. Infuriating Google commercial imagines the founding fathers embracing AI
-     Fecha : 2026-07-05T10:23:11-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence
-  3. The fanfiction community is at war with AI — and itself
-     Fecha : 2026-07-04T08:00:00-04:00
-     URL   : https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-06  12:10:50
+  Fin del reporte  ·  2026-07-07  11:15:27
 ═════════════════════════════════════════════════════════════════

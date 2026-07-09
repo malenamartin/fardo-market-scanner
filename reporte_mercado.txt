@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-08  10:26:22               ║
+║                  Generado: 2026-07-09  11:12:56               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. You Can’t See How AI Ranks You, So Build What It Can Read via @sejournal, @slobodanmanic
-     Fecha : Wed, 08 Jul 2026 09:30:41 +0000
-     URL   : https://www.searchenginejournal.com/you-cant-see-how-ai-ranks-you-so-build-what-it-can-read/580048/
-  2. AI Search: Is Your Content Strategy Accidentally Recommending Your Competitors?
-     Fecha : Tue, 07 Jul 2026 22:14:42 +0000
-     URL   : https://www.searchenginejournal.com/ai-search-recommending-competitors-firstpromoter-spa/581579/
-  3. SEO Study: 5 Lessons From Running AI Agents Across Every Search via @sejournal, @lorenbaker
-     Fecha : Tue, 07 Jul 2026 21:00:35 +0000
-     URL   : https://www.searchenginejournal.com/seo-study-5-lessons-from-running-ai-agents-across-every-search/581663/
+  1. Google’s New Merchant Listing Structured Data Improves SEO via @sejournal, @martinibuster
+     Fecha : Thu, 09 Jul 2026 10:59:30 +0000
+     URL   : https://www.searchenginejournal.com/googles-new-merchant-listing-structured-data-improves-seo/581879/
+  2. How To Optimize PPC Accounts With Less Search Term Visibility – Ask A PPC via @sejournal, @navahf
+     Fecha : Thu, 09 Jul 2026 09:00:26 +0000
+     URL   : https://www.searchenginejournal.com/ask-a-ppc-how-to-optimize-ppc-accounts-with-less-search-term-visibility/581131/
+  3. YouTube Moves Ahead of Spotify As UK’s Top Podcast Service via @sejournal, @MattGSouthern
+     Fecha : Thu, 09 Jul 2026 00:35:22 +0000
+     URL   : https://www.searchenginejournal.com/youtube-moves-ahead-of-spotify-as-uks-top-podcast-service/581832/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Hot French startup ZML releases free product to speed inference across lots of AI chips
-     Fecha : Wed, 08 Jul 2026 08:00:00 +0000
-     URL   : https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/
-  2. AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round
-     Fecha : Wed, 08 Jul 2026 07:16:00 +0000
-     URL   : https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/
-  3. Final extension: Startup Battlefield Australia applications now close July 20
-     Fecha : Tue, 07 Jul 2026 22:30:00 +0000
-     URL   : https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/
+  1. Truecaller clashes with India’s telecom regulator over anti-spam rules
+     Fecha : Thu, 09 Jul 2026 02:30:00 +0000
+     URL   : https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/
+  2. Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement
+     Fecha : Wed, 08 Jul 2026 23:11:42 +0000
+     URL   : https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/
+  3. Lovable reportedly in talks to double its valuation to $13.2B
+     Fecha : Wed, 08 Jul 2026 22:41:33 +0000
+     URL   : https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. LemonLime
-     Fecha : 2026-07-07T18:20:45-07:00
-     URL   : https://www.producthunt.com/products/lemonlime
-  2. Link Preview API
-     Fecha : 2026-07-06T15:23:14-07:00
-     URL   : https://www.producthunt.com/products/link-preview-api
-  3. PopTask for Apple
-     Fecha : 2026-07-01T14:50:53-07:00
-     URL   : https://www.producthunt.com/products/poptask
+  1. Perfai Security
+     Fecha : 2026-06-11T19:42:31-07:00
+     URL   : https://www.producthunt.com/products/perfai-security-for-vibe-coded-apps
+  2. Just Ask by SEORCE
+     Fecha : 2026-07-08T02:13:36-07:00
+     URL   : https://www.producthunt.com/products/seorce
+  3. Constellation Gate AI
+     Fecha : 2026-07-08T09:11:45-07:00
+     URL   : https://www.producthunt.com/products/gate-ai-2
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Meta’s new Muse Image model can pull other Instagram users into AI photos
+  1. ChatGPT’s upgraded voice mode is better at shutting up
+     Fecha : 2026-07-08T13:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live
+  2. Meta’s new Muse Image model can pull other Instagram users into AI photos
      Fecha : 2026-07-07T16:31:58-04:00
      URL   : https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram
-  2. Anthropic is launching Claude Cowork on mobile and web
+  3. Anthropic is launching Claude Cowork on mobile and web
      Fecha : 2026-07-07T13:46:59-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web
-  3. Solos debuts an even lighter version of its camera-less smart glasses
-     Fecha : 2026-07-07T09:00:00-04:00
-     URL   : https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-08  10:26:22
+  Fin del reporte  ·  2026-07-09  11:12:56
 ═════════════════════════════════════════════════════════════════

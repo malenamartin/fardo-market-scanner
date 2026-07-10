@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-09  11:12:56               ║
+║                  Generado: 2026-07-10  11:12:09               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google’s New Merchant Listing Structured Data Improves SEO via @sejournal, @martinibuster
+  1. The Agentic Web Is Splitting Into Two Bets: Identity And Capability via @sejournal, @slobodanmanic
+     Fecha : Fri, 10 Jul 2026 09:00:14 +0000
+     URL   : https://www.searchenginejournal.com/the-agentic-web-is-splitting-into-two-bets-identity-and-capability/578685/
+  2. The Web Is Eating Itself And Your Metrics Look Fine via @sejournal, @DuaneForrester
+     Fecha : Thu, 09 Jul 2026 13:30:34 +0000
+     URL   : https://www.searchenginejournal.com/the-web-is-eating-itself-and-your-metrics-look-fine/581497/
+  3. Google’s New Merchant Listing Structured Data Improves SEO via @sejournal, @martinibuster
      Fecha : Thu, 09 Jul 2026 10:59:30 +0000
      URL   : https://www.searchenginejournal.com/googles-new-merchant-listing-structured-data-improves-seo/581879/
-  2. How To Optimize PPC Accounts With Less Search Term Visibility – Ask A PPC via @sejournal, @navahf
-     Fecha : Thu, 09 Jul 2026 09:00:26 +0000
-     URL   : https://www.searchenginejournal.com/ask-a-ppc-how-to-optimize-ppc-accounts-with-less-search-term-visibility/581131/
-  3. YouTube Moves Ahead of Spotify As UK’s Top Podcast Service via @sejournal, @MattGSouthern
-     Fecha : Thu, 09 Jul 2026 00:35:22 +0000
-     URL   : https://www.searchenginejournal.com/youtube-moves-ahead-of-spotify-as-uks-top-podcast-service/581832/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Truecaller clashes with India’s telecom regulator over anti-spam rules
-     Fecha : Thu, 09 Jul 2026 02:30:00 +0000
-     URL   : https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/
-  2. Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement
-     Fecha : Wed, 08 Jul 2026 23:11:42 +0000
-     URL   : https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/
-  3. Lovable reportedly in talks to double its valuation to $13.2B
-     Fecha : Wed, 08 Jul 2026 22:41:33 +0000
-     URL   : https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/
+  1. After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV
+     Fecha : Fri, 10 Jul 2026 04:36:20 +0000
+     URL   : https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/
+  2. OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter
+     Fecha : Fri, 10 Jul 2026 00:16:54 +0000
+     URL   : https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/
+  3. Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him
+     Fecha : Fri, 10 Jul 2026 00:13:00 +0000
+     URL   : https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Perfai Security
-     Fecha : 2026-06-11T19:42:31-07:00
-     URL   : https://www.producthunt.com/products/perfai-security-for-vibe-coded-apps
-  2. Just Ask by SEORCE
-     Fecha : 2026-07-08T02:13:36-07:00
-     URL   : https://www.producthunt.com/products/seorce
-  3. Constellation Gate AI
-     Fecha : 2026-07-08T09:11:45-07:00
-     URL   : https://www.producthunt.com/products/gate-ai-2
+  1. Native SDK
+     Fecha : 2026-07-09T11:17:11-07:00
+     URL   : https://www.producthunt.com/products/vercel
+  2. PlugThis
+     Fecha : 2026-07-06T05:06:48-07:00
+     URL   : https://www.producthunt.com/products/plugthis-chrome-extension-generator
+  3. Mispher
+     Fecha : 2026-07-09T02:36:54-07:00
+     URL   : https://www.producthunt.com/products/mispher-agentic-transcription-for-mac
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. ChatGPT’s upgraded voice mode is better at shutting up
-     Fecha : 2026-07-08T13:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live
-  2. Meta’s new Muse Image model can pull other Instagram users into AI photos
-     Fecha : 2026-07-07T16:31:58-04:00
-     URL   : https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram
-  3. Anthropic is launching Claude Cowork on mobile and web
-     Fecha : 2026-07-07T13:46:59-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web
+  1. Microsoft’s carbon emissions went up 25 percent last year
+     Fecha : 2026-07-09T20:04:13-04:00
+     URL   : https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026
+  2. Fidji Simo steps down from leading OpenAI’s AGI work due to illness
+     Fecha : 2026-07-09T19:24:04-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor
+  3. The ChatGPT browser is already dead
+     Fecha : 2026-07-09T16:34:05-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-09  11:12:56
+  Fin del reporte  ·  2026-07-10  11:12:09
 ═════════════════════════════════════════════════════════════════

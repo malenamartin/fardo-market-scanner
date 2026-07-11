@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-10  11:12:09               ║
+║                  Generado: 2026-07-11  09:44:03               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. The Agentic Web Is Splitting Into Two Bets: Identity And Capability via @sejournal, @slobodanmanic
-     Fecha : Fri, 10 Jul 2026 09:00:14 +0000
-     URL   : https://www.searchenginejournal.com/the-agentic-web-is-splitting-into-two-bets-identity-and-capability/578685/
-  2. The Web Is Eating Itself And Your Metrics Look Fine via @sejournal, @DuaneForrester
-     Fecha : Thu, 09 Jul 2026 13:30:34 +0000
-     URL   : https://www.searchenginejournal.com/the-web-is-eating-itself-and-your-metrics-look-fine/581497/
-  3. Google’s New Merchant Listing Structured Data Improves SEO via @sejournal, @martinibuster
-     Fecha : Thu, 09 Jul 2026 10:59:30 +0000
-     URL   : https://www.searchenginejournal.com/googles-new-merchant-listing-structured-data-improves-seo/581879/
+  1. Google Says Canonical Re-Evaluation Can Take Up to Two Weeks via @sejournal, @MattGSouthern
+     Fecha : Fri, 10 Jul 2026 20:18:28 +0000
+     URL   : https://www.searchenginejournal.com/google-says-canonical-re-evaluation-can-take-up-to-two-weeks/582053/
+  2. WordPress 7.0.1 Maintenance Release Contains 31 Bug Fixes via @sejournal, @martinibuster
+     Fecha : Fri, 10 Jul 2026 20:07:46 +0000
+     URL   : https://www.searchenginejournal.com/wordpress-7-0-1-maintenance-release-contains-31-bug-fixes/582045/
+  3. Google Business Profiles Showing Empty Review Dashboards via @sejournal, @MattGSouthern
+     Fecha : Fri, 10 Jul 2026 18:08:16 +0000
+     URL   : https://www.searchenginejournal.com/google-business-profiles-showing-empty-review-dashboards/582015/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV
-     Fecha : Fri, 10 Jul 2026 04:36:20 +0000
-     URL   : https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/
-  2. OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter
-     Fecha : Fri, 10 Jul 2026 00:16:54 +0000
-     URL   : https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/
-  3. Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him
-     Fecha : Fri, 10 Jul 2026 00:13:00 +0000
-     URL   : https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/
+  1. US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals
+     Fecha : Sat, 11 Jul 2026 01:01:28 +0000
+     URL   : https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/
+  2. Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn
+     Fecha : Sat, 11 Jul 2026 00:29:25 +0000
+     URL   : https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/
+  3. Meta removes controversial AI feature on Instagram after backlash
+     Fecha : Fri, 10 Jul 2026 23:55:07 +0000
+     URL   : https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Native SDK
-     Fecha : 2026-07-09T11:17:11-07:00
-     URL   : https://www.producthunt.com/products/vercel
-  2. PlugThis
-     Fecha : 2026-07-06T05:06:48-07:00
-     URL   : https://www.producthunt.com/products/plugthis-chrome-extension-generator
-  3. Mispher
-     Fecha : 2026-07-09T02:36:54-07:00
-     URL   : https://www.producthunt.com/products/mispher-agentic-transcription-for-mac
+  1. Effects SDK
+     Fecha : 2026-06-22T23:17:54-07:00
+     URL   : https://www.producthunt.com/products/effects-sdk
+  2. Basedash SCIM
+     Fecha : 2026-07-10T19:40:25-07:00
+     URL   : https://www.producthunt.com/products/basedash
+  3. Breathing In Labour
+     Fecha : 2026-06-24T10:18:24-07:00
+     URL   : https://www.producthunt.com/products/breathing-in-labour
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Microsoft’s carbon emissions went up 25 percent last year
-     Fecha : 2026-07-09T20:04:13-04:00
-     URL   : https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026
-  2. Fidji Simo steps down from leading OpenAI’s AGI work due to illness
-     Fecha : 2026-07-09T19:24:04-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor
-  3. The ChatGPT browser is already dead
-     Fecha : 2026-07-09T16:34:05-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset
+  1. Meta turns off the Instagram feature that let users make AI deepfakes of public accounts
+     Fecha : 2026-07-10T19:49:50-04:00
+     URL   : https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes
+  2. Apple sues OpenAI for allegedly stealing hardware secrets
+     Fecha : 2026-07-10T17:36:51-04:00
+     URL   : https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets
+  3. Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;
+     Fecha : 2026-07-10T09:45:02-04:00
+     URL   : https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-10  11:12:09
+  Fin del reporte  ·  2026-07-11  09:44:03
 ═════════════════════════════════════════════════════════════════

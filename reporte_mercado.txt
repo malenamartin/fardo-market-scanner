@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-11  09:44:03               ║
+║                  Generado: 2026-07-12  09:57:24               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,41 +10,41 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Says Canonical Re-Evaluation Can Take Up to Two Weeks via @sejournal, @MattGSouthern
+  1. AI Visibility Rankings Aren’t Stable – New Research Shows It’s Mostly Statistical Noise via @sejournal, @MattGSouthern
+     Fecha : Sat, 11 Jul 2026 12:30:19 +0000
+     URL   : https://www.searchenginejournal.com/ai-visibility-rankings-arent-stable-new-research-shows-its-mostly-statistical-noise/581905/
+  2. Google Says Canonical Re-Evaluation Can Take Up to Two Weeks via @sejournal, @MattGSouthern
      Fecha : Fri, 10 Jul 2026 20:18:28 +0000
      URL   : https://www.searchenginejournal.com/google-says-canonical-re-evaluation-can-take-up-to-two-weeks/582053/
-  2. WordPress 7.0.1 Maintenance Release Contains 31 Bug Fixes via @sejournal, @martinibuster
+  3. WordPress 7.0.1 Maintenance Release Contains 31 Bug Fixes via @sejournal, @martinibuster
      Fecha : Fri, 10 Jul 2026 20:07:46 +0000
      URL   : https://www.searchenginejournal.com/wordpress-7-0-1-maintenance-release-contains-31-bug-fixes/582045/
-  3. Google Business Profiles Showing Empty Review Dashboards via @sejournal, @MattGSouthern
-     Fecha : Fri, 10 Jul 2026 18:08:16 +0000
-     URL   : https://www.searchenginejournal.com/google-business-profiles-showing-empty-review-dashboards/582015/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals
-     Fecha : Sat, 11 Jul 2026 01:01:28 +0000
-     URL   : https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/
-  2. Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn
-     Fecha : Sat, 11 Jul 2026 00:29:25 +0000
-     URL   : https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/
-  3. Meta removes controversial AI feature on Instagram after backlash
-     Fecha : Fri, 10 Jul 2026 23:55:07 +0000
-     URL   : https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/
+  1. Reed Jobs would rather talk about curing cancer than his last name
+     Fecha : Sun, 12 Jul 2026 00:16:06 +0000
+     URL   : https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/
+  2. This slushie machine was a lifesaver during NYC’s heat wave
+     Fecha : Sat, 11 Jul 2026 22:00:00 +0000
+     URL   : https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/
+  3. Smart glasses without a camera? Even Realities bets productivity beats recording everyone
+     Fecha : Sat, 11 Jul 2026 17:30:00 +0000
+     URL   : https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Effects SDK
-     Fecha : 2026-06-22T23:17:54-07:00
-     URL   : https://www.producthunt.com/products/effects-sdk
-  2. Basedash SCIM
-     Fecha : 2026-07-10T19:40:25-07:00
-     URL   : https://www.producthunt.com/products/basedash
-  3. Breathing In Labour
-     Fecha : 2026-06-24T10:18:24-07:00
-     URL   : https://www.producthunt.com/products/breathing-in-labour
+  1. FetchSandbox
+     Fecha : 2026-06-18T21:12:56-07:00
+     URL   : https://www.producthunt.com/products/fetchsandbox
+  2. JustVibe
+     Fecha : 2026-07-06T10:33:19-07:00
+     URL   : https://www.producthunt.com/products/justvibe
+  3. Second Brain for AI v2
+     Fecha : 2026-06-24T20:43:33-07:00
+     URL   : https://www.producthunt.com/products/second-brain-cloudflare
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-11  09:44:03
+  Fin del reporte  ·  2026-07-12  09:57:24
 ═════════════════════════════════════════════════════════════════

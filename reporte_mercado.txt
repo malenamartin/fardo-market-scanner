@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-12  09:57:24               ║
+║                  Generado: 2026-07-13  11:20:59               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. AI Visibility Rankings Aren’t Stable – New Research Shows It’s Mostly Statistical Noise via @sejournal, @MattGSouthern
+  1. AI Agent Standards: What Do We Need To Know? via @sejournal, @chrisgreenseo
+     Fecha : Mon, 13 Jul 2026 09:30:08 +0000
+     URL   : https://www.searchenginejournal.com/ai-agent-standards-what-do-we-need-to-know/581763/
+  2. The WebMCP Tools You Expose To Agents Can Be Used To Hijack Them via @sejournal, @slobodanmanic
+     Fecha : Sun, 12 Jul 2026 12:00:52 +0000
+     URL   : https://www.searchenginejournal.com/the-webmcp-tools-you-expose-to-agents-can-be-used-to-hijack-them/579204/
+  3. AI Visibility Rankings Aren’t Stable – New Research Shows It’s Mostly Statistical Noise via @sejournal, @MattGSouthern
      Fecha : Sat, 11 Jul 2026 12:30:19 +0000
      URL   : https://www.searchenginejournal.com/ai-visibility-rankings-arent-stable-new-research-shows-its-mostly-statistical-noise/581905/
-  2. Google Says Canonical Re-Evaluation Can Take Up to Two Weeks via @sejournal, @MattGSouthern
-     Fecha : Fri, 10 Jul 2026 20:18:28 +0000
-     URL   : https://www.searchenginejournal.com/google-says-canonical-re-evaluation-can-take-up-to-two-weeks/582053/
-  3. WordPress 7.0.1 Maintenance Release Contains 31 Bug Fixes via @sejournal, @martinibuster
-     Fecha : Fri, 10 Jul 2026 20:07:46 +0000
-     URL   : https://www.searchenginejournal.com/wordpress-7-0-1-maintenance-release-contains-31-bug-fixes/582045/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Reed Jobs would rather talk about curing cancer than his last name
+  1. TechCrunch Mobility: A robotaxi ultimatum
+     Fecha : Sun, 12 Jul 2026 16:07:00 +0000
+     URL   : https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/
+  2. Reed Jobs would rather talk about curing cancer than his last name
      Fecha : Sun, 12 Jul 2026 00:16:06 +0000
      URL   : https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/
-  2. This slushie machine was a lifesaver during NYC’s heat wave
+  3. This slushie machine was a lifesaver during NYC’s heat wave
      Fecha : Sat, 11 Jul 2026 22:00:00 +0000
      URL   : https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/
-  3. Smart glasses without a camera? Even Realities bets productivity beats recording everyone
-     Fecha : Sat, 11 Jul 2026 17:30:00 +0000
-     URL   : https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. FetchSandbox
-     Fecha : 2026-06-18T21:12:56-07:00
-     URL   : https://www.producthunt.com/products/fetchsandbox
-  2. JustVibe
-     Fecha : 2026-07-06T10:33:19-07:00
-     URL   : https://www.producthunt.com/products/justvibe
-  3. Second Brain for AI v2
-     Fecha : 2026-06-24T20:43:33-07:00
-     URL   : https://www.producthunt.com/products/second-brain-cloudflare
+  1. Fudge MCP
+     Fecha : 2026-07-10T07:06:45-07:00
+     URL   : https://www.producthunt.com/products/fudge-mcp
+  2. AgentKey
+     Fecha : 2026-07-09T21:48:14-07:00
+     URL   : https://www.producthunt.com/products/agentkey
+  3. Knockoff
+     Fecha : 2026-07-10T04:40:04-07:00
+     URL   : https://www.producthunt.com/products/knockoff-2
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Meta turns off the Instagram feature that let users make AI deepfakes of public accounts
-     Fecha : 2026-07-10T19:49:50-04:00
-     URL   : https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes
-  2. Apple sues OpenAI for allegedly stealing hardware secrets
-     Fecha : 2026-07-10T17:36:51-04:00
-     URL   : https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets
-  3. Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;
-     Fecha : 2026-07-10T09:45:02-04:00
-     URL   : https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters
+  1. Waze is getting a bunch of new AI-powered features
+     Fecha : 2026-07-13T05:00:00-04:00
+     URL   : https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty
+  2. Lorde says Ray-Ban Meta AI glasses are ‘not sexy’
+     Fecha : 2026-07-12T16:10:19-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy
+  3. Apple’s failed self-driving car program left a legacy of powerful AI chips
+     Fecha : 2026-07-12T12:27:06-04:00
+     URL   : https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-12  09:57:24
+  Fin del reporte  ·  2026-07-13  11:20:59
 ═════════════════════════════════════════════════════════════════

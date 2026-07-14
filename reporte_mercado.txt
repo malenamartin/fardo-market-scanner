@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-13  11:20:59               ║
+║                  Generado: 2026-07-14  10:05:04               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. AI Agent Standards: What Do We Need To Know? via @sejournal, @chrisgreenseo
-     Fecha : Mon, 13 Jul 2026 09:30:08 +0000
-     URL   : https://www.searchenginejournal.com/ai-agent-standards-what-do-we-need-to-know/581763/
-  2. The WebMCP Tools You Expose To Agents Can Be Used To Hijack Them via @sejournal, @slobodanmanic
-     Fecha : Sun, 12 Jul 2026 12:00:52 +0000
-     URL   : https://www.searchenginejournal.com/the-webmcp-tools-you-expose-to-agents-can-be-used-to-hijack-them/579204/
-  3. AI Visibility Rankings Aren’t Stable – New Research Shows It’s Mostly Statistical Noise via @sejournal, @MattGSouthern
-     Fecha : Sat, 11 Jul 2026 12:30:19 +0000
-     URL   : https://www.searchenginejournal.com/ai-visibility-rankings-arent-stable-new-research-shows-its-mostly-statistical-noise/581905/
+  1. Surviving The Impression Squeeze: How Agentic Commerce Is Changing Google Ads In 2026 via @sejournal, @siliconvallaeys
+     Fecha : Tue, 14 Jul 2026 09:30:43 +0000
+     URL   : https://www.searchenginejournal.com/surviving-the-impression-squeeze-how-agentic-commerce-is-changing-google-ads-in-2026/579939/
+  2. Google’s Marvin Clarifies AI Search and Qualified Future Conversions via @sejournal, @brookeosmundson
+     Fecha : Mon, 13 Jul 2026 20:46:27 +0000
+     URL   : https://www.searchenginejournal.com/googles-marvin-clarifies-ai-search-and-qualified-future-conversions/582185/
+  3. ChatGPT Access Tied To 9% Drop In Traditional Search via @sejournal, @MattGSouthern
+     Fecha : Mon, 13 Jul 2026 17:54:10 +0000
+     URL   : https://www.searchenginejournal.com/chatgpt-access-tied-to-9-drop-in-traditional-search/582167/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. TechCrunch Mobility: A robotaxi ultimatum
-     Fecha : Sun, 12 Jul 2026 16:07:00 +0000
-     URL   : https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/
-  2. Reed Jobs would rather talk about curing cancer than his last name
-     Fecha : Sun, 12 Jul 2026 00:16:06 +0000
-     URL   : https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/
-  3. This slushie machine was a lifesaver during NYC’s heat wave
-     Fecha : Sat, 11 Jul 2026 22:00:00 +0000
-     URL   : https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/
+  1. Pinwheel launches a retro-inspired landline phone for kids
+     Fecha : Tue, 14 Jul 2026 09:00:00 +0000
+     URL   : https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/
+  2. Already rich, already successful, why the last wave of tech winners is grinding again
+     Fecha : Tue, 14 Jul 2026 02:46:42 +0000
+     URL   : https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/
+  3. Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”
+     Fecha : Tue, 14 Jul 2026 00:45:00 +0000
+     URL   : https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Fudge MCP
-     Fecha : 2026-07-10T07:06:45-07:00
-     URL   : https://www.producthunt.com/products/fudge-mcp
-  2. AgentKey
-     Fecha : 2026-07-09T21:48:14-07:00
-     URL   : https://www.producthunt.com/products/agentkey
-  3. Knockoff
-     Fecha : 2026-07-10T04:40:04-07:00
-     URL   : https://www.producthunt.com/products/knockoff-2
+  1. Sales Studio
+     Fecha : 2026-07-08T18:28:43-07:00
+     URL   : https://www.producthunt.com/products/sales-studio
+  2. AutoShelf 2.0
+     Fecha : 2026-07-07T09:24:56-07:00
+     URL   : https://www.producthunt.com/products/autoshelf
+  3. Sourclip
+     Fecha : 2026-07-10T11:08:01-07:00
+     URL   : https://www.producthunt.com/products/sourclip
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Waze is getting a bunch of new AI-powered features
-     Fecha : 2026-07-13T05:00:00-04:00
-     URL   : https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty
-  2. Lorde says Ray-Ban Meta AI glasses are ‘not sexy’
-     Fecha : 2026-07-12T16:10:19-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy
-  3. Apple’s failed self-driving car program left a legacy of powerful AI chips
-     Fecha : 2026-07-12T12:27:06-04:00
-     URL   : https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra
+  1. New York becomes the first state to enact a data center moratorium
+     Fecha : 2026-07-14T05:00:00-04:00
+     URL   : https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium
+  2. Siri AI is already changing how I use my iPhone
+     Fecha : 2026-07-13T16:43:20-04:00
+     URL   : https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on
+  3. The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI
+     Fecha : 2026-07-13T13:00:00-04:00
+     URL   : https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-13  11:20:59
+  Fin del reporte  ·  2026-07-14  10:05:04
 ═════════════════════════════════════════════════════════════════

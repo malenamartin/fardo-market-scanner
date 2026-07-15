@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-14  10:05:04               ║
+║                  Generado: 2026-07-15  10:08:53               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Surviving The Impression Squeeze: How Agentic Commerce Is Changing Google Ads In 2026 via @sejournal, @siliconvallaeys
-     Fecha : Tue, 14 Jul 2026 09:30:43 +0000
-     URL   : https://www.searchenginejournal.com/surviving-the-impression-squeeze-how-agentic-commerce-is-changing-google-ads-in-2026/579939/
-  2. Google’s Marvin Clarifies AI Search and Qualified Future Conversions via @sejournal, @brookeosmundson
-     Fecha : Mon, 13 Jul 2026 20:46:27 +0000
-     URL   : https://www.searchenginejournal.com/googles-marvin-clarifies-ai-search-and-qualified-future-conversions/582185/
-  3. ChatGPT Access Tied To 9% Drop In Traditional Search via @sejournal, @MattGSouthern
-     Fecha : Mon, 13 Jul 2026 17:54:10 +0000
-     URL   : https://www.searchenginejournal.com/chatgpt-access-tied-to-9-drop-in-traditional-search/582167/
+  1. The PPC Metrics Your CFO Actually Cares About (And How To Report Them) via @sejournal, @timothyjjensen
+     Fecha : Wed, 15 Jul 2026 09:30:15 +0000
+     URL   : https://www.searchenginejournal.com/the-ppc-metrics-your-cfo-actually-cares-about-and-how-to-report-them/578813/
+  2. Google’s Mueller On First Link Priority & Link Obfuscation via @sejournal, @MattGSouthern
+     Fecha : Wed, 15 Jul 2026 00:46:35 +0000
+     URL   : https://www.searchenginejournal.com/googles-mueller-on-first-link-priority-link-obfuscation/582316/
+  3. TikTok Targets AI-Generated Spam Accounts In High-Risk Topics via @sejournal, @MattGSouthern
+     Fecha : Tue, 14 Jul 2026 18:26:32 +0000
+     URL   : https://www.searchenginejournal.com/tiktok-targets-ai-generated-spam-accounts-in-high-risk-topics/582256/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Pinwheel launches a retro-inspired landline phone for kids
-     Fecha : Tue, 14 Jul 2026 09:00:00 +0000
-     URL   : https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/
-  2. Already rich, already successful, why the last wave of tech winners is grinding again
-     Fecha : Tue, 14 Jul 2026 02:46:42 +0000
-     URL   : https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/
-  3. Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”
-     Fecha : Tue, 14 Jul 2026 00:45:00 +0000
-     URL   : https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/
+  1. OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B
+     Fecha : Wed, 15 Jul 2026 00:27:04 +0000
+     URL   : https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/
+  2. Lorde says AI glasses are ‘not sexy’
+     Fecha : Tue, 14 Jul 2026 23:10:02 +0000
+     URL   : https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/
+  3. OpenAI’s first hardware device is reportedly a screenless speaker that can move
+     Fecha : Tue, 14 Jul 2026 22:22:24 +0000
+     URL   : https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Sales Studio
-     Fecha : 2026-07-08T18:28:43-07:00
-     URL   : https://www.producthunt.com/products/sales-studio
-  2. AutoShelf 2.0
-     Fecha : 2026-07-07T09:24:56-07:00
-     URL   : https://www.producthunt.com/products/autoshelf
-  3. Sourclip
-     Fecha : 2026-07-10T11:08:01-07:00
-     URL   : https://www.producthunt.com/products/sourclip
+  1. ccshare
+     Fecha : 2026-07-14T01:43:39-07:00
+     URL   : https://www.producthunt.com/products/ccshare
+  2. CodeNearby 2.0
+     Fecha : 2026-07-11T11:43:04-07:00
+     URL   : https://www.producthunt.com/products/codenearby
+  3. New AI tools by IFTTT
+     Fecha : 2026-07-07T14:58:15-07:00
+     URL   : https://www.producthunt.com/products/ifttt
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. New York becomes the first state to enact a data center moratorium
-     Fecha : 2026-07-14T05:00:00-04:00
-     URL   : https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium
-  2. Siri AI is already changing how I use my iPhone
-     Fecha : 2026-07-13T16:43:20-04:00
-     URL   : https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on
-  3. The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI
-     Fecha : 2026-07-13T13:00:00-04:00
-     URL   : https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims
+  1. OpenAI may announce a ChatGPT smart speaker this year
+     Fecha : 2026-07-14T17:26:32-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device
+  2. SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage
+     Fecha : 2026-07-14T15:25:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload
+  3. Meta accused of using biased AI targeting for mass layoffs
+     Fecha : 2026-07-14T13:18:11-04:00
+     URL   : https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-14  10:05:04
+  Fin del reporte  ·  2026-07-15  10:08:53
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-15  10:08:53               ║
+║                  Generado: 2026-07-16  10:17:36               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. The PPC Metrics Your CFO Actually Cares About (And How To Report Them) via @sejournal, @timothyjjensen
-     Fecha : Wed, 15 Jul 2026 09:30:15 +0000
-     URL   : https://www.searchenginejournal.com/the-ppc-metrics-your-cfo-actually-cares-about-and-how-to-report-them/578813/
-  2. Google’s Mueller On First Link Priority & Link Obfuscation via @sejournal, @MattGSouthern
-     Fecha : Wed, 15 Jul 2026 00:46:35 +0000
-     URL   : https://www.searchenginejournal.com/googles-mueller-on-first-link-priority-link-obfuscation/582316/
-  3. TikTok Targets AI-Generated Spam Accounts In High-Risk Topics via @sejournal, @MattGSouthern
-     Fecha : Tue, 14 Jul 2026 18:26:32 +0000
-     URL   : https://www.searchenginejournal.com/tiktok-targets-ai-generated-spam-accounts-in-high-risk-topics/582256/
+  1. How Do I Split Pages Between Brand Building & Converting? – Ask An SEO via @sejournal, @rollerblader
+     Fecha : Thu, 16 Jul 2026 09:30:23 +0000
+     URL   : https://www.searchenginejournal.com/ask-an-seo-how-do-i-balance-content-that-converts-with-content-that-builds-brand-authority/566261/
+  2. Google Brings Calendar To Personal Intelligence In AI Mode via @sejournal, @MattGSouthern
+     Fecha : Wed, 15 Jul 2026 21:45:59 +0000
+     URL   : https://www.searchenginejournal.com/google-brings-calendar-to-personal-intelligence-in-ai-mode/582409/
+  3. ChatGPT Calls Turn Into Leads More Often: Invoca Report via @sejournal, @MattGSouthern
+     Fecha : Wed, 15 Jul 2026 17:50:16 +0000
+     URL   : https://www.searchenginejournal.com/chatgpt-calls-turn-into-leads-more-often-invoca-report/582400/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B
-     Fecha : Wed, 15 Jul 2026 00:27:04 +0000
-     URL   : https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/
-  2. Lorde says AI glasses are ‘not sexy’
-     Fecha : Tue, 14 Jul 2026 23:10:02 +0000
-     URL   : https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/
-  3. OpenAI’s first hardware device is reportedly a screenless speaker that can move
-     Fecha : Tue, 14 Jul 2026 22:22:24 +0000
-     URL   : https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/
+  1. Phone maker OnePlus says it won’t release new phones in the U.S. and Europe
+     Fecha : Thu, 16 Jul 2026 09:00:00 +0000
+     URL   : https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/
+  2. Lululemon backs nylon-recycling startup Syntetica in $30M Series A
+     Fecha : Thu, 16 Jul 2026 04:00:00 +0000
+     URL   : https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/
+  3. Applied Computing wants to give oil and gas operators an AI model for the entire plant
+     Fecha : Thu, 16 Jul 2026 04:00:00 +0000
+     URL   : https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. ccshare
-     Fecha : 2026-07-14T01:43:39-07:00
-     URL   : https://www.producthunt.com/products/ccshare
-  2. CodeNearby 2.0
-     Fecha : 2026-07-11T11:43:04-07:00
-     URL   : https://www.producthunt.com/products/codenearby
-  3. New AI tools by IFTTT
-     Fecha : 2026-07-07T14:58:15-07:00
-     URL   : https://www.producthunt.com/products/ifttt
+  1. FlightGlitch
+     Fecha : 2026-07-15T10:36:23-07:00
+     URL   : https://www.producthunt.com/products/flightglitch-airline-error-fare-alerts
+  2. Inbix
+     Fecha : 2026-07-15T08:17:54-07:00
+     URL   : https://www.producthunt.com/products/inbix
+  3. Nuvio
+     Fecha : 2026-07-14T09:35:02-07:00
+     URL   : https://www.producthunt.com/products/nuvio-2
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. OpenAI may announce a ChatGPT smart speaker this year
-     Fecha : 2026-07-14T17:26:32-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device
-  2. SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage
-     Fecha : 2026-07-14T15:25:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload
-  3. Meta accused of using biased AI targeting for mass layoffs
-     Fecha : 2026-07-14T13:18:11-04:00
-     URL   : https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs
+  1. xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;
+     Fecha : 2026-07-15T17:33:20-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam
+  2. AI slop movies are the new direct-to-video cash grabs
+     Fecha : 2026-07-15T16:00:00-04:00
+     URL   : https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood
+  3. Suno snatched millions of songs from YouTube, Genius, and Deezer
+     Fecha : 2026-07-15T13:48:01-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-15  10:08:53
+  Fin del reporte  ·  2026-07-16  10:17:36
 ═════════════════════════════════════════════════════════════════

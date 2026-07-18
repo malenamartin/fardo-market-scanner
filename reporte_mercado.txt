@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-17  10:05:46               ║
+║                  Generado: 2026-07-18  09:40:14               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Gemini 3.5 Pro Delayed Over Coding, Bloomberg Reports via @sejournal, @MattGSouthern
-     Fecha : Thu, 16 Jul 2026 22:44:17 +0000
-     URL   : https://www.searchenginejournal.com/gemini-3-5-pro-delayed-over-coding-bloomberg-reports/582660/
-  2. AI Search Cites Reddit: 5 Proven Plays To Boost Multi-Location Visibility via @sejournal, @lorenbaker
-     Fecha : Thu, 16 Jul 2026 21:23:43 +0000
-     URL   : https://www.searchenginejournal.com/ai-search-cites-reddit-5-proven-plays-to-boost-multi-location-visibility-recap/582568/
-  3. Google Starts Rolling Out Connected Apps In AI Mode Search via @sejournal, @MattGSouthern
-     Fecha : Thu, 16 Jul 2026 16:00:53 +0000
-     URL   : https://www.searchenginejournal.com/google-starts-rolling-out-connected-apps-in-ai-mode-search/582545/
+  1. Google Puts A Number On AI Search Clicks, Without The Data via @sejournal, @MattGSouthern
+     Fecha : Sat, 18 Jul 2026 05:00:48 +0000
+     URL   : https://www.searchenginejournal.com/google-puts-a-number-on-ai-search-clicks-without-the-data/582755/
+  2. Google Faces Class Action Over Books Used To Train Gemini via @sejournal, @MattGSouthern
+     Fecha : Fri, 17 Jul 2026 19:51:57 +0000
+     URL   : https://www.searchenginejournal.com/google-faces-class-action-over-books-used-to-train-gemini/582708/
+  3. Apple Maps Ads Ban Home Services, Crypto ATMs, Bail Bonds via @sejournal, @brookeosmundson
+     Fecha : Fri, 17 Jul 2026 19:38:09 +0000
+     URL   : https://www.searchenginejournal.com/apple-maps-ads-ban-home-services/582542/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco
-     Fecha : Thu, 16 Jul 2026 23:25:22 +0000
-     URL   : https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/
-  2. SpaceX suddenly aborts second Starship V3 launch after ignition
-     Fecha : Thu, 16 Jul 2026 23:01:27 +0000
-     URL   : https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/
-  3. Coca-Cola suspended production at its Fairlife dairy after a ransomware attack
-     Fecha : Thu, 16 Jul 2026 21:22:31 +0000
-     URL   : https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/
+  1. Neil Rimer thinks the AI money is coming back out
+     Fecha : Sat, 18 Jul 2026 04:47:25 +0000
+     URL   : https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/
+  2. Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield
+     Fecha : Fri, 17 Jul 2026 23:08:00 +0000
+     URL   : https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/
+  3. Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs
+     Fecha : Fri, 17 Jul 2026 22:55:09 +0000
+     URL   : https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Basedash Suggestions
-     Fecha : 2026-07-16T07:57:03-07:00
-     URL   : https://www.producthunt.com/products/basedash
-  2. PixyCAD
-     Fecha : 2026-07-16T00:15:45-07:00
-     URL   : https://www.producthunt.com/products/pixycad-3d-solid-modelling
-  3. Unabyss for Claude
-     Fecha : 2026-07-10T12:19:45-07:00
-     URL   : https://www.producthunt.com/products/unabyss
+  1. Mainichi
+     Fecha : 2026-07-13T12:26:12-07:00
+     URL   : https://www.producthunt.com/products/mainichi-2
+  2. Acebuilder
+     Fecha : 2026-07-14T04:05:00-07:00
+     URL   : https://www.producthunt.com/products/acebuilder
+  3. ZooData
+     Fecha : 2026-07-07T02:57:18-07:00
+     URL   : https://www.producthunt.com/products/zoodata
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state
+  1. TikTok is testing an AI likeness detection tool
+     Fecha : 2026-07-17T15:34:30-04:00
+     URL   : https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool
+  2. Apple’s plot to crush OpenAI
+     Fecha : 2026-07-17T13:41:32-04:00
+     URL   : https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast
+  3. New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state
      Fecha : 2026-07-16T13:58:37-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies
-  2. Google is renaming NotebookLM to Gemini Notebook
-     Fecha : 2026-07-16T12:00:00-04:00
-     URL   : https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm
-  3. Claude can now use your 1Password credentials for you
-     Fecha : 2026-07-16T09:00:00-04:00
-     URL   : https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-17  10:05:46
+  Fin del reporte  ·  2026-07-18  09:40:14
 ═════════════════════════════════════════════════════════════════

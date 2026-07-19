@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-18  09:40:14               ║
+║                  Generado: 2026-07-19  09:57:41               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Puts A Number On AI Search Clicks, Without The Data via @sejournal, @MattGSouthern
-     Fecha : Sat, 18 Jul 2026 05:00:48 +0000
-     URL   : https://www.searchenginejournal.com/google-puts-a-number-on-ai-search-clicks-without-the-data/582755/
-  2. Google Faces Class Action Over Books Used To Train Gemini via @sejournal, @MattGSouthern
-     Fecha : Fri, 17 Jul 2026 19:51:57 +0000
-     URL   : https://www.searchenginejournal.com/google-faces-class-action-over-books-used-to-train-gemini/582708/
-  3. Apple Maps Ads Ban Home Services, Crypto ATMs, Bail Bonds via @sejournal, @brookeosmundson
-     Fecha : Fri, 17 Jul 2026 19:38:09 +0000
-     URL   : https://www.searchenginejournal.com/apple-maps-ads-ban-home-services/582542/
+  1. “Are You A Bot” Screens Can Get Your Pages Dropped By Google via @sejournal, @MattGSouthern
+     Fecha : Sun, 19 Jul 2026 05:00:38 +0000
+     URL   : https://www.searchenginejournal.com/are-you-a-bot-screens-can-get-your-pages-dropped-by-google/582801/
+  2. When To Use Search Console’s ‘Validate Fix,’ According To Google via @sejournal, @MattGSouthern
+     Fecha : Sat, 18 Jul 2026 21:41:52 +0000
+     URL   : https://www.searchenginejournal.com/when-to-use-search-consoles-validate-fix-according-to-google/582791/
+  3. Google NotebookLM Rebrand May Expose Your Site To More AI Scraping via @sejournal, @martinibuster
+     Fecha : Sat, 18 Jul 2026 10:09:29 +0000
+     URL   : https://www.searchenginejournal.com/google-notebooklm-rebrand-may-expose-your-site-to-more-ai-scraping/582775/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Neil Rimer thinks the AI money is coming back out
-     Fecha : Sat, 18 Jul 2026 04:47:25 +0000
-     URL   : https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/
-  2. Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield
-     Fecha : Fri, 17 Jul 2026 23:08:00 +0000
-     URL   : https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/
-  3. Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs
-     Fecha : Fri, 17 Jul 2026 22:55:09 +0000
-     URL   : https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/
+  1. Waymo says San Francisco service has resumed after one-hour pause
+     Fecha : Sat, 18 Jul 2026 19:30:23 +0000
+     URL   : https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/
+  2. Kimi: Threat or menace?
+     Fecha : Sat, 18 Jul 2026 18:51:07 +0000
+     URL   : https://techcrunch.com/2026/07/18/kimi-threat-or-menace/
+  3. All the EVs that were discontinued or killed off in the U.S. this year
+     Fecha : Sat, 18 Jul 2026 16:30:00 +0000
+     URL   : https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Mainichi
-     Fecha : 2026-07-13T12:26:12-07:00
-     URL   : https://www.producthunt.com/products/mainichi-2
-  2. Acebuilder
-     Fecha : 2026-07-14T04:05:00-07:00
-     URL   : https://www.producthunt.com/products/acebuilder
-  3. ZooData
-     Fecha : 2026-07-07T02:57:18-07:00
-     URL   : https://www.producthunt.com/products/zoodata
+  1. Rewisp — an ambient memory for your Mac
+     Fecha : 2026-07-18T04:45:09-07:00
+     URL   : https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac
+  2. OpenSEO
+     Fecha : 2026-07-17T06:34:52-07:00
+     URL   : https://www.producthunt.com/products/openseo
+  3. Detourmap
+     Fecha : 2026-07-18T02:27:10-07:00
+     URL   : https://www.producthunt.com/products/detourmap
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. TikTok is testing an AI likeness detection tool
+  1. Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’
+     Fecha : 2026-07-18T16:54:42-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation
+  2. The apps, gadgets, and tools every reader needs
+     Fecha : 2026-07-18T08:00:00-04:00
+     URL   : https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer
+  3. TikTok is testing an AI likeness detection tool
      Fecha : 2026-07-17T15:34:30-04:00
      URL   : https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool
-  2. Apple’s plot to crush OpenAI
-     Fecha : 2026-07-17T13:41:32-04:00
-     URL   : https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast
-  3. New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state
-     Fecha : 2026-07-16T13:58:37-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-18  09:40:14
+  Fin del reporte  ·  2026-07-19  09:57:41
 ═════════════════════════════════════════════════════════════════

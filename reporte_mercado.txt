@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-19  09:57:41               ║
+║                  Generado: 2026-07-20  11:07:46               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. “Are You A Bot” Screens Can Get Your Pages Dropped By Google via @sejournal, @MattGSouthern
-     Fecha : Sun, 19 Jul 2026 05:00:38 +0000
-     URL   : https://www.searchenginejournal.com/are-you-a-bot-screens-can-get-your-pages-dropped-by-google/582801/
-  2. When To Use Search Console’s ‘Validate Fix,’ According To Google via @sejournal, @MattGSouthern
-     Fecha : Sat, 18 Jul 2026 21:41:52 +0000
-     URL   : https://www.searchenginejournal.com/when-to-use-search-consoles-validate-fix-according-to-google/582791/
-  3. Google NotebookLM Rebrand May Expose Your Site To More AI Scraping via @sejournal, @martinibuster
-     Fecha : Sat, 18 Jul 2026 10:09:29 +0000
-     URL   : https://www.searchenginejournal.com/google-notebooklm-rebrand-may-expose-your-site-to-more-ai-scraping/582775/
+  1. Google Downplays Search Console “Error” Reports. Says Many Aren’t Real Problems via @sejournal, @martinibuster
+     Fecha : Mon, 20 Jul 2026 10:42:07 +0000
+     URL   : https://www.searchenginejournal.com/google-downplays-search-console-error-reports-says-many-arent-real-problems/582890/
+  2. Why Your Pages Are Stuck In Crawled-Currently Not Indexed & What To Do About It via @sejournal, @marie_haynes
+     Fecha : Mon, 20 Jul 2026 09:30:32 +0000
+     URL   : https://www.searchenginejournal.com/why-your-pages-are-stuck-in-crawled-currently-not-indexed-what-to-do-about-it/582585/
+  3. How To Measure AI Search Visibility via @sejournal, @slobodanmanic
+     Fecha : Sun, 19 Jul 2026 12:00:44 +0000
+     URL   : https://www.searchenginejournal.com/how-to-measure-ai-search-visibility/579893/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Waymo says San Francisco service has resumed after one-hour pause
-     Fecha : Sat, 18 Jul 2026 19:30:23 +0000
-     URL   : https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/
-  2. Kimi: Threat or menace?
-     Fecha : Sat, 18 Jul 2026 18:51:07 +0000
-     URL   : https://techcrunch.com/2026/07/18/kimi-threat-or-menace/
-  3. All the EVs that were discontinued or killed off in the U.S. this year
-     Fecha : Sat, 18 Jul 2026 16:30:00 +0000
-     URL   : https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/
+  1. Netflix paid $587M for Ben Affleck’s AI filmmaking startup
+     Fecha : Sun, 19 Jul 2026 21:45:00 +0000
+     URL   : https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/
+  2. What to watch for after Jensen Huang’s Japan visit
+     Fecha : Sun, 19 Jul 2026 21:16:07 +0000
+     URL   : https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/
+  3. Can an Apple lawsuit derail OpenAI’s hardware plans?
+     Fecha : Sun, 19 Jul 2026 19:24:45 +0000
+     URL   : https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Rewisp — an ambient memory for your Mac
-     Fecha : 2026-07-18T04:45:09-07:00
-     URL   : https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac
-  2. OpenSEO
-     Fecha : 2026-07-17T06:34:52-07:00
-     URL   : https://www.producthunt.com/products/openseo
-  3. Detourmap
-     Fecha : 2026-07-18T02:27:10-07:00
-     URL   : https://www.producthunt.com/products/detourmap
+  1. Kogvio
+     Fecha : 2026-07-19T14:45:08-07:00
+     URL   : https://www.producthunt.com/products/kogvio
+  2. LnkFlow
+     Fecha : 2026-07-17T14:45:06-07:00
+     URL   : https://www.producthunt.com/products/lnkflow
+  3. Fuzzy AI
+     Fecha : 2026-06-22T23:13:24-07:00
+     URL   : https://www.producthunt.com/products/fuzzy-ai-2
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’
+  1. China delivers a one-two punch to America’s AI dominance
+     Fecha : 2026-07-20T06:16:33-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen
+  2. I hate that I don’t hate this song made with Suno
+     Fecha : 2026-07-19T13:35:54-04:00
+     URL   : https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music
+  3. Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’
      Fecha : 2026-07-18T16:54:42-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation
-  2. The apps, gadgets, and tools every reader needs
-     Fecha : 2026-07-18T08:00:00-04:00
-     URL   : https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer
-  3. TikTok is testing an AI likeness detection tool
-     Fecha : 2026-07-17T15:34:30-04:00
-     URL   : https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-19  09:57:41
+  Fin del reporte  ·  2026-07-20  11:07:46
 ═════════════════════════════════════════════════════════════════

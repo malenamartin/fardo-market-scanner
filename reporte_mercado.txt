@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-21  10:30:30               ║
+║                  Generado: 2026-07-22  10:31:04               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. 70% Of Top Retailers Are Invisible To Agentic Commerce – Here’s Why
-     Fecha : Tue, 21 Jul 2026 09:30:31 +0000
-     URL   : https://www.searchenginejournal.com/70-of-top-retailers-are-invisible-to-agentic-commerce-heres-why/581198/
-  2. AI Overviews Visibility: A Reliable Way To Track What Spot-Checks Miss via @sejournal, @hethr_campbell
-     Fecha : Tue, 21 Jul 2026 07:45:04 +0000
-     URL   : https://www.searchenginejournal.com/ai-overviews-visibility-a-reliable-way-to-track-what-spot-checks-miss-webinar/582955/
-  3. Google AI Mode Shows Ads On 1 In 3 Commercial Keywords via @sejournal, @MattGSouthern
-     Fecha : Tue, 21 Jul 2026 07:00:14 +0000
-     URL   : https://www.searchenginejournal.com/google-ai-mode-shows-ads-on-1-in-3-commercial-keywords/582976/
+  1. AI Overviews Now Answer Most Local Searches – How To Get Your Business Cited via @sejournal, @AdamHeitzman
+     Fecha : Wed, 22 Jul 2026 09:30:25 +0000
+     URL   : https://www.searchenginejournal.com/ai-overviews-now-answer-most-local-searches-how-to-get-your-business-cited/580757/
+  2. Anthropic’s Claude Can Now Watch A Video And Learn Your Job via @sejournal, @martinibuster
+     Fecha : Wed, 22 Jul 2026 09:01:09 +0000
+     URL   : https://www.searchenginejournal.com/anthropics-claude-can-now-watch-a-video-and-learn-your-job/583053/
+  3. Court Dismisses Google’s DMCA Claims Against SerpApi via @sejournal, @MattGSouthern
+     Fecha : Wed, 22 Jul 2026 00:19:23 +0000
+     URL   : https://www.searchenginejournal.com/court-dismisses-googles-dmca-claims-against-serpapi/583033/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Gritt exits stealth with $34 million for robots to build solar plants—then, everything else
-     Fecha : Tue, 21 Jul 2026 10:00:00 +0000
-     URL   : https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/
-  2. Anthropic’s landmark $1.5B copyright settlement is approved
-     Fecha : Tue, 21 Jul 2026 00:12:24 +0000
-     URL   : https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/
-  3. Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation
-     Fecha : Mon, 20 Jul 2026 23:39:35 +0000
-     URL   : https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/
+  1. Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era
+     Fecha : Wed, 22 Jul 2026 10:00:00 +0000
+     URL   : https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/
+  2. Synthesia’s AI training platform is moving beyond videos into live coaching
+     Fecha : Wed, 22 Jul 2026 08:00:00 +0000
+     URL   : https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/
+  3. The Anthropic-Physical Intelligence rumor roiling AI Twitter
+     Fecha : Wed, 22 Jul 2026 03:20:57 +0000
+     URL   : https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Universal Dictation on Stream
-     Fecha : 2026-07-17T09:09:12-07:00
-     URL   : https://www.producthunt.com/products/stream-stream-ring-by-sandbar
-  2. RegionMirror
-     Fecha : 2026-06-28T14:15:46-07:00
-     URL   : https://www.producthunt.com/products/regionmirror
-  3. ProtoFlow
-     Fecha : 2026-07-20T21:20:50-07:00
-     URL   : https://www.producthunt.com/products/protoflow-2
+  1. Gemini 3.6 Flash Family
+     Fecha : 2026-07-21T10:36:22-07:00
+     URL   : https://www.producthunt.com/products/gemini-3-6-flash-family
+  2. UltraPod
+     Fecha : 2026-07-19T21:14:53-07:00
+     URL   : https://www.producthunt.com/products/ultrapod
+  3. Garmin CIRQA™ Smart Band
+     Fecha : 2026-07-21T09:24:13-07:00
+     URL   : https://www.producthunt.com/products/garmin-cirqa-smart-band
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over
-     Fecha : 2026-07-20T18:19:12-04:00
-     URL   : https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright
-  2. SpaceX in your index fund, explained
-     Fecha : 2026-07-20T17:00:00-04:00
-     URL   : https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained
-  3. Adobe’s ‘natural look’ camera app embraces generative AI
-     Fecha : 2026-07-20T12:00:00-04:00
-     URL   : https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update
+  1. Utility companies are promising to spare us from AI’s energy bill
+     Fecha : 2026-07-22T06:12:13-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump
+  2. Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over
+     Fecha : 2026-07-21T18:06:43-04:00
+     URL   : https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance
+  3. OpenAI says it accidentally hacked Hugging Face with a new AI system
+     Fecha : 2026-07-21T17:48:54-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-21  10:30:30
+  Fin del reporte  ·  2026-07-22  10:31:04
 ═════════════════════════════════════════════════════════════════

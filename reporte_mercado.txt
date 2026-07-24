@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-23  10:30:24               ║
+║                  Generado: 2026-07-24  10:25:25               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Search Revenue Growth Eases After A Year Of Acceleration via @sejournal, @MattGSouthern
-     Fecha : Thu, 23 Jul 2026 09:00:49 +0000
-     URL   : https://www.searchenginejournal.com/google-search-revenue-growth-eases-after-a-year-of-acceleration/583181/
-  2. Why AI Content Stopped Working & What To Do About It [Watch Now] via @sejournal, @hethr_campbell
-     Fecha : Wed, 22 Jul 2026 18:28:31 +0000
-     URL   : https://www.searchenginejournal.com/why-ai-content-stopped-working-what-to-do-about-it-watch-now/583098/
-  3. Beyond Brand Sovereignty: How To Build An AI-Ready Source Of Truth via @sejournal, @billhunt
-     Fecha : Wed, 22 Jul 2026 13:30:16 +0000
-     URL   : https://www.searchenginejournal.com/beyond-brand-sovereignty-how-to-build-an-ai-ready-source-of-truth/582266/
+  1. AI Search is Working. How to Prove It With Real Tests. via @sejournal, @hethr_campbell
+     Fecha : Thu, 23 Jul 2026 19:38:11 +0000
+     URL   : https://www.searchenginejournal.com/ai-search-is-working-how-to-prove-it-with-real-tests-recap/583306/
+  2. AI Browsers Are Backward Because Agents Never Needed The Visual Layer via @sejournal, @slobodanmanic
+     Fecha : Thu, 23 Jul 2026 19:00:39 +0000
+     URL   : https://www.searchenginejournal.com/ai-browsers-are-backward-because-agents-never-needed-the-visual-layer/583056/
+  3. YouTube Explains What Can Stop A Channel Getting Paid via @sejournal, @MattGSouthern
+     Fecha : Thu, 23 Jul 2026 16:00:00 +0000
+     URL   : https://www.searchenginejournal.com/youtube-explains-what-can-stop-a-channel-getting-paid/583096/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push
-     Fecha : Thu, 23 Jul 2026 06:09:13 +0000
-     URL   : https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/
-  2. After shocking quarter, IBM insists that AI isn’t killing the mainframe
-     Fecha : Wed, 22 Jul 2026 23:47:54 +0000
-     URL   : https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/
-  3. Google justifies its massive AI spending with a booming cloud business
-     Fecha : Wed, 22 Jul 2026 22:01:52 +0000
-     URL   : https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/
+  1. How AI guardrails are impeding the work of offensive cybersecurity researchers
+     Fecha : Fri, 24 Jul 2026 01:00:00 +0000
+     URL   : https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/
+  2. Meet the judges who will crown Australia’s next breakout startup
+     Fecha : Fri, 24 Jul 2026 00:05:00 +0000
+     URL   : https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/
+  3. Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics
+     Fecha : Thu, 23 Jul 2026 22:40:08 +0000
+     URL   : https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. BioScript
-     Fecha : 2026-07-22T13:26:53-07:00
-     URL   : https://www.producthunt.com/products/bioscript-own-your-link-in-bio-saas
-  2. AuraSpeak
-     Fecha : 2026-07-22T05:31:52-07:00
-     URL   : https://www.producthunt.com/products/auraspeak
-  3. Megaphone
-     Fecha : 2026-07-15T23:46:42-07:00
-     URL   : https://www.producthunt.com/products/megaphone-3
+  1. Fedica 2.0
+     Fecha : 2026-07-15T06:54:19-07:00
+     URL   : https://www.producthunt.com/products/fedica
+  2. HealthyNotch
+     Fecha : 2026-07-16T07:38:59-07:00
+     URL   : https://www.producthunt.com/products/healthynotch
+  3. Hotspot Meter
+     Fecha : 2026-07-23T00:51:51-07:00
+     URL   : https://www.producthunt.com/products/hotspot-meter-track-wi-fi-and-hotspots
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Here&#8217;s what Samsung&#8217;s smart glasses actually look like
-     Fecha : 2026-07-22T12:35:34-04:00
-     URL   : https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker
-  2. AMD commits up to $5 billion to  Anthropic
-     Fecha : 2026-07-22T10:44:27-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal
-  3. Meta made its own AI detection system. It should have just used Google’s
-     Fecha : 2026-07-22T07:00:00-04:00
-     URL   : https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid
+  1. Alexa Plus is getting an AI update to handle more complicated instructions
+     Fecha : 2026-07-23T17:15:06-04:00
+     URL   : https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices
+  2. Claude’s voice mode is now available for Opus and Sonnet
+     Fecha : 2026-07-23T15:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai
+  3. Patreon is laying off 20 percent of workers
+     Fecha : 2026-07-23T14:20:30-04:00
+     URL   : https://www.theverge.com/tech/970211/patreon-layoffs-ai
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-23  10:30:24
+  Fin del reporte  ·  2026-07-24  10:25:25
 ═════════════════════════════════════════════════════════════════

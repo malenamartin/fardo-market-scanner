@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-24  10:25:25               ║
+║                  Generado: 2026-07-25  09:55:29               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. AI Search is Working. How to Prove It With Real Tests. via @sejournal, @hethr_campbell
-     Fecha : Thu, 23 Jul 2026 19:38:11 +0000
-     URL   : https://www.searchenginejournal.com/ai-search-is-working-how-to-prove-it-with-real-tests-recap/583306/
-  2. AI Browsers Are Backward Because Agents Never Needed The Visual Layer via @sejournal, @slobodanmanic
-     Fecha : Thu, 23 Jul 2026 19:00:39 +0000
-     URL   : https://www.searchenginejournal.com/ai-browsers-are-backward-because-agents-never-needed-the-visual-layer/583056/
-  3. YouTube Explains What Can Stop A Channel Getting Paid via @sejournal, @MattGSouthern
-     Fecha : Thu, 23 Jul 2026 16:00:00 +0000
-     URL   : https://www.searchenginejournal.com/youtube-explains-what-can-stop-a-channel-getting-paid/583096/
+  1. Emergency Brand Audit: What AI Says About Your Locations via @sejournal, @lorenbaker
+     Fecha : Fri, 24 Jul 2026 19:53:26 +0000
+     URL   : https://www.searchenginejournal.com/emergency-brand-audit-what-ai-says-about-your-locations-recap/583422/
+  2. The AI Overviews YouTube Gap: The Platform Your Team Skipped For 20 Years via @sejournal, @gregjarboe
+     Fecha : Fri, 24 Jul 2026 19:00:50 +0000
+     URL   : https://www.searchenginejournal.com/the-ai-overviews-youtube-gap-the-platform-your-team-skipped-for-20-years/582702/
+  3. Search Growth Slows, Publishers Weigh Leaving Google – SEO Pulse via @sejournal, @MattGSouthern
+     Fecha : Fri, 24 Jul 2026 12:00:25 +0000
+     URL   : https://www.searchenginejournal.com/seo-pulse-search-growth-slows-publishers-weigh-leaving-google/583329/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. How AI guardrails are impeding the work of offensive cybersecurity researchers
-     Fecha : Fri, 24 Jul 2026 01:00:00 +0000
-     URL   : https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/
-  2. Meet the judges who will crown Australia’s next breakout startup
-     Fecha : Fri, 24 Jul 2026 00:05:00 +0000
-     URL   : https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/
-  3. Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics
-     Fecha : Thu, 23 Jul 2026 22:40:08 +0000
-     URL   : https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/
+  1. I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else
+     Fecha : Sat, 25 Jul 2026 00:23:11 +0000
+     URL   : https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/
+  2. SpaceX launches new V3 Starlink satellites but suffers another booster failure
+     Fecha : Fri, 24 Jul 2026 23:25:47 +0000
+     URL   : https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/
+  3. Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M
+     Fecha : Fri, 24 Jul 2026 22:25:58 +0000
+     URL   : https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Fedica 2.0
-     Fecha : 2026-07-15T06:54:19-07:00
-     URL   : https://www.producthunt.com/products/fedica
-  2. HealthyNotch
-     Fecha : 2026-07-16T07:38:59-07:00
-     URL   : https://www.producthunt.com/products/healthynotch
-  3. Hotspot Meter
-     Fecha : 2026-07-23T00:51:51-07:00
-     URL   : https://www.producthunt.com/products/hotspot-meter-track-wi-fi-and-hotspots
+  1. Wisprkey
+     Fecha : 2026-07-22T06:59:51-07:00
+     URL   : https://www.producthunt.com/products/wisprkey-mac-ai-assistant
+  2. Speech To Markdown
+     Fecha : 2026-07-19T07:30:46-07:00
+     URL   : https://www.producthunt.com/products/speech-to-markdown
+  3. FluentDB
+     Fecha : 2026-07-22T01:36:28-07:00
+     URL   : https://www.producthunt.com/products/fluentdb-2
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Alexa Plus is getting an AI update to handle more complicated instructions
-     Fecha : 2026-07-23T17:15:06-04:00
-     URL   : https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices
-  2. Claude’s voice mode is now available for Opus and Sonnet
-     Fecha : 2026-07-23T15:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai
-  3. Patreon is laying off 20 percent of workers
-     Fecha : 2026-07-23T14:20:30-04:00
-     URL   : https://www.theverge.com/tech/970211/patreon-layoffs-ai
+  1. Midjourney bought the astrology app Co-Star
+     Fecha : 2026-07-24T15:06:58-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition
+  2. You can’t ignore Google Zero anymore
+     Fecha : 2026-07-24T13:29:48-04:00
+     URL   : https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast
+  3. Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities
+     Fecha : 2026-07-24T13:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-24  10:25:25
+  Fin del reporte  ·  2026-07-25  09:55:29
 ═════════════════════════════════════════════════════════════════

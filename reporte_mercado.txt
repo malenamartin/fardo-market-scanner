@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-25  09:55:29               ║
+║                  Generado: 2026-07-26  10:07:04               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,41 +10,41 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Emergency Brand Audit: What AI Says About Your Locations via @sejournal, @lorenbaker
-     Fecha : Fri, 24 Jul 2026 19:53:26 +0000
-     URL   : https://www.searchenginejournal.com/emergency-brand-audit-what-ai-says-about-your-locations-recap/583422/
-  2. The AI Overviews YouTube Gap: The Platform Your Team Skipped For 20 Years via @sejournal, @gregjarboe
-     Fecha : Fri, 24 Jul 2026 19:00:50 +0000
-     URL   : https://www.searchenginejournal.com/the-ai-overviews-youtube-gap-the-platform-your-team-skipped-for-20-years/582702/
-  3. Search Growth Slows, Publishers Weigh Leaving Google – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Fri, 24 Jul 2026 12:00:25 +0000
-     URL   : https://www.searchenginejournal.com/seo-pulse-search-growth-slows-publishers-weigh-leaving-google/583329/
+  1. Charging AI Bots Decides Which Agents Can Still Cite You via @sejournal, @slobodanmanic
+     Fecha : Sat, 25 Jul 2026 19:00:19 +0000
+     URL   : https://www.searchenginejournal.com/charging-ai-bots-decides-which-agents-can-still-cite-you/580050/
+  2. Google Data Compares Gemini & AI Mode Use Against Daily Life via @sejournal, @MattGSouthern
+     Fecha : Sat, 25 Jul 2026 13:54:31 +0000
+     URL   : https://www.searchenginejournal.com/google-data-compares-gemini-ai-mode-use-against-daily-life/583533/
+  3. Google’s Q2: Precise Revenue Figures, Click Claims You Can’t Check via @sejournal, @MattGSouthern
+     Fecha : Sat, 25 Jul 2026 12:30:24 +0000
+     URL   : https://www.searchenginejournal.com/googles-q2-precise-revenue-figures-click-claims-you-cant-check/583280/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else
-     Fecha : Sat, 25 Jul 2026 00:23:11 +0000
-     URL   : https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/
-  2. SpaceX launches new V3 Starlink satellites but suffers another booster failure
-     Fecha : Fri, 24 Jul 2026 23:25:47 +0000
-     URL   : https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/
-  3. Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M
-     Fecha : Fri, 24 Jul 2026 22:25:58 +0000
-     URL   : https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/
+  1. Monday.com is the latest tech company to blame AI for layoffs — here are 20 others
+     Fecha : Sun, 26 Jul 2026 01:30:00 +0000
+     URL   : https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
+  2. Warner Bros. lawsuit accuses Amazon of illegally poaching executives
+     Fecha : Sat, 25 Jul 2026 20:55:11 +0000
+     URL   : https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/
+  3. The hacker who humiliated spyware makers and was never caught
+     Fecha : Sat, 25 Jul 2026 20:24:14 +0000
+     URL   : https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Wisprkey
-     Fecha : 2026-07-22T06:59:51-07:00
-     URL   : https://www.producthunt.com/products/wisprkey-mac-ai-assistant
-  2. Speech To Markdown
-     Fecha : 2026-07-19T07:30:46-07:00
-     URL   : https://www.producthunt.com/products/speech-to-markdown
-  3. FluentDB
-     Fecha : 2026-07-22T01:36:28-07:00
-     URL   : https://www.producthunt.com/products/fluentdb-2
+  1. Athena by Shoplazza
+     Fecha : 2026-07-16T23:09:29-07:00
+     URL   : https://www.producthunt.com/products/athena-by-shoplazza
+  2. Openbase
+     Fecha : 2026-07-19T09:15:50-07:00
+     URL   : https://www.producthunt.com/products/openbase-2
+  3. PureBox.ai
+     Fecha : 2026-07-25T12:23:04-07:00
+     URL   : https://www.producthunt.com/products/purebox-ai
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-25  09:55:29
+  Fin del reporte  ·  2026-07-26  10:07:04
 ═════════════════════════════════════════════════════════════════

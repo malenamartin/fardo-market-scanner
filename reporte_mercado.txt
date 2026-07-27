@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-26  10:07:04               ║
+║                  Generado: 2026-07-27  11:32:12               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,41 +10,41 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Charging AI Bots Decides Which Agents Can Still Cite You via @sejournal, @slobodanmanic
+  1. Google Expands Review Guidelines And Warns Of Manual Actions via @sejournal, @martinibuster
+     Fecha : Mon, 27 Jul 2026 09:23:41 +0000
+     URL   : https://www.searchenginejournal.com/google-expands-review-guidelines-and-warns-of-manual-actions/583674/
+  2. X Live-Tweets Its Fight Against Chatbot Spam In Real-Time via @sejournal, @martinibuster
+     Fecha : Sun, 26 Jul 2026 10:17:57 +0000
+     URL   : https://www.searchenginejournal.com/x-live-tweets-its-fight-against-chatbot-spam-in-real-time/583572/
+  3. Charging AI Bots Decides Which Agents Can Still Cite You via @sejournal, @slobodanmanic
      Fecha : Sat, 25 Jul 2026 19:00:19 +0000
      URL   : https://www.searchenginejournal.com/charging-ai-bots-decides-which-agents-can-still-cite-you/580050/
-  2. Google Data Compares Gemini & AI Mode Use Against Daily Life via @sejournal, @MattGSouthern
-     Fecha : Sat, 25 Jul 2026 13:54:31 +0000
-     URL   : https://www.searchenginejournal.com/google-data-compares-gemini-ai-mode-use-against-daily-life/583533/
-  3. Google’s Q2: Precise Revenue Figures, Click Claims You Can’t Check via @sejournal, @MattGSouthern
-     Fecha : Sat, 25 Jul 2026 12:30:24 +0000
-     URL   : https://www.searchenginejournal.com/googles-q2-precise-revenue-figures-click-claims-you-cant-check/583280/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Monday.com is the latest tech company to blame AI for layoffs — here are 20 others
-     Fecha : Sun, 26 Jul 2026 01:30:00 +0000
-     URL   : https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
-  2. Warner Bros. lawsuit accuses Amazon of illegally poaching executives
-     Fecha : Sat, 25 Jul 2026 20:55:11 +0000
-     URL   : https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/
-  3. The hacker who humiliated spyware makers and was never caught
-     Fecha : Sat, 25 Jul 2026 20:24:14 +0000
-     URL   : https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/
+  1. Europe got its own TBPN-style live show, and everyone’s angling for a guest spot
+     Fecha : Mon, 27 Jul 2026 10:00:00 +0000
+     URL   : https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/
+  2. Are brain waves the next unlock for physical AI?
+     Fecha : Mon, 27 Jul 2026 00:19:14 +0000
+     URL   : https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/
+  3. Can Apple make smart glasses that aren’t a constant privacy threat?
+     Fecha : Sun, 26 Jul 2026 21:06:44 +0000
+     URL   : https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Athena by Shoplazza
-     Fecha : 2026-07-16T23:09:29-07:00
-     URL   : https://www.producthunt.com/products/athena-by-shoplazza
-  2. Openbase
-     Fecha : 2026-07-19T09:15:50-07:00
-     URL   : https://www.producthunt.com/products/openbase-2
-  3. PureBox.ai
-     Fecha : 2026-07-25T12:23:04-07:00
-     URL   : https://www.producthunt.com/products/purebox-ai
+  1. Audos Summer Camp
+     Fecha : 2026-07-24T08:22:06-07:00
+     URL   : https://www.producthunt.com/products/socap
+  2. superfile
+     Fecha : 2026-07-26T21:34:39-07:00
+     URL   : https://www.producthunt.com/products/superfile
+  3. Tunio
+     Fecha : 2026-07-26T13:29:09-07:00
+     URL   : https://www.producthunt.com/products/tunio
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-26  10:07:04
+  Fin del reporte  ·  2026-07-27  11:32:12
 ═════════════════════════════════════════════════════════════════

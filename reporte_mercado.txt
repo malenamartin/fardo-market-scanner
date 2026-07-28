@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-27  11:32:12               ║
+║                  Generado: 2026-07-28  10:41:36               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Expands Review Guidelines And Warns Of Manual Actions via @sejournal, @martinibuster
-     Fecha : Mon, 27 Jul 2026 09:23:41 +0000
-     URL   : https://www.searchenginejournal.com/google-expands-review-guidelines-and-warns-of-manual-actions/583674/
-  2. X Live-Tweets Its Fight Against Chatbot Spam In Real-Time via @sejournal, @martinibuster
-     Fecha : Sun, 26 Jul 2026 10:17:57 +0000
-     URL   : https://www.searchenginejournal.com/x-live-tweets-its-fight-against-chatbot-spam-in-real-time/583572/
-  3. Charging AI Bots Decides Which Agents Can Still Cite You via @sejournal, @slobodanmanic
-     Fecha : Sat, 25 Jul 2026 19:00:19 +0000
-     URL   : https://www.searchenginejournal.com/charging-ai-bots-decides-which-agents-can-still-cite-you/580050/
+  1. Google SEO Test Shows What Happens In 5-Second Rendering Window via @sejournal, @martinibuster
+     Fecha : Tue, 28 Jul 2026 09:45:32 +0000
+     URL   : https://www.searchenginejournal.com/google-seo-test-shows-what-happens-in-5-second-rendering-window/583878/
+  2. Indexed Claude Chats Show Why Disallow Is Not Noindex via @sejournal, @MattGSouthern
+     Fecha : Tue, 28 Jul 2026 02:12:20 +0000
+     URL   : https://www.searchenginejournal.com/indexed-claude-chats-show-why-disallow-is-not-noindex/583852/
+  3. ChatGPT Links Out Most On Travel Questions via @sejournal, @MattGSouthern
+     Fecha : Mon, 27 Jul 2026 19:12:26 +0000
+     URL   : https://www.searchenginejournal.com/chatgpt-links-out-most-on-travel-questions/583824/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Europe got its own TBPN-style live show, and everyone’s angling for a guest spot
-     Fecha : Mon, 27 Jul 2026 10:00:00 +0000
-     URL   : https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/
-  2. Are brain waves the next unlock for physical AI?
-     Fecha : Mon, 27 Jul 2026 00:19:14 +0000
-     URL   : https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/
-  3. Can Apple make smart glasses that aren’t a constant privacy threat?
-     Fecha : Sun, 26 Jul 2026 21:06:44 +0000
-     URL   : https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/
+  1. Lyft and Baidu enter London’s robotaxi battleground as testing begins
+     Fecha : Tue, 28 Jul 2026 08:00:00 +0000
+     URL   : https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/
+  2. Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing
+     Fecha : Tue, 28 Jul 2026 04:30:00 +0000
+     URL   : https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/
+  3. Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI
+     Fecha : Tue, 28 Jul 2026 00:13:33 +0000
+     URL   : https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Audos Summer Camp
-     Fecha : 2026-07-24T08:22:06-07:00
-     URL   : https://www.producthunt.com/products/socap
-  2. superfile
-     Fecha : 2026-07-26T21:34:39-07:00
-     URL   : https://www.producthunt.com/products/superfile
-  3. Tunio
-     Fecha : 2026-07-26T13:29:09-07:00
-     URL   : https://www.producthunt.com/products/tunio
+  1. MCP-Billing
+     Fecha : 2026-07-27T16:12:02-07:00
+     URL   : https://www.producthunt.com/products/mcp-billing
+  2. ZenithBar
+     Fecha : 2026-07-27T10:44:07-07:00
+     URL   : https://www.producthunt.com/products/zenithbar
+  3. Cercle
+     Fecha : 2026-07-27T16:03:46-07:00
+     URL   : https://www.producthunt.com/products/cercle
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Midjourney bought the astrology app Co-Star
-     Fecha : 2026-07-24T15:06:58-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition
-  2. You can’t ignore Google Zero anymore
-     Fecha : 2026-07-24T13:29:48-04:00
-     URL   : https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast
-  3. Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities
-     Fecha : 2026-07-24T13:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release
+  1. Hugging Face is being used to easily undress women and children
+     Fecha : 2026-07-28T05:07:14-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children
+  2. Why China is giving away its best AI models
+     Fecha : 2026-07-27T12:51:50-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies
+  3. Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic
+     Fecha : 2026-07-27T08:06:22-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-27  11:32:12
+  Fin del reporte  ·  2026-07-28  10:41:36
 ═════════════════════════════════════════════════════════════════

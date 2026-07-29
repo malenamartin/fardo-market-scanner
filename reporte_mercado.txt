@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-28  10:41:36               ║
+║                  Generado: 2026-07-29  10:45:32               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google SEO Test Shows What Happens In 5-Second Rendering Window via @sejournal, @martinibuster
-     Fecha : Tue, 28 Jul 2026 09:45:32 +0000
-     URL   : https://www.searchenginejournal.com/google-seo-test-shows-what-happens-in-5-second-rendering-window/583878/
-  2. Indexed Claude Chats Show Why Disallow Is Not Noindex via @sejournal, @MattGSouthern
-     Fecha : Tue, 28 Jul 2026 02:12:20 +0000
-     URL   : https://www.searchenginejournal.com/indexed-claude-chats-show-why-disallow-is-not-noindex/583852/
-  3. ChatGPT Links Out Most On Travel Questions via @sejournal, @MattGSouthern
-     Fecha : Mon, 27 Jul 2026 19:12:26 +0000
-     URL   : https://www.searchenginejournal.com/chatgpt-links-out-most-on-travel-questions/583824/
+  1. Google’s Mueller: Fix Conflicting Metadata, Don’t Test It via @sejournal, @MattGSouthern
+     Fecha : Wed, 29 Jul 2026 10:30:57 +0000
+     URL   : https://www.searchenginejournal.com/googles-mueller-fix-conflicting-metadata-dont-test-it/584055/
+  2. YouTube Views Rose While Long-Form Ad Revenue Fell, Data Shows via @sejournal, @MattGSouthern
+     Fecha : Wed, 29 Jul 2026 09:00:29 +0000
+     URL   : https://www.searchenginejournal.com/youtube-views-rose-while-long-form-ad-revenue-fell-data-shows/584040/
+  3. Google’s Illyes Unsure On Shifting unavailable_after Dates via @sejournal, @MattGSouthern
+     Fecha : Wed, 29 Jul 2026 07:00:06 +0000
+     URL   : https://www.searchenginejournal.com/googles-illyes-unsure-on-shifting-unavailable_after-dates/584064/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Lyft and Baidu enter London’s robotaxi battleground as testing begins
-     Fecha : Tue, 28 Jul 2026 08:00:00 +0000
-     URL   : https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/
-  2. Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing
-     Fecha : Tue, 28 Jul 2026 04:30:00 +0000
-     URL   : https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/
-  3. Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI
-     Fecha : Tue, 28 Jul 2026 00:13:33 +0000
-     URL   : https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/
+  1. Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents
+     Fecha : Wed, 29 Jul 2026 00:09:05 +0000
+     URL   : https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/
+  2. Bot-detection startup Spur nabs $200M from Insight
+     Fecha : Tue, 28 Jul 2026 21:29:34 +0000
+     URL   : https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/
+  3. MCP startup Runlayer accuses Rippling of stealing its product idea
+     Fecha : Tue, 28 Jul 2026 20:45:12 +0000
+     URL   : https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. MCP-Billing
-     Fecha : 2026-07-27T16:12:02-07:00
-     URL   : https://www.producthunt.com/products/mcp-billing
-  2. ZenithBar
-     Fecha : 2026-07-27T10:44:07-07:00
-     URL   : https://www.producthunt.com/products/zenithbar
-  3. Cercle
-     Fecha : 2026-07-27T16:03:46-07:00
-     URL   : https://www.producthunt.com/products/cercle
+  1. Denovo
+     Fecha : 2026-05-04T02:24:38-07:00
+     URL   : https://www.producthunt.com/products/denovo-business-manager
+  2. ClinicFrame
+     Fecha : 2026-06-30T09:50:09-07:00
+     URL   : https://www.producthunt.com/products/clinic-scribe-clinicframe
+  3. JusTTY
+     Fecha : 2026-07-28T12:15:04-07:00
+     URL   : https://www.producthunt.com/products/justty
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Hugging Face is being used to easily undress women and children
-     Fecha : 2026-07-28T05:07:14-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children
-  2. Why China is giving away its best AI models
-     Fecha : 2026-07-27T12:51:50-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies
-  3. Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic
-     Fecha : 2026-07-27T08:06:22-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity
+  1. AI leaders sign a statement asking the government to do something about automated AI
+     Fecha : 2026-07-28T15:46:43-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta
+  2. AI’s finally expensive enough to make Wall Street nervous
+     Fecha : 2026-07-28T15:33:03-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex
+  3. Perplexity’s Personal Computer turns Windows PCs into AI agents
+     Fecha : 2026-07-28T08:30:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-28  10:41:36
+  Fin del reporte  ·  2026-07-29  10:45:32
 ═════════════════════════════════════════════════════════════════

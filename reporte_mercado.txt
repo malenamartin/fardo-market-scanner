@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-30  10:31:00               ║
+║                  Generado: 2026-07-31  10:46:18               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Q3 AI Visibility: AI Citations, Brand Mentions & Content Refreshes That Work via @sejournal, @AirOpsHQ
-     Fecha : Wed, 29 Jul 2026 19:41:37 +0000
-     URL   : https://www.searchenginejournal.com/rundowns/q3-ai-visibility-ai-citations-brand-mentions-content-refreshes-that-work/
-  2. 89% Of AI Search Demand Has No Clear Owner: Use This Before The Window Closes via @sejournal, @gregjarboe
-     Fecha : Wed, 29 Jul 2026 19:00:15 +0000
-     URL   : https://www.searchenginejournal.com/89-of-ai-search-demand-has-no-clear-owner-use-this-before-the-window-closes/583255/
-  3. European Search Strategy Goes Beyond Google & Bing via @sejournal, @motokohunt
-     Fecha : Wed, 29 Jul 2026 17:32:12 +0000
-     URL   : https://www.searchenginejournal.com/european-search-strategy-goes-beyond-google-bing/581780/
+  1. WP Engine Partners With BigCommerce To Scale WordPress Stores via @sejournal, @martinibuster
+     Fecha : Thu, 30 Jul 2026 23:04:36 +0000
+     URL   : https://www.searchenginejournal.com/wp-engine-bigcommerce-wordpress-stores/584343/
+  2. AI Search Isn’t Replacing Google, It’s Layering On Top – Similarweb Data via @sejournal, @gregjarboe
+     Fecha : Thu, 30 Jul 2026 19:00:03 +0000
+     URL   : https://www.searchenginejournal.com/ai-search-isnt-replacing-google-its-layering-on-top-similarweb-data/583378/
+  3. Google’s ‘Generative AI’ Search Console Data Is A Trap For Marketers via @sejournal, @TaylorDanRW
+     Fecha : Thu, 30 Jul 2026 14:30:22 +0000
+     URL   : https://www.searchenginejournal.com/googles-generative-ai-search-console-data-is-a-trap-for-marketers/584018/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Microsoft is openly competing with OpenAI, Anthropic more than ever
-     Fecha : Thu, 30 Jul 2026 00:21:06 +0000
-     URL   : https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/
-  2. Mark Zuckerberg predicts that billions of people will have personal AI agents in five years
-     Fecha : Wed, 29 Jul 2026 23:00:11 +0000
-     URL   : https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/
-  3. Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag
-     Fecha : Wed, 29 Jul 2026 22:46:03 +0000
-     URL   : https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/
+  1. Anthropic says its own AI models breached three companies during security tests
+     Fecha : Fri, 31 Jul 2026 01:06:54 +0000
+     URL   : https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/
+  2. Apple stockpiles inventory as it braces for ‘significant supply constraints’
+     Fecha : Thu, 30 Jul 2026 23:28:05 +0000
+     URL   : https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/
+  3. AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares
+     Fecha : Thu, 30 Jul 2026 23:25:58 +0000
+     URL   : https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Cursor Crane
-     Fecha : 2026-07-29T12:12:18-07:00
-     URL   : https://www.producthunt.com/products/cursor-crane
-  2. Phantom Voice
-     Fecha : 2026-07-29T02:55:36-07:00
-     URL   : https://www.producthunt.com/products/phantom-voice
-  3. NINA
-     Fecha : 2025-12-19T02:28:19-08:00
-     URL   : https://www.producthunt.com/products/agenq-nina-ai-product-assistant
+  1. mectrics
+     Fecha : 2026-07-30T08:57:14-07:00
+     URL   : https://www.producthunt.com/products/mectrics
+  2. Halo by Scam AI
+     Fecha : 2026-07-20T09:18:59-07:00
+     URL   : https://www.producthunt.com/products/scam-ai
+  3. Cleanlist AI
+     Fecha : 2026-07-27T08:47:32-07:00
+     URL   : https://www.producthunt.com/products/cleanlist-ai
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Microsoft confirms Copilot ‘super app’ coming this year
-     Fecha : 2026-07-29T18:17:38-04:00
-     URL   : https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed
-  2. Mark Zuckerberg is planning a big push into personal AI agents
-     Fecha : 2026-07-29T17:48:07-04:00
-     URL   : https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents
-  3. xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law
-     Fecha : 2026-07-29T17:06:52-04:00
-     URL   : https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit
+  1. Tim Cook hints at iCloud Plus tier for AI power users
+     Fecha : 2026-07-30T18:29:45-04:00
+     URL   : https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai
+  2. The loss of Situational Awareness
+     Fecha : 2026-07-30T16:46:25-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks
+  3. LinkedIn actually adds a ‘seems like AI slop’ button
+     Fecha : 2026-07-30T14:43:26-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-30  10:31:00
+  Fin del reporte  ·  2026-07-31  10:46:18
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-07-31  10:46:18               ║
+║                  Generado: 2026-08-01  10:05:19               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. WP Engine Partners With BigCommerce To Scale WordPress Stores via @sejournal, @martinibuster
-     Fecha : Thu, 30 Jul 2026 23:04:36 +0000
-     URL   : https://www.searchenginejournal.com/wp-engine-bigcommerce-wordpress-stores/584343/
-  2. AI Search Isn’t Replacing Google, It’s Layering On Top – Similarweb Data via @sejournal, @gregjarboe
-     Fecha : Thu, 30 Jul 2026 19:00:03 +0000
-     URL   : https://www.searchenginejournal.com/ai-search-isnt-replacing-google-its-layering-on-top-similarweb-data/583378/
-  3. Google’s ‘Generative AI’ Search Console Data Is A Trap For Marketers via @sejournal, @TaylorDanRW
-     Fecha : Thu, 30 Jul 2026 14:30:22 +0000
-     URL   : https://www.searchenginejournal.com/googles-generative-ai-search-console-data-is-a-trap-for-marketers/584018/
+  1. Cloudflare’s PACT Is Not Live Yet – Decide Which Track Your Traffic Needs via @sejournal, @slobodanmanic
+     Fecha : Fri, 31 Jul 2026 14:30:32 +0000
+     URL   : https://www.searchenginejournal.com/cloudflares-pact-is-not-live-yet-decide-which-track-your-traffic-needs/580328/
+  2. Social Search Data For All, AI-Detected Pages Rank Lower – SEO Pulse via @sejournal, @MattGSouthern
+     Fecha : Fri, 31 Jul 2026 12:30:09 +0000
+     URL   : https://www.searchenginejournal.com/seo-pulse-social-search-data-for-all-ai-detected-pages-rank-lower/584337/
+  3. Google May Treat Search Box Pages As A Site Quality Issue via @sejournal, @martinibuster
+     Fecha : Fri, 31 Jul 2026 11:24:14 +0000
+     URL   : https://www.searchenginejournal.com/google-may-treat-search-box-pages-as-a-site-quality-issue/584419/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Anthropic says its own AI models breached three companies during security tests
-     Fecha : Fri, 31 Jul 2026 01:06:54 +0000
-     URL   : https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/
-  2. Apple stockpiles inventory as it braces for ‘significant supply constraints’
-     Fecha : Thu, 30 Jul 2026 23:28:05 +0000
-     URL   : https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/
-  3. AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares
-     Fecha : Thu, 30 Jul 2026 23:25:58 +0000
-     URL   : https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/
+  1. OpenAI reportedly finds evidence that more of its agents ran amok
+     Fecha : Fri, 31 Jul 2026 22:47:26 +0000
+     URL   : https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/
+  2. Rivian spinoff Also to start delivering e-bikes after months of delays
+     Fecha : Fri, 31 Jul 2026 22:00:08 +0000
+     URL   : https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/
+  3. Silicon Valley loves young founders. Until it doesn’t.
+     Fecha : Fri, 31 Jul 2026 22:00:00 +0000
+     URL   : https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. mectrics
-     Fecha : 2026-07-30T08:57:14-07:00
-     URL   : https://www.producthunt.com/products/mectrics
-  2. Halo by Scam AI
-     Fecha : 2026-07-20T09:18:59-07:00
-     URL   : https://www.producthunt.com/products/scam-ai
-  3. Cleanlist AI
-     Fecha : 2026-07-27T08:47:32-07:00
-     URL   : https://www.producthunt.com/products/cleanlist-ai
+  1. SyncStaq
+     Fecha : 2026-07-29T19:46:22-07:00
+     URL   : https://www.producthunt.com/products/syncstaq
+  2. NudgeForMe
+     Fecha : 2026-07-31T03:42:14-07:00
+     URL   : https://www.producthunt.com/products/nudgeforme
+  3. Yamanote 3D
+     Fecha : 2026-07-31T01:42:08-07:00
+     URL   : https://www.producthunt.com/products/yamanote-3d
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Tim Cook hints at iCloud Plus tier for AI power users
-     Fecha : 2026-07-30T18:29:45-04:00
-     URL   : https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai
-  2. The loss of Situational Awareness
-     Fecha : 2026-07-30T16:46:25-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks
-  3. LinkedIn actually adds a ‘seems like AI slop’ button
-     Fecha : 2026-07-30T14:43:26-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button
+  1. Google Earth&#8217;s AI deepfake tool only lasted one day
+     Fecha : 2026-07-31T15:13:29-04:00
+     URL   : https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool
+  2. Here’s the problem with putting an AI image generator in Google Earth
+     Fecha : 2026-07-31T13:05:46-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images
+  3. The major labels propose rules to keep AI slop off the charts
+     Fecha : 2026-07-31T12:36:48-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-07-31  10:46:18
+  Fin del reporte  ·  2026-08-01  10:05:19
 ═════════════════════════════════════════════════════════════════

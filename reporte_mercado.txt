@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-01  10:05:19               ║
+║                  Generado: 2026-08-02  10:03:35               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Cloudflare’s PACT Is Not Live Yet – Decide Which Track Your Traffic Needs via @sejournal, @slobodanmanic
+  1. What Opting Out Of Google’s AI Search Features Means Now via @sejournal, @MattGSouthern
+     Fecha : Sat, 01 Aug 2026 12:00:39 +0000
+     URL   : https://www.searchenginejournal.com/what-opting-out-of-googles-ai-search-features-means-now/584321/
+  2. Cloudflare’s PACT Is Not Live Yet – Decide Which Track Your Traffic Needs via @sejournal, @slobodanmanic
      Fecha : Fri, 31 Jul 2026 14:30:32 +0000
      URL   : https://www.searchenginejournal.com/cloudflares-pact-is-not-live-yet-decide-which-track-your-traffic-needs/580328/
-  2. Social Search Data For All, AI-Detected Pages Rank Lower – SEO Pulse via @sejournal, @MattGSouthern
+  3. Social Search Data For All, AI-Detected Pages Rank Lower – SEO Pulse via @sejournal, @MattGSouthern
      Fecha : Fri, 31 Jul 2026 12:30:09 +0000
      URL   : https://www.searchenginejournal.com/seo-pulse-social-search-data-for-all-ai-detected-pages-rank-lower/584337/
-  3. Google May Treat Search Box Pages As A Site Quality Issue via @sejournal, @martinibuster
-     Fecha : Fri, 31 Jul 2026 11:24:14 +0000
-     URL   : https://www.searchenginejournal.com/google-may-treat-search-box-pages-as-a-site-quality-issue/584419/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. OpenAI reportedly finds evidence that more of its agents ran amok
-     Fecha : Fri, 31 Jul 2026 22:47:26 +0000
-     URL   : https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/
-  2. Rivian spinoff Also to start delivering e-bikes after months of delays
-     Fecha : Fri, 31 Jul 2026 22:00:08 +0000
-     URL   : https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/
-  3. Silicon Valley loves young founders. Until it doesn’t.
-     Fecha : Fri, 31 Jul 2026 22:00:00 +0000
-     URL   : https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/
+  1. Inside the London hacker house taking a stand against founder burnout
+     Fecha : Sat, 01 Aug 2026 21:14:48 +0000
+     URL   : https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/
+  2. Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps
+     Fecha : Sat, 01 Aug 2026 20:26:04 +0000
+     URL   : https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/
+  3. YouTuber Hank Green says his AI usage is ‘not healthy’
+     Fecha : Sat, 01 Aug 2026 19:45:45 +0000
+     URL   : https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. SyncStaq
-     Fecha : 2026-07-29T19:46:22-07:00
-     URL   : https://www.producthunt.com/products/syncstaq
-  2. NudgeForMe
-     Fecha : 2026-07-31T03:42:14-07:00
-     URL   : https://www.producthunt.com/products/nudgeforme
-  3. Yamanote 3D
-     Fecha : 2026-07-31T01:42:08-07:00
-     URL   : https://www.producthunt.com/products/yamanote-3d
+  1. Zinley
+     Fecha : 2026-05-03T00:49:53-07:00
+     URL   : https://www.producthunt.com/products/zinley
+  2. Bolcho AI
+     Fecha : 2026-08-01T15:44:45-07:00
+     URL   : https://www.producthunt.com/products/bolcho-ai
+  3. Capptivo
+     Fecha : 2026-07-31T21:40:38-07:00
+     URL   : https://www.producthunt.com/products/capptivo
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Google Earth&#8217;s AI deepfake tool only lasted one day
+  1. Is this Billboard Hot 100 hit AI slop?
+     Fecha : 2026-08-01T14:20:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop
+  2. Google Earth&#8217;s AI deepfake tool only lasted one day
      Fecha : 2026-07-31T15:13:29-04:00
      URL   : https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool
-  2. Here’s the problem with putting an AI image generator in Google Earth
+  3. Here’s the problem with putting an AI image generator in Google Earth
      Fecha : 2026-07-31T13:05:46-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images
-  3. The major labels propose rules to keep AI slop off the charts
-     Fecha : 2026-07-31T12:36:48-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-01  10:05:19
+  Fin del reporte  ·  2026-08-02  10:03:35
 ═════════════════════════════════════════════════════════════════

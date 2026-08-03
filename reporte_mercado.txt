@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-02  10:03:35               ║
+║                  Generado: 2026-08-03  11:34:39               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. What Opting Out Of Google’s AI Search Features Means Now via @sejournal, @MattGSouthern
+  1. EU Commission Article 50 AI Transparency Law Has Four Exemptions via @sejournal, @martinibuster
+     Fecha : Mon, 03 Aug 2026 11:27:15 +0000
+     URL   : https://www.searchenginejournal.com/eu-commission-article-50-ai-transparency-law-has-four-exemptions/584528/
+  2. Google’s Documentation Refresh Offers Ideas For SEO Content Updates via @sejournal, @martinibuster
+     Fecha : Mon, 03 Aug 2026 09:17:27 +0000
+     URL   : https://www.searchenginejournal.com/googles-documentation-refresh-offers-seo-lessons-on-content-updates/584464/
+  3. What Opting Out Of Google’s AI Search Features Means Now via @sejournal, @MattGSouthern
      Fecha : Sat, 01 Aug 2026 12:00:39 +0000
      URL   : https://www.searchenginejournal.com/what-opting-out-of-googles-ai-search-features-means-now/584321/
-  2. Cloudflare’s PACT Is Not Live Yet – Decide Which Track Your Traffic Needs via @sejournal, @slobodanmanic
-     Fecha : Fri, 31 Jul 2026 14:30:32 +0000
-     URL   : https://www.searchenginejournal.com/cloudflares-pact-is-not-live-yet-decide-which-track-your-traffic-needs/580328/
-  3. Social Search Data For All, AI-Detected Pages Rank Lower – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Fri, 31 Jul 2026 12:30:09 +0000
-     URL   : https://www.searchenginejournal.com/seo-pulse-social-search-data-for-all-ai-detected-pages-rank-lower/584337/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Inside the London hacker house taking a stand against founder burnout
-     Fecha : Sat, 01 Aug 2026 21:14:48 +0000
-     URL   : https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/
-  2. Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps
-     Fecha : Sat, 01 Aug 2026 20:26:04 +0000
-     URL   : https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/
-  3. YouTuber Hank Green says his AI usage is ‘not healthy’
-     Fecha : Sat, 01 Aug 2026 19:45:45 +0000
-     URL   : https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/
+  1. A Marc Benioff-backed startup thinks AI can solve the AI deployment problem
+     Fecha : Mon, 03 Aug 2026 10:00:00 +0000
+     URL   : https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/
+  2. The global memory shortage hits the MacBook Air
+     Fecha : Sun, 02 Aug 2026 21:33:59 +0000
+     URL   : https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/
+  3. Sam Altman and AI’s decel debate
+     Fecha : Sun, 02 Aug 2026 20:54:22 +0000
+     URL   : https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Zinley
-     Fecha : 2026-05-03T00:49:53-07:00
-     URL   : https://www.producthunt.com/products/zinley
-  2. Bolcho AI
-     Fecha : 2026-08-01T15:44:45-07:00
-     URL   : https://www.producthunt.com/products/bolcho-ai
-  3. Capptivo
-     Fecha : 2026-07-31T21:40:38-07:00
-     URL   : https://www.producthunt.com/products/capptivo
+  1. Ctruh Studio
+     Fecha : 2026-07-31T06:09:11-07:00
+     URL   : https://www.producthunt.com/products/ctruh-studio
+  2. MascotAI
+     Fecha : 2026-08-02T23:19:32-07:00
+     URL   : https://www.producthunt.com/products/mascotai
+  3. Airtop for Google Ads Automation
+     Fecha : 2026-07-21T14:35:15-07:00
+     URL   : https://www.producthunt.com/products/airtop
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Is this Billboard Hot 100 hit AI slop?
-     Fecha : 2026-08-01T14:20:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop
-  2. Google Earth&#8217;s AI deepfake tool only lasted one day
-     Fecha : 2026-07-31T15:13:29-04:00
-     URL   : https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool
-  3. Here’s the problem with putting an AI image generator in Google Earth
-     Fecha : 2026-07-31T13:05:46-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images
+  1. China&#8217;s Alibaba takes another swipe at America’s AI supremacy
+     Fecha : 2026-08-03T07:01:11-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai
+  2. Fender’s CEO seems to think your bandmates are just analog AI
+     Fecha : 2026-08-02T15:36:08-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music
+  3. Is paying artists enough to convince them to embrace AI?
+     Fecha : 2026-08-02T09:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-02  10:03:35
+  Fin del reporte  ·  2026-08-03  11:34:39
 ═════════════════════════════════════════════════════════════════

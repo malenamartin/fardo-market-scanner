@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-03  11:34:39               ║
+║                  Generado: 2026-08-04  10:45:54               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. EU Commission Article 50 AI Transparency Law Has Four Exemptions via @sejournal, @martinibuster
-     Fecha : Mon, 03 Aug 2026 11:27:15 +0000
-     URL   : https://www.searchenginejournal.com/eu-commission-article-50-ai-transparency-law-has-four-exemptions/584528/
-  2. Google’s Documentation Refresh Offers Ideas For SEO Content Updates via @sejournal, @martinibuster
-     Fecha : Mon, 03 Aug 2026 09:17:27 +0000
-     URL   : https://www.searchenginejournal.com/googles-documentation-refresh-offers-seo-lessons-on-content-updates/584464/
-  3. What Opting Out Of Google’s AI Search Features Means Now via @sejournal, @MattGSouthern
-     Fecha : Sat, 01 Aug 2026 12:00:39 +0000
-     URL   : https://www.searchenginejournal.com/what-opting-out-of-googles-ai-search-features-means-now/584321/
+  1. WooCommerce Social Login WordPress Plugin Enables Full Site Takeover via @sejournal, @martinibuster
+     Fecha : Mon, 03 Aug 2026 23:26:39 +0000
+     URL   : https://www.searchenginejournal.com/woocommerce-social-login-wordpress-plugin-enables-full-site-takeover/584601/
+  2. Snapchat Clamps Down On AI-Generated Videos via @sejournal, @martinibuster
+     Fecha : Mon, 03 Aug 2026 22:23:57 +0000
+     URL   : https://www.searchenginejournal.com/snapchat-clamps-down-on-ai-generated-spotlight-videos/584594/
+  3. Open Knowledge Format v0.2 Adds A Trust Layer – No AI Agent Reads It Yet via @sejournal, @slobodanmanic
+     Fecha : Mon, 03 Aug 2026 19:00:01 +0000
+     URL   : https://www.searchenginejournal.com/open-knowledge-format-v0-2-adds-a-trust-layer-no-ai-agent-reads-it-yet/583661/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. A Marc Benioff-backed startup thinks AI can solve the AI deployment problem
-     Fecha : Mon, 03 Aug 2026 10:00:00 +0000
-     URL   : https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/
-  2. The global memory shortage hits the MacBook Air
-     Fecha : Sun, 02 Aug 2026 21:33:59 +0000
-     URL   : https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/
-  3. Sam Altman and AI’s decel debate
-     Fecha : Sun, 02 Aug 2026 20:54:22 +0000
-     URL   : https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/
+  1. After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’
+     Fecha : Mon, 03 Aug 2026 23:19:50 +0000
+     URL   : https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/
+  2. Snap CEO sidesteps Specs preorder questions on Q2 earnings call
+     Fecha : Mon, 03 Aug 2026 22:10:58 +0000
+     URL   : https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/
+  3. AWS is helping vibe-coding startup Superblocks, and the implications are big
+     Fecha : Mon, 03 Aug 2026 20:00:00 +0000
+     URL   : https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Ctruh Studio
-     Fecha : 2026-07-31T06:09:11-07:00
-     URL   : https://www.producthunt.com/products/ctruh-studio
-  2. MascotAI
-     Fecha : 2026-08-02T23:19:32-07:00
-     URL   : https://www.producthunt.com/products/mascotai
-  3. Airtop for Google Ads Automation
-     Fecha : 2026-07-21T14:35:15-07:00
-     URL   : https://www.producthunt.com/products/airtop
+  1. Domo
+     Fecha : 2026-07-24T12:13:39-07:00
+     URL   : https://www.producthunt.com/products/domo-a-claude-agent-for-your-calendar
+  2. SpeakoFlow
+     Fecha : 2026-08-03T01:34:16-07:00
+     URL   : https://www.producthunt.com/products/speakoflow
+  3. Tixio 3.0
+     Fecha : 2026-05-19T22:32:18-07:00
+     URL   : https://www.producthunt.com/products/tixio-io
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. China&#8217;s Alibaba takes another swipe at America’s AI supremacy
+  1. Can Reddit fend off a new wave of AI SEO spam?
+     Fecha : 2026-08-04T06:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam
+  2. Europe’s AI labeling and transparency rules are now in effect
+     Fecha : 2026-08-03T13:38:45-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes
+  3. China&#8217;s Alibaba takes another swipe at America’s AI supremacy
      Fecha : 2026-08-03T07:01:11-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai
-  2. Fender’s CEO seems to think your bandmates are just analog AI
-     Fecha : 2026-08-02T15:36:08-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music
-  3. Is paying artists enough to convince them to embrace AI?
-     Fecha : 2026-08-02T09:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-03  11:34:39
+  Fin del reporte  ·  2026-08-04  10:45:54
 ═════════════════════════════════════════════════════════════════

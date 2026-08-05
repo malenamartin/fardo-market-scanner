@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-04  10:45:54               ║
+║                  Generado: 2026-08-05  10:42:45               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. WooCommerce Social Login WordPress Plugin Enables Full Site Takeover via @sejournal, @martinibuster
-     Fecha : Mon, 03 Aug 2026 23:26:39 +0000
-     URL   : https://www.searchenginejournal.com/woocommerce-social-login-wordpress-plugin-enables-full-site-takeover/584601/
-  2. Snapchat Clamps Down On AI-Generated Videos via @sejournal, @martinibuster
-     Fecha : Mon, 03 Aug 2026 22:23:57 +0000
-     URL   : https://www.searchenginejournal.com/snapchat-clamps-down-on-ai-generated-spotlight-videos/584594/
-  3. Open Knowledge Format v0.2 Adds A Trust Layer – No AI Agent Reads It Yet via @sejournal, @slobodanmanic
-     Fecha : Mon, 03 Aug 2026 19:00:01 +0000
-     URL   : https://www.searchenginejournal.com/open-knowledge-format-v0-2-adds-a-trust-layer-no-ai-agent-reads-it-yet/583661/
+  1. Reddit CEO Intends To Show More Reviews And Recommendations via @sejournal, @martinibuster
+     Fecha : Wed, 05 Aug 2026 09:17:33 +0000
+     URL   : https://www.searchenginejournal.com/reddit-ceo-intends-to-show-more-reviews-and-recommendations/584731/
+  2. What Top Stories Inside AI Overviews Means For Publishers And Brands In 2026 And Beyond via @sejournal, @gregjarboe
+     Fecha : Tue, 04 Aug 2026 19:00:12 +0000
+     URL   : https://www.searchenginejournal.com/what-top-stories-inside-ai-overviews-means-for-publishers-and-brands-in-2026-and-beyond/584175/
+  3. Report That Cloudflare AI Bot Blocking Prevents Googlebot From Indexing Sites via @sejournal, @martinibuster
+     Fecha : Tue, 04 Aug 2026 15:18:58 +0000
+     URL   : https://www.searchenginejournal.com/report-that-cloudflare-ai-bot-blocking-prevents-googlebot-from-indexing-sites/584673/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’
-     Fecha : Mon, 03 Aug 2026 23:19:50 +0000
-     URL   : https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/
-  2. Snap CEO sidesteps Specs preorder questions on Q2 earnings call
-     Fecha : Mon, 03 Aug 2026 22:10:58 +0000
-     URL   : https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/
-  3. AWS is helping vibe-coding startup Superblocks, and the implications are big
-     Fecha : Mon, 03 Aug 2026 20:00:00 +0000
-     URL   : https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/
+  1. Wispr Flow launches a Granola-styled meeting notetaker
+     Fecha : Wed, 05 Aug 2026 07:15:49 +0000
+     URL   : https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/
+  2. Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call
+     Fecha : Tue, 04 Aug 2026 22:30:58 +0000
+     URL   : https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/
+  3. Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis
+     Fecha : Tue, 04 Aug 2026 22:24:00 +0000
+     URL   : https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Domo
-     Fecha : 2026-07-24T12:13:39-07:00
-     URL   : https://www.producthunt.com/products/domo-a-claude-agent-for-your-calendar
-  2. SpeakoFlow
-     Fecha : 2026-08-03T01:34:16-07:00
-     URL   : https://www.producthunt.com/products/speakoflow
-  3. Tixio 3.0
-     Fecha : 2026-05-19T22:32:18-07:00
-     URL   : https://www.producthunt.com/products/tixio-io
+  1. NextDoor.Company
+     Fecha : 2026-08-03T23:58:44-07:00
+     URL   : https://www.producthunt.com/products/nextdoor-company
+  2. Capacity Desktop
+     Fecha : 2026-07-28T06:54:05-07:00
+     URL   : https://www.producthunt.com/products/capacity
+  3. StepGrab
+     Fecha : 2026-07-16T11:20:20-07:00
+     URL   : https://www.producthunt.com/products/stepgrab
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Can Reddit fend off a new wave of AI SEO spam?
-     Fecha : 2026-08-04T06:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam
-  2. Europe’s AI labeling and transparency rules are now in effect
-     Fecha : 2026-08-03T13:38:45-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes
-  3. China&#8217;s Alibaba takes another swipe at America’s AI supremacy
-     Fecha : 2026-08-03T07:01:11-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai
+  1. Trump’s AI testing plan is limited and vague
+     Fecha : 2026-08-05T06:29:47-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded
+  2. AMD&#8217;s data center business is booming while gaming takes a backseat
+     Fecha : 2026-08-04T16:57:49-04:00
+     URL   : https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen
+  3. SpaceX made more revenue as an AI company than a space company
+     Fecha : 2026-08-04T16:47:55-04:00
+     URL   : https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-04  10:45:54
+  Fin del reporte  ·  2026-08-05  10:42:45
 ═════════════════════════════════════════════════════════════════

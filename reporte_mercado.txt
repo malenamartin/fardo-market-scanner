@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-05  10:42:45               ║
+║                  Generado: 2026-08-06  10:45:52               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Reddit CEO Intends To Show More Reviews And Recommendations via @sejournal, @martinibuster
-     Fecha : Wed, 05 Aug 2026 09:17:33 +0000
-     URL   : https://www.searchenginejournal.com/reddit-ceo-intends-to-show-more-reviews-and-recommendations/584731/
-  2. What Top Stories Inside AI Overviews Means For Publishers And Brands In 2026 And Beyond via @sejournal, @gregjarboe
-     Fecha : Tue, 04 Aug 2026 19:00:12 +0000
-     URL   : https://www.searchenginejournal.com/what-top-stories-inside-ai-overviews-means-for-publishers-and-brands-in-2026-and-beyond/584175/
-  3. Report That Cloudflare AI Bot Blocking Prevents Googlebot From Indexing Sites via @sejournal, @martinibuster
-     Fecha : Tue, 04 Aug 2026 15:18:58 +0000
-     URL   : https://www.searchenginejournal.com/report-that-cloudflare-ai-bot-blocking-prevents-googlebot-from-indexing-sites/584673/
+  1. The Trust Signals That Get Your Brand Cited By AI Overviews, Just Like Freshpet [Webinar] via @sejournal, @hethr_campbell
+     Fecha : Thu, 06 Aug 2026 07:45:50 +0000
+     URL   : https://www.searchenginejournal.com/the-trust-signals-that-get-your-brand-cited-by-ai-overviews-just-like-freshpet-webinar/584796/
+  2. Google Chief Scientist Who Helped Build Modern Search And AI Steps Away via @sejournal, @martinibuster
+     Fecha : Wed, 05 Aug 2026 22:16:33 +0000
+     URL   : https://www.searchenginejournal.com/google-loses-the-engineer-who-helped-build-search-and-modern-ai/584785/
+  3. AI Referrals Are Recreating The Oldest Mistake In Conversion Optimization via @sejournal, @slobodanmanic
+     Fecha : Wed, 05 Aug 2026 20:12:01 +0000
+     URL   : https://www.searchenginejournal.com/ai-referrals-are-recreating-the-oldest-mistake-in-conversion-optimization/584331/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Wispr Flow launches a Granola-styled meeting notetaker
-     Fecha : Wed, 05 Aug 2026 07:15:49 +0000
-     URL   : https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/
-  2. Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call
-     Fecha : Tue, 04 Aug 2026 22:30:58 +0000
-     URL   : https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/
-  3. Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis
-     Fecha : Tue, 04 Aug 2026 22:24:00 +0000
-     URL   : https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/
+  1. Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday
+     Fecha : Wed, 05 Aug 2026 22:55:43 +0000
+     URL   : https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/
+  2. Nikita Bier steps down as X’s head of product
+     Fecha : Wed, 05 Aug 2026 21:30:50 +0000
+     URL   : https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/
+  3. Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO
+     Fecha : Wed, 05 Aug 2026 21:26:40 +0000
+     URL   : https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. NextDoor.Company
-     Fecha : 2026-08-03T23:58:44-07:00
-     URL   : https://www.producthunt.com/products/nextdoor-company
-  2. Capacity Desktop
-     Fecha : 2026-07-28T06:54:05-07:00
-     URL   : https://www.producthunt.com/products/capacity
-  3. StepGrab
-     Fecha : 2026-07-16T11:20:20-07:00
-     URL   : https://www.producthunt.com/products/stepgrab
+  1. Glyphi: Speed Reader
+     Fecha : 2026-08-05T19:41:19-07:00
+     URL   : https://www.producthunt.com/products/glyphi-speed-reader
+  2. Cloudflare OS
+     Fecha : 2026-08-05T11:52:07-07:00
+     URL   : https://www.producthunt.com/products/cloudflare
+  3. Token Harbor
+     Fecha : 2026-07-23T07:42:38-07:00
+     URL   : https://www.producthunt.com/products/token-harbor
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Trump’s AI testing plan is limited and vague
-     Fecha : 2026-08-05T06:29:47-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded
-  2. AMD&#8217;s data center business is booming while gaming takes a backseat
-     Fecha : 2026-08-04T16:57:49-04:00
-     URL   : https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen
-  3. SpaceX made more revenue as an AI company than a space company
-     Fecha : 2026-08-04T16:47:55-04:00
-     URL   : https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud
+  1. OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’
+     Fecha : 2026-08-06T05:33:11-04:00
+     URL   : https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request
+  2. Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months
+     Fecha : 2026-08-05T20:25:10-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead
+  3. Sure seems like Fenix Flexin used AI music generator Treblo
+     Fecha : 2026-08-05T12:57:25-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-05  10:42:45
+  Fin del reporte  ·  2026-08-06  10:45:52
 ═════════════════════════════════════════════════════════════════

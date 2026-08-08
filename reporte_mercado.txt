@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-07  09:07:26               ║
+║                  Generado: 2026-08-08  08:50:41               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. The AEO Playbook: How to Get Cited & Stay Visible via @sejournal, @hethr_campbell
-     Fecha : Fri, 07 Aug 2026 07:45:43 +0000
-     URL   : https://www.searchenginejournal.com/aeo-playbook-get-cited-stay-visible-recap/584926/
-  2. WordPress Security Release 7.0.3 Fixes High Severity XSS Vulnerability via @sejournal, @martinibuster
-     Fecha : Thu, 06 Aug 2026 23:02:34 +0000
-     URL   : https://www.searchenginejournal.com/wordpress-security-release-7-0-3-fixes-high-severity-xss-vulnerability/584927/
-  3. I Helped Scale Google Ads To Billions – Here’s How I’d Build An AI Search Strategy Today
-     Fecha : Thu, 06 Aug 2026 19:00:59 +0000
-     URL   : https://www.searchenginejournal.com/i-helped-scale-google-ads-to-billions-heres-how-id-build-an-ai-search-strategy-today/582556/
+  1. AI Search Only Feels New If Your SEO Was Shallow via @sejournal, @slobodanmanic
+     Fecha : Fri, 07 Aug 2026 19:00:31 +0000
+     URL   : https://www.searchenginejournal.com/ai-search-only-feels-new-if-your-seo-was-shallow/584115/
+  2. Gen Z Now Treats Claude And OpenAI Like Consumer Brands, But Trust Is Still An Issue via @sejournal, @gregjarboe
+     Fecha : Fri, 07 Aug 2026 14:30:16 +0000
+     URL   : https://www.searchenginejournal.com/gen-z-now-treats-claude-and-openai-like-consumer-brands-but-trust-is-still-an-issue/584449/
+  3. Google’s Ex-AI Chief Jeff Dean Explains How To Improve Context Engineering via @sejournal, @martinibuster
+     Fecha : Fri, 07 Aug 2026 12:11:48 +0000
+     URL   : https://www.searchenginejournal.com/googles-ex-ai-chief-jeff-dean-explains-how-to-improve-context-engineering/584955/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400
-     Fecha : Thu, 06 Aug 2026 22:43:53 +0000
-     URL   : https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/
-  2. Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands
-     Fecha : Thu, 06 Aug 2026 22:00:00 +0000
-     URL   : https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/
-  3. Vogue just gave another nod of approval to the tech world
-     Fecha : Thu, 06 Aug 2026 21:24:47 +0000
-     URL   : https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/
+  1. OpenAI says it slowed Astra model development over security concerns
+     Fecha : Fri, 07 Aug 2026 22:48:24 +0000
+     URL   : https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/
+  2. After Rippling blew millions on AI in months, it built an employee ROI tool
+     Fecha : Fri, 07 Aug 2026 21:30:11 +0000
+     URL   : https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/
+  3. Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists
+     Fecha : Fri, 07 Aug 2026 21:20:00 +0000
+     URL   : https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Progress AI Observability
-     Fecha : 2026-08-05T07:27:52-07:00
-     URL   : https://www.producthunt.com/products/progress-ai-observability
-  2. Rindler
-     Fecha : 2026-08-03T15:15:29-07:00
-     URL   : https://www.producthunt.com/products/rindler
-  3. AgentOne Desktop
-     Fecha : 2026-08-06T20:57:52-07:00
-     URL   : https://www.producthunt.com/products/agentone-desktop
+  1. Hexis
+     Fecha : 2026-08-03T09:15:36-07:00
+     URL   : https://www.producthunt.com/products/bevel-4
+  2. AstraPixels
+     Fecha : 2026-08-05T20:18:25-07:00
+     URL   : https://www.producthunt.com/products/astrapixels
+  3. Basedash Subscriptions
+     Fecha : 2026-08-07T21:18:54-07:00
+     URL   : https://www.producthunt.com/products/basedash
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker
-     Fecha : 2026-08-06T16:55:39-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor
-  2. Suno shares plans to combat spammy AI music
-     Fecha : 2026-08-06T13:39:43-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark
-  3. OpenAI is giving ChatGPT free users unlimited text chats
-     Fecha : 2026-08-06T13:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats
+  1. Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore
+     Fecha : 2026-08-07T16:01:51-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo
+  2. Watching Roku’s AI channel is like eating from a trough
+     Fecha : 2026-08-07T14:59:46-04:00
+     URL   : https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel
+  3. OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful
+     Fecha : 2026-08-07T14:40:34-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-07  09:07:26
+  Fin del reporte  ·  2026-08-08  08:50:41
 ═════════════════════════════════════════════════════════════════

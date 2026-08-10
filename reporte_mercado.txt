@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-09  08:52:36               ║
+║                  Generado: 2026-08-10  09:39:52               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. AI’s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands via @sejournal, @gregjarboe
+  1. How To Remove Negative Content From Google Before AI Answers Cite It via @sejournal, @EraseDotCom
+     Fecha : Mon, 10 Aug 2026 05:00:33 +0000
+     URL   : https://www.searchenginejournal.com/how-to-remove-negative-content-from-google-before-ai-answers-cite-it-spa/582989/
+  2. AI’s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands via @sejournal, @gregjarboe
      Fecha : Sat, 08 Aug 2026 12:00:30 +0000
      URL   : https://www.searchenginejournal.com/ais-impact-is-outrunning-measurement-the-trust-and-attribution-gap-facing-brands/584141/
-  2. AI Search Only Feels New If Your SEO Was Shallow via @sejournal, @slobodanmanic
+  3. AI Search Only Feels New If Your SEO Was Shallow via @sejournal, @slobodanmanic
      Fecha : Fri, 07 Aug 2026 19:00:31 +0000
      URL   : https://www.searchenginejournal.com/ai-search-only-feels-new-if-your-seo-was-shallow/584115/
-  3. Gen Z Now Treats Claude And OpenAI Like Consumer Brands, But Trust Is Still An Issue via @sejournal, @gregjarboe
-     Fecha : Fri, 07 Aug 2026 14:30:16 +0000
-     URL   : https://www.searchenginejournal.com/gen-z-now-treats-claude-and-openai-like-consumer-brands-but-trust-is-still-an-issue/584449/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Planned Amazon data center could become the biggest climate polluter in the U.S.
-     Fecha : Sat, 08 Aug 2026 21:24:02 +0000
-     URL   : https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/
-  2. OpenAI acquires presentation startup NextSlide
-     Fecha : Sat, 08 Aug 2026 19:41:13 +0000
-     URL   : https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/
-  3. X replaces ‘misaligned’ revenue sharing program with Original Content Rewards
-     Fecha : Sat, 08 Aug 2026 16:34:22 +0000
-     URL   : https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/
+  1. Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry
+     Fecha : Sun, 09 Aug 2026 20:35:17 +0000
+     URL   : https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/
+  2. Anthropic is turning Claude Code’s auto mode on by default
+     Fecha : Sun, 09 Aug 2026 19:20:32 +0000
+     URL   : https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/
+  3. TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire
+     Fecha : Sun, 09 Aug 2026 16:05:00 +0000
+     URL   : https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Proxy Tester by ScrapeOps
-     Fecha : 2026-06-08T00:46:38-07:00
-     URL   : https://www.producthunt.com/products/proxy-benchmark-by-scrapeops
-  2. Omniwork
-     Fecha : 2026-07-14T01:08:56-07:00
-     URL   : https://www.producthunt.com/products/omniwork-2
-  3. DocsAlot CLI
-     Fecha : 2026-08-07T12:43:09-07:00
-     URL   : https://www.producthunt.com/products/docsalot-2
+  1. oqoqo
+     Fecha : 2026-07-17T14:16:17-07:00
+     URL   : https://www.producthunt.com/products/oqoqo
+  2. SecondBrain Note by GenSpark
+     Fecha : 2026-08-09T14:55:17-07:00
+     URL   : https://www.producthunt.com/products/genspark
+  3. Gutta
+     Fecha : 2026-08-09T10:39:48-07:00
+     URL   : https://www.producthunt.com/products/gutta
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. An Amazon data center could have the worst polluting power plant in the country
+  1. AI detectors are creating a new era of distrust
+     Fecha : 2026-08-09T08:00:00-04:00
+     URL   : https://www.theverge.com/column/976690/ai-writing-detectors-suspicion
+  2. An Amazon data center could have the worst polluting power plant in the country
      Fecha : 2026-08-08T13:53:34-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant
-  2. Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore
+  3. Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore
      Fecha : 2026-08-07T16:01:51-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo
-  3. Watching Roku’s AI channel is like eating from a trough
-     Fecha : 2026-08-07T14:59:46-04:00
-     URL   : https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-09  08:52:36
+  Fin del reporte  ·  2026-08-10  09:39:52
 ═════════════════════════════════════════════════════════════════

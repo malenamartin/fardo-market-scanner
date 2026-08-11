@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-10  09:39:52               ║
+║                  Generado: 2026-08-11  09:06:06               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. How To Remove Negative Content From Google Before AI Answers Cite It via @sejournal, @EraseDotCom
-     Fecha : Mon, 10 Aug 2026 05:00:33 +0000
-     URL   : https://www.searchenginejournal.com/how-to-remove-negative-content-from-google-before-ai-answers-cite-it-spa/582989/
-  2. AI’s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands via @sejournal, @gregjarboe
-     Fecha : Sat, 08 Aug 2026 12:00:30 +0000
-     URL   : https://www.searchenginejournal.com/ais-impact-is-outrunning-measurement-the-trust-and-attribution-gap-facing-brands/584141/
-  3. AI Search Only Feels New If Your SEO Was Shallow via @sejournal, @slobodanmanic
-     Fecha : Fri, 07 Aug 2026 19:00:31 +0000
-     URL   : https://www.searchenginejournal.com/ai-search-only-feels-new-if-your-seo-was-shallow/584115/
+  1. WPForms Lite Accused Of Adding Backdoor. I Tested It And Was Surprised via @sejournal, @martinibuster
+     Fecha : Tue, 11 Aug 2026 09:03:14 +0000
+     URL   : https://www.searchenginejournal.com/wpforms-lite-accused-of-adding-backdoor-i-tested-it-and-was-surprised/585273/
+  2. The Scenic Route To ROI: Mastering Non-Linear Targeting In Google Ads
+     Fecha : Mon, 10 Aug 2026 19:02:53 +0000
+     URL   : https://www.searchenginejournal.com/the-scenic-route-to-roi-mastering-non-linear-targeting-in-google-ads/581784/
+  3. Google Announces Campaign Benchmarking In Google Analytics via @sejournal, @MattGSouthern
+     Fecha : Mon, 10 Aug 2026 14:30:42 +0000
+     URL   : https://www.searchenginejournal.com/google-analytics-will-benchmark-campaigns-through-ask-advisor/585213/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry
-     Fecha : Sun, 09 Aug 2026 20:35:17 +0000
-     URL   : https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/
-  2. Anthropic is turning Claude Code’s auto mode on by default
-     Fecha : Sun, 09 Aug 2026 19:20:32 +0000
-     URL   : https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/
-  3. TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire
-     Fecha : Sun, 09 Aug 2026 16:05:00 +0000
-     URL   : https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/
+  1. OpenAI reportedly completed a $7 billion employee tender offer
+     Fecha : Tue, 11 Aug 2026 00:03:18 +0000
+     URL   : https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/
+  2. As AI-led attacks multiply, OpenAI launches a new cyber model
+     Fecha : Mon, 10 Aug 2026 23:56:15 +0000
+     URL   : https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/
+  3. Jeff Bezos might finally get his hands on a sports team
+     Fecha : Mon, 10 Aug 2026 23:16:44 +0000
+     URL   : https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. oqoqo
-     Fecha : 2026-07-17T14:16:17-07:00
-     URL   : https://www.producthunt.com/products/oqoqo
-  2. SecondBrain Note by GenSpark
-     Fecha : 2026-08-09T14:55:17-07:00
-     URL   : https://www.producthunt.com/products/genspark
-  3. Gutta
-     Fecha : 2026-08-09T10:39:48-07:00
-     URL   : https://www.producthunt.com/products/gutta
+  1. Vizard Agent
+     Fecha : 2026-08-03T20:20:26-07:00
+     URL   : https://www.producthunt.com/products/vizard-agent-the-first-video-agi
+  2. ScreenMark
+     Fecha : 2026-08-10T12:21:23-07:00
+     URL   : https://www.producthunt.com/products/screenmark-annotation-draw
+  3. Equitybee Benchmark
+     Fecha : 2026-07-28T07:51:58-07:00
+     URL   : https://www.producthunt.com/products/equitybee
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. AI detectors are creating a new era of distrust
-     Fecha : 2026-08-09T08:00:00-04:00
-     URL   : https://www.theverge.com/column/976690/ai-writing-detectors-suspicion
-  2. An Amazon data center could have the worst polluting power plant in the country
-     Fecha : 2026-08-08T13:53:34-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant
-  3. Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore
-     Fecha : 2026-08-07T16:01:51-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo
+  1. Mark Zuckerberg doesn’t understand how to live
+     Fecha : 2026-08-10T18:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision
+  2. Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto
+     Fecha : 2026-08-10T11:19:05-04:00
+     URL   : https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble
+  3. What happens to Bose when headphones become AI?
+     Fecha : 2026-08-10T10:00:00-04:00
+     URL   : https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-10  09:39:52
+  Fin del reporte  ·  2026-08-11  09:06:06
 ═════════════════════════════════════════════════════════════════

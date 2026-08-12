@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-11  09:06:06               ║
+║                  Generado: 2026-08-12  09:17:52               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. WPForms Lite Accused Of Adding Backdoor. I Tested It And Was Surprised via @sejournal, @martinibuster
-     Fecha : Tue, 11 Aug 2026 09:03:14 +0000
-     URL   : https://www.searchenginejournal.com/wpforms-lite-accused-of-adding-backdoor-i-tested-it-and-was-surprised/585273/
-  2. The Scenic Route To ROI: Mastering Non-Linear Targeting In Google Ads
-     Fecha : Mon, 10 Aug 2026 19:02:53 +0000
-     URL   : https://www.searchenginejournal.com/the-scenic-route-to-roi-mastering-non-linear-targeting-in-google-ads/581784/
-  3. Google Announces Campaign Benchmarking In Google Analytics via @sejournal, @MattGSouthern
-     Fecha : Mon, 10 Aug 2026 14:30:42 +0000
-     URL   : https://www.searchenginejournal.com/google-analytics-will-benchmark-campaigns-through-ask-advisor/585213/
+  1. ChatGPT’s Search Index Serves Small Sites Too, Data Shows via @sejournal, @MattGSouthern
+     Fecha : Tue, 11 Aug 2026 19:11:46 +0000
+     URL   : https://www.searchenginejournal.com/chatgpts-search-index-serves-small-sites-too-data-shows/585388/
+  2. The Metric Most SEOs Are Still Not Measuring In The Age Of AI via @sejournal, @SequinsNsearch
+     Fecha : Tue, 11 Aug 2026 19:00:19 +0000
+     URL   : https://www.searchenginejournal.com/the-metric-most-seos-are-still-not-measuring-in-the-age-of-ai/584027/
+  3. Organic Traffic Dropped? What to Tell Clients & the AI Visibility Metrics to Report Instead
+     Fecha : Tue, 11 Aug 2026 18:59:11 +0000
+     URL   : https://www.searchenginejournal.com/organic-traffic-dropped-what-to-tell-clients-the-ai-visibility-metrics-to-report-instead-spa/584388/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. OpenAI reportedly completed a $7 billion employee tender offer
-     Fecha : Tue, 11 Aug 2026 00:03:18 +0000
-     URL   : https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/
-  2. As AI-led attacks multiply, OpenAI launches a new cyber model
-     Fecha : Mon, 10 Aug 2026 23:56:15 +0000
-     URL   : https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/
-  3. Jeff Bezos might finally get his hands on a sports team
-     Fecha : Mon, 10 Aug 2026 23:16:44 +0000
-     URL   : https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/
+  1. India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand
+     Fecha : Wed, 12 Aug 2026 04:30:00 +0000
+     URL   : https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/
+  2. Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months
+     Fecha : Tue, 11 Aug 2026 21:39:58 +0000
+     URL   : https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/
+  3. Accel closes oversubscribed $550M India fund within weeks, 19 months after its last
+     Fecha : Tue, 11 Aug 2026 21:39:11 +0000
+     URL   : https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Vizard Agent
-     Fecha : 2026-08-03T20:20:26-07:00
-     URL   : https://www.producthunt.com/products/vizard-agent-the-first-video-agi
-  2. ScreenMark
-     Fecha : 2026-08-10T12:21:23-07:00
-     URL   : https://www.producthunt.com/products/screenmark-annotation-draw
-  3. Equitybee Benchmark
-     Fecha : 2026-07-28T07:51:58-07:00
-     URL   : https://www.producthunt.com/products/equitybee
+  1. Dograh
+     Fecha : 2026-08-07T06:37:12-07:00
+     URL   : https://www.producthunt.com/products/dograh
+  2. Grok Bot
+     Fecha : 2026-08-11T03:46:56-07:00
+     URL   : https://www.producthunt.com/products/grok
+  3. Sidekick™
+     Fecha : 2026-08-11T12:58:53-07:00
+     URL   : https://www.producthunt.com/products/sidekick-16
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Mark Zuckerberg doesn’t understand how to live
-     Fecha : 2026-08-10T18:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision
-  2. Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto
-     Fecha : 2026-08-10T11:19:05-04:00
-     URL   : https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble
-  3. What happens to Bose when headphones become AI?
-     Fecha : 2026-08-10T10:00:00-04:00
-     URL   : https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio
+  1. Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT
+     Fecha : 2026-08-11T20:39:26-04:00
+     URL   : https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive
+  2. ChatGPT and Gemini both just passed 1 billion users
+     Fecha : 2026-08-11T15:41:42-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users
+  3. Another OpenAI executive takes off
+     Fecha : 2026-08-11T13:50:01-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-11  09:06:06
+  Fin del reporte  ·  2026-08-12  09:17:52
 ═════════════════════════════════════════════════════════════════

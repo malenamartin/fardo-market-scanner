@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-13  09:18:39               ║
+║                  Generado: 2026-08-14  09:12:54               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Gemini Passes 1B Monthly Users, 63% Now Use Voice via @sejournal, @MattGSouthern
-     Fecha : Thu, 13 Aug 2026 01:00:07 +0000
-     URL   : https://www.searchenginejournal.com/google-gemini-passes-1b-monthly-users-63-now-use-voice/585624/
-  2. How to Create Health & YMYL Content That Performs in AI Search
-     Fecha : Wed, 12 Aug 2026 19:00:47 +0000
-     URL   : https://www.searchenginejournal.com/how-to-create-health-ymyl-content-that-performs-in-ai-search/584431/
-  3. Google Amends SerpApi Suit With Content Licensing Terms via @sejournal, @MattGSouthern
-     Fecha : Wed, 12 Aug 2026 18:02:14 +0000
-     URL   : https://www.searchenginejournal.com/google-amends-serpapi-suit-with-content-licensing-terms/585505/
+  1. Google Is Removing Language Targeting From Search Campaigns via @sejournal, @brookeosmundson
+     Fecha : Thu, 13 Aug 2026 21:30:33 +0000
+     URL   : https://www.searchenginejournal.com/google-is-removing-language-targeting-from-search-campaigns/585592/
+  2. The GEO Trust Gap: SEOs Want The Data, But Not The Platforms Selling It via @sejournal, @DuaneForrester
+     Fecha : Thu, 13 Aug 2026 19:00:43 +0000
+     URL   : https://www.searchenginejournal.com/the-geo-trust-gap-seos-want-the-data-but-not-the-platforms-selling-it/585161/
+  3. The PPC Clean-Up: How to Audit and Fix ‘Value Inflation’ in Google Ads
+     Fecha : Thu, 13 Aug 2026 17:30:31 +0000
+     URL   : https://www.searchenginejournal.com/the-ppc-clean-up-how-to-audit-and-fix-value-inflation-in-google-ads/583009/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes
-     Fecha : Wed, 12 Aug 2026 22:26:37 +0000
-     URL   : https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/
-  2. AI nuclear power firm Fermi finally has a new CEO
-     Fecha : Wed, 12 Aug 2026 22:24:00 +0000
-     URL   : https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/
-  3. Northrop’s robot space mechanic is a new way to keep satellites at work longer
-     Fecha : Wed, 12 Aug 2026 20:53:41 +0000
-     URL   : https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/
+  1. Investors sue Selena Gomez alleging fraud tied to her mental health startup
+     Fecha : Thu, 13 Aug 2026 22:12:40 +0000
+     URL   : https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/
+  2. Flock says its new tool will help identify police abuse, but hasn’t explained how it works
+     Fecha : Thu, 13 Aug 2026 22:02:04 +0000
+     URL   : https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/
+  3. If Apple sends you a push notification alerting you to a spyware attack, take it seriously
+     Fecha : Thu, 13 Aug 2026 21:50:11 +0000
+     URL   : https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Insta360 X6
-     Fecha : 2026-08-12T21:36:50-07:00
-     URL   : https://www.producthunt.com/products/insta-360
-  2. Qencode MCP
-     Fecha : 2026-08-12T13:36:51-07:00
-     URL   : https://www.producthunt.com/products/qencode
-  3. Skilldocs
-     Fecha : 2026-08-12T14:07:34-07:00
-     URL   : https://www.producthunt.com/products/skilldocs
+  1. Freebuff
+     Fecha : 2026-08-13T10:04:37-07:00
+     URL   : https://www.producthunt.com/products/freebuff-2
+  2. Port22
+     Fecha : 2026-08-13T06:28:31-07:00
+     URL   : https://www.producthunt.com/products/port22
+  3. Munder Difflin
+     Fecha : 2026-08-12T06:04:54-07:00
+     URL   : https://www.producthunt.com/products/munder-difflin
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Twitch streamers can now opt out from training Amazon’s AI
-     Fecha : 2026-08-12T13:29:10-04:00
-     URL   : https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai
-  2. Guitar company D’Addario admits that AI music was used in a promotional video
-     Fecha : 2026-08-12T11:52:07-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno
-  3. Google’s Pixel Watch 5 dives deeper into AI and health
-     Fecha : 2026-08-12T10:00:00-04:00
-     URL   : https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch
+  1. Microsoft’s Clippy-like Mico character is no longer the face of Copilot
+     Fecha : 2026-08-13T17:42:38-04:00
+     URL   : https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired
+  2. OpenAI is losing its second executive this week
+     Fecha : 2026-08-13T15:28:39-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure
+  3. Suno is trying to look more like a real music production tool
+     Fecha : 2026-08-13T12:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-13  09:18:39
+  Fin del reporte  ·  2026-08-14  09:12:54
 ═════════════════════════════════════════════════════════════════

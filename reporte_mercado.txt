@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-14  09:12:54               ║
+║                  Generado: 2026-08-15  08:36:31               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Is Removing Language Targeting From Search Campaigns via @sejournal, @brookeosmundson
-     Fecha : Thu, 13 Aug 2026 21:30:33 +0000
-     URL   : https://www.searchenginejournal.com/google-is-removing-language-targeting-from-search-campaigns/585592/
-  2. The GEO Trust Gap: SEOs Want The Data, But Not The Platforms Selling It via @sejournal, @DuaneForrester
-     Fecha : Thu, 13 Aug 2026 19:00:43 +0000
-     URL   : https://www.searchenginejournal.com/the-geo-trust-gap-seos-want-the-data-but-not-the-platforms-selling-it/585161/
-  3. The PPC Clean-Up: How to Audit and Fix ‘Value Inflation’ in Google Ads
-     Fecha : Thu, 13 Aug 2026 17:30:31 +0000
-     URL   : https://www.searchenginejournal.com/the-ppc-clean-up-how-to-audit-and-fix-value-inflation-in-google-ads/583009/
+  1. Google Brings Gemini 3.7 Flash To AI Mode In Search via @sejournal, @MattGSouthern
+     Fecha : Fri, 14 Aug 2026 23:02:04 +0000
+     URL   : https://www.searchenginejournal.com/google-brings-gemini-3-7-flash-to-ai-mode-in-search/585923/
+  2. OpenAI Says Robots.txt May Not Apply To ChatGPT’s Fetch Bot via @sejournal, @MattGSouthern
+     Fecha : Fri, 14 Aug 2026 19:10:07 +0000
+     URL   : https://www.searchenginejournal.com/openai-says-robots-txt-may-not-apply-to-chatgpts-fetch-bot/585864/
+  3. What A Claude Watermark Can & Can’t Tell You About Authorship via @sejournal, @MattGSouthern
+     Fecha : Fri, 14 Aug 2026 19:00:39 +0000
+     URL   : https://www.searchenginejournal.com/what-a-claude-watermark-can-cant-tell-you-about-authorship/585754/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Investors sue Selena Gomez alleging fraud tied to her mental health startup
-     Fecha : Thu, 13 Aug 2026 22:12:40 +0000
-     URL   : https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/
-  2. Flock says its new tool will help identify police abuse, but hasn’t explained how it works
-     Fecha : Thu, 13 Aug 2026 22:02:04 +0000
-     URL   : https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/
-  3. If Apple sends you a push notification alerting you to a spyware attack, take it seriously
-     Fecha : Thu, 13 Aug 2026 21:50:11 +0000
-     URL   : https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/
+  1. Talks to sell PayPal to Stripe and Advent are heating up
+     Fecha : Fri, 14 Aug 2026 22:43:24 +0000
+     URL   : https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/
+  2. Self-driving trucks are officially testing on California highways
+     Fecha : Fri, 14 Aug 2026 20:37:49 +0000
+     URL   : https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/
+  3. Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria
+     Fecha : Fri, 14 Aug 2026 19:33:00 +0000
+     URL   : https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Freebuff
-     Fecha : 2026-08-13T10:04:37-07:00
-     URL   : https://www.producthunt.com/products/freebuff-2
-  2. Port22
-     Fecha : 2026-08-13T06:28:31-07:00
-     URL   : https://www.producthunt.com/products/port22
-  3. Munder Difflin
-     Fecha : 2026-08-12T06:04:54-07:00
-     URL   : https://www.producthunt.com/products/munder-difflin
+  1. Big Mike
+     Fecha : 2026-07-14T09:48:04-07:00
+     URL   : https://www.producthunt.com/products/big-mike
+  2. Inferock Bench
+     Fecha : 2026-08-11T14:37:44-07:00
+     URL   : https://www.producthunt.com/products/inferock-bench
+  3. SalesCloser.ai
+     Fecha : 2026-08-06T10:16:38-07:00
+     URL   : https://www.producthunt.com/products/salescloser-ai
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Microsoft’s Clippy-like Mico character is no longer the face of Copilot
-     Fecha : 2026-08-13T17:42:38-04:00
-     URL   : https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired
-  2. OpenAI is losing its second executive this week
-     Fecha : 2026-08-13T15:28:39-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure
-  3. Suno is trying to look more like a real music production tool
-     Fecha : 2026-08-13T12:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects
+  1. Mark Zuckerberg has an Instagzam
+     Fecha : 2026-08-14T12:54:16-04:00
+     URL   : https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast
+  2. You can now turn off Google Gemini&#8217;s visible watermarks
+     Fecha : 2026-08-14T12:39:32-04:00
+     URL   : https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal
+  3. Apple trained its own AI model for China with help from Alibaba
+     Fecha : 2026-08-14T05:21:17-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-14  09:12:54
+  Fin del reporte  ·  2026-08-15  08:36:31
 ═════════════════════════════════════════════════════════════════

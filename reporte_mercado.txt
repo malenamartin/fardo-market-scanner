@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-16  08:36:57               ║
+║                  Generado: 2026-08-17  08:51:55               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -23,41 +23,41 @@
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Woman claims her stepfather used Grok to transform childhood photo into explicit imagery
-     Fecha : Sat, 15 Aug 2026 21:29:19 +0000
-     URL   : https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/
-  2. Anthropic shares more details about how Claude’s new watermarks will work
-     Fecha : Sat, 15 Aug 2026 18:58:39 +0000
-     URL   : https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/
-  3. SpaceX officially closes its Cursor acquisition
-     Fecha : Sat, 15 Aug 2026 16:30:00 +0000
-     URL   : https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/
+  1. Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
+     Fecha : Sun, 16 Aug 2026 20:57:04 +0000
+     URL   : https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/
+  2. Why people aren’t buying Mark Zuckerberg’s AI future
+     Fecha : Sun, 16 Aug 2026 20:32:01 +0000
+     URL   : https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/
+  3. Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’
+     Fecha : Sun, 16 Aug 2026 16:53:51 +0000
+     URL   : https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Blume
-     Fecha : 2026-07-19T00:21:48-07:00
-     URL   : https://www.producthunt.com/products/blume-3
-  2. CostLogic
-     Fecha : 2026-07-30T18:54:46-07:00
-     URL   : https://www.producthunt.com/products/costlogic
-  3. Chert
-     Fecha : 2026-08-14T21:01:04-07:00
-     URL   : https://www.producthunt.com/products/chert
+  1. OpenTrade
+     Fecha : 2026-08-14T18:23:20-07:00
+     URL   : https://www.producthunt.com/products/opentrade
+  2. Replay QA for Teams
+     Fecha : 2026-08-11T07:12:58-07:00
+     URL   : https://www.producthunt.com/products/replayio
+  3. Bulbthings
+     Fecha : 2026-04-09T08:52:45-07:00
+     URL   : https://www.producthunt.com/products/bulbthings
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Have a laugh at AI’s expense by roleplaying as a chatbot
-     Fecha : 2026-08-15T16:45:00-04:00
-     URL   : https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot
-  2. Mark Zuckerberg has an Instagzam
-     Fecha : 2026-08-14T12:54:16-04:00
-     URL   : https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast
-  3. You can now turn off Google Gemini&#8217;s visible watermarks
-     Fecha : 2026-08-14T12:39:32-04:00
-     URL   : https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal
+  1. OpenAI reportedly disbanded its preparedness team
+     Fecha : 2026-08-16T17:32:56-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team
+  2. ChatGPT’s Computer History tracks your clicks and keystrokes
+     Fecha : 2026-08-16T10:56:40-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes
+  3. Rogue AI aren’t science fiction anymore
+     Fecha : 2026-08-16T08:00:00-04:00
+     URL   : https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-16  08:36:57
+  Fin del reporte  ·  2026-08-17  08:51:55
 ═════════════════════════════════════════════════════════════════

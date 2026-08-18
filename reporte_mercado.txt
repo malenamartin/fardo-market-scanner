@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-17  08:51:55               ║
+║                  Generado: 2026-08-18  08:45:13               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. ChatGPT’s Index, GA Benchmarks, Google Refiles Complaint – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Sat, 15 Aug 2026 12:00:14 +0000
-     URL   : https://www.searchenginejournal.com/seo-pulse-chatgpts-index-ga-benchmarks-google-refiles-complaint/585748/
-  2. Anthropic Reveals What The Watermark Is And How It Can Be Defeated via @sejournal, @martinibuster
-     Fecha : Sat, 15 Aug 2026 10:46:00 +0000
-     URL   : https://www.searchenginejournal.com/anthropic-reveals-what-the-watermark-is-and-how-it-can-be-defeated/585930/
-  3. Google Brings Gemini 3.7 Flash To AI Mode In Search via @sejournal, @MattGSouthern
-     Fecha : Fri, 14 Aug 2026 23:02:04 +0000
-     URL   : https://www.searchenginejournal.com/google-brings-gemini-3-7-flash-to-ai-mode-in-search/585923/
+  1. YouTube Changes How It Counts Views On Long-Form & Live via @sejournal, @MattGSouthern
+     Fecha : Mon, 17 Aug 2026 20:10:31 +0000
+     URL   : https://www.searchenginejournal.com/youtube-changes-how-it-counts-views-on-long-form-live/586166/
+  2. The AI Conversations Leaking Into Your Search Console via @sejournal, @suganthan
+     Fecha : Mon, 17 Aug 2026 19:00:05 +0000
+     URL   : https://www.searchenginejournal.com/the-ai-conversations-leaking-into-your-search-console/585663/
+  3. Google Lets You Turn Off Visible Watermarks In Gemini via @sejournal, @MattGSouthern
+     Fecha : Mon, 17 Aug 2026 17:00:44 +0000
+     URL   : https://www.searchenginejournal.com/google-lets-you-turn-off-visible-watermarks-in-gemini/586145/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
-     Fecha : Sun, 16 Aug 2026 20:57:04 +0000
-     URL   : https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/
-  2. Why people aren’t buying Mark Zuckerberg’s AI future
-     Fecha : Sun, 16 Aug 2026 20:32:01 +0000
-     URL   : https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/
-  3. Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’
-     Fecha : Sun, 16 Aug 2026 16:53:51 +0000
-     URL   : https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/
+  1. Anthropic’s annualized revenue surges to $65B
+     Fecha : Mon, 17 Aug 2026 23:56:26 +0000
+     URL   : https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/
+  2. AI automation startup Relay shuts down, staff joins Google’s Chrome team
+     Fecha : Mon, 17 Aug 2026 21:27:05 +0000
+     URL   : https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/
+  3. ‘Unprecedented’ number of Apple users received recent spyware alert, say investigators
+     Fecha : Mon, 17 Aug 2026 20:18:35 +0000
+     URL   : https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. OpenTrade
-     Fecha : 2026-08-14T18:23:20-07:00
-     URL   : https://www.producthunt.com/products/opentrade
-  2. Replay QA for Teams
-     Fecha : 2026-08-11T07:12:58-07:00
-     URL   : https://www.producthunt.com/products/replayio
-  3. Bulbthings
-     Fecha : 2026-04-09T08:52:45-07:00
-     URL   : https://www.producthunt.com/products/bulbthings
+  1. Tiny Funnel
+     Fecha : 2026-08-15T18:28:09-07:00
+     URL   : https://www.producthunt.com/products/tiny-funnel
+  2. Clara AI SDR
+     Fecha : 2026-08-11T02:54:33-07:00
+     URL   : https://www.producthunt.com/products/clara-ai-sdr
+  3. Reckon
+     Fecha : 2026-08-06T05:49:07-07:00
+     URL   : https://www.producthunt.com/products/reckon
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. OpenAI reportedly disbanded its preparedness team
+  1. Whisker’s AI-powered litter robot thinks my cats swapped bodies
+     Fecha : 2026-08-17T07:00:00-04:00
+     URL   : https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review
+  2. Anthropic explains how Claude&#8217;s invisible text watermarks will work
+     Fecha : 2026-08-17T06:57:13-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system
+  3. OpenAI reportedly disbanded its preparedness team
      Fecha : 2026-08-16T17:32:56-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team
-  2. ChatGPT’s Computer History tracks your clicks and keystrokes
-     Fecha : 2026-08-16T10:56:40-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes
-  3. Rogue AI aren’t science fiction anymore
-     Fecha : 2026-08-16T08:00:00-04:00
-     URL   : https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-17  08:51:55
+  Fin del reporte  ·  2026-08-18  08:45:13
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-19  08:46:14               ║
+║                  Generado: 2026-08-20  08:48:17               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. How Google AIOs Use Facebook, Instagram & TikTok From 300 Million US Searches
-     Fecha : Tue, 18 Aug 2026 19:00:48 +0000
-     URL   : https://www.searchenginejournal.com/how-google-aios-use-facebook-instagram-tiktok-from-300-million-us-searches/585244/
-  2. Everyone Is Negotiating With Google While Meta Reads The Web For Free via @sejournal, @slobodanmanic
-     Fecha : Tue, 18 Aug 2026 17:30:31 +0000
-     URL   : https://www.searchenginejournal.com/everyone-is-negotiating-with-google-while-meta-reads-the-web-for-free/584465/
-  3. Google Begins Rolling Out The August 2026 Spam Update via @sejournal, @MattGSouthern
-     Fecha : Tue, 18 Aug 2026 17:10:40 +0000
-     URL   : https://www.searchenginejournal.com/google-begins-rolling-out-the-august-2026-spam-update/586301/
+  1. Why Reddit’s ChatGPT Citation Drop Isn’t Fully Explained via @sejournal, @MattGSouthern
+     Fecha : Wed, 19 Aug 2026 22:03:26 +0000
+     URL   : https://www.searchenginejournal.com/why-reddits-chatgpt-citation-drop-isnt-fully-explained/586479/
+  2. Microsoft Advertising Rolls Out AI Max Globally via @sejournal, @brookeosmundson
+     Fecha : Wed, 19 Aug 2026 19:41:53 +0000
+     URL   : https://www.searchenginejournal.com/microsoft-advertising-rolls-out-ai-max-globally/586459/
+  3. Google Expands Generative UI Beyond AI Mode Into AI Overviews via @sejournal, @MattGSouthern
+     Fecha : Wed, 19 Aug 2026 19:00:27 +0000
+     URL   : https://www.searchenginejournal.com/google-expands-generative-ui-beyond-ai-mode-into-ai-overviews/586452/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Cursor capitalizes on GitHub frustration, launches rival hosting platform
-     Fecha : Tue, 18 Aug 2026 22:14:25 +0000
-     URL   : https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/
-  2. DOJ’s probe into Andreessen Horowitz over board seats baffles VCs
-     Fecha : Tue, 18 Aug 2026 20:36:20 +0000
-     URL   : https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/
-  3. TikTok explores peer-to-peer payments via DMs, report says
-     Fecha : Tue, 18 Aug 2026 20:03:56 +0000
-     URL   : https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/
+  1. Stripe didn’t really buy OpenRouter because of the ‘singularity’
+     Fecha : Wed, 19 Aug 2026 23:32:00 +0000
+     URL   : https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/
+  2. Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities
+     Fecha : Wed, 19 Aug 2026 22:25:01 +0000
+     URL   : https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/
+  3. OpenAI seeks to one-up Anthropic with new customer privacy protections
+     Fecha : Wed, 19 Aug 2026 22:10:46 +0000
+     URL   : https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Clipto MCP
-     Fecha : 2026-07-21T17:03:59-07:00
-     URL   : https://www.producthunt.com/products/clipto-ai
-  2. Hosted Agents in Cluing
-     Fecha : 2026-08-17T04:18:21-07:00
-     URL   : https://www.producthunt.com/products/cluing
-  3. Vois 2.0
-     Fecha : 2026-08-18T20:48:11-07:00
-     URL   : https://www.producthunt.com/products/vois
+  1. MiniMax Design
+     Fecha : 2026-08-19T21:06:04-07:00
+     URL   : https://www.producthunt.com/products/minimax
+  2. Hermai Brand API
+     Fecha : 2026-08-19T18:12:56-07:00
+     URL   : https://www.producthunt.com/products/hermai-brand-api
+  3. Prized
+     Fecha : 2026-08-19T15:38:09-07:00
+     URL   : https://www.producthunt.com/products/prized
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Robin Williams’ Instagram account brought back to fight ‘AI abuse’
-     Fecha : 2026-08-18T15:48:26-04:00
-     URL   : https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai
-  2. OpenAI lays out new security changes after its AI hacked Hugging Face
-     Fecha : 2026-08-18T15:28:30-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack
-  3. Firefox&#8217;s Smart Window promises a better AI browser
-     Fecha : 2026-08-18T09:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features
+  1. Google Gemini is getting a dedicated student hub
+     Fecha : 2026-08-19T15:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub
+  2. OpenAI hit the brakes. Now what?
+     Fecha : 2026-08-19T13:10:09-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai
+  3. Meta AI is getting a Mac app
+     Fecha : 2026-08-19T13:00:00-04:00
+     URL   : https://www.theverge.com/tech/982270/meta-ai-mac-app
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-19  08:46:14
+  Fin del reporte  ·  2026-08-20  08:48:17
 ═════════════════════════════════════════════════════════════════

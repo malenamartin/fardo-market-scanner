@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-20  08:48:17               ║
+║                  Generado: 2026-08-21  08:49:29               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Why Reddit’s ChatGPT Citation Drop Isn’t Fully Explained via @sejournal, @MattGSouthern
-     Fecha : Wed, 19 Aug 2026 22:03:26 +0000
-     URL   : https://www.searchenginejournal.com/why-reddits-chatgpt-citation-drop-isnt-fully-explained/586479/
-  2. Microsoft Advertising Rolls Out AI Max Globally via @sejournal, @brookeosmundson
-     Fecha : Wed, 19 Aug 2026 19:41:53 +0000
-     URL   : https://www.searchenginejournal.com/microsoft-advertising-rolls-out-ai-max-globally/586459/
-  3. Google Expands Generative UI Beyond AI Mode Into AI Overviews via @sejournal, @MattGSouthern
-     Fecha : Wed, 19 Aug 2026 19:00:27 +0000
-     URL   : https://www.searchenginejournal.com/google-expands-generative-ui-beyond-ai-mode-into-ai-overviews/586452/
+  1. What AI Bot Data From Hundreds Of Sites Reveals About AI Search [Webinar] via @sejournal, @lorenbaker
+     Fecha : Fri, 21 Aug 2026 07:45:38 +0000
+     URL   : https://www.searchenginejournal.com/what-ai-bot-data-from-hundreds-of-sites-reveals-about-ai-search-webinar/586556/
+  2. The Keyword Universe Was Always Smaller Than We Thought via @sejournal, @DuaneForrester
+     Fecha : Thu, 20 Aug 2026 19:00:38 +0000
+     URL   : https://www.searchenginejournal.com/the-keyword-universe-was-always-smaller-than-we-thought/586065/
+  3. Microsoft Ads Is Removing Max CPC From New Campaigns via @sejournal, @brookeosmundson
+     Fecha : Thu, 20 Aug 2026 18:13:03 +0000
+     URL   : https://www.searchenginejournal.com/microsoft-ads-is-removing-max-cpc-from-new-campaigns/586527/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Stripe didn’t really buy OpenRouter because of the ‘singularity’
-     Fecha : Wed, 19 Aug 2026 23:32:00 +0000
-     URL   : https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/
-  2. Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities
-     Fecha : Wed, 19 Aug 2026 22:25:01 +0000
-     URL   : https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/
-  3. OpenAI seeks to one-up Anthropic with new customer privacy protections
-     Fecha : Wed, 19 Aug 2026 22:10:46 +0000
-     URL   : https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/
+  1. Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada
+     Fecha : Fri, 21 Aug 2026 00:23:36 +0000
+     URL   : https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/
+  2. AI data startup Micro1 reaches $500M gross run rate amid AI training boom
+     Fecha : Fri, 21 Aug 2026 00:13:44 +0000
+     URL   : https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/
+  3. Learn what VCs actually want, from a founder who’s raised $1B
+     Fecha : Thu, 20 Aug 2026 23:32:27 +0000
+     URL   : https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. MiniMax Design
-     Fecha : 2026-08-19T21:06:04-07:00
-     URL   : https://www.producthunt.com/products/minimax
-  2. Hermai Brand API
-     Fecha : 2026-08-19T18:12:56-07:00
-     URL   : https://www.producthunt.com/products/hermai-brand-api
-  3. Prized
-     Fecha : 2026-08-19T15:38:09-07:00
-     URL   : https://www.producthunt.com/products/prized
+  1. Antigravity IDE Extensions
+     Fecha : 2026-08-20T23:58:44-07:00
+     URL   : https://www.producthunt.com/products/google-antigravity
+  2. Dockhand
+     Fecha : 2026-08-20T05:06:37-07:00
+     URL   : https://www.producthunt.com/products/dockhand
+  3. Local
+     Fecha : 2026-08-19T18:43:17-07:00
+     URL   : https://www.producthunt.com/products/local-7
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Google Gemini is getting a dedicated student hub
-     Fecha : 2026-08-19T15:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub
-  2. OpenAI hit the brakes. Now what?
-     Fecha : 2026-08-19T13:10:09-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai
-  3. Meta AI is getting a Mac app
-     Fecha : 2026-08-19T13:00:00-04:00
-     URL   : https://www.theverge.com/tech/982270/meta-ai-mac-app
+  1. Google Discover is getting an AI chatbot-tuned feed
+     Fecha : 2026-08-20T17:50:22-04:00
+     URL   : https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed
+  2. It’s Greg Brockman’s OpenAI now
+     Fecha : 2026-08-20T11:45:55-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion
+  3. Welcome to the AI crisis in math
+     Fecha : 2026-08-20T10:00:00-04:00
+     URL   : https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-20  08:48:17
+  Fin del reporte  ·  2026-08-21  08:49:29
 ═════════════════════════════════════════════════════════════════

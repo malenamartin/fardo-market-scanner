@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-24  08:55:53               ║
+║                  Generado: 2026-08-25  08:51:09               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,41 +10,41 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Spam Update, Generative UI In AIOs, Reddit Drop – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Sat, 22 Aug 2026 12:30:28 +0000
-     URL   : https://www.searchenginejournal.com/seo-pulse-spam-update-generative-ui-ai-overviews-reddit-drop/586597/
-  2. AI Mode Queries Are 3X Longer – Why Your Page Should Lead With The Answer via @sejournal, @gregjarboe
-     Fecha : Fri, 21 Aug 2026 19:00:14 +0000
-     URL   : https://www.searchenginejournal.com/ai-mode-queries-are-3x-longer-the-case-for-leading-with-the-answer/585990/
-  3. The House Doesn’t Publish Its Tells via @sejournal, @pedrodias
-     Fecha : Fri, 21 Aug 2026 14:30:45 +0000
-     URL   : https://www.searchenginejournal.com/the-house-doesnt-publish-its-tells/586359/
+  1. Google Local Services Ads Are Moving To Performance Max: What To Check First
+     Fecha : Tue, 25 Aug 2026 07:45:03 +0000
+     URL   : https://www.searchenginejournal.com/google-local-services-ads-performance-max-webinar/586879/
+  2. 1 In 10 Webpages Shows Signs Of AI Authorship, Pew Reports via @sejournal, @MattGSouthern
+     Fecha : Mon, 24 Aug 2026 18:50:15 +0000
+     URL   : https://www.searchenginejournal.com/1-in-10-webpages-shows-signs-of-ai-authorship-pew-reports/586883/
+  3. Google Ads Launches New Search and AI Max Experimentation Tools via @sejournal, @brookeosmundson
+     Fecha : Mon, 24 Aug 2026 14:50:16 +0000
+     URL   : https://www.searchenginejournal.com/google-ads-launches-new-search-and-ai-max-experimentation-tools/586549/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Who’s behind the new ‘stealth model’ Ox Alpha?
-     Fecha : Sun, 23 Aug 2026 20:01:36 +0000
-     URL   : https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/
-  2. Uber faces fine of nearly $1B over automated driver suspensions
-     Fecha : Sun, 23 Aug 2026 19:30:00 +0000
-     URL   : https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/
-  3. Linkdaze’s smart calendar is built to run a household, not just track a schedule
-     Fecha : Sun, 23 Aug 2026 19:14:08 +0000
-     URL   : https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/
+  1. India’s Airbound bags $37M to take on trucks with rocket-like drones
+     Fecha : Tue, 25 Aug 2026 03:30:00 +0000
+     URL   : https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/
+  2. Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC
+     Fecha : Tue, 25 Aug 2026 00:23:12 +0000
+     URL   : https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/
+  3. Oura is reportedly eyeing a September IPO that could value it at more than $16B
+     Fecha : Mon, 24 Aug 2026 23:05:44 +0000
+     URL   : https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Offloop
-     Fecha : 2026-08-22T08:50:38-07:00
-     URL   : https://www.producthunt.com/products/offloop
-  2. Lucid Train
-     Fecha : 2026-08-23T10:08:08-07:00
-     URL   : https://www.producthunt.com/products/lucid-train
-  3. IFAH
-     Fecha : 2026-08-23T09:44:19-07:00
-     URL   : https://www.producthunt.com/products/ifah-a-new-experience-of-sound
+  1. Ninjō AI
+     Fecha : 2026-08-13T08:09:36-07:00
+     URL   : https://www.producthunt.com/products/ninjo-ai
+  2. Postaway.space
+     Fecha : 2026-08-24T01:46:53-07:00
+     URL   : https://www.producthunt.com/products/postaway-space
+  3. Alchemize
+     Fecha : 2026-08-23T10:49:34-07:00
+     URL   : https://www.producthunt.com/products/alchemize
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-24  08:55:53
+  Fin del reporte  ·  2026-08-25  08:51:09
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-25  08:51:09               ║
+║                  Generado: 2026-08-26  08:52:06               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Local Services Ads Are Moving To Performance Max: What To Check First
-     Fecha : Tue, 25 Aug 2026 07:45:03 +0000
-     URL   : https://www.searchenginejournal.com/google-local-services-ads-performance-max-webinar/586879/
-  2. 1 In 10 Webpages Shows Signs Of AI Authorship, Pew Reports via @sejournal, @MattGSouthern
-     Fecha : Mon, 24 Aug 2026 18:50:15 +0000
-     URL   : https://www.searchenginejournal.com/1-in-10-webpages-shows-signs-of-ai-authorship-pew-reports/586883/
-  3. Google Ads Launches New Search and AI Max Experimentation Tools via @sejournal, @brookeosmundson
-     Fecha : Mon, 24 Aug 2026 14:50:16 +0000
-     URL   : https://www.searchenginejournal.com/google-ads-launches-new-search-and-ai-max-experimentation-tools/586549/
+  1. .Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com via @sejournal, @martinibuster
+     Fecha : Tue, 25 Aug 2026 22:36:35 +0000
+     URL   : https://www.searchenginejournal.com/org-sites-are-34-likelier-to-generate-ecommerce-revenue-than-com/587082/
+  2. ChatGPT Rebuilt Its Search Tool, I Read The New Language It Speaks via @sejournal, @suganthan
+     Fecha : Tue, 25 Aug 2026 19:00:30 +0000
+     URL   : https://www.searchenginejournal.com/chatgpt-rebuilt-its-search-tool-i-read-the-new-language-it-speaks/586710/
+  3. Google Brings Developing-Topic Link Carousels To AI Mode via @sejournal, @MattGSouthern
+     Fecha : Tue, 25 Aug 2026 17:39:07 +0000
+     URL   : https://www.searchenginejournal.com/google-brings-developing-topic-link-carousels-to-ai-mode/587022/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. India’s Airbound bags $37M to take on trucks with rocket-like drones
-     Fecha : Tue, 25 Aug 2026 03:30:00 +0000
-     URL   : https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/
-  2. Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC
-     Fecha : Tue, 25 Aug 2026 00:23:12 +0000
-     URL   : https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/
-  3. Oura is reportedly eyeing a September IPO that could value it at more than $16B
-     Fecha : Mon, 24 Aug 2026 23:05:44 +0000
-     URL   : https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/
+  1. Ventures Platform goes bigger — and broader — with its second Africa fund
+     Fecha : Wed, 26 Aug 2026 07:00:00 +0000
+     URL   : https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/
+  2. India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call
+     Fecha : Wed, 26 Aug 2026 03:30:00 +0000
+     URL   : https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/
+  3. Robotics startup Generalist reaches $3B valuation, sources say
+     Fecha : Wed, 26 Aug 2026 00:40:59 +0000
+     URL   : https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Ninjō AI
-     Fecha : 2026-08-13T08:09:36-07:00
-     URL   : https://www.producthunt.com/products/ninjo-ai
-  2. Postaway.space
-     Fecha : 2026-08-24T01:46:53-07:00
-     URL   : https://www.producthunt.com/products/postaway-space
-  3. Alchemize
-     Fecha : 2026-08-23T10:49:34-07:00
-     URL   : https://www.producthunt.com/products/alchemize
+  1. Mac mini
+     Fecha : 2026-08-25T11:29:04-07:00
+     URL   : https://www.producthunt.com/products/apple
+  2. Lore Machine
+     Fecha : 2026-08-17T12:16:34-07:00
+     URL   : https://www.producthunt.com/products/lore-machine
+  3. Termy
+     Fecha : 2026-08-24T11:24:24-07:00
+     URL   : https://www.producthunt.com/products/termy-language-learning
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Over 1 million people have clicked LinkedIn’s AI slop button
+  1. OpenAI says its Jalapeño chip can power faster AI responses than the competition
+     Fecha : 2026-08-25T10:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks
+  2. OpenAI subpoenaed by Alabama AG over Hugging Face hack
+     Fecha : 2026-08-25T05:15:03-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack
+  3. Over 1 million people have clicked LinkedIn’s AI slop button
      Fecha : 2026-08-21T17:25:50-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message
-  2. Major YouTube creators are facing backlash for accepting AI money
-     Fecha : 2026-08-21T09:37:52-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash
-  3. Google Discover is getting an AI chatbot-tuned feed
-     Fecha : 2026-08-20T17:50:22-04:00
-     URL   : https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-25  08:51:09
+  Fin del reporte  ·  2026-08-26  08:52:06
 ═════════════════════════════════════════════════════════════════

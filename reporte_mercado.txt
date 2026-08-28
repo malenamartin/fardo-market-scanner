@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-27  19:00:53               ║
+║                  Generado: 2026-08-28  20:08:40               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Starts Rolling Out Hotel Booking In AI Mode via @sejournal, @MattGSouthern
-     Fecha : Thu, 27 Aug 2026 16:00:35 +0000
-     URL   : https://www.searchenginejournal.com/google-starts-rolling-out-hotel-booking-in-ai-mode/587288/
-  2. OpenAI Adds WebMCP Site Tools To ChatGPT’s Browser via @sejournal, @MattGSouthern
-     Fecha : Thu, 27 Aug 2026 15:18:34 +0000
-     URL   : https://www.searchenginejournal.com/chatgpt-adds-webmcp-support/587237/
-  3. How To Become A Strategic Partner & Keep Clients Years Longer
-     Fecha : Thu, 27 Aug 2026 14:30:58 +0000
-     URL   : https://www.searchenginejournal.com/vendor-to-strategic-partner-client-lifetime-value/585254/
+  1. How To Add Google’s Preferred Sources Button To Your Website via @sejournal, @vahandev
+     Fecha : Fri, 28 Aug 2026 19:00:53 +0000
+     URL   : https://www.searchenginejournal.com/add-google-preferred-sources-button-website/586908/
+  2. AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It via @sejournal, @gregjarboe
+     Fecha : Fri, 28 Aug 2026 14:30:07 +0000
+     URL   : https://www.searchenginejournal.com/ai-isnt-killing-marketing-accountability-its-exposing-who-never-had-it/586486/
+  3. WebMCP Connects AI Agents To Actions Inside Websites via @sejournal, @MattGSouthern
+     Fecha : Fri, 28 Aug 2026 12:00:10 +0000
+     URL   : https://www.searchenginejournal.com/webmcp-connects-ai-agents-actions-inside-websites/587303/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. ATF declares ‘major incident’ as ransomware gang claims hack
-     Fecha : Thu, 27 Aug 2026 17:54:23 +0000
-     URL   : https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/
-  2. OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI
-     Fecha : Thu, 27 Aug 2026 17:43:24 +0000
-     URL   : https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/
-  3. Google’s new Fitbit Air brings Pokémon Sleep to your wrist
-     Fecha : Thu, 27 Aug 2026 17:05:45 +0000
-     URL   : https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/
+  1. An Anthropic researcher just gave us a peek at self-improving AI
+     Fecha : Fri, 28 Aug 2026 19:30:38 +0000
+     URL   : https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/
+  2. Brave’s browser one-ups Chrome with its new support for email aliases
+     Fecha : Fri, 28 Aug 2026 18:50:00 +0000
+     URL   : https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/
+  3. Open-weight AI companies are the Valley’s hottest acquisition targets
+     Fecha : Fri, 28 Aug 2026 18:19:40 +0000
+     URL   : https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Lenz
-     Fecha : 2026-04-01T05:53:22-07:00
-     URL   : https://www.producthunt.com/products/lenz-2
-  2. GitNexus (Akon Labs)
-     Fecha : 2026-08-26T00:30:19-07:00
-     URL   : https://www.producthunt.com/products/gitnexus-akon-labs
-  3. Enter Pro
-     Fecha : 2026-08-20T07:14:52-07:00
-     URL   : https://www.producthunt.com/products/enter-pro
+  1. Caddi
+     Fecha : 2026-08-17T09:16:01-07:00
+     URL   : https://www.producthunt.com/products/caddi-3
+  2. PageIndex
+     Fecha : 2026-08-21T03:03:58-07:00
+     URL   : https://www.producthunt.com/products/pageindexai
+  3. Almanac
+     Fecha : 2026-08-27T13:43:25-07:00
+     URL   : https://www.producthunt.com/products/almanac-5
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Jensen Huang says Nvidia achieved AGI, again — not that it matters
-     Fecha : 2026-08-27T12:15:52-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi
-  2. OpenAI&#8217;s executive exodus has one big winner
-     Fecha : 2026-08-27T10:00:00-04:00
-     URL   : https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus
-  3. Hugging Face’s new robot is an adorable rollerskating duck
-     Fecha : 2026-08-27T09:44:00-04:00
-     URL   : https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot
+  1. Trump’s EPA wants to let data centers hide their air pollution
+     Fecha : 2026-08-28T12:28:40-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit
+  2. Anthropic was illegally blacklisted by the Trump administration, court rules
+     Fecha : 2026-08-27T23:14:06-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling
+  3. Google’s AI note-taking app now allows you to interact with books
+     Fecha : 2026-08-27T15:30:00-04:00
+     URL   : https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-27  19:00:53
+  Fin del reporte  ·  2026-08-28  20:08:40
 ═════════════════════════════════════════════════════════════════

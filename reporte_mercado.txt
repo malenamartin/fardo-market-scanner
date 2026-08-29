@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-28  20:08:40               ║
+║                  Generado: 2026-08-29  13:46:19               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. How To Add Google’s Preferred Sources Button To Your Website via @sejournal, @vahandev
+  1. Judge Questions Google AI, Spam Update Fallout – SEO Pulse via @sejournal, @MattGSouthern
+     Fecha : Sat, 29 Aug 2026 12:30:49 +0000
+     URL   : https://www.searchenginejournal.com/seo-pulse-judge-questions-google-ai-spam-update-fallout/587325/
+  2. How To Add Google’s Preferred Sources Button To Your Website via @sejournal, @vahandev
      Fecha : Fri, 28 Aug 2026 19:00:53 +0000
      URL   : https://www.searchenginejournal.com/add-google-preferred-sources-button-website/586908/
-  2. AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It via @sejournal, @gregjarboe
+  3. AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It via @sejournal, @gregjarboe
      Fecha : Fri, 28 Aug 2026 14:30:07 +0000
      URL   : https://www.searchenginejournal.com/ai-isnt-killing-marketing-accountability-its-exposing-who-never-had-it/586486/
-  3. WebMCP Connects AI Agents To Actions Inside Websites via @sejournal, @MattGSouthern
-     Fecha : Fri, 28 Aug 2026 12:00:10 +0000
-     URL   : https://www.searchenginejournal.com/webmcp-connects-ai-agents-actions-inside-websites/587303/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. An Anthropic researcher just gave us a peek at self-improving AI
-     Fecha : Fri, 28 Aug 2026 19:30:38 +0000
-     URL   : https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/
-  2. Brave’s browser one-ups Chrome with its new support for email aliases
-     Fecha : Fri, 28 Aug 2026 18:50:00 +0000
-     URL   : https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/
-  3. Open-weight AI companies are the Valley’s hottest acquisition targets
-     Fecha : Fri, 28 Aug 2026 18:19:40 +0000
-     URL   : https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/
+  1. Nvidia’s AI advantage is moving beyond the GPU
+     Fecha : Sat, 29 Aug 2026 13:00:00 +0000
+     URL   : https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/
+  2. Chinese automakers are following Tesla’s bet that robots are the next big profit machine
+     Fecha : Fri, 28 Aug 2026 23:24:27 +0000
+     URL   : https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/
+  3. Is the best way to watch a movie on a pair of sunglasses?
+     Fecha : Fri, 28 Aug 2026 22:42:48 +0000
+     URL   : https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Caddi
-     Fecha : 2026-08-17T09:16:01-07:00
-     URL   : https://www.producthunt.com/products/caddi-3
-  2. PageIndex
-     Fecha : 2026-08-21T03:03:58-07:00
-     URL   : https://www.producthunt.com/products/pageindexai
-  3. Almanac
-     Fecha : 2026-08-27T13:43:25-07:00
-     URL   : https://www.producthunt.com/products/almanac-5
+  1. Cursor Craft v2
+     Fecha : 2026-08-22T15:04:25-07:00
+     URL   : https://www.producthunt.com/products/cursor-craft
+  2. Cohere Parse 5
+     Fecha : 2026-08-28T08:59:34-07:00
+     URL   : https://www.producthunt.com/products/cohere-2
+  3. Staats
+     Fecha : 2026-08-28T00:12:12-07:00
+     URL   : https://www.producthunt.com/products/staats-3
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Trump’s EPA wants to let data centers hide their air pollution
+  1. Musicians-turned-detectives are hunting for AI grifters
+     Fecha : 2026-08-29T08:00:00-04:00
+     URL   : https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai
+  2. Trump’s EPA wants to let data centers hide their air pollution
      Fecha : 2026-08-28T12:28:40-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit
-  2. Anthropic was illegally blacklisted by the Trump administration, court rules
+  3. Anthropic was illegally blacklisted by the Trump administration, court rules
      Fecha : 2026-08-27T23:14:06-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling
-  3. Google’s AI note-taking app now allows you to interact with books
-     Fecha : 2026-08-27T15:30:00-04:00
-     URL   : https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-28  20:08:40
+  Fin del reporte  ·  2026-08-29  13:46:19
 ═════════════════════════════════════════════════════════════════

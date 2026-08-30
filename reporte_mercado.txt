@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-29  13:46:19               ║
+║                  Generado: 2026-08-30  13:44:05               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Judge Questions Google AI, Spam Update Fallout – SEO Pulse via @sejournal, @MattGSouthern
+  1. Rank Math WordPress Plugin Accused Of Secretly Taking Admin Access via @sejournal, @martinibuster
+     Fecha : Sun, 30 Aug 2026 11:11:17 +0000
+     URL   : https://www.searchenginejournal.com/rank-math-wordpress-plugin-accused-of-secretly-taking-admin-access/587554/
+  2. Judge Questions Google AI, Spam Update Fallout – SEO Pulse via @sejournal, @MattGSouthern
      Fecha : Sat, 29 Aug 2026 12:30:49 +0000
      URL   : https://www.searchenginejournal.com/seo-pulse-judge-questions-google-ai-spam-update-fallout/587325/
-  2. How To Add Google’s Preferred Sources Button To Your Website via @sejournal, @vahandev
+  3. How To Add Google’s Preferred Sources Button To Your Website via @sejournal, @vahandev
      Fecha : Fri, 28 Aug 2026 19:00:53 +0000
      URL   : https://www.searchenginejournal.com/add-google-preferred-sources-button-website/586908/
-  3. AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It via @sejournal, @gregjarboe
-     Fecha : Fri, 28 Aug 2026 14:30:07 +0000
-     URL   : https://www.searchenginejournal.com/ai-isnt-killing-marketing-accountability-its-exposing-who-never-had-it/586486/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Nvidia’s AI advantage is moving beyond the GPU
-     Fecha : Sat, 29 Aug 2026 13:00:00 +0000
-     URL   : https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/
-  2. Chinese automakers are following Tesla’s bet that robots are the next big profit machine
-     Fecha : Fri, 28 Aug 2026 23:24:27 +0000
-     URL   : https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/
-  3. Is the best way to watch a movie on a pair of sunglasses?
-     Fecha : Fri, 28 Aug 2026 22:42:48 +0000
-     URL   : https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/
+  1. Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft
+     Fecha : Sat, 29 Aug 2026 18:41:59 +0000
+     URL   : https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/
+  2. At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?
+     Fecha : Sat, 29 Aug 2026 17:51:10 +0000
+     URL   : https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/
+  3. “We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z
+     Fecha : Sat, 29 Aug 2026 17:36:47 +0000
+     URL   : https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Cursor Craft v2
-     Fecha : 2026-08-22T15:04:25-07:00
-     URL   : https://www.producthunt.com/products/cursor-craft
-  2. Cohere Parse 5
-     Fecha : 2026-08-28T08:59:34-07:00
-     URL   : https://www.producthunt.com/products/cohere-2
-  3. Staats
-     Fecha : 2026-08-28T00:12:12-07:00
-     URL   : https://www.producthunt.com/products/staats-3
+  1. Topview Motion Studio
+     Fecha : 2026-08-26T23:32:36-07:00
+     URL   : https://www.producthunt.com/products/topview-ai
+  2. Skud
+     Fecha : 2026-08-27T15:47:32-07:00
+     URL   : https://www.producthunt.com/products/skud-drag-send-track-in-seconds
+  3. Edge Drop
+     Fecha : 2026-08-23T01:18:08-07:00
+     URL   : https://www.producthunt.com/products/edge-drop
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Musicians-turned-detectives are hunting for AI grifters
+  1. Sony Music Publishing and Warner Chappell are suing Anthropic
+     Fecha : 2026-08-29T14:19:53-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright
+  2. Musicians-turned-detectives are hunting for AI grifters
      Fecha : 2026-08-29T08:00:00-04:00
      URL   : https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai
-  2. Trump’s EPA wants to let data centers hide their air pollution
+  3. Trump’s EPA wants to let data centers hide their air pollution
      Fecha : 2026-08-28T12:28:40-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit
-  3. Anthropic was illegally blacklisted by the Trump administration, court rules
-     Fecha : 2026-08-27T23:14:06-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-29  13:46:19
+  Fin del reporte  ·  2026-08-30  13:44:05
 ═════════════════════════════════════════════════════════════════

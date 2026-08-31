@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-08-30  13:44:05               ║
+║                  Generado: 2026-08-31  16:04:15               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Rank Math WordPress Plugin Accused Of Secretly Taking Admin Access via @sejournal, @martinibuster
-     Fecha : Sun, 30 Aug 2026 11:11:17 +0000
-     URL   : https://www.searchenginejournal.com/rank-math-wordpress-plugin-accused-of-secretly-taking-admin-access/587554/
-  2. Judge Questions Google AI, Spam Update Fallout – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Sat, 29 Aug 2026 12:30:49 +0000
-     URL   : https://www.searchenginejournal.com/seo-pulse-judge-questions-google-ai-spam-update-fallout/587325/
-  3. How To Add Google’s Preferred Sources Button To Your Website via @sejournal, @vahandev
-     Fecha : Fri, 28 Aug 2026 19:00:53 +0000
-     URL   : https://www.searchenginejournal.com/add-google-preferred-sources-button-website/586908/
+  1. How To Restructure Your Marketing Team & Budget For The AI-Search Era
+     Fecha : Mon, 31 Aug 2026 14:30:03 +0000
+     URL   : https://www.searchenginejournal.com/how-to-restructure-your-marketing-team-budget-for-the-ai-search-era/586153/
+  2. Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better via @sejournal, @brookeosmundson
+     Fecha : Mon, 31 Aug 2026 12:00:36 +0000
+     URL   : https://www.searchenginejournal.com/google-ads-is-automating-more-decisions-your-measurement-needs-to-get-better/586887/
+  3. Google’s Mueller Shares Their Experience With Markdown For AI SEO via @sejournal, @martinibuster
+     Fecha : Mon, 31 Aug 2026 10:44:54 +0000
+     URL   : https://www.searchenginejournal.com/googles-mueller-shares-their-experience-with-markdown-for-ai-seo/587671/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft
-     Fecha : Sat, 29 Aug 2026 18:41:59 +0000
-     URL   : https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/
-  2. At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?
-     Fecha : Sat, 29 Aug 2026 17:51:10 +0000
-     URL   : https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/
-  3. “We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z
-     Fecha : Sat, 29 Aug 2026 17:36:47 +0000
-     URL   : https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/
+  1. Clipto uses AI to search terabytes of video and is now valued at $250M
+     Fecha : Mon, 31 Aug 2026 16:00:00 +0000
+     URL   : https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/
+  2. How AI could make it harder for governments to use hacking tools
+     Fecha : Mon, 31 Aug 2026 15:19:32 +0000
+     URL   : https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/
+  3. Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout
+     Fecha : Mon, 31 Aug 2026 15:15:25 +0000
+     URL   : https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Topview Motion Studio
-     Fecha : 2026-08-26T23:32:36-07:00
-     URL   : https://www.producthunt.com/products/topview-ai
-  2. Skud
-     Fecha : 2026-08-27T15:47:32-07:00
-     URL   : https://www.producthunt.com/products/skud-drag-send-track-in-seconds
-  3. Edge Drop
-     Fecha : 2026-08-23T01:18:08-07:00
-     URL   : https://www.producthunt.com/products/edge-drop
+  1. FrameOS
+     Fecha : 2026-08-28T14:12:29-07:00
+     URL   : https://www.producthunt.com/products/frameos-3
+  2. Video Agent by Fotor
+     Fecha : 2026-08-17T05:24:54-07:00
+     URL   : https://www.producthunt.com/products/fotor
+  3. Interactive Sessions
+     Fecha : 2026-08-17T16:17:20-07:00
+     URL   : https://www.producthunt.com/products/revolte
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Sony Music Publishing and Warner Chappell are suing Anthropic
-     Fecha : 2026-08-29T14:19:53-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright
-  2. Musicians-turned-detectives are hunting for AI grifters
-     Fecha : 2026-08-29T08:00:00-04:00
-     URL   : https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai
-  3. Trump’s EPA wants to let data centers hide their air pollution
-     Fecha : 2026-08-28T12:28:40-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit
+  1. Debian won&#8217;t ban AI code from its Linux distribution
+     Fecha : 2026-08-31T11:34:58-04:00
+     URL   : https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy
+  2. New York Governor Kathy Hochul thinks AI should be ‘less evil’
+     Fecha : 2026-08-31T10:00:00-04:00
+     URL   : https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras
+  3. ChatGPT to face tougher regulation in the EU
+     Fecha : 2026-08-31T09:27:36-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-08-30  13:44:05
+  Fin del reporte  ·  2026-08-31  16:04:15
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-09-04  12:39:07               ║
+║                  Generado: 2026-09-05  11:46:26               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. People Aren’t Leaving Google For AI. They’re Using Both via @sejournal, @MattGSouthern
-     Fecha : Fri, 04 Sep 2026 12:00:01 +0000
-     URL   : https://www.searchenginejournal.com/google-chatgpt-audience-search-queries-clicks/588200/
-  2. Google’s New Weather AI In Search Continues Shift Away From 10 Blue Links via @sejournal, @martinibuster
-     Fecha : Thu, 03 Sep 2026 21:00:25 +0000
-     URL   : https://www.searchenginejournal.com/googles-new-weather-ai-in-search-continues-shift-away-from-10-blue-links/588392/
-  3. Product Pages Get 24% Of AI Citations, Reddit & YouTube 4% via @sejournal, @gregjarboe
-     Fecha : Thu, 03 Sep 2026 19:00:45 +0000
-     URL   : https://www.searchenginejournal.com/product-pages-get-24-of-ai-citations-reddit-youtube-4/587560/
+  1. How To Win More Citations In AI Answers, Live With Ahrefs’ Constance Tan via @sejournal, @hethr_campbell
+     Fecha : Fri, 04 Sep 2026 18:08:42 +0000
+     URL   : https://www.searchenginejournal.com/most-teams-can-measure-ai-visibility-few-can-move-it/588219/
+  2. Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe
+     Fecha : Fri, 04 Sep 2026 14:30:02 +0000
+     URL   : https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/
+  3. How To Measure Your Brand’s Visibility In AI Answers (And Fix What You Find)
+     Fecha : Fri, 04 Sep 2026 13:57:33 +0000
+     URL   : https://www.searchenginejournal.com/measure-brand-ai-visibility-hubspot-spa/588040/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Feds launch investigation into Tesla’s Cybercab deployment
-     Fecha : Fri, 04 Sep 2026 12:01:14 +0000
-     URL   : https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/
-  2. The sameness problem behind those unappetizing AI-generated menus
-     Fecha : Fri, 04 Sep 2026 04:21:03 +0000
-     URL   : https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/
-  3. Crusoe reportedly raises $3B at a  $30B valuation
-     Fecha : Fri, 04 Sep 2026 00:48:42 +0000
-     URL   : https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/
+  1. XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation
+     Fecha : Fri, 04 Sep 2026 23:36:14 +0000
+     URL   : https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/
+  2. OpenAI’s rogue agents keep escaping, with no formal process to investigate them
+     Fecha : Fri, 04 Sep 2026 23:15:11 +0000
+     URL   : https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/
+  3. AI compute provider Nscale is looking for $3.5B in pre-IPO financing
+     Fecha : Fri, 04 Sep 2026 21:12:11 +0000
+     URL   : https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Inline
-     Fecha : 2026-09-03T03:39:09-07:00
-     URL   : https://www.producthunt.com/products/inline-5
-  2. Snitch
-     Fecha : 2026-09-03T03:22:28-07:00
-     URL   : https://www.producthunt.com/products/snitch-4
-  3. GPT-6 Astra
-     Fecha : 2026-09-03T13:14:40-07:00
-     URL   : https://www.producthunt.com/products/gpt-6-astra
+  1. GitWarren
+     Fecha : 2026-09-03T22:02:54-07:00
+     URL   : https://www.producthunt.com/products/gitwarren
+  2. Queuebrick
+     Fecha : 2026-09-02T07:42:18-07:00
+     URL   : https://www.producthunt.com/products/queuebrick
+  3. Hyperprobe
+     Fecha : 2026-08-30T20:39:25-07:00
+     URL   : https://www.producthunt.com/products/hyperprobe
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Instagram’s AI detection is a mess (again)
-     Fecha : 2026-09-04T08:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion
-  2. Why AI food looks like that
-     Fecha : 2026-09-04T07:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that
-  3. Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers
-     Fecha : 2026-09-04T06:44:15-04:00
-     URL   : https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers
+  1. OpenAI admits to German wiki ‘incident’
+     Fecha : 2026-09-05T07:15:55-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident
+  2. Roland is getting into generative AI music with Melody Flip
+     Fecha : 2026-09-04T13:51:35-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip
+  3. Microsoft says virtually nobody was grabbing NYT articles through its chatbot
+     Fecha : 2026-09-04T12:05:57-04:00
+     URL   : https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-09-04  12:39:07
+  Fin del reporte  ·  2026-09-05  11:46:26
 ═════════════════════════════════════════════════════════════════

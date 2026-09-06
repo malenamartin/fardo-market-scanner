@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-09-05  11:46:26               ║
+║                  Generado: 2026-09-06  12:04:27               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,41 +10,41 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. How To Win More Citations In AI Answers, Live With Ahrefs’ Constance Tan via @sejournal, @hethr_campbell
+  1. Search Console AI Reports Go Global, Mueller On Recovery – SEO Pulse via @sejournal, @MattGSouthern
+     Fecha : Sat, 05 Sep 2026 12:30:53 +0000
+     URL   : https://www.searchenginejournal.com/seo-pulse-search-console-ai-reports-go-global-mueller-recovery/588443/
+  2. How To Win More Citations In AI Answers, Live With Ahrefs’ Constance Tan via @sejournal, @hethr_campbell
      Fecha : Fri, 04 Sep 2026 18:08:42 +0000
      URL   : https://www.searchenginejournal.com/most-teams-can-measure-ai-visibility-few-can-move-it/588219/
-  2. Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe
+  3. Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe
      Fecha : Fri, 04 Sep 2026 14:30:02 +0000
      URL   : https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/
-  3. How To Measure Your Brand’s Visibility In AI Answers (And Fix What You Find)
-     Fecha : Fri, 04 Sep 2026 13:57:33 +0000
-     URL   : https://www.searchenginejournal.com/measure-brand-ai-visibility-hubspot-spa/588040/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation
-     Fecha : Fri, 04 Sep 2026 23:36:14 +0000
-     URL   : https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/
-  2. OpenAI’s rogue agents keep escaping, with no formal process to investigate them
-     Fecha : Fri, 04 Sep 2026 23:15:11 +0000
-     URL   : https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/
-  3. AI compute provider Nscale is looking for $3.5B in pre-IPO financing
-     Fecha : Fri, 04 Sep 2026 21:12:11 +0000
-     URL   : https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/
+  1. Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft
+     Fecha : Sat, 05 Sep 2026 22:49:55 +0000
+     URL   : https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/
+  2. Hikers rescued after using Google Gemini for planning
+     Fecha : Sat, 05 Sep 2026 19:35:24 +0000
+     URL   : https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/
+  3. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure
+     Fecha : Sat, 05 Sep 2026 18:05:27 +0000
+     URL   : https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. GitWarren
-     Fecha : 2026-09-03T22:02:54-07:00
-     URL   : https://www.producthunt.com/products/gitwarren
-  2. Queuebrick
-     Fecha : 2026-09-02T07:42:18-07:00
-     URL   : https://www.producthunt.com/products/queuebrick
-  3. Hyperprobe
-     Fecha : 2026-08-30T20:39:25-07:00
-     URL   : https://www.producthunt.com/products/hyperprobe
+  1. Agentic Video Understanding in Gemini
+     Fecha : 2026-09-02T12:44:06-07:00
+     URL   : https://www.producthunt.com/products/google
+  2. Kit by Speakeasy
+     Fecha : 2026-09-02T07:23:38-07:00
+     URL   : https://www.producthunt.com/products/speakeasydev
+  3. H3 Max by fal
+     Fecha : 2026-09-02T12:54:33-07:00
+     URL   : https://www.producthunt.com/products/fal-ai
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-09-05  11:46:26
+  Fin del reporte  ·  2026-09-06  12:04:27
 ═════════════════════════════════════════════════════════════════

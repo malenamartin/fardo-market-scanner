@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-09-06  12:04:27               ║
+║                  Generado: 2026-09-07  14:10:02               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Search Console AI Reports Go Global, Mueller On Recovery – SEO Pulse via @sejournal, @MattGSouthern
+  1. Your Biggest AI Search Risk Is Conflicting Information About Your Brand via @sejournal, @cshel
+     Fecha : Mon, 07 Sep 2026 12:00:11 +0000
+     URL   : https://www.searchenginejournal.com/biggest-ai-search-risk-is-conflicting-information/586904/
+  2. Search Console AI Reports Go Global, Mueller On Recovery – SEO Pulse via @sejournal, @MattGSouthern
      Fecha : Sat, 05 Sep 2026 12:30:53 +0000
      URL   : https://www.searchenginejournal.com/seo-pulse-search-console-ai-reports-go-global-mueller-recovery/588443/
-  2. How To Win More Citations In AI Answers, Live With Ahrefs’ Constance Tan via @sejournal, @hethr_campbell
+  3. How To Win More Citations In AI Answers, Live With Ahrefs’ Constance Tan via @sejournal, @hethr_campbell
      Fecha : Fri, 04 Sep 2026 18:08:42 +0000
      URL   : https://www.searchenginejournal.com/most-teams-can-measure-ai-visibility-few-can-move-it/588219/
-  3. Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe
-     Fecha : Fri, 04 Sep 2026 14:30:02 +0000
-     URL   : https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft
-     Fecha : Sat, 05 Sep 2026 22:49:55 +0000
-     URL   : https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/
-  2. Hikers rescued after using Google Gemini for planning
-     Fecha : Sat, 05 Sep 2026 19:35:24 +0000
-     URL   : https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/
-  3. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure
-     Fecha : Sat, 05 Sep 2026 18:05:27 +0000
-     URL   : https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/
+  1. Phil Schiller’s App Store exit reportedly driven by wariness over future plans
+     Fecha : Sun, 06 Sep 2026 21:41:06 +0000
+     URL   : https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/
+  2. Authors push back as publishers and agents make claims on Anthropic settlement
+     Fecha : Sun, 06 Sep 2026 20:47:37 +0000
+     URL   : https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/
+  3. Travis Kalanick’s Atoms might be getting into the robotaxi business
+     Fecha : Sun, 06 Sep 2026 16:45:00 +0000
+     URL   : https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Agentic Video Understanding in Gemini
-     Fecha : 2026-09-02T12:44:06-07:00
-     URL   : https://www.producthunt.com/products/google
-  2. Kit by Speakeasy
-     Fecha : 2026-09-02T07:23:38-07:00
-     URL   : https://www.producthunt.com/products/speakeasydev
-  3. H3 Max by fal
-     Fecha : 2026-09-02T12:54:33-07:00
-     URL   : https://www.producthunt.com/products/fal-ai
+  1. Assist
+     Fecha : 2026-09-06T03:08:53-07:00
+     URL   : https://www.producthunt.com/products/assist-4
+  2. Scriptly
+     Fecha : 2026-09-04T01:09:19-07:00
+     URL   : https://www.producthunt.com/products/sciptly
+  3. Bloop
+     Fecha : 2026-08-06T08:52:08-07:00
+     URL   : https://www.producthunt.com/products/bloop-4
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. OpenAI admits to German wiki ‘incident’
+  1. Seattle Times and Newsday sue OpenAI and Microsoft for infringement
+     Fecha : 2026-09-06T19:36:04-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft
+  2. OpenAI admits to German wiki ‘incident’
      Fecha : 2026-09-05T07:15:55-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident
-  2. Roland is getting into generative AI music with Melody Flip
+  3. Roland is getting into generative AI music with Melody Flip
      Fecha : 2026-09-04T13:51:35-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip
-  3. Microsoft says virtually nobody was grabbing NYT articles through its chatbot
-     Fecha : 2026-09-04T12:05:57-04:00
-     URL   : https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-09-06  12:04:27
+  Fin del reporte  ·  2026-09-07  14:10:02
 ═════════════════════════════════════════════════════════════════

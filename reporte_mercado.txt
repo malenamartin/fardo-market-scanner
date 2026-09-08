@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-09-07  14:10:02               ║
+║                  Generado: 2026-09-08  12:47:57               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,41 +10,41 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Your Biggest AI Search Risk Is Conflicting Information About Your Brand via @sejournal, @cshel
+  1. 6 Months Into ChatGPT Ads, Advertisers Still Don’t Know What ‘Good’ Looks Like via @sejournal, @brookeosmundson
+     Fecha : Tue, 08 Sep 2026 12:00:00 +0000
+     URL   : https://www.searchenginejournal.com/6-months-into-chatgpt-ads-advertisers-still-dont-know-what-good-looks-like/587583/
+  2. Harvard Found The Public Has Little Objection To AI Taking Search Marketers’ Jobs via @sejournal, @gregjarboe
+     Fecha : Mon, 07 Sep 2026 14:30:22 +0000
+     URL   : https://www.searchenginejournal.com/harvard-found-the-public-has-little-objection-to-ai-taking-search-marketers-jobs/587715/
+  3. Your Biggest AI Search Risk Is Conflicting Information About Your Brand via @sejournal, @cshel
      Fecha : Mon, 07 Sep 2026 12:00:11 +0000
      URL   : https://www.searchenginejournal.com/biggest-ai-search-risk-is-conflicting-information/586904/
-  2. Search Console AI Reports Go Global, Mueller On Recovery – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Sat, 05 Sep 2026 12:30:53 +0000
-     URL   : https://www.searchenginejournal.com/seo-pulse-search-console-ai-reports-go-global-mueller-recovery/588443/
-  3. How To Win More Citations In AI Answers, Live With Ahrefs’ Constance Tan via @sejournal, @hethr_campbell
-     Fecha : Fri, 04 Sep 2026 18:08:42 +0000
-     URL   : https://www.searchenginejournal.com/most-teams-can-measure-ai-visibility-few-can-move-it/588219/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Phil Schiller’s App Store exit reportedly driven by wariness over future plans
-     Fecha : Sun, 06 Sep 2026 21:41:06 +0000
-     URL   : https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/
-  2. Authors push back as publishers and agents make claims on Anthropic settlement
-     Fecha : Sun, 06 Sep 2026 20:47:37 +0000
-     URL   : https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/
-  3. Travis Kalanick’s Atoms might be getting into the robotaxi business
-     Fecha : Sun, 06 Sep 2026 16:45:00 +0000
-     URL   : https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/
+  1. Stoke Space raises another billion to rival SpaceX at re-flying rockets
+     Fecha : Tue, 08 Sep 2026 09:00:00 +0000
+     URL   : https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/
+  2. Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch
+     Fecha : Tue, 08 Sep 2026 02:16:39 +0000
+     URL   : https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/
+  3. Opaque recurrence, and other AI terms that you should probably know
+     Fecha : Mon, 07 Sep 2026 19:24:00 +0000
+     URL   : https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Assist
-     Fecha : 2026-09-06T03:08:53-07:00
-     URL   : https://www.producthunt.com/products/assist-4
-  2. Scriptly
-     Fecha : 2026-09-04T01:09:19-07:00
-     URL   : https://www.producthunt.com/products/sciptly
-  3. Bloop
-     Fecha : 2026-08-06T08:52:08-07:00
-     URL   : https://www.producthunt.com/products/bloop-4
+  1. GoodLads
+     Fecha : 2026-09-06T04:11:39-07:00
+     URL   : https://www.producthunt.com/products/good-lads-1-0
+  2. Switch
+     Fecha : 2026-08-26T21:57:54-07:00
+     URL   : https://www.producthunt.com/products/switch-11
+  3. Catenary
+     Fecha : 2026-09-07T19:32:49-07:00
+     URL   : https://www.producthunt.com/products/catenary
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-09-07  14:10:02
+  Fin del reporte  ·  2026-09-08  12:47:57
 ═════════════════════════════════════════════════════════════════

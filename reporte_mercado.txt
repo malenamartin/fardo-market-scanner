@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-09-11  12:45:19               ║
+║                  Generado: 2026-09-12  12:05:19               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. What Wikipedia Reveals About AI Overviews And Web Traffic via @sejournal, @MattGSouthern
-     Fecha : Fri, 11 Sep 2026 12:00:42 +0000
-     URL   : https://www.searchenginejournal.com/what-wikipedia-reveals-about-ai-overviews-and-web-traffic/589042/
-  2. New AI Search & SEO KPIs: 4 Signals That Guide Real Decisions [Watch Now] via @sejournal, @lorenbaker
-     Fecha : Fri, 11 Sep 2026 07:45:21 +0000
-     URL   : https://www.searchenginejournal.com/new-ai-search-seo-kpis-4-signals-that-guide-real-decisions/588605/
-  3. Google Adds Post View Counts To Business Profiles via @sejournal, @MattGSouthern
-     Fecha : Thu, 10 Sep 2026 21:13:27 +0000
-     URL   : https://www.searchenginejournal.com/google-business-profile-post-view-counts/589128/
+  1. SEO For Paws Live Stream Conference: Free Tickets & Big Names For A Good Cause via @sejournal, @theshelleywalsh
+     Fecha : Fri, 11 Sep 2026 19:00:59 +0000
+     URL   : https://www.searchenginejournal.com/seo-for-paws-live-stream-conference-free-tickets-big-names-for-a-good-cause/588889/
+  2. Google Documents Partner-Only API For Full-Web Search Results via @sejournal, @MattGSouthern
+     Fecha : Fri, 11 Sep 2026 17:32:12 +0000
+     URL   : https://www.searchenginejournal.com/google-documents-partner-only-api-for-full-web-search-results/589194/
+  3. The 2003 Framework That Was Already Doing Query Fan-Out via @sejournal, @gregjarboe
+     Fecha : Fri, 11 Sep 2026 14:30:50 +0000
+     URL   : https://www.searchenginejournal.com/the-2003-framework-that-was-already-doing-query-fan-out/588595/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play
-     Fecha : Thu, 10 Sep 2026 22:30:00 +0000
-     URL   : https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/
-  2. Jensen Huang explains why Nvidia will grow an astounding 70% next year
-     Fecha : Thu, 10 Sep 2026 21:51:59 +0000
-     URL   : https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/
-  3. Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his
-     Fecha : Thu, 10 Sep 2026 21:35:00 +0000
-     URL   : https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/
+  1. Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data
+     Fecha : Fri, 11 Sep 2026 22:58:17 +0000
+     URL   : https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/
+  2. Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road
+     Fecha : Fri, 11 Sep 2026 21:19:05 +0000
+     URL   : https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/
+  3. Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too
+     Fecha : Fri, 11 Sep 2026 20:59:47 +0000
+     URL   : https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. TIM PG
-     Fecha : 2026-08-08T00:15:23-07:00
-     URL   : https://www.producthunt.com/products/tim-pg
-  2. Spaces
-     Fecha : 2026-09-08T11:31:12-07:00
-     URL   : https://www.producthunt.com/products/spaces-21
-  3. Anysite.io
-     Fecha : 2026-08-11T07:08:45-07:00
-     URL   : https://www.producthunt.com/products/anysite
+  1. DockFix 5.0
+     Fecha : 2026-09-11T12:26:15-07:00
+     URL   : https://www.producthunt.com/products/dockfix
+  2. Calerto for Mac
+     Fecha : 2026-09-09T23:14:32-07:00
+     URL   : https://www.producthunt.com/products/calerto-meeting-alarms
+  3. Youkti
+     Fecha : 2026-08-14T00:50:59-07:00
+     URL   : https://www.producthunt.com/products/youkti
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Slack can now vibe-code interactive charts and reports inside chats
-     Fecha : 2026-09-10T17:25:21-04:00
-     URL   : https://www.theverge.com/tech/989853/slackforce-surfaces-launch
-  2. Schools are catching on to Big Tech’s playbook
-     Fecha : 2026-09-10T15:44:20-04:00
-     URL   : https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids
-  3. Universal Music is launching an AI music platform with ElevenLabs
-     Fecha : 2026-09-10T11:38:19-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai
+  1. OpenAI just wants to win
+     Fecha : 2026-09-12T07:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition
+  2. Lawyer fined $5K over AI-hallucinated witnesses in a murder case
+     Fecha : 2026-09-11T16:44:02-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal
+  3. Anthropic spent this week in hot water over cybersecurity
+     Fecha : 2026-09-11T12:09:14-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-09-11  12:45:19
+  Fin del reporte  ·  2026-09-12  12:05:19
 ═════════════════════════════════════════════════════════════════

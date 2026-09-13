@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-09-12  12:05:19               ║
+║                  Generado: 2026-09-13  13:15:12               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. SEO For Paws Live Stream Conference: Free Tickets & Big Names For A Good Cause via @sejournal, @theshelleywalsh
+  1. Google Admits Search Console Reporting For AI Search Is Inadequate via @sejournal, @martinibuster
+     Fecha : Sun, 13 Sep 2026 12:17:31 +0000
+     URL   : https://www.searchenginejournal.com/google-admits-search-console-reporting-for-ai-search-is-inadequate/589236/
+  2. Google Search Redesign, Business Profile Post Views – SEO Pulse via @sejournal, @MattGSouthern
+     Fecha : Sat, 12 Sep 2026 12:30:38 +0000
+     URL   : https://www.searchenginejournal.com/google-search-redesign-business-profile-post-views-seo-pulse/589151/
+  3. SEO For Paws Live Stream Conference: Free Tickets & Big Names For A Good Cause via @sejournal, @theshelleywalsh
      Fecha : Fri, 11 Sep 2026 19:00:59 +0000
      URL   : https://www.searchenginejournal.com/seo-for-paws-live-stream-conference-free-tickets-big-names-for-a-good-cause/588889/
-  2. Google Documents Partner-Only API For Full-Web Search Results via @sejournal, @MattGSouthern
-     Fecha : Fri, 11 Sep 2026 17:32:12 +0000
-     URL   : https://www.searchenginejournal.com/google-documents-partner-only-api-for-full-web-search-results/589194/
-  3. The 2003 Framework That Was Already Doing Query Fan-Out via @sejournal, @gregjarboe
-     Fecha : Fri, 11 Sep 2026 14:30:50 +0000
-     URL   : https://www.searchenginejournal.com/the-2003-framework-that-was-already-doing-query-fan-out/588595/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data
-     Fecha : Fri, 11 Sep 2026 22:58:17 +0000
-     URL   : https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/
-  2. Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road
-     Fecha : Fri, 11 Sep 2026 21:19:05 +0000
-     URL   : https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/
-  3. Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too
-     Fecha : Fri, 11 Sep 2026 20:59:47 +0000
-     URL   : https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/
+  1. Automattic confirms Mullenweg has returned as CEO after attempted ouster by board
+     Fecha : Sat, 12 Sep 2026 23:25:38 +0000
+     URL   : https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/
+  2. OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026
+     Fecha : Sat, 12 Sep 2026 20:19:16 +0000
+     URL   : https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/
+  3. Anthropic CEO outlines plan to slow AI development
+     Fecha : Sat, 12 Sep 2026 19:34:44 +0000
+     URL   : https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. DockFix 5.0
-     Fecha : 2026-09-11T12:26:15-07:00
-     URL   : https://www.producthunt.com/products/dockfix
-  2. Calerto for Mac
-     Fecha : 2026-09-09T23:14:32-07:00
-     URL   : https://www.producthunt.com/products/calerto-meeting-alarms
-  3. Youkti
-     Fecha : 2026-08-14T00:50:59-07:00
-     URL   : https://www.producthunt.com/products/youkti
+  1. Neopress
+     Fecha : 2026-09-09T23:43:00-07:00
+     URL   : https://www.producthunt.com/products/neopress
+  2. Cognition's SWE-2
+     Fecha : 2026-09-10T15:19:56-07:00
+     URL   : https://www.producthunt.com/products/cognition-s-swe-2
+  3. Resurf
+     Fecha : 2026-09-11T14:36:08-07:00
+     URL   : https://www.producthunt.com/products/resurf-2
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. OpenAI just wants to win
-     Fecha : 2026-09-12T07:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition
-  2. Lawyer fined $5K over AI-hallucinated witnesses in a murder case
-     Fecha : 2026-09-11T16:44:02-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal
-  3. Anthropic spent this week in hot water over cybersecurity
-     Fecha : 2026-09-11T12:09:14-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity
+  1. OpenAI’s rogue AI tried to hack another company in May
+     Fecha : 2026-09-12T17:41:36-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack
+  2. Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’
+     Fecha : 2026-09-12T17:16:28-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised
+  3. Anthropic CEO says it’s time to pump the brakes on AI
+     Fecha : 2026-09-12T12:23:40-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-09-12  12:05:19
+  Fin del reporte  ·  2026-09-13  13:15:12
 ═════════════════════════════════════════════════════════════════

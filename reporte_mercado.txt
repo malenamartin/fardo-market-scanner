@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-09-13  13:15:12               ║
+║                  Generado: 2026-09-14  14:56:20               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Admits Search Console Reporting For AI Search Is Inadequate via @sejournal, @martinibuster
-     Fecha : Sun, 13 Sep 2026 12:17:31 +0000
-     URL   : https://www.searchenginejournal.com/google-admits-search-console-reporting-for-ai-search-is-inadequate/589236/
-  2. Google Search Redesign, Business Profile Post Views – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Sat, 12 Sep 2026 12:30:38 +0000
-     URL   : https://www.searchenginejournal.com/google-search-redesign-business-profile-post-views-seo-pulse/589151/
-  3. SEO For Paws Live Stream Conference: Free Tickets & Big Names For A Good Cause via @sejournal, @theshelleywalsh
-     Fecha : Fri, 11 Sep 2026 19:00:59 +0000
-     URL   : https://www.searchenginejournal.com/seo-for-paws-live-stream-conference-free-tickets-big-names-for-a-good-cause/588889/
+  1. AI Isn’t Delivering Marketing Efficiency, It’s Repeating Programmatic’s Broken Promise via @sejournal, @gregjarboe
+     Fecha : Mon, 14 Sep 2026 14:30:08 +0000
+     URL   : https://www.searchenginejournal.com/ai-isnt-delivering-marketing-efficiency-its-repeating-programmatics-broken-promise/588722/
+  2. How To Connect AI Search Visibility To Local Leads via @sejournal, @lorenbaker
+     Fecha : Mon, 14 Sep 2026 12:00:25 +0000
+     URL   : https://www.searchenginejournal.com/how-to-connect-ai-search-visibility-to-local-leads/588096/
+  3. Matt Mullenweg Apparently Back In Charge At Automattic via @sejournal, @martinibuster
+     Fecha : Sun, 13 Sep 2026 21:10:22 +0000
+     URL   : https://www.searchenginejournal.com/matt-mullenweg-apparently-back-in-charge-at-automattic/589251/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Automattic confirms Mullenweg has returned as CEO after attempted ouster by board
-     Fecha : Sat, 12 Sep 2026 23:25:38 +0000
-     URL   : https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/
-  2. OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026
-     Fecha : Sat, 12 Sep 2026 20:19:16 +0000
-     URL   : https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/
-  3. Anthropic CEO outlines plan to slow AI development
-     Fecha : Sat, 12 Sep 2026 19:34:44 +0000
-     URL   : https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/
+  1. Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work
+     Fecha : Mon, 14 Sep 2026 14:45:44 +0000
+     URL   : https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/
+  2. Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026
+     Fecha : Mon, 14 Sep 2026 14:30:00 +0000
+     URL   : https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/
+  3. 5 days left to exhibit at TechCrunch Disrupt 2026
+     Fecha : Mon, 14 Sep 2026 14:00:00 +0000
+     URL   : https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Neopress
-     Fecha : 2026-09-09T23:43:00-07:00
-     URL   : https://www.producthunt.com/products/neopress
-  2. Cognition's SWE-2
-     Fecha : 2026-09-10T15:19:56-07:00
-     URL   : https://www.producthunt.com/products/cognition-s-swe-2
-  3. Resurf
-     Fecha : 2026-09-11T14:36:08-07:00
-     URL   : https://www.producthunt.com/products/resurf-2
+  1. Slashy Assistant
+     Fecha : 2026-09-13T19:52:46-07:00
+     URL   : https://www.producthunt.com/products/slashy-3
+  2. LLMagnet
+     Fecha : 2026-08-20T03:31:40-07:00
+     URL   : https://www.producthunt.com/products/llmagnet
+  3. appdesigns
+     Fecha : 2026-09-13T17:19:15-07:00
+     URL   : https://www.producthunt.com/products/appdesigns
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. OpenAI’s rogue AI tried to hack another company in May
+  1. Microsoft says ‘people matter more than AI’ following safety concerns
+     Fecha : 2026-09-14T09:00:00-04:00
+     URL   : https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct
+  2. Trump and Mike Johnson think the AI industry is overreacting
+     Fecha : 2026-09-13T15:41:48-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting
+  3. OpenAI’s rogue AI tried to hack another company in May
      Fecha : 2026-09-12T17:41:36-04:00
      URL   : https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack
-  2. Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’
-     Fecha : 2026-09-12T17:16:28-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised
-  3. Anthropic CEO says it’s time to pump the brakes on AI
-     Fecha : 2026-09-12T12:23:40-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-09-13  13:15:12
+  Fin del reporte  ·  2026-09-14  14:56:20
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-09-15  13:23:46               ║
+║                  Generado: 2026-09-16  13:22:29               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. ChatGPT Ads Aren’t Paid Search – 5 Questions To Answer Before You Shift Budget via @sejournal, @brookeosmundson
-     Fecha : Tue, 15 Sep 2026 12:00:30 +0000
-     URL   : https://www.searchenginejournal.com/chatgpt-ads-arent-paid-search-5-questions-to-answer-before-you-shift-budget/589256/
-  2. Anthropic Shares Power Prompts That Improve AI Results via @sejournal, @martinibuster
-     Fecha : Tue, 15 Sep 2026 10:14:18 +0000
-     URL   : https://www.searchenginejournal.com/anthropic-shares-power-prompts-that-improve-ai-results/589448/
-  3. Local Services Ads To Performance Max: What To Audit Before Migration via @sejournal, @hethr_campbell
-     Fecha : Tue, 15 Sep 2026 07:45:08 +0000
-     URL   : https://www.searchenginejournal.com/local-services-ads-to-performance-max-what-to-audit-before-migration-recap/588906/
+  1. Beyond Content Parity: Building A Validated Content Workflow For AI Search via @sejournal, @billhunt
+     Fecha : Wed, 16 Sep 2026 12:00:04 +0000
+     URL   : https://www.searchenginejournal.com/beyond-content-parity-building-a-validated-content-workflow-for-ai-search/586184/
+  2. Ex-Googler Jeff Dean Explains Design Choices Behind Gemini via @sejournal, @martinibuster
+     Fecha : Wed, 16 Sep 2026 10:31:08 +0000
+     URL   : https://www.searchenginejournal.com/ex-googler-jeff-dean-explains-what-users-should-understand-about-gemini/589593/
+  3. Google Adds New Ad Experience Metrics To CrUX Report via @sejournal, @martinibuster
+     Fecha : Tue, 15 Sep 2026 21:46:09 +0000
+     URL   : https://www.searchenginejournal.com/google-adds-new-ad-experience-metrics-to-crux-report/589569/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents
-     Fecha : Tue, 15 Sep 2026 13:00:00 +0000
-     URL   : https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/
-  2. Spotify finally lets parents exclude kids’ music from Wrapped and recommendations
-     Fecha : Tue, 15 Sep 2026 13:00:00 +0000
-     URL   : https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/
-  3. New Italian unicorn Exein rides the physical AI wave
-     Fecha : Tue, 15 Sep 2026 12:19:38 +0000
-     URL   : https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/
+  1. Clean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel
+     Fecha : Wed, 16 Sep 2026 13:00:00 +0000
+     URL   : https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/
+  2. Amazon launches Alexa+ in India with Hindi support
+     Fecha : Wed, 16 Sep 2026 10:34:47 +0000
+     URL   : https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/
+  3. We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says
+     Fecha : Wed, 16 Sep 2026 00:20:39 +0000
+     URL   : https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. siift
-     Fecha : 2026-09-03T11:42:56-07:00
-     URL   : https://www.producthunt.com/products/siift
-  2. PeekPaste
-     Fecha : 2026-09-14T17:44:31-07:00
-     URL   : https://www.producthunt.com/products/lucidbit
-  3. Anthropologic
-     Fecha : 2026-09-11T03:56:33-07:00
-     URL   : https://www.producthunt.com/products/anthropologic
+  1. Appwrite 2.0
+     Fecha : 2026-09-15T02:56:57-07:00
+     URL   : https://www.producthunt.com/products/appwrite
+  2. Expand Board for macOS
+     Fecha : 2026-09-15T09:28:05-07:00
+     URL   : https://www.producthunt.com/products/expand-board-for-macos
+  3. Thread
+     Fecha : 2026-09-15T03:27:07-07:00
+     URL   : https://www.producthunt.com/products/thread-ai-journal-memory
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Is Big Tech’s AI slowdown a safety pact or a cartel?
-     Fecha : 2026-09-14T18:59:41-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel
-  2. What execs and politicians are saying about slowing down AI development
-     Fecha : 2026-09-14T17:21:42-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei
-  3. Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world
-     Fecha : 2026-09-14T16:03:37-04:00
-     URL   : https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit
+  1. A brief history of AI executives calling for regulation
+     Fecha : 2026-09-16T08:00:00-04:00
+     URL   : https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation
+  2. AI and data centers are incredibly unpopular in every poll
+     Fecha : 2026-09-15T19:34:25-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september
+  3. Meta&#8217;s new One subscriptions put a price on social media and AI
+     Fecha : 2026-09-15T11:00:00-04:00
+     URL   : https://www.theverge.com/tech/995453/meta-one-subscriptions-ai
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-09-15  13:23:46
+  Fin del reporte  ·  2026-09-16  13:22:29
 ═════════════════════════════════════════════════════════════════

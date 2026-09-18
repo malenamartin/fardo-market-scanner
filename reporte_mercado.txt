@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-09-17  13:18:33               ║
+║                  Generado: 2026-09-18  12:52:53               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. 3 Predictions For 2027, And Why You Won’t Be Able To Check Them via @sejournal, @DuaneForrester
-     Fecha : Thu, 17 Sep 2026 12:00:01 +0000
-     URL   : https://www.searchenginejournal.com/3-predictions-for-2027-and-why-you-wont-be-able-to-check-them/589263/
-  2. Google Search Profile Badges Expose The Publisher Traffic Crisis via @sejournal, @martinibuster
-     Fecha : Wed, 16 Sep 2026 23:07:48 +0000
-     URL   : https://www.searchenginejournal.com/google-search-profile-badges-expose-the-publisher-traffic-crisis/589724/
-  3. Google UCP Update Lets Merchants Enable Cart Transfer To Site via @sejournal, @MattGSouthern
-     Fecha : Wed, 16 Sep 2026 20:35:52 +0000
-     URL   : https://www.searchenginejournal.com/google-ucp-update-lets-merchants-enable-cart-transfer-to-site/589713/
+  1. Google’s AI Payment Pilot Vs. Cloudflare & Microsoft Models via @sejournal, @MattGSouthern
+     Fecha : Fri, 18 Sep 2026 12:00:41 +0000
+     URL   : https://www.searchenginejournal.com/googles-ai-payment-pilot-vs-cloudflare-and-microsoft-models/589636/
+  2. Google Responds To Cross-Domain Canonical De-Indexing Report via @sejournal, @martinibuster
+     Fecha : Fri, 18 Sep 2026 11:39:51 +0000
+     URL   : https://www.searchenginejournal.com/google-responds-to-cross-domain-canonical-de-indexing-report/589917/
+  3. More People Expect AI To Cut Jobs Than Add Them, Pew Finds via @sejournal, @MattGSouthern
+     Fecha : Thu, 17 Sep 2026 21:44:38 +0000
+     URL   : https://www.searchenginejournal.com/pew-ai-job-loss-expectations-survey/589836/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. How Bain Capital Ventures plans to deploy its fresh $1.6B fund
-     Fecha : Thu, 17 Sep 2026 12:57:46 +0000
-     URL   : https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/
-  2. Spotify expands its partner program for podcasts to 35 new countries
-     Fecha : Thu, 17 Sep 2026 12:00:00 +0000
-     URL   : https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/
-  3. Comp AI sets eyes on a continuously agentic future for security and compliance
-     Fecha : Thu, 17 Sep 2026 11:00:00 +0000
-     URL   : https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/
+  1. Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal
+     Fecha : Fri, 18 Sep 2026 00:02:36 +0000
+     URL   : https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/
+  2. Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’
+     Fecha : Thu, 17 Sep 2026 23:25:52 +0000
+     URL   : https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/
+  3. Google DeepMind launches institute to widen the AGI debate
+     Fecha : Thu, 17 Sep 2026 23:21:17 +0000
+     URL   : https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Amy by Jellyfish
-     Fecha : 2026-09-16T22:23:24-07:00
-     URL   : https://www.producthunt.com/products/amy-by-jellyfish
-  2. Higgsfield API
-     Fecha : 2026-09-16T16:58:11-07:00
-     URL   : https://www.producthunt.com/products/higgsfield
-  3. Zella
-     Fecha : 2026-09-16T20:56:55-07:00
-     URL   : https://www.producthunt.com/products/zella
+  1. ProductBridge
+     Fecha : 2026-09-17T06:56:09-07:00
+     URL   : https://www.producthunt.com/products/productbridge
+  2. AI Class by Kanary
+     Fecha : 2026-09-17T19:00:46-07:00
+     URL   : https://www.producthunt.com/products/ai-class-by-kanary
+  3. Unvendor
+     Fecha : 2026-09-17T16:34:12-07:00
+     URL   : https://www.producthunt.com/products/unvendor
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Inside the suddenly explosive world of AI safety
-     Fecha : 2026-09-17T07:30:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic
-  2. Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac
-     Fecha : 2026-09-16T19:40:00-04:00
-     URL   : https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac
-  3. The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long
-     Fecha : 2026-09-16T16:59:13-04:00
-     URL   : https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review
+  1. Flash floods can strike without warning — this new technology could change that
+     Fecha : 2026-09-18T07:00:00-04:00
+     URL   : https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning
+  2. The AI Superintelligence Slowdown
+     Fecha : 2026-09-17T15:28:24-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic
+  3. Claude Code relaunches Projects to manage multiple AI agents in the cloud
+     Fecha : 2026-09-17T14:58:05-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-09-17  13:18:33
+  Fin del reporte  ·  2026-09-18  12:52:53
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-09-18  12:52:53               ║
+║                  Generado: 2026-09-19  12:25:34               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google’s AI Payment Pilot Vs. Cloudflare & Microsoft Models via @sejournal, @MattGSouthern
-     Fecha : Fri, 18 Sep 2026 12:00:41 +0000
-     URL   : https://www.searchenginejournal.com/googles-ai-payment-pilot-vs-cloudflare-and-microsoft-models/589636/
-  2. Google Responds To Cross-Domain Canonical De-Indexing Report via @sejournal, @martinibuster
-     Fecha : Fri, 18 Sep 2026 11:39:51 +0000
-     URL   : https://www.searchenginejournal.com/google-responds-to-cross-domain-canonical-de-indexing-report/589917/
-  3. More People Expect AI To Cut Jobs Than Add Them, Pew Finds via @sejournal, @MattGSouthern
-     Fecha : Thu, 17 Sep 2026 21:44:38 +0000
-     URL   : https://www.searchenginejournal.com/pew-ai-job-loss-expectations-survey/589836/
+  1. Google Discover Test Adds Topic Overviews, Starting With Videos via @sejournal, @MattGSouthern
+     Fecha : Fri, 18 Sep 2026 22:24:26 +0000
+     URL   : https://www.searchenginejournal.com/google-discover-test-adds-topic-overviews-starting-with-videos/589963/
+  2. Checking A Page Is Part Of A Retrieval Pipeline For AI via @sejournal, @chrisgreenseo
+     Fecha : Fri, 18 Sep 2026 19:00:53 +0000
+     URL   : https://www.searchenginejournal.com/checking-a-page-is-part-of-a-retrieval-pipeline-for-ai/589284/
+  3. Google Adds Local Businesses To EEA Search Result Units via @sejournal, @MattGSouthern
+     Fecha : Fri, 18 Sep 2026 17:51:12 +0000
+     URL   : https://www.searchenginejournal.com/google-adds-local-businesses-to-eea-search-result-units/589955/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal
-     Fecha : Fri, 18 Sep 2026 00:02:36 +0000
-     URL   : https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/
-  2. Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’
-     Fecha : Thu, 17 Sep 2026 23:25:52 +0000
-     URL   : https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/
-  3. Google DeepMind launches institute to widen the AGI debate
-     Fecha : Thu, 17 Sep 2026 23:21:17 +0000
-     URL   : https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/
+  1. India forces caller-ID apps to feed spam reports to telcos
+     Fecha : Sat, 19 Sep 2026 01:00:00 +0000
+     URL   : https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/
+  2. Tilly Norwood’s press tour is going about as well as you’d expect for an AI
+     Fecha : Sat, 19 Sep 2026 00:12:07 +0000
+     URL   : https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/
+  3. A startup that builds other startups raised $100M and is all-in on physical AI
+     Fecha : Fri, 18 Sep 2026 23:25:01 +0000
+     URL   : https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. ProductBridge
-     Fecha : 2026-09-17T06:56:09-07:00
-     URL   : https://www.producthunt.com/products/productbridge
-  2. AI Class by Kanary
-     Fecha : 2026-09-17T19:00:46-07:00
-     URL   : https://www.producthunt.com/products/ai-class-by-kanary
-  3. Unvendor
-     Fecha : 2026-09-17T16:34:12-07:00
-     URL   : https://www.producthunt.com/products/unvendor
+  1. Mantra Timer
+     Fecha : 2026-06-03T12:42:53-07:00
+     URL   : https://www.producthunt.com/products/transcendence
+  2. Mise
+     Fecha : 2026-09-18T23:44:50-07:00
+     URL   : https://www.producthunt.com/products/robot-recipes
+  3. Basedash Models
+     Fecha : 2026-09-18T09:18:15-07:00
+     URL   : https://www.producthunt.com/products/basedash
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Flash floods can strike without warning — this new technology could change that
-     Fecha : 2026-09-18T07:00:00-04:00
-     URL   : https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning
-  2. The AI Superintelligence Slowdown
-     Fecha : 2026-09-17T15:28:24-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic
-  3. Claude Code relaunches Projects to manage multiple AI agents in the cloud
-     Fecha : 2026-09-17T14:58:05-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects
+  1. OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web
+     Fecha : 2026-09-18T17:07:24-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero
+  2. Virginia governor creates an AI task force and moves to restrain data centers
+     Fecha : 2026-09-18T14:29:17-04:00
+     URL   : https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force
+  3. Gavin Newsom is pushing for an AI kill switch
+     Fecha : 2026-09-18T13:04:51-04:00
+     URL   : https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-09-18  12:52:53
+  Fin del reporte  ·  2026-09-19  12:25:34
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-09-22  13:18:52               ║
+║                  Generado: 2026-09-23  13:32:38               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. 3 Steps To Win B2B Brand Consideration, Day Zero Decides The Shortlist via @sejournal, @alexanderkesler
-     Fecha : Tue, 22 Sep 2026 12:00:42 +0000
-     URL   : https://www.searchenginejournal.com/b2b-brand-consideration-day-zero-decides-the-shortlist/588593/
-  2. Google Analytics Adds Include Filters For Hostnames via @sejournal, @MattGSouthern
-     Fecha : Tue, 22 Sep 2026 08:06:17 +0000
-     URL   : https://www.searchenginejournal.com/google-analytics-include-hostname-filters/590336/
-  3. Job Boards Say Google Indexing API Requests Get No Response via @sejournal, @MattGSouthern
-     Fecha : Mon, 21 Sep 2026 20:30:43 +0000
-     URL   : https://www.searchenginejournal.com/google-indexing-api-approval-job-sites/590316/
+  1. Baidu Now Measures AI Citations: Here’s What SEOs Should (And Shouldn’t) Read Into It via @sejournal, @MPentzek
+     Fecha : Wed, 23 Sep 2026 12:00:37 +0000
+     URL   : https://www.searchenginejournal.com/baidu-now-measures-ai-citations-heres-what-seos-should-and-shouldnt-read-into-it/590276/
+  2. ChatGPT Ads Appeared In 47% Of Video Gaming Chats, Data Shows via @sejournal, @MattGSouthern
+     Fecha : Wed, 23 Sep 2026 07:00:33 +0000
+     URL   : https://www.searchenginejournal.com/chatgpt-ads-appeared-in-47-of-video-gaming-chats-data-shows/590481/
+  3. Which Data Sources Should You Care About For AI Search? via @sejournal, @chrisgreenseo
+     Fecha : Tue, 22 Sep 2026 19:00:31 +0000
+     URL   : https://www.searchenginejournal.com/which-data-sources-should-you-care-about-for-ai-search/590086/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future
-     Fecha : Tue, 22 Sep 2026 13:00:00 +0000
-     URL   : https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/
-  2. Everyone can find a reason to dislike data center construction
-     Fecha : Tue, 22 Sep 2026 13:00:00 +0000
-     URL   : https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/
-  3. Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again
-     Fecha : Tue, 22 Sep 2026 12:23:05 +0000
-     URL   : https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/
+  1. Spotify’s is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’
+     Fecha : Wed, 23 Sep 2026 13:00:00 +0000
+     URL   : https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/
+  2. LinkedIn adds new tools to fight fake profiles and bogus work histories
+     Fecha : Wed, 23 Sep 2026 13:00:00 +0000
+     URL   : https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/
+  3. PitPro’s first tire-changing robot goes live in Canada
+     Fecha : Wed, 23 Sep 2026 13:00:00 +0000
+     URL   : https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Clueso MCP
-     Fecha : 2026-09-16T02:35:16-07:00
-     URL   : https://www.producthunt.com/products/clueso
-  2. Anomalo
-     Fecha : 2026-09-09T15:10:12-07:00
-     URL   : https://www.producthunt.com/products/anomalo
-  3. Contextberg
-     Fecha : 2026-08-10T08:05:56-07:00
-     URL   : https://www.producthunt.com/products/contextberg
+  1. Naise AI
+     Fecha : 2026-08-26T06:23:59-07:00
+     URL   : https://www.producthunt.com/products/naise-ai
+  2. Solid
+     Fecha : 2026-09-20T23:01:40-07:00
+     URL   : https://www.producthunt.com/products/solid-3
+  3. Linguo Translate
+     Fecha : 2026-09-21T10:44:45-07:00
+     URL   : https://www.producthunt.com/products/linguo-translate-for-macos
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Meta patches Muse exploit that let attackers control the AI agent
-     Fecha : 2026-09-22T07:53:58-04:00
-     URL   : https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent
-  2. California tightens rules on AI data center energy and water use
-     Fecha : 2026-09-21T16:29:45-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills
-  3. Can John Ternus find Apple’s next big thing?
-     Fecha : 2026-09-21T10:00:00-04:00
-     URL   : https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone
+  1. OpenAI nabs key Patreon execs ahead of upcoming announcement
+     Fecha : 2026-09-23T07:02:39-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam
+  2. OpenAI wants to consult elite mathematicians about how to not fumble again
+     Fecha : 2026-09-22T20:17:17-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel
+  3. Rabbit’s new AI agent doesn’t need an R1 to run
+     Fecha : 2026-09-22T16:52:40-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-09-22  13:18:52
+  Fin del reporte  ·  2026-09-23  13:32:38
 ═════════════════════════════════════════════════════════════════

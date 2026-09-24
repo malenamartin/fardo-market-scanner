@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-09-23  13:32:38               ║
+║                  Generado: 2026-09-24  13:27:58               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Baidu Now Measures AI Citations: Here’s What SEOs Should (And Shouldn’t) Read Into It via @sejournal, @MPentzek
-     Fecha : Wed, 23 Sep 2026 12:00:37 +0000
-     URL   : https://www.searchenginejournal.com/baidu-now-measures-ai-citations-heres-what-seos-should-and-shouldnt-read-into-it/590276/
-  2. ChatGPT Ads Appeared In 47% Of Video Gaming Chats, Data Shows via @sejournal, @MattGSouthern
-     Fecha : Wed, 23 Sep 2026 07:00:33 +0000
-     URL   : https://www.searchenginejournal.com/chatgpt-ads-appeared-in-47-of-video-gaming-chats-data-shows/590481/
-  3. Which Data Sources Should You Care About For AI Search? via @sejournal, @chrisgreenseo
-     Fecha : Tue, 22 Sep 2026 19:00:31 +0000
-     URL   : https://www.searchenginejournal.com/which-data-sources-should-you-care-about-for-ai-search/590086/
+  1. Search Console Uses Block Flattening For AIOs, Forget Position & Focus On Outcomes via @sejournal, @TaylorDanRW
+     Fecha : Thu, 24 Sep 2026 12:00:06 +0000
+     URL   : https://www.searchenginejournal.com/search-console-uses-block-flattening-for-aios-forget-position-focus-on-outcomes/589582/
+  2. Google Announces New Query Fan-Out Framework: R4T-Diffusion via @sejournal, @martinibuster
+     Fecha : Thu, 24 Sep 2026 11:42:47 +0000
+     URL   : https://www.searchenginejournal.com/google-announces-new-query-fan-out-framework-r4t-diffusion/590700/
+  3. Google Search Decline Steepened To 40% YoY For Publishers via @sejournal, @MattGSouthern
+     Fecha : Thu, 24 Sep 2026 09:25:37 +0000
+     URL   : https://www.searchenginejournal.com/google-search-decline-publishers-chartbeat/590681/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Spotify’s is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’
-     Fecha : Wed, 23 Sep 2026 13:00:00 +0000
-     URL   : https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/
-  2. LinkedIn adds new tools to fight fake profiles and bogus work histories
-     Fecha : Wed, 23 Sep 2026 13:00:00 +0000
-     URL   : https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/
-  3. PitPro’s first tire-changing robot goes live in Canada
-     Fecha : Wed, 23 Sep 2026 13:00:00 +0000
-     URL   : https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/
+  1. Australia to investigate if OpenAI hack of government health website broke the law
+     Fecha : Thu, 24 Sep 2026 12:54:19 +0000
+     URL   : https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/
+  2. Everything new coming to Meta’s AI agent Muse
+     Fecha : Thu, 24 Sep 2026 01:13:32 +0000
+     URL   : https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/
+  3. Meta made a Tamagotchi-like wearable for its Muse AI agent
+     Fecha : Thu, 24 Sep 2026 00:46:17 +0000
+     URL   : https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Naise AI
-     Fecha : 2026-08-26T06:23:59-07:00
-     URL   : https://www.producthunt.com/products/naise-ai
-  2. Solid
-     Fecha : 2026-09-20T23:01:40-07:00
-     URL   : https://www.producthunt.com/products/solid-3
-  3. Linguo Translate
-     Fecha : 2026-09-21T10:44:45-07:00
-     URL   : https://www.producthunt.com/products/linguo-translate-for-macos
+  1. minimi 2.0
+     Fecha : 2026-09-18T13:16:52-07:00
+     URL   : https://www.producthunt.com/products/shram
+  2. CtrlOps 1.0
+     Fecha : 2026-09-22T03:20:30-07:00
+     URL   : https://www.producthunt.com/products/ctrlops
+  3. ChoreDivider
+     Fecha : 2026-09-21T00:09:45-07:00
+     URL   : https://www.producthunt.com/products/choredivider
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. OpenAI nabs key Patreon execs ahead of upcoming announcement
-     Fecha : 2026-09-23T07:02:39-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam
-  2. OpenAI wants to consult elite mathematicians about how to not fumble again
-     Fecha : 2026-09-22T20:17:17-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel
-  3. Rabbit’s new AI agent doesn’t need an R1 to run
-     Fecha : 2026-09-22T16:52:40-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3
+  1. OpenAI agents hacked an Australian government website in search for data
+     Fecha : 2026-09-24T07:52:32-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data
+  2. Gemini 4 is almost ready, says new Google DeepMind chief
+     Fecha : 2026-09-24T05:04:18-04:00
+     URL   : https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu
+  3. Meta is making a standalone Muse AI gadget
+     Fecha : 2026-09-23T20:15:20-04:00
+     URL   : https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-09-23  13:32:38
+  Fin del reporte  ·  2026-09-24  13:27:58
 ═════════════════════════════════════════════════════════════════

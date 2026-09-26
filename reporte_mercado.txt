@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-09-25  13:33:45               ║
+║                  Generado: 2026-09-26  12:55:53               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Has Deployed A New AI Spam Detector Called SAFE via @sejournal, @martinibuster
-     Fecha : Fri, 25 Sep 2026 12:47:46 +0000
-     URL   : https://www.searchenginejournal.com/google-has-deployed-a-new-ai-spam-detector-called-safe/590918/
-  2. Google AI Overviews Have More Links, But Not All Reach The Web via @sejournal, @MattGSouthern
-     Fecha : Fri, 25 Sep 2026 12:00:57 +0000
-     URL   : https://www.searchenginejournal.com/google-ai-overviews-have-more-links-but-not-all-reach-the-web/590762/
-  3. LLMs Are Time Machines That Don’t Tell You How Far You Went via @sejournal, @DuaneForrester
-     Fecha : Thu, 24 Sep 2026 19:00:37 +0000
-     URL   : https://www.searchenginejournal.com/llms-are-time-machines-that-dont-tell-you-how-far-you-went/590090/
+  1. Google Spam Update, Image Search Data In GSC – SEO Pulse via @sejournal, @MattGSouthern
+     Fecha : Sat, 26 Sep 2026 12:00:46 +0000
+     URL   : https://www.searchenginejournal.com/seo-pulse-google-spam-update-image-search-data/590882/
+  2. The Text-Only Version Of Your Website Strips Out The Wrong Layer via @sejournal, @slobodanmanic
+     Fecha : Fri, 25 Sep 2026 19:00:09 +0000
+     URL   : https://www.searchenginejournal.com/the-text-only-version-of-your-website-strips-out-the-wrong-layer/590088/
+  3. AI Agents Won’t Fix Bad Audience Data, They’ll Amplify It via @sejournal, @gregjarboe
+     Fecha : Fri, 25 Sep 2026 14:30:43 +0000
+     URL   : https://www.searchenginejournal.com/ai-agents-wont-fix-bad-audience-data-theyll-amplify-it/589792/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. North Korean hackers suspected in $351M crypto theft, the largest so far this year
-     Fecha : Fri, 25 Sep 2026 13:24:34 +0000
-     URL   : https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/
-  2. Lightspeed targets $250M for new India fund, focusing on early-stage AI
-     Fecha : Fri, 25 Sep 2026 05:00:00 +0000
-     URL   : https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/
-  3. Waymo is scaling fast: Here’s what the fleet data shows
-     Fecha : Thu, 24 Sep 2026 23:24:33 +0000
-     URL   : https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/
+  1. At Meta Connect, the company’s smart glasses were everywhere
+     Fecha : Sat, 26 Sep 2026 01:08:57 +0000
+     URL   : https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/
+  2. Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
+     Fecha : Fri, 25 Sep 2026 23:11:10 +0000
+     URL   : https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/
+  3. Automattic has a new board after failed attempt to put CEO on leave
+     Fecha : Fri, 25 Sep 2026 23:04:34 +0000
+     URL   : https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Bleetz Network
-     Fecha : 2026-09-23T11:37:04-07:00
-     URL   : https://www.producthunt.com/products/bleetz-network
-  2. PixVerse R2
-     Fecha : 2026-09-23T02:26:05-07:00
-     URL   : https://www.producthunt.com/products/pixverse-r2
-  3. 10xJoy
-     Fecha : 2026-09-24T23:47:02-07:00
-     URL   : https://www.producthunt.com/products/10xjoy
+  1. Psst
+     Fecha : 2026-09-03T11:48:30-07:00
+     URL   : https://www.producthunt.com/products/psst-3
+  2. Hemory
+     Fecha : 2026-09-22T08:16:05-07:00
+     URL   : https://www.producthunt.com/products/hemory
+  3. Fewer
+     Fecha : 2026-09-21T08:37:50-07:00
+     URL   : https://www.producthunt.com/products/fewer
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test
-     Fecha : 2026-09-25T09:00:00-04:00
-     URL   : https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review
-  2. Microsoft thinks its new Copilot ‘super app’ will be as influential as Office
-     Fecha : 2026-09-25T08:00:00-04:00
-     URL   : https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot
-  3. Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face
-     Fecha : 2026-09-24T15:59:26-04:00
-     URL   : https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face
+  1. Meta makes the Muse filesystem even more accessible
+     Fecha : 2026-09-25T12:49:53-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem
+  2. Sony and UMG are suing Suno again
+     Fecha : 2026-09-25T11:51:56-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music
+  3. One company is at the center of a wave of rogue AI attacks
+     Fecha : 2026-09-25T11:39:48-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-09-25  13:33:45
+  Fin del reporte  ·  2026-09-26  12:55:53
 ═════════════════════════════════════════════════════════════════

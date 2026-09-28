@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-09-27  13:47:25               ║
+║                  Generado: 2026-09-28  16:40:55               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Spam Update, Image Search Data In GSC – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Sat, 26 Sep 2026 12:00:46 +0000
-     URL   : https://www.searchenginejournal.com/seo-pulse-google-spam-update-image-search-data/590882/
-  2. The Text-Only Version Of Your Website Strips Out The Wrong Layer via @sejournal, @slobodanmanic
-     Fecha : Fri, 25 Sep 2026 19:00:09 +0000
-     URL   : https://www.searchenginejournal.com/the-text-only-version-of-your-website-strips-out-the-wrong-layer/590088/
-  3. AI Agents Won’t Fix Bad Audience Data, They’ll Amplify It via @sejournal, @gregjarboe
-     Fecha : Fri, 25 Sep 2026 14:30:43 +0000
-     URL   : https://www.searchenginejournal.com/ai-agents-wont-fix-bad-audience-data-theyll-amplify-it/589792/
+  1. CallRail Makes ChatGPT Ads Measurable For SMBs And Marketing Agencies via @sejournal, @CallRail
+     Fecha : Mon, 28 Sep 2026 15:46:48 +0000
+     URL   : https://www.searchenginejournal.com/callrail-makes-chatgpt-ads-measurable-for-smbs-and-marketing-agencies-spn/589843/
+  2. The Generative AI Report Sucks – Let’s Make It Brilliant
+     Fecha : Mon, 28 Sep 2026 14:30:29 +0000
+     URL   : https://www.searchenginejournal.com/the-generative-ai-report-sucks-lets-make-it-brilliant/590679/
+  3. Google Plans To Adopt UCP Draft Spec For AI Mode Hotel Booking via @sejournal, @MattGSouthern
+     Fecha : Mon, 28 Sep 2026 13:44:16 +0000
+     URL   : https://www.searchenginejournal.com/google-plans-to-adopt-ucp-draft-spec-for-ai-mode-hotel-booking/591235/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair
-     Fecha : Sun, 27 Sep 2026 01:40:30 +0000
-     URL   : https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/
-  2. Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India
-     Fecha : Sun, 27 Sep 2026 01:30:00 +0000
-     URL   : https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/
-  3. Insurers claim AI is already increasing healthcare costs
-     Fecha : Sat, 26 Sep 2026 21:02:06 +0000
-     URL   : https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/
+  1. Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026
+     Fecha : Mon, 28 Sep 2026 15:30:00 +0000
+     URL   : https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/
+  2. Physical AI chip developer SiMa.ai hits $1.45B valuation
+     Fecha : Mon, 28 Sep 2026 15:29:21 +0000
+     URL   : https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/
+  3. Mavi bets on the AI boom creating demand for a new kind of accountant
+     Fecha : Mon, 28 Sep 2026 15:26:46 +0000
+     URL   : https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Superhuman Go
-     Fecha : 2026-09-21T23:48:30-07:00
-     URL   : https://www.producthunt.com/products/superhuman-go
-  2. Humalike x GTA RP
-     Fecha : 2026-09-01T10:19:53-07:00
-     URL   : https://www.producthunt.com/products/humalike-2
-  3. KiwiDesk
-     Fecha : 2026-09-13T09:31:36-07:00
-     URL   : https://www.producthunt.com/products/kiwidesk
+  1. Dina 4.5
+     Fecha : 2026-09-27T21:18:46-07:00
+     URL   : https://www.producthunt.com/products/dina
+  2. Stash
+     Fecha : 2026-09-24T21:50:50-07:00
+     URL   : https://www.producthunt.com/products/stash-24
+  3. Zerg Router
+     Fecha : 2026-09-25T00:29:06-07:00
+     URL   : https://www.producthunt.com/products/zerg-router
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. OpenAI pauses training of its ‘most capable models’
-     Fecha : 2026-09-26T12:34:59-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause
-  2. Can Cloudflare CEO Matthew Prince save the web from AI?
-     Fecha : 2026-09-26T10:00:00-04:00
-     URL   : https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising
-  3. Meta makes the Muse filesystem even more accessible
-     Fecha : 2026-09-25T12:49:53-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem
+  1. The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes
+     Fecha : 2026-09-28T10:00:00-04:00
+     URL   : https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira
+  2. Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’
+     Fecha : 2026-09-28T09:36:06-04:00
+     URL   : https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents
+  3. Engram is a sampler that turns broken AI hallucinations into music
+     Fecha : 2026-09-27T16:46:36-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-09-27  13:47:25
+  Fin del reporte  ·  2026-09-28  16:40:55
 ═════════════════════════════════════════════════════════════════

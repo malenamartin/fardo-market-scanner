@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-10-04  13:52:20               ║
+║                  Generado: 2026-10-05  17:02:30               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Wants AI Content Fact-Checked, Gemini UTM Tags – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Sat, 03 Oct 2026 12:00:26 +0000
-     URL   : https://www.searchenginejournal.com/seo-pulse-google-ai-content-fact-check-gemini-utm-tags/591787/
-  2. Shopify Now Enrolls Your Store In Every New AI Shopping Channel via @sejournal, @slobodanmanic
-     Fecha : Fri, 02 Oct 2026 19:00:52 +0000
-     URL   : https://www.searchenginejournal.com/shopify-now-enrolls-your-store-in-every-new-ai-shopping-channel/591049/
-  3. OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual via @sejournal, @MattGSouthern
-     Fecha : Fri, 02 Oct 2026 15:49:43 +0000
-     URL   : https://www.searchenginejournal.com/karpathy-llm-aircraft-manual-writing/591813/
+  1. AI Cites Your Brand: How to Choose Your Next Move via @sejournal, @hethr_campbell
+     Fecha : Mon, 05 Oct 2026 16:16:34 +0000
+     URL   : https://www.searchenginejournal.com/ai-cites-your-brand-how-to-choose-your-next-move/589990/
+  2. Google’s Hidden Data Layer: What Is It And What To Do About It via @sejournal, @demirie
+     Fecha : Mon, 05 Oct 2026 14:30:56 +0000
+     URL   : https://www.searchenginejournal.com/googles-hidden-data-layer-what-is-it-and-what-to-do-about-it/590234/
+  3. How To Build A Content Distribution System That Compounds
+     Fecha : Mon, 05 Oct 2026 12:00:27 +0000
+     URL   : https://www.searchenginejournal.com/how-to-build-a-content-distribution-system-that-compounds/590545/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Federal judge calls Flock ‘indiscriminate mass surveillance’
-     Fecha : Sat, 03 Oct 2026 19:33:15 +0000
-     URL   : https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/
-  2. Amazon responds to data center backlash, says it no longer uses NDAs
-     Fecha : Sat, 03 Oct 2026 18:43:57 +0000
-     URL   : https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/
-  3. OpenAI safety employee resigns, claiming the company’s ‘culture is broken’
-     Fecha : Sat, 03 Oct 2026 16:30:01 +0000
-     URL   : https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/
+  1. HackerRank’s AI interviewer offers a glimpse into what job interviews could become
+     Fecha : Mon, 05 Oct 2026 16:43:35 +0000
+     URL   : https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/
+  2. OpenAI launches visual ads that appear alongside image generation results
+     Fecha : Mon, 05 Oct 2026 15:14:24 +0000
+     URL   : https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/
+  3. Lola Vision Systems is trying to make it easier to run AI models on chips
+     Fecha : Mon, 05 Oct 2026 15:00:00 +0000
+     URL   : https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Pass Designer
-     Fecha : 2026-10-02T21:13:21-07:00
-     URL   : https://www.producthunt.com/products/apple
-  2. Octri.dev
-     Fecha : 2026-09-21T07:26:18-07:00
-     URL   : https://www.producthunt.com/products/octri
-  3. ChatGPT Space
-     Fecha : 2026-09-29T11:04:19-07:00
-     URL   : https://www.producthunt.com/products/chatgpt-space
+  1. Marv
+     Fecha : 2026-10-04T18:14:08-07:00
+     URL   : https://www.producthunt.com/products/marv-3
+  2. FastRouter.ai
+     Fecha : 2026-09-30T15:36:38-07:00
+     URL   : https://www.producthunt.com/products/fastrouter-ai
+  3. Jarq
+     Fecha : 2026-10-04T19:39:41-07:00
+     URL   : https://www.producthunt.com/products/jarq
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Capcom is preparing for a ‘future where we create games together with AI’
-     Fecha : 2026-10-03T12:49:10-04:00
-     URL   : https://www.theverge.com/games/1004418/capcom-ai-game-development
-  2. Splice CEO Kakul Srivastava thinks AI emails are killing conversations
-     Fecha : 2026-10-03T11:00:00-04:00
-     URL   : https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview
-  3. An OpenAI safety employee has quit and is sounding the alarm
-     Fecha : 2026-10-03T10:31:56-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm
+  1. Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time
+     Fecha : 2026-10-05T10:30:00-04:00
+     URL   : https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption
+  2. An open-source tool lets you delete 12GB of Apple Intelligence data on macOS
+     Fecha : 2026-10-05T09:47:14-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool
+  3. OpenAI is sticking more ads in ChatGPT
+     Fecha : 2026-10-05T09:09:48-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-10-04  13:52:20
+  Fin del reporte  ·  2026-10-05  17:02:30
 ═════════════════════════════════════════════════════════════════

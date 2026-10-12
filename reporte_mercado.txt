@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-10-11  14:50:27               ║
+║                  Generado: 2026-10-12  17:41:07               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Sat, 10 Oct 2026 12:00:00 +0000
-     URL   : https://www.searchenginejournal.com/seo-pulse-google-spam-update-crawl-timing-ranges/592469/
-  2. Google Explains How To Use HTML Sitemaps For SEO via @sejournal, @martinibuster
-     Fecha : Fri, 09 Oct 2026 21:31:30 +0000
-     URL   : https://www.searchenginejournal.com/google-explains-how-to-use-html-sitemaps-for-seo/592508/
-  3. AI Overviews Have Spread To Most Big-Brand Searches via @sejournal, @MattGSouthern
-     Fecha : Fri, 09 Oct 2026 12:00:00 +0000
-     URL   : https://www.searchenginejournal.com/ai-overviews-big-brand-searches/592280/
+  1. Negative Signals, Positive Intent: PPC Leads Hiding In ‘Cancel’ Searches
+     Fecha : Mon, 12 Oct 2026 14:30:17 +0000
+     URL   : https://www.searchenginejournal.com/negative-signals-positive-intent-ppc-leads-hiding-in-cancel-searches/590734/
+  2. Your First 30 Days As A Growth Leader – The Challenge From Day One
+     Fecha : Mon, 12 Oct 2026 12:00:07 +0000
+     URL   : https://www.searchenginejournal.com/your-first-30-days-as-a-growth-leader-the-challenge-from-day-one/591036/
+  3. Google Discover To Undergo Dramatic Changes via @sejournal, @martinibuster
+     Fecha : Mon, 12 Oct 2026 11:13:13 +0000
+     URL   : https://www.searchenginejournal.com/google-discover-to-undergo-dramatic-changes/592626/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. What to know about the landmark Warner Bros. Discovery sale
-     Fecha : Sun, 11 Oct 2026 14:15:00 +0000
-     URL   : https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/
-  2. These execs think voice AI hasn’t reached its ChatGPT moment yet
-     Fecha : Sun, 11 Oct 2026 14:00:00 +0000
-     URL   : https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/
-  3. Microsoft’s Satya Nadella says AI models need an ‘emergency brake’
-     Fecha : Sat, 10 Oct 2026 21:47:51 +0000
-     URL   : https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/
+  1. WindBorne wins a hefty US Air Force contract for its balloon data
+     Fecha : Mon, 12 Oct 2026 17:19:14 +0000
+     URL   : https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/
+  2. Honeyjar offers AI tools to improve PR and comms at every company
+     Fecha : Mon, 12 Oct 2026 15:45:00 +0000
+     URL   : https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/
+  3. Microsoft president says UK is best placed to drive AI regulation
+     Fecha : Mon, 12 Oct 2026 15:31:19 +0000
+     URL   : https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Foley
-     Fecha : 2026-10-04T23:48:55-07:00
-     URL   : https://www.producthunt.com/products/foley
-  2. OpenScreen 2
-     Fecha : 2026-09-28T01:10:44-07:00
-     URL   : https://www.producthunt.com/products/openscreen-2
-  3. NewMinecraftServers
-     Fecha : 2026-10-07T09:29:22-07:00
-     URL   : https://www.producthunt.com/products/newminecraftservers
+  1. Milepost
+     Fecha : 2026-09-30T01:07:14-07:00
+     URL   : https://www.producthunt.com/products/milepost-2
+  2. SalesRep.com
+     Fecha : 2026-10-08T15:03:36-07:00
+     URL   : https://www.producthunt.com/products/salesrep-com
+  3. Kudos 3.0
+     Fecha : 2026-10-11T18:58:06-07:00
+     URL   : https://www.producthunt.com/products/kudos-smart-wallet
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Learning to use local AI is exciting, overwhelming, and frustrating
-     Fecha : 2026-10-11T07:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress
-  2. Satya Nadella says we should assume all AI models are ‘compromised’
-     Fecha : 2026-10-10T18:10:17-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised
-  3. DistroKid has been quietly taking down songs in response to UMG lawsuit
-     Fecha : 2026-10-10T14:52:07-04:00
-     URL   : https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit
+  1. Meta has some Wonder Full new AI models
+     Fecha : 2026-10-12T13:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model
+  2. Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs
+     Fecha : 2026-10-12T09:00:00-04:00
+     URL   : https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout
+  3. Silicon Valley is falling in line with Trump’s attempt to rename AI
+     Fecha : 2026-10-11T14:33:56-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-10-11  14:50:27
+  Fin del reporte  ·  2026-10-12  17:41:07
 ═════════════════════════════════════════════════════════════════

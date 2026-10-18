@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-10-17  12:05:01               ║
+║                  Generado: 2026-10-18  12:32:51               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Rank Tracker Data, ChatGPT Tags & AI Search Links – SEO Pulse via @sejournal, @MattGSouthern
+  1. OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern
+     Fecha : Sun, 18 Oct 2026 08:00:00 +0000
+     URL   : https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/
+  2. Google’s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern
+     Fecha : Sat, 17 Oct 2026 18:15:44 +0000
+     URL   : https://www.searchenginejournal.com/google-indexing-api-docs-approval-form-removed/593292/
+  3. Rank Tracker Data, ChatGPT Tags & AI Search Links – SEO Pulse via @sejournal, @MattGSouthern
      Fecha : Sat, 17 Oct 2026 12:00:00 +0000
      URL   : https://www.searchenginejournal.com/seo-pulse-rank-tracker-data-chatgpt-tags-ai-search-links/593171/
-  2. Meta’s New Terms Expand Crawling Rights Beyond Advertisers via @sejournal, @MattGSouthern
-     Fecha : Fri, 16 Oct 2026 21:38:49 +0000
-     URL   : https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/
-  3. Why The New York Times Puts Free Content First
-     Fecha : Fri, 16 Oct 2026 19:00:23 +0000
-     URL   : https://www.searchenginejournal.com/why-the-new-york-times-puts-free-content-first/593021/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept
-     Fecha : Sat, 17 Oct 2026 02:36:18 +0000
-     URL   : https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/
-  2. Replit is no longer working with Anthropic, CEO says
-     Fecha : Fri, 16 Oct 2026 21:22:28 +0000
-     URL   : https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/
-  3. Porsche’s electric Macan Turbo is an automotive existential crisis
-     Fecha : Fri, 16 Oct 2026 19:40:00 +0000
-     URL   : https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/
+  1. Meta removes language that raised scraping and AI training concerns
+     Fecha : Sat, 17 Oct 2026 21:31:32 +0000
+     URL   : https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/
+  2. TikTok permanently bans ‘Musk’ documentary advertising account
+     Fecha : Sat, 17 Oct 2026 20:55:52 +0000
+     URL   : https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/
+  3. Anthropic says its workforce has become less junior and is spending more time in meetings
+     Fecha : Sat, 17 Oct 2026 20:21:19 +0000
+     URL   : https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Train with Pasta
-     Fecha : 2026-10-13T09:21:27-07:00
-     URL   : https://www.producthunt.com/products/train-with-pasta
-  2. LooGo
-     Fecha : 2026-10-11T09:02:08-07:00
-     URL   : https://www.producthunt.com/products/loogo
-  3. Emochi
-     Fecha : 2026-10-16T00:43:37-07:00
-     URL   : https://www.producthunt.com/products/emochi-2
+  1. XBOX Nano Controller
+     Fecha : 2026-10-16T21:07:22-07:00
+     URL   : https://www.producthunt.com/products/microsoft-xbox-series-s
+  2. PasteKit
+     Fecha : 2026-10-08T07:29:41-07:00
+     URL   : https://www.producthunt.com/products/pastekit-2
+  3. Krea 3
+     Fecha : 2026-10-15T17:01:46-07:00
+     URL   : https://www.producthunt.com/products/krea
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops
+  1. Meta removes language that may have allowed it to scrape news sites
+     Fecha : 2026-10-17T11:04:36-04:00
+     URL   : https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites
+  2. Websites are closing their doors to AI agents
+     Fecha : 2026-10-17T09:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web
+  3. A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops
      Fecha : 2026-10-16T11:00:00-04:00
      URL   : https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions
-  2. Meta’s new terms may allow it to train AI on news sites for free
-     Fecha : 2026-10-16T10:02:40-04:00
-     URL   : https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers
-  3. ChatGPT can peek at your Chrome tabs now
-     Fecha : 2026-10-15T18:43:23-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-10-17  12:05:01
+  Fin del reporte  ·  2026-10-18  12:32:51
 ═════════════════════════════════════════════════════════════════

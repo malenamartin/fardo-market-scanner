@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-10-18  12:32:51               ║
+║                  Generado: 2026-10-19  15:28:23               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern
-     Fecha : Sun, 18 Oct 2026 08:00:00 +0000
-     URL   : https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/
-  2. Google’s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern
-     Fecha : Sat, 17 Oct 2026 18:15:44 +0000
-     URL   : https://www.searchenginejournal.com/google-indexing-api-docs-approval-form-removed/593292/
-  3. Rank Tracker Data, ChatGPT Tags & AI Search Links – SEO Pulse via @sejournal, @MattGSouthern
-     Fecha : Sat, 17 Oct 2026 12:00:00 +0000
-     URL   : https://www.searchenginejournal.com/seo-pulse-rank-tracker-data-chatgpt-tags-ai-search-links/593171/
+  1. DeepSeek Opens Its In-House Search Engine To Developers via @sejournal, @MattGSouthern
+     Fecha : Mon, 19 Oct 2026 15:02:15 +0000
+     URL   : https://www.searchenginejournal.com/deepseek-opens-its-in-house-search-engine-to-developers/593526/
+  2. It Knew Every Word via @sejournal, @pedrodias
+     Fecha : Mon, 19 Oct 2026 14:00:20 +0000
+     URL   : https://www.searchenginejournal.com/it-knew-every-word/592680/
+  3. AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds via @sejournal, @MattGSouthern
+     Fecha : Mon, 19 Oct 2026 13:34:28 +0000
+     URL   : https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Meta removes language that raised scraping and AI training concerns
-     Fecha : Sat, 17 Oct 2026 21:31:32 +0000
-     URL   : https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/
-  2. TikTok permanently bans ‘Musk’ documentary advertising account
-     Fecha : Sat, 17 Oct 2026 20:55:52 +0000
-     URL   : https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/
-  3. Anthropic says its workforce has become less junior and is spending more time in meetings
-     Fecha : Sat, 17 Oct 2026 20:21:19 +0000
-     URL   : https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/
+  1. Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review
+     Fecha : Mon, 19 Oct 2026 12:56:14 +0000
+     URL   : https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/
+  2. Musk pledges to give ‘every kid in America’ one of his SpaceX shares
+     Fecha : Mon, 19 Oct 2026 12:42:55 +0000
+     URL   : https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/
+  3. Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics
+     Fecha : Mon, 19 Oct 2026 07:30:00 +0000
+     URL   : https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. XBOX Nano Controller
-     Fecha : 2026-10-16T21:07:22-07:00
-     URL   : https://www.producthunt.com/products/microsoft-xbox-series-s
-  2. PasteKit
-     Fecha : 2026-10-08T07:29:41-07:00
-     URL   : https://www.producthunt.com/products/pastekit-2
-  3. Krea 3
-     Fecha : 2026-10-15T17:01:46-07:00
-     URL   : https://www.producthunt.com/products/krea
+  1. Framefields
+     Fecha : 2026-10-16T07:58:02-07:00
+     URL   : https://www.producthunt.com/products/framefields
+  2. Rusteerio by Context.dev
+     Fecha : 2026-10-18T18:42:06-07:00
+     URL   : https://www.producthunt.com/products/context-dev
+  3. Umbra Mail
+     Fecha : 2026-10-18T16:11:35-07:00
+     URL   : https://www.producthunt.com/products/umbra-mail
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Meta removes language that may have allowed it to scrape news sites
-     Fecha : 2026-10-17T11:04:36-04:00
-     URL   : https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites
-  2. Websites are closing their doors to AI agents
-     Fecha : 2026-10-17T09:00:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web
-  3. A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops
-     Fecha : 2026-10-16T11:00:00-04:00
-     URL   : https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions
+  1. JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes
+     Fecha : 2026-10-19T10:30:00-04:00
+     URL   : https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws
+  2. A hacker broke into John Deere and SharkNinja with an army of AI agents
+     Fecha : 2026-10-19T09:58:41-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins
+  3. Democrats think cracking down on AI could give them an edge
+     Fecha : 2026-10-19T08:00:00-04:00
+     URL   : https://www.theverge.com/policy/1013113/democrats-ai-midterms
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-10-18  12:32:51
+  Fin del reporte  ·  2026-10-19  15:28:23
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-10-21  13:38:56               ║
+║                  Generado: 2026-10-22  13:40:45               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Images & Discover Previews Don’t Support JPEG XL via @sejournal, @MattGSouthern
-     Fecha : Wed, 21 Oct 2026 13:00:00 +0000
-     URL   : https://www.searchenginejournal.com/google-images-discover-previews-dont-support-jpeg-xl/593816/
-  2. Google Crawls Raw And Encoded Bracket URLs Separately via @sejournal, @MattGSouthern
-     Fecha : Wed, 21 Oct 2026 12:06:29 +0000
-     URL   : https://www.searchenginejournal.com/google-crawls-raw-and-encoded-bracket-urls-separately/593765/
-  3. China Wrote The First GEO Rulebook After A TV Scandal – Western SEOs Should Take Notes via @sejournal, @MPentzek
-     Fecha : Wed, 21 Oct 2026 12:00:37 +0000
-     URL   : https://www.searchenginejournal.com/china-wrote-the-first-geo-rulebook-after-a-tv-scandal-western-seos-should-take-notes/593199/
+  1. Why Reddit Belongs In Your PR Strategy via @sejournal, @brentcsutoras
+     Fecha : Thu, 22 Oct 2026 12:00:11 +0000
+     URL   : https://www.searchenginejournal.com/why-reddit-belongs-in-your-pr-strategy/593602/
+  2. Google’s Illyes: Robots.txt Covers Crawling, Not AI Training via @sejournal, @MattGSouthern
+     Fecha : Thu, 22 Oct 2026 10:58:04 +0000
+     URL   : https://www.searchenginejournal.com/google-illyes-robots-txt-crawling-ai-training/593957/
+  3. Google CEO Sundar Pichai Views Search Absorbed Into Agentic Layer via @sejournal, @martinibuster
+     Fecha : Thu, 22 Oct 2026 09:17:18 +0000
+     URL   : https://www.searchenginejournal.com/google-ceo-sundar-pichai-views-search-absorbed-into-agentic-layer/593923/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Heat pump tech is 170 years old. Pascal thinks it’s time for an update.
-     Fecha : Wed, 21 Oct 2026 13:30:00 +0000
-     URL   : https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/
-  2. Mach9 raises $34M after pivoting to AI CAD software
-     Fecha : Wed, 21 Oct 2026 13:00:00 +0000
-     URL   : https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/
-  3. Anthropic pitches AI safety bill that may block a model if 50+ people could be killed
-     Fecha : Tue, 20 Oct 2026 23:01:23 +0000
-     URL   : https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/
+  1. Nirva raises $33M for a pendant that only listens to you
+     Fecha : Thu, 22 Oct 2026 13:26:52 +0000
+     URL   : https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/
+  2. DeepSeek reportedly raises $15B days after US restrictions
+     Fecha : Thu, 22 Oct 2026 13:11:13 +0000
+     URL   : https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/
+  3. Tesla says it will start selling Cybercabs by end of year
+     Fecha : Thu, 22 Oct 2026 00:17:54 +0000
+     URL   : https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. TwinMind for Desktop
-     Fecha : 2026-07-13T15:31:57-07:00
-     URL   : https://www.producthunt.com/products/twinmind
-  2. Woven Video
-     Fecha : 2026-10-20T02:27:15-07:00
-     URL   : https://www.producthunt.com/products/woven-video
-  3. Triage by Chodeberg
-     Fecha : 2026-10-20T15:59:42-07:00
-     URL   : https://www.producthunt.com/products/triage-by-chodeberg
+  1. Archivist
+     Fecha : 2026-10-21T12:16:09-07:00
+     URL   : https://www.producthunt.com/products/archivist
+  2. Dadan
+     Fecha : 2026-10-20T04:49:27-07:00
+     URL   : https://www.producthunt.com/products/dadan
+  3. Playad
+     Fecha : 2026-10-12T03:56:22-07:00
+     URL   : https://www.producthunt.com/products/playad
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit
-     Fecha : 2026-10-20T19:04:19-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed
-  2. Google’s more personalized Gemini AI is heading to your car
-     Fecha : 2026-10-20T18:11:34-04:00
-     URL   : https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto
-  3. Meta pauses Muse sharing after researchers find AI chats on the web
-     Fecha : 2026-10-20T14:07:34-04:00
-     URL   : https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats
+  1. 1Password lets AI agents use your passwords without seeing them
+     Fecha : 2026-10-22T09:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in
+  2. AI agents are ready to shop. Some retailers are wary.
+     Fecha : 2026-10-22T08:30:00-04:00
+     URL   : https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse
+  3. Claude did not invent scorpion antivenom
+     Fecha : 2026-10-22T08:21:07-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-10-21  13:38:56
+  Fin del reporte  ·  2026-10-22  13:40:45
 ═════════════════════════════════════════════════════════════════

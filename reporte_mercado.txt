@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-10-24  12:35:14               ║
+║                  Generado: 2026-10-25  13:07:04               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -23,41 +23,41 @@
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Startups don’t need to go viral to win customers
-     Fecha : Fri, 23 Oct 2026 23:07:45 +0000
-     URL   : https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/
-  2. OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”
-     Fecha : Fri, 23 Oct 2026 23:05:49 +0000
-     URL   : https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/
-  3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell
-     Fecha : Fri, 23 Oct 2026 21:59:19 +0000
-     URL   : https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/
+  1. Starlink seems to be working normally again in Ukraine
+     Fecha : Sat, 24 Oct 2026 20:46:34 +0000
+     URL   : https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/
+  2. Will AI expose the rickety infrastructure of the internet?
+     Fecha : Sat, 24 Oct 2026 20:15:33 +0000
+     URL   : https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/
+  3. The AI graveyard: a running list of projects and startups that didn’t make it
+     Fecha : Sat, 24 Oct 2026 19:00:00 +0000
+     URL   : https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Many Displays
-     Fecha : 2026-10-14T06:26:54-07:00
-     URL   : https://www.producthunt.com/products/many-displays
-  2. River Writer
-     Fecha : 2026-10-22T10:23:21-07:00
-     URL   : https://www.producthunt.com/products/river-writer
-  3. 1Password for Agents
-     Fecha : 2026-10-22T11:14:06-07:00
-     URL   : https://www.producthunt.com/products/1password
+  1. Specsight
+     Fecha : 2026-10-18T11:03:42-07:00
+     URL   : https://www.producthunt.com/products/specsight
+  2. AgentGrid.io
+     Fecha : 2026-10-24T22:39:16-07:00
+     URL   : https://www.producthunt.com/products/agentgrid-io
+  3. Llama Windows
+     Fecha : 2026-10-23T19:40:27-07:00
+     URL   : https://www.producthunt.com/products/llama-windows
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. OpenAI now trains its frontier AI models with no internet access
-     Fecha : 2026-10-23T17:11:07-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet
-  2. Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend
-     Fecha : 2026-10-23T15:32:39-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech
-  3. The iPhone Duo should have been an iPad
-     Fecha : 2026-10-23T13:00:18-04:00
-     URL   : https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast
+  1. Google’s AI search changes upended online publishing
+     Fecha : 2026-10-25T08:00:00-04:00
+     URL   : https://www.theverge.com/column/1017983/google-ai-search-online-publishing
+  2. Blue Planet III is keeping the rough edges in the age of AI
+     Fecha : 2026-10-24T17:29:12-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai
+  3. Pennsylvania will require labels on AI-generated ads
+     Fecha : 2026-10-24T14:32:21-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-10-24  12:35:14
+  Fin del reporte  ·  2026-10-25  13:07:04
 ═════════════════════════════════════════════════════════════════

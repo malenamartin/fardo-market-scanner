@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-10-27  14:18:05               ║
+║                  Generado: 2026-10-28  14:59:42               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. ChatGPT Data: 1 In 5 Consumer Messages Now Seek Information via @sejournal, @MattGSouthern
-     Fecha : Tue, 27 Oct 2026 14:13:30 +0000
-     URL   : https://www.searchenginejournal.com/chatgpt-signals-consumer-messages-information-seeking/594527/
-  2. How I Decide Where The Next $100,000 Of Marketing Budget Should Go
-     Fecha : Tue, 27 Oct 2026 14:00:18 +0000
-     URL   : https://www.searchenginejournal.com/how-i-decide-where-the-next-100000-of-marketing-budget-should-go/593211/
-  3. Flat Traffic, No Budget: What Ziff Davis’ Jonathan Berthold Tests First
-     Fecha : Tue, 27 Oct 2026 12:00:41 +0000
-     URL   : https://www.searchenginejournal.com/flat-traffic-no-budget-what-ziff-davis-jonathan-berthold-tests-first/593483/
+  1. The Hreflang Magic Trick – It Routes, It Doesn’t Rank via @sejournal, @billhunt
+     Fecha : Wed, 28 Oct 2026 14:00:59 +0000
+     URL   : https://www.searchenginejournal.com/the-hreflang-magic-trick-it-routes-it-doesnt-rank/591979/
+  2. Decodo Launches Web Data API To Give AI Agents Web Access
+     Fecha : Wed, 28 Oct 2026 13:00:00 +0000
+     URL   : https://www.searchenginejournal.com/decodo-launches-web-data-api-to-give-ai-agents-web-access-spn/594415/
+  3. GA4 Missed 66% Of One Retailer’s Holiday Orders: Check Yours Before Peak Season
+     Fecha : Wed, 28 Oct 2026 12:00:45 +0000
+     URL   : https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-saeson/593007/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Apple rolls out iOS 27.2 with new Siri AI languages and security fixes
-     Fecha : Tue, 27 Oct 2026 13:54:51 +0000
-     URL   : https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/
-  2. Japan internet giant GMO says hackers posted stolen customer data
-     Fecha : Tue, 27 Oct 2026 13:32:57 +0000
-     URL   : https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/
-  3. Billionaire Palmer Luckey isn’t leaving California over the wealth tax
-     Fecha : Tue, 27 Oct 2026 13:01:00 +0000
-     URL   : https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/
+  1. Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices
+     Fecha : Wed, 28 Oct 2026 14:34:25 +0000
+     URL   : https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/
+  2. TikTok expands into restaurant guides with ‘Must Eat’ feature
+     Fecha : Wed, 28 Oct 2026 14:26:36 +0000
+     URL   : https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/
+  3. Meta has a new AI pet app called Waddle World
+     Fecha : Wed, 28 Oct 2026 13:53:31 +0000
+     URL   : https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Off Grid AI
-     Fecha : 2026-10-26T05:12:10-07:00
-     URL   : https://www.producthunt.com/products/off-grid-ai
-  2. PulseDev
-     Fecha : 2026-10-26T15:47:46-07:00
-     URL   : https://www.producthunt.com/products/pulsedev
-  3. fswitcher
-     Fecha : 2026-10-26T13:26:31-07:00
-     URL   : https://www.producthunt.com/products/fswitcher
+  1. throxy
+     Fecha : 2026-10-26T12:23:12-07:00
+     URL   : https://www.producthunt.com/products/throxy-yc-p25
+  2. BotGauge
+     Fecha : 2026-10-15T11:04:55-07:00
+     URL   : https://www.producthunt.com/products/botgauge-2
+  3. App Store Screenshots
+     Fecha : 2026-10-04T00:57:55-07:00
+     URL   : https://www.producthunt.com/products/app-store-screenshots
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Apple is adding an AI chatbot to Pages, Keynote, and Numbers
-     Fecha : 2026-10-27T09:50:51-04:00
-     URL   : https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update
-  2. Data center backlash is uniting America
-     Fecha : 2026-10-27T06:00:00-04:00
-     URL   : https://www.theverge.com/policy/1019152/data-centers-midterm-elections
-  3. OpenAI announces three big science discoveries and a new way to work with academics
-     Fecha : 2026-10-26T19:34:58-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics
+  1. xAI is buying out homeowners who promise not to sue over data center noise
+     Fecha : 2026-10-28T10:44:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit
+  2. Voters in Texas agree: They hate data centers
+     Fecha : 2026-10-28T08:00:00-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas
+  3. Meta quietly launched an &#8216;AI pet journal&#8217; app
+     Fecha : 2026-10-28T07:27:30-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-10-27  14:18:05
+  Fin del reporte  ·  2026-10-28  14:59:42
 ═════════════════════════════════════════════════════════════════

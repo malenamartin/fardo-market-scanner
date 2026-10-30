@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-10-29  15:06:57               ║
+║                  Generado: 2026-10-30  14:58:19               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. OpenAI’s Aura Safety Check Can Block Your Site From ChatGPT Browsing via @sejournal, @TaylorDanRW
-     Fecha : Thu, 29 Oct 2026 14:00:06 +0000
-     URL   : https://www.searchenginejournal.com/openais-aura-safety-check-can-block-your-site-from-chatgpt-browsing/594322/
-  2. HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing via @sejournal, @gregjarboe
-     Fecha : Thu, 29 Oct 2026 12:00:46 +0000
-     URL   : https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/
-  3. Google Recommends Using Custom 404 Error Pages via @sejournal, @martinibuster
-     Fecha : Thu, 29 Oct 2026 11:07:37 +0000
-     URL   : https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/
+  1. ChatGPT Ads Turns On Automatic Ad Changes By Default via @sejournal, @MattGSouthern
+     Fecha : Fri, 30 Oct 2026 14:17:57 +0000
+     URL   : https://www.searchenginejournal.com/chatgpt-ads-turns-on-automatic-ad-changes-by-default/595117/
+  2. What Search Console Can Still Tell You When Indexing Data Lags via @sejournal, @MattGSouthern
+     Fecha : Fri, 30 Oct 2026 14:00:00 +0000
+     URL   : https://www.searchenginejournal.com/what-search-console-can-still-tell-you-when-indexing-data-lags/595016/
+  3. Google’s Q3 Earnings Call Casts Shadow Over Classic Search via @sejournal, @martinibuster
+     Fecha : Fri, 30 Oct 2026 13:02:09 +0000
+     URL   : https://www.searchenginejournal.com/googles-q3-earnings-call-casts-shadow-over-classic-search/595082/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy
-     Fecha : Thu, 29 Oct 2026 15:00:00 +0000
-     URL   : https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/
-  2. Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round
-     Fecha : Thu, 29 Oct 2026 14:35:26 +0000
-     URL   : https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/
-  3. Bluesky blocks links to leaked DHS employee data as government seeks takedowns
-     Fecha : Thu, 29 Oct 2026 13:43:53 +0000
-     URL   : https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/
+  1. North Korean hackers blamed for stealing record $6.3B in Binance breach
+     Fecha : Fri, 30 Oct 2026 14:00:25 +0000
+     URL   : https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/
+  2. Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate
+     Fecha : Fri, 30 Oct 2026 14:00:00 +0000
+     URL   : https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/
+  3. DoorDash said it’s only received ‘several hundred’ orders from AI agents
+     Fecha : Fri, 30 Oct 2026 13:54:25 +0000
+     URL   : https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Intrascope 2.0
-     Fecha : 2026-10-26T06:58:42-07:00
-     URL   : https://www.producthunt.com/products/intrascope-app
-  2. TopAgent
-     Fecha : 2026-10-19T05:56:25-07:00
-     URL   : https://www.producthunt.com/products/topmessage
-  3. Recall for Mac
-     Fecha : 2026-10-27T23:10:13-07:00
-     URL   : https://www.producthunt.com/products/recall-for-mac
+  1. Cluinn
+     Fecha : 2026-10-16T08:08:14-07:00
+     URL   : https://www.producthunt.com/products/cluinn
+  2. Faylee
+     Fecha : 2026-10-29T10:54:14-07:00
+     URL   : https://www.producthunt.com/products/faylee
+  3. SparkBots AI (Powered by Jev)
+     Fecha : 2026-10-26T22:29:14-07:00
+     URL   : https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. The NYT Cooking app is testing AI recipe modifications
-     Fecha : 2026-10-29T10:39:37-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool
-  2. Anthropic is asking Wall Street to believe in AGI
-     Fecha : 2026-10-29T10:00:00-04:00
-     URL   : https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview
-  3. Anthropic’s business plan: Build God or die trying
-     Fecha : 2026-10-29T09:30:00-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive
+  1. Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’
+     Fecha : 2026-10-30T10:58:06-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai
+  2. Silicon Valley wants you to invest in miracles
+     Fecha : 2026-10-30T09:11:05-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles
+  3. Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop
+     Fecha : 2026-10-30T09:01:14-04:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-10-29  15:06:57
+  Fin del reporte  ·  2026-10-30  14:58:19
 ═════════════════════════════════════════════════════════════════

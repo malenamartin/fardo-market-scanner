@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-11-02  18:07:35               ║
+║                  Generado: 2026-11-03  16:01:51               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. How To Run A Full-Funnel Ecommerce Account Through BFCM Week via @sejournal, @tonyadam
-     Fecha : Mon, 02 Nov 2026 15:00:59 +0000
-     URL   : https://www.searchenginejournal.com/how-to-run-a-full-funnel-ecommerce-account-through-bfcm-week/594047/
-  2. Google Search Ad Visits Out-Earned ChatGPT Ads In U.S. via @sejournal, @MattGSouthern
-     Fecha : Mon, 02 Nov 2026 14:41:23 +0000
-     URL   : https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/
-  3. 3 AI Models Shopped Shopify’s Catalog – Each Picked A Different Winner via @sejournal, @slobodanmanic
-     Fecha : Mon, 02 Nov 2026 13:00:14 +0000
-     URL   : https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/
+  1. Google Favors High Ad Strength RSAs, But Lower-Rated Ads Convert Better via @sejournal, @gregjarboe
+     Fecha : Tue, 03 Nov 2026 15:00:44 +0000
+     URL   : https://www.searchenginejournal.com/google-favors-high-ad-strength-rsas-but-lower-rated-ads-convert-better/595478/
+  2. Building A Global Content Factory With AI (Without Losing The Human Touch) via @sejournal, @motokohunt
+     Fecha : Tue, 03 Nov 2026 13:00:01 +0000
+     URL   : https://www.searchenginejournal.com/building-a-global-content-factory-with-ai-without-losing-the-human-touch/593904/
+  3. Google Says It’s Okay To Block Some JavaScript Resources With Robots.txt via @sejournal, @martinibuster
+     Fecha : Tue, 03 Nov 2026 11:16:50 +0000
+     URL   : https://www.searchenginejournal.com/google-says-its-okay-to-block-some-javascript-resources-with-robots-txt/595736/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. In one of the largest deals in tech history, Marvell buys Lumentum for $115B
-     Fecha : Mon, 02 Nov 2026 17:54:11 +0000
-     URL   : https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/
-  2. Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers
-     Fecha : Mon, 02 Nov 2026 17:49:41 +0000
-     URL   : https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/
-  3. SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon
-     Fecha : Mon, 02 Nov 2026 16:44:48 +0000
-     URL   : https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/
+  1. Apple restricts dating apps and AI companions to users 18 and up
+     Fecha : Tue, 03 Nov 2026 15:38:27 +0000
+     URL   : https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/
+  2. The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4
+     Fecha : Tue, 03 Nov 2026 14:30:00 +0000
+     URL   : https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/
+  3. Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase
+     Fecha : Tue, 03 Nov 2026 14:00:00 +0000
+     URL   : https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Xmind 2027
-     Fecha : 2026-11-01T16:24:06-08:00
-     URL   : https://www.producthunt.com/products/xmind
-  2. Friday Work
-     Fecha : 2026-11-01T14:55:35-08:00
-     URL   : https://www.producthunt.com/products/friday-work
-  3. Clayzo
-     Fecha : 2026-10-23T15:33:11-07:00
-     URL   : https://www.producthunt.com/products/clayzo
+  1. BRCKS Chat
+     Fecha : 2026-10-29T07:48:27-07:00
+     URL   : https://www.producthunt.com/products/brcks
+  2. IQ
+     Fecha : 2026-10-27T16:21:31-07:00
+     URL   : https://www.producthunt.com/products/iq-code
+  3. Brink
+     Fecha : 2026-11-02T19:26:29-08:00
+     URL   : https://www.producthunt.com/products/brink-2
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. I built an AI Tamagotchi before Meta could
-     Fecha : 2026-10-31T12:05:00-04:00
-     URL   : https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code
-  2. Apple Intelligence is finally coming to China with iOS 27.3
-     Fecha : 2026-10-30T18:32:53-04:00
-     URL   : https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3
-  3. Sam Altman says it’s better for RAM to be in a data center than on your desk
-     Fecha : 2026-10-30T16:48:43-04:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers
+  1. Midterm elections 2026: all the news
+     Fecha : 2026-11-03T10:58:39-05:00
+     URL   : https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news
+  2. Apple is all in on AI — its own and everyone else&#8217;s
+     Fecha : 2026-11-03T10:24:51-05:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai
+  3. OpenAI is quietly renaming data centers ‘compute campuses’
+     Fecha : 2026-11-03T10:00:44-05:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-11-02  18:07:35
+  Fin del reporte  ·  2026-11-03  16:01:51
 ═════════════════════════════════════════════════════════════════

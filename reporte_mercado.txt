@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-11-04  16:07:24               ║
+║                  Generado: 2026-11-05  16:21:32               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. The 11 SEO Features Every CMS Should Ship With (Most Still Don’t) via @sejournal, @sallymills
-     Fecha : Wed, 04 Nov 2026 15:00:12 +0000
-     URL   : https://www.searchenginejournal.com/the-11-seo-features-every-cms-should-ship-with-most-still-dont/594074/
-  2. Reddit Is Going Logged-In Only – Brands Still Need To Be In The Conversation via @sejournal, @brentcsutoras
-     Fecha : Wed, 04 Nov 2026 13:00:52 +0000
-     URL   : https://www.searchenginejournal.com/reddit-is-going-logged-in-only-brands-still-need-to-be-in-the-conversation/595765/
-  3. Google’s Search Volume Is About 5x ChatGPT’s, OpenAI Says via @sejournal, @MattGSouthern
-     Fecha : Tue, 03 Nov 2026 21:13:38 +0000
-     URL   : https://www.searchenginejournal.com/googles-search-volume-is-about-5x-chatgpts-openai-says/595817/
+  1. Ads In Google AI Answers Concentrate In Apparel & Electronics via @sejournal, @MattGSouthern
+     Fecha : Thu, 05 Nov 2026 15:15:08 +0000
+     URL   : https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/
+  2. How To Optimize For Better Campaign Leads, Not Just Conversions – Ask A PPC via @sejournal, @navahf
+     Fecha : Thu, 05 Nov 2026 15:00:32 +0000
+     URL   : https://www.searchenginejournal.com/ask-a-ppc-how-to-optimize-for-better-outcomes-not-just-conversions/594569/
+  3. GEO Isn’t A Distraction – Referral Data Misses Where AI Shapes Buying Decisions via @sejournal, @TaylorDanRW
+     Fecha : Thu, 05 Nov 2026 13:00:43 +0000
+     URL   : https://www.searchenginejournal.com/geo-isnt-a-distraction-referral-data-misses-where-ai-shapes-buying-decisions/595730/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Titan OS raises $46 million to expand its smart TV OS internationally
-     Fecha : Wed, 04 Nov 2026 15:00:00 +0000
-     URL   : https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/
-  2. Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank
-     Fecha : Wed, 04 Nov 2026 14:10:10 +0000
-     URL   : https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/
-  3. TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston
-     Fecha : Wed, 04 Nov 2026 13:00:00 +0000
-     URL   : https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/
+  1. Axiom Math wants to keep AI slop out of mathematics
+     Fecha : Thu, 05 Nov 2026 16:16:45 +0000
+     URL   : https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/
+  2. Bluesky hit peak usage for the year on election night
+     Fecha : Thu, 05 Nov 2026 15:44:58 +0000
+     URL   : https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/
+  3. Zipline hits $21.5B valuation as Walmart expands bet on drone delivery
+     Fecha : Thu, 05 Nov 2026 15:40:34 +0000
+     URL   : https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Render Sandboxes
-     Fecha : 2026-10-23T08:02:02-07:00
-     URL   : https://www.producthunt.com/products/render
-  2. Hindsight Models and Inference API
-     Fecha : 2026-11-03T11:30:48-08:00
-     URL   : https://www.producthunt.com/products/vectorize
-  3. Basedash Verified dashboards
-     Fecha : 2026-11-03T08:49:46-08:00
-     URL   : https://www.producthunt.com/products/basedash
+  1. Rerun
+     Fecha : 2026-11-03T05:00:39-08:00
+     URL   : https://www.producthunt.com/products/rerun-2
+  2. TextKit
+     Fecha : 2026-11-04T16:10:10-08:00
+     URL   : https://www.producthunt.com/products/textkit-2
+  3. Polylane for Google Cloud
+     Fecha : 2026-11-04T10:54:52-08:00
+     URL   : https://www.producthunt.com/products/polylane
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Uber only fulfilled 4 rides from AI agents last quarter
-     Fecha : 2026-11-04T10:58:45-05:00
-     URL   : https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation
-  2. Sam Altman addresses RAM comments: people should &#8216;put as much as they want in their computers&#8217;
-     Fecha : 2026-11-04T09:46:01-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments
-  3. Google hasn&#8217;t figured out how to make AI pay like its search engine
-     Fecha : 2026-11-04T07:00:00-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3
+  1. The hidden supply chain costs of the AI boom
+     Fecha : 2026-11-05T10:00:00-05:00
+     URL   : https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book
+  2. You can post AI music straight to SoundCloud from ElevenLabs
+     Fecha : 2026-11-05T10:00:00-05:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs
+  3. Big Tech’s big AI buildout will not end until someone stops it
+     Fecha : 2026-11-05T05:45:00-05:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-11-04  16:07:24
+  Fin del reporte  ·  2026-11-05  16:21:32
 ═════════════════════════════════════════════════════════════════

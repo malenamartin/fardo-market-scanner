@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-11-06  15:50:20               ║
+║                  Generado: 2026-11-07  14:49:41               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. TikTok Search Ads Are Becoming Real Search Advertising via @sejournal, @MattGSouthern
-     Fecha : Fri, 06 Nov 2026 15:35:29 +0000
-     URL   : https://www.searchenginejournal.com/tiktok-search-ads-are-becoming-real-search-advertising/596016/
-  2. AI Visibility Isn’t A Sham – Most Ways Of Measuring It Are via @sejournal, @gregjarboe
-     Fecha : Fri, 06 Nov 2026 15:00:32 +0000
-     URL   : https://www.searchenginejournal.com/ai-visibility-isnt-a-sham-most-ways-of-measuring-it-are/594405/
-  3. FTC Unseals Details In Amazon Ads Auction Surcharge Suit via @sejournal, @brookeosmundson
-     Fecha : Thu, 05 Nov 2026 21:23:01 +0000
-     URL   : https://www.searchenginejournal.com/ftc-unseals-details-amazon-ads-auction-surcharge-suit/596010/
+  1. Rank Data Problems, PageSpeed Scores & AI Training Opt-Out – SEO Pulse via @sejournal, @MattGSouthern
+     Fecha : Sat, 07 Nov 2026 13:00:00 +0000
+     URL   : https://www.searchenginejournal.com/seo-pulse-rank-data-problems-pagespeed-scores-ai-training-opt-out/596104/
+  2. Brave Sells Its Search Index To AI, And Your Website Is Probably In It via @sejournal, @slobodanmanic
+     Fecha : Fri, 06 Nov 2026 20:00:19 +0000
+     URL   : https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/
+  3. Google Gemini Business Profile Tools Are Coming To Workspace via @sejournal, @MattGSouthern
+     Fecha : Fri, 06 Nov 2026 17:18:34 +0000
+     URL   : https://www.searchenginejournal.com/google-gemini-business-profile-workspace-2/596120/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. After blocking Muse, Amazon now lets users text Alexa to help them shop
-     Fecha : Fri, 06 Nov 2026 14:10:00 +0000
-     URL   : https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/
-  2. Underdog shows off a 32MB speech model in new demo
-     Fecha : Fri, 06 Nov 2026 13:02:16 +0000
-     URL   : https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/
-  3. Physicl raises $10M to make the digital world real enough for robots
-     Fecha : Fri, 06 Nov 2026 13:00:00 +0000
-     URL   : https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/
+  1. Sequoia shutting down its Scouts program marks the end of an era
+     Fecha : Sat, 07 Nov 2026 05:01:54 +0000
+     URL   : https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/
+  2. From the front row to the hot seat — what the midterms mean for Big Tech
+     Fecha : Sat, 07 Nov 2026 04:16:43 +0000
+     URL   : https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/
+  3. Crusoe sells troubled Wyoming data center project to Google
+     Fecha : Sat, 07 Nov 2026 01:40:28 +0000
+     URL   : https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Turnstone
-     Fecha : 2026-08-19T21:40:12-07:00
-     URL   : https://www.producthunt.com/products/turnstone
-  2. Datastripes Data Stories
-     Fecha : 2026-11-04T05:49:01-08:00
-     URL   : https://www.producthunt.com/products/datastripes
-  3. Tobira Site Agent
-     Fecha : 2026-10-24T04:25:07-07:00
-     URL   : https://www.producthunt.com/products/tobira-ai
+  1. ChatGPT Images 2.6
+     Fecha : 2026-11-05T08:20:03-08:00
+     URL   : https://www.producthunt.com/products/openai
+  2. Standflow
+     Fecha : 2026-10-31T15:13:34-07:00
+     URL   : https://www.producthunt.com/products/standflow
+  3. PacerTrip
+     Fecha : 2026-10-22T04:54:24-07:00
+     URL   : https://www.producthunt.com/products/pacertrip
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Amazon will let you text Alexa your shopping list
-     Fecha : 2026-11-06T09:00:00-05:00
-     URL   : https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders
-  2. Protesters break into Microsoft data center site in Amsterdam
-     Fecha : 2026-11-06T06:55:19-05:00
-     URL   : https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam
-  3. OpenAI is stepping back from NDAs for data center projects
-     Fecha : 2026-11-05T19:37:56-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda
+  1. Why a new report on Anthropic automating AI development is alarming researchers
+     Fecha : 2026-11-07T07:30:00-05:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development
+  2. OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO
+     Fecha : 2026-11-06T18:46:18-05:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation
+  3. China reportedly recruited AI exec to spy on Jensen Huang
+     Fecha : 2026-11-06T18:00:44-05:00
+     URL   : https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-11-06  15:50:20
+  Fin del reporte  ·  2026-11-07  14:49:41
 ═════════════════════════════════════════════════════════════════

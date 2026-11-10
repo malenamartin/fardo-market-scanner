@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-11-09  18:37:51               ║
+║                  Generado: 2026-11-10  16:19:54               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Ads Tests Asset Activity Page With Weekly AI Insights via @sejournal, @MattGSouthern
-     Fecha : Mon, 09 Nov 2026 16:30:00 +0000
-     URL   : https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/
-  2. SEO Split Testing In 2027: How To Prove A Change Actually Worked
-     Fecha : Mon, 09 Nov 2026 15:00:42 +0000
-     URL   : https://www.searchenginejournal.com/seo-split-testing-prove-change-worked/594529/
-  3. Report Puts AI At 76B Monthly Sessions, Drops Search Engine Comparison via @sejournal, @MattGSouthern
-     Fecha : Mon, 09 Nov 2026 15:00:00 +0000
-     URL   : https://www.searchenginejournal.com/ai-76-billion-monthly-sessions-search-comparison/596389/
+  1. Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines via @sejournal, @_nitman
+     Fecha : Tue, 10 Nov 2026 15:00:54 +0000
+     URL   : https://www.searchenginejournal.com/good-vs-bad-pseo-learnings-from-a-decade-of-building-scalable-content-engines/594204/
+  2. Jon Miller On AI And The Future Of Marketing Automation via @sejournal, @hethr_campbell
+     Fecha : Tue, 10 Nov 2026 13:00:26 +0000
+     URL   : https://www.searchenginejournal.com/jon-miller-ai-marketing-automation/596446/
+  3. Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 via @sejournal, @MattGSouthern
+     Fecha : Tue, 10 Nov 2026 11:30:00 +0000
+     URL   : https://www.searchenginejournal.com/meta-pauses-updated-business-ad-terms/596493/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny
-     Fecha : Mon, 09 Nov 2026 18:09:52 +0000
-     URL   : https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/
-  2. Meta releases Muse Ember, a new lightweight model for agent execution
-     Fecha : Mon, 09 Nov 2026 18:00:00 +0000
-     URL   : https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/
-  3. Uber launches parking service following SpotHero acquisition, with an eye on robotaxis
-     Fecha : Mon, 09 Nov 2026 17:00:00 +0000
-     URL   : https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/
+  1. Apple TV makes sign language interpretation a built-in accessibility feature
+     Fecha : Tue, 10 Nov 2026 16:00:00 +0000
+     URL   : https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/
+  2. Google broadens its AI hardware portfolio with two new specialized chips
+     Fecha : Tue, 10 Nov 2026 15:54:08 +0000
+     URL   : https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/
+  3. N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs
+     Fecha : Tue, 10 Nov 2026 15:45:27 +0000
+     URL   : https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. If You Read This
-     Fecha : 2026-11-06T08:47:29-08:00
-     URL   : https://www.producthunt.com/products/if-you-read-this
-  2. Arcjet AI security models
-     Fecha : 2026-11-06T07:23:25-08:00
-     URL   : https://www.producthunt.com/products/arcjet
-  3. Higgsfield Miracle
-     Fecha : 2026-11-07T10:28:56-08:00
-     URL   : https://www.producthunt.com/products/higgsfield
+  1. Ownkube
+     Fecha : 2026-10-20T07:25:22-07:00
+     URL   : https://www.producthunt.com/products/ownkube
+  2. TOWeb 15
+     Fecha : 2026-11-03T10:07:07-08:00
+     URL   : https://www.producthunt.com/products/toweb
+  3. Operum
+     Fecha : 2026-10-10T20:07:59-07:00
+     URL   : https://www.producthunt.com/products/operum
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Instagram’s Effect Builder makes new filters from AI prompts
-     Fecha : 2026-11-09T13:07:23-05:00
-     URL   : https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters
-  2. The future of AI hinges on… Jensen Huang’s sex life?
-     Fecha : 2026-11-09T12:36:08-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me
-  3. Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec
-     Fecha : 2026-11-09T10:50:38-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai
+  1. Google releases Gemini 4 Carbon with agent ‘swarm’ feature
+     Fecha : 2026-11-10T11:00:00-05:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout
+  2. Anthropic targets $1.4 trillion IPO
+     Fecha : 2026-11-10T09:06:54-05:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion
+  3. Adobe is going all in on agentic AI
+     Fecha : 2026-11-10T09:00:00-05:00
+     URL   : https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-11-09  18:37:51
+  Fin del reporte  ·  2026-11-10  16:19:54
 ═════════════════════════════════════════════════════════════════

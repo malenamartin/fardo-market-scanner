@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-11-10  16:19:54               ║
+║                  Generado: 2026-11-11  16:00:09               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines via @sejournal, @_nitman
-     Fecha : Tue, 10 Nov 2026 15:00:54 +0000
-     URL   : https://www.searchenginejournal.com/good-vs-bad-pseo-learnings-from-a-decade-of-building-scalable-content-engines/594204/
-  2. Jon Miller On AI And The Future Of Marketing Automation via @sejournal, @hethr_campbell
-     Fecha : Tue, 10 Nov 2026 13:00:26 +0000
-     URL   : https://www.searchenginejournal.com/jon-miller-ai-marketing-automation/596446/
-  3. Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 via @sejournal, @MattGSouthern
-     Fecha : Tue, 10 Nov 2026 11:30:00 +0000
-     URL   : https://www.searchenginejournal.com/meta-pauses-updated-business-ad-terms/596493/
+  1. Visibility Gets You On The List, Evidence Helps You Stay There via @sejournal, @billhunt
+     Fecha : Wed, 11 Nov 2026 15:00:59 +0000
+     URL   : https://www.searchenginejournal.com/visibility-gets-you-on-the-list-evidence-helps-you-stay-there/592127/
+  2. Google Discovers Unexpected Patterns In AI Image Generation via @sejournal, @martinibuster
+     Fecha : Wed, 11 Nov 2026 14:18:51 +0000
+     URL   : https://www.searchenginejournal.com/google-discovers-unexpected-patterns-in-ai-image-generation/596745/
+  3. Google Ads Gives You More Channel Control – But Not As Much As You Think via @sejournal, @brookeosmundson
+     Fecha : Wed, 11 Nov 2026 13:00:37 +0000
+     URL   : https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Apple TV makes sign language interpretation a built-in accessibility feature
-     Fecha : Tue, 10 Nov 2026 16:00:00 +0000
-     URL   : https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/
-  2. Google broadens its AI hardware portfolio with two new specialized chips
-     Fecha : Tue, 10 Nov 2026 15:54:08 +0000
-     URL   : https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/
-  3. N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs
-     Fecha : Tue, 10 Nov 2026 15:45:27 +0000
-     URL   : https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/
+  1. Siri co-founder backs Helix for its voice ID tech
+     Fecha : Wed, 11 Nov 2026 15:02:47 +0000
+     URL   : https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/
+  2. Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth
+     Fecha : Wed, 11 Nov 2026 15:00:00 +0000
+     URL   : https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/
+  3. Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads
+     Fecha : Wed, 11 Nov 2026 14:00:00 +0000
+     URL   : https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Ownkube
-     Fecha : 2026-10-20T07:25:22-07:00
-     URL   : https://www.producthunt.com/products/ownkube
-  2. TOWeb 15
-     Fecha : 2026-11-03T10:07:07-08:00
-     URL   : https://www.producthunt.com/products/toweb
-  3. Operum
-     Fecha : 2026-10-10T20:07:59-07:00
-     URL   : https://www.producthunt.com/products/operum
+  1. Mister Blocks
+     Fecha : 2026-11-10T19:26:18-08:00
+     URL   : https://www.producthunt.com/products/mister-blocks
+  2. ScroogeFrog AI
+     Fecha : 2026-10-19T01:11:42-07:00
+     URL   : https://www.producthunt.com/products/scroogefrog-ai-antifraud
+  3. Muse Ember by Meta
+     Fecha : 2026-11-09T14:14:58-08:00
+     URL   : https://www.producthunt.com/products/meta-ai
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Google releases Gemini 4 Carbon with agent ‘swarm’ feature
-     Fecha : 2026-11-10T11:00:00-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout
-  2. Anthropic targets $1.4 trillion IPO
-     Fecha : 2026-11-10T09:06:54-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion
-  3. Adobe is going all in on agentic AI
-     Fecha : 2026-11-10T09:00:00-05:00
-     URL   : https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates
+  1. Google’s AlphaGenome 2 zooms in on the cellular roots of disease
+     Fecha : 2026-11-11T10:00:00-05:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model
+  2. Adobe’s AI experiments let you walk around in photos and interview your characters
+     Fecha : 2026-11-11T09:00:00-05:00
+     URL   : https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai
+  3. The US is winning the AI race. Jensen Huang could have blown it
+     Fecha : 2026-11-10T14:04:05-05:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-11-10  16:19:54
+  Fin del reporte  ·  2026-11-11  16:00:09
 ═════════════════════════════════════════════════════════════════

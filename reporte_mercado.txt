@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-11-11  16:00:09               ║
+║                  Generado: 2026-11-12  16:43:30               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Visibility Gets You On The List, Evidence Helps You Stay There via @sejournal, @billhunt
-     Fecha : Wed, 11 Nov 2026 15:00:59 +0000
-     URL   : https://www.searchenginejournal.com/visibility-gets-you-on-the-list-evidence-helps-you-stay-there/592127/
-  2. Google Discovers Unexpected Patterns In AI Image Generation via @sejournal, @martinibuster
-     Fecha : Wed, 11 Nov 2026 14:18:51 +0000
-     URL   : https://www.searchenginejournal.com/google-discovers-unexpected-patterns-in-ai-image-generation/596745/
-  3. Google Ads Gives You More Channel Control – But Not As Much As You Think via @sejournal, @brookeosmundson
-     Fecha : Wed, 11 Nov 2026 13:00:37 +0000
-     URL   : https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/
+  1. The Traffic Pool Is Shrinking, And Which Channel Fills It Matters Less Than We Think via @sejournal, @DuaneForrester
+     Fecha : Thu, 12 Nov 2026 15:00:53 +0000
+     URL   : https://www.searchenginejournal.com/the-traffic-pool-is-shrinking-and-which-channel-fills-it-matters-less-than-we-think/596346/
+  2. How to Submit Your Website to ChatGPT Business Hub via @sejournal, @vahandev
+     Fecha : Thu, 12 Nov 2026 13:10:15 +0000
+     URL   : https://www.searchenginejournal.com/submit-website-chatgpt/596785/
+  3. Don’t Let A Tool Lead Your AI Search Strategy – Own Your Data Instead via @sejournal, @TaylorDanRW
+     Fecha : Thu, 12 Nov 2026 13:00:43 +0000
+     URL   : https://www.searchenginejournal.com/dont-let-a-tool-lead-your-ai-search-strategy-own-your-data-instead/596538/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Siri co-founder backs Helix for its voice ID tech
-     Fecha : Wed, 11 Nov 2026 15:02:47 +0000
-     URL   : https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/
-  2. Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth
-     Fecha : Wed, 11 Nov 2026 15:00:00 +0000
-     URL   : https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/
-  3. Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads
-     Fecha : Wed, 11 Nov 2026 14:00:00 +0000
-     URL   : https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/
+  1. Jensen Huang agrees to testify before Congress
+     Fecha : Thu, 12 Nov 2026 16:36:37 +0000
+     URL   : https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/
+  2. Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry
+     Fecha : Thu, 12 Nov 2026 16:32:33 +0000
+     URL   : https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/
+  3. Trump floats Apple chairman Tim Cook as Jensen Huang’s successor
+     Fecha : Thu, 12 Nov 2026 16:12:44 +0000
+     URL   : https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Mister Blocks
-     Fecha : 2026-11-10T19:26:18-08:00
-     URL   : https://www.producthunt.com/products/mister-blocks
-  2. ScroogeFrog AI
-     Fecha : 2026-10-19T01:11:42-07:00
-     URL   : https://www.producthunt.com/products/scroogefrog-ai-antifraud
-  3. Muse Ember by Meta
-     Fecha : 2026-11-09T14:14:58-08:00
-     URL   : https://www.producthunt.com/products/meta-ai
+  1. Insight7 Voice AI Agents
+     Fecha : 2026-11-11T05:19:50-08:00
+     URL   : https://www.producthunt.com/products/insight7
+  2. Harness Memory
+     Fecha : 2026-11-11T00:31:32-08:00
+     URL   : https://www.producthunt.com/products/epsilla
+  3. Sendr V4: Lovable for GTM
+     Fecha : 2026-10-01T12:46:45-07:00
+     URL   : https://www.producthunt.com/products/sendr
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Google’s AlphaGenome 2 zooms in on the cellular roots of disease
-     Fecha : 2026-11-11T10:00:00-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model
-  2. Adobe’s AI experiments let you walk around in photos and interview your characters
-     Fecha : 2026-11-11T09:00:00-05:00
-     URL   : https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai
-  3. The US is winning the AI race. Jensen Huang could have blown it
-     Fecha : 2026-11-10T14:04:05-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy
+  1. Jensen Huang is out. What did China want from him?
+     Fecha : 2026-11-12T11:30:00-05:00
+     URL   : https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump
+  2. Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup
+     Fecha : 2026-11-12T10:48:12-05:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang
+  3. Nvidia CEO Jensen Huang has resigned. What happens next?
+     Fecha : 2026-11-12T10:01:31-05:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-11-11  16:00:09
+  Fin del reporte  ·  2026-11-12  16:43:30
 ═════════════════════════════════════════════════════════════════

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-11-12  16:43:30               ║
+║                  Generado: 2026-11-13  16:03:29               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. The Traffic Pool Is Shrinking, And Which Channel Fills It Matters Less Than We Think via @sejournal, @DuaneForrester
-     Fecha : Thu, 12 Nov 2026 15:00:53 +0000
-     URL   : https://www.searchenginejournal.com/the-traffic-pool-is-shrinking-and-which-channel-fills-it-matters-less-than-we-think/596346/
-  2. How to Submit Your Website to ChatGPT Business Hub via @sejournal, @vahandev
-     Fecha : Thu, 12 Nov 2026 13:10:15 +0000
-     URL   : https://www.searchenginejournal.com/submit-website-chatgpt/596785/
-  3. Don’t Let A Tool Lead Your AI Search Strategy – Own Your Data Instead via @sejournal, @TaylorDanRW
-     Fecha : Thu, 12 Nov 2026 13:00:43 +0000
-     URL   : https://www.searchenginejournal.com/dont-let-a-tool-lead-your-ai-search-strategy-own-your-data-instead/596538/
+  1. What Reddit Reviews Reveals About Your Products via @sejournal, @brentcsutoras
+     Fecha : Fri, 13 Nov 2026 13:00:09 +0000
+     URL   : https://www.searchenginejournal.com/what-reddit-reviews-reveals-about-your-products/596963/
+  2. Google Ads Rolls Out New Invalid Traffic Overview Card via @sejournal, @brookeosmundson
+     Fecha : Thu, 12 Nov 2026 21:01:44 +0000
+     URL   : https://www.searchenginejournal.com/google-ads-rolls-out-new-invalid-traffic-overview-card/597098/
+  3. Google Makes Gemini 4 Hydrogen The Default Model In AI Mode via @sejournal, @MattGSouthern
+     Fecha : Thu, 12 Nov 2026 20:09:18 +0000
+     URL   : https://www.searchenginejournal.com/google-gemini-4-hydrogen-default-ai-mode/597096/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Jensen Huang agrees to testify before Congress
-     Fecha : Thu, 12 Nov 2026 16:36:37 +0000
-     URL   : https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/
-  2. Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry
-     Fecha : Thu, 12 Nov 2026 16:32:33 +0000
-     URL   : https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/
-  3. Trump floats Apple chairman Tim Cook as Jensen Huang’s successor
-     Fecha : Thu, 12 Nov 2026 16:12:44 +0000
-     URL   : https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/
+  1. ChatGPT’s new Wallet lets AI agents shop and check out for you
+     Fecha : Fri, 13 Nov 2026 16:00:12 +0000
+     URL   : https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
+  2. The unfolding Jensen Huang scandal: a timeline
+     Fecha : Fri, 13 Nov 2026 15:58:00 +0000
+     URL   : https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+  3. Uber confirms hackers stole thousands of drivers’ license information in data breach
+     Fecha : Fri, 13 Nov 2026 14:57:55 +0000
+     URL   : https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Insight7 Voice AI Agents
-     Fecha : 2026-11-11T05:19:50-08:00
-     URL   : https://www.producthunt.com/products/insight7
-  2. Harness Memory
-     Fecha : 2026-11-11T00:31:32-08:00
-     URL   : https://www.producthunt.com/products/epsilla
-  3. Sendr V4: Lovable for GTM
-     Fecha : 2026-10-01T12:46:45-07:00
-     URL   : https://www.producthunt.com/products/sendr
+  1. GAtrends
+     Fecha : 2026-11-12T10:54:12-08:00
+     URL   : https://www.producthunt.com/products/gatrends
+  2. Replicate
+     Fecha : 2026-11-12T18:06:54-08:00
+     URL   : https://www.producthunt.com/products/replicate-10
+  3. Filament by Galaxy
+     Fecha : 2026-10-16T07:05:37-07:00
+     URL   : https://www.producthunt.com/products/galaxy
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Jensen Huang is out. What did China want from him?
-     Fecha : 2026-11-12T11:30:00-05:00
-     URL   : https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump
-  2. Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup
-     Fecha : 2026-11-12T10:48:12-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang
-  3. Nvidia CEO Jensen Huang has resigned. What happens next?
-     Fecha : 2026-11-12T10:01:31-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang
+  1. What&#8217;s really at stake in the Jensen Huang saga
+     Fecha : 2026-11-13T09:47:16-05:00
+     URL   : https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast
+  2. Claude’s Duet agent is a little neurotic and surprisingly helpful
+     Fecha : 2026-11-13T09:00:00-05:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on
+  3. Let’s talk about Jensen Huang’s many affairs!
+     Fecha : 2026-11-13T07:00:00-05:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-11-12  16:43:30
+  Fin del reporte  ·  2026-11-13  16:03:29
 ═════════════════════════════════════════════════════════════════

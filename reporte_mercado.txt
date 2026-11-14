@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-11-13  16:03:29               ║
+║                  Generado: 2026-11-14  14:55:31               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. What Reddit Reviews Reveals About Your Products via @sejournal, @brentcsutoras
-     Fecha : Fri, 13 Nov 2026 13:00:09 +0000
-     URL   : https://www.searchenginejournal.com/what-reddit-reviews-reveals-about-your-products/596963/
-  2. Google Ads Rolls Out New Invalid Traffic Overview Card via @sejournal, @brookeosmundson
-     Fecha : Thu, 12 Nov 2026 21:01:44 +0000
-     URL   : https://www.searchenginejournal.com/google-ads-rolls-out-new-invalid-traffic-overview-card/597098/
-  3. Google Makes Gemini 4 Hydrogen The Default Model In AI Mode via @sejournal, @MattGSouthern
-     Fecha : Thu, 12 Nov 2026 20:09:18 +0000
-     URL   : https://www.searchenginejournal.com/google-gemini-4-hydrogen-default-ai-mode/597096/
+  1. Core Update, ChatGPT Business Hub & AI Mode’s New Model – SEO Pulse via @sejournal, @MattGSouthern
+     Fecha : Sat, 14 Nov 2026 13:00:00 +0000
+     URL   : https://www.searchenginejournal.com/seo-pulse-core-update-chatgpt-business-hub-ai-modes-new-model/597135/
+  2. United Requires Permission For AI Agents, Keeps Search Indexing Open via @sejournal, @MattGSouthern
+     Fecha : Sat, 14 Nov 2026 10:00:14 +0000
+     URL   : https://www.searchenginejournal.com/united-ai-agents-permission-search-indexing/597418/
+  3. Meta’s Muse Now Sends Most AI Agent Requests One Security Firm Sees via @sejournal, @MattGSouthern
+     Fecha : Sat, 14 Nov 2026 08:00:52 +0000
+     URL   : https://www.searchenginejournal.com/meta-muse-ai-agent-requests-human-security/597388/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. ChatGPT’s new Wallet lets AI agents shop and check out for you
-     Fecha : Fri, 13 Nov 2026 16:00:12 +0000
-     URL   : https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
-  2. The unfolding Jensen Huang scandal: a timeline
-     Fecha : Fri, 13 Nov 2026 15:58:00 +0000
-     URL   : https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
-  3. Uber confirms hackers stole thousands of drivers’ license information in data breach
-     Fecha : Fri, 13 Nov 2026 14:57:55 +0000
-     URL   : https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/
+  1. Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price
+     Fecha : Fri, 13 Nov 2026 23:00:00 +0000
+     URL   : https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/
+  2. Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say
+     Fecha : Fri, 13 Nov 2026 22:43:00 +0000
+     URL   : https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/
+  3. US government grounds all flights across the United States ‘due to extraordinary circumstances’
+     Fecha : Fri, 13 Nov 2026 21:44:38 +0000
+     URL   : https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. GAtrends
-     Fecha : 2026-11-12T10:54:12-08:00
-     URL   : https://www.producthunt.com/products/gatrends
-  2. Replicate
-     Fecha : 2026-11-12T18:06:54-08:00
-     URL   : https://www.producthunt.com/products/replicate-10
-  3. Filament by Galaxy
-     Fecha : 2026-10-16T07:05:37-07:00
-     URL   : https://www.producthunt.com/products/galaxy
+  1. HiringNow
+     Fecha : 2026-11-02T02:23:37-08:00
+     URL   : https://www.producthunt.com/products/hiringnow
+  2. Dex Semantics
+     Fecha : 2026-11-11T13:48:12-08:00
+     URL   : https://www.producthunt.com/products/dex-by-exmergo
+  3. Tacie
+     Fecha : 2026-11-13T07:03:50-08:00
+     URL   : https://www.producthunt.com/products/tacie
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. What&#8217;s really at stake in the Jensen Huang saga
-     Fecha : 2026-11-13T09:47:16-05:00
-     URL   : https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast
-  2. Claude’s Duet agent is a little neurotic and surprisingly helpful
-     Fecha : 2026-11-13T09:00:00-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on
-  3. Let’s talk about Jensen Huang’s many affairs!
-     Fecha : 2026-11-13T07:00:00-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow
+  1. Jensen Huang and the decline of the visionary showman founder CEO
+     Fecha : 2026-11-14T07:00:00-05:00
+     URL   : https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo
+  2. Amazon has a plan to index the world’s online shopping data
+     Fecha : 2026-11-13T18:49:11-05:00
+     URL   : https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search
+  3. ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you
+     Fecha : 2026-11-13T15:45:10-05:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-11-13  16:03:29
+  Fin del reporte  ·  2026-11-14  14:55:31
 ═════════════════════════════════════════════════════════════════

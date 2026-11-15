@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-11-14  14:55:31               ║
+║                  Generado: 2026-11-15  15:32:45               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Core Update, ChatGPT Business Hub & AI Mode’s New Model – SEO Pulse via @sejournal, @MattGSouthern
+  1. Same B2B Google Ads Keywords Cost About 21% More, Agency Data Shows via @sejournal, @MattGSouthern
+     Fecha : Sun, 15 Nov 2026 11:30:33 +0000
+     URL   : https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/
+  2. YouTube’s Clips Tool Turns Podcast Episodes Into Shorts via @sejournal, @MattGSouthern
+     Fecha : Sun, 15 Nov 2026 10:00:48 +0000
+     URL   : https://www.searchenginejournal.com/youtube-studio-clips-podcast-episodes-shorts/597408/
+  3. Core Update, ChatGPT Business Hub & AI Mode’s New Model – SEO Pulse via @sejournal, @MattGSouthern
      Fecha : Sat, 14 Nov 2026 13:00:00 +0000
      URL   : https://www.searchenginejournal.com/seo-pulse-core-update-chatgpt-business-hub-ai-modes-new-model/597135/
-  2. United Requires Permission For AI Agents, Keeps Search Indexing Open via @sejournal, @MattGSouthern
-     Fecha : Sat, 14 Nov 2026 10:00:14 +0000
-     URL   : https://www.searchenginejournal.com/united-ai-agents-permission-search-indexing/597418/
-  3. Meta’s Muse Now Sends Most AI Agent Requests One Security Firm Sees via @sejournal, @MattGSouthern
-     Fecha : Sat, 14 Nov 2026 08:00:52 +0000
-     URL   : https://www.searchenginejournal.com/meta-muse-ai-agent-requests-human-security/597388/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price
-     Fecha : Fri, 13 Nov 2026 23:00:00 +0000
-     URL   : https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/
-  2. Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say
-     Fecha : Fri, 13 Nov 2026 22:43:00 +0000
-     URL   : https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/
-  3. US government grounds all flights across the United States ‘due to extraordinary circumstances’
-     Fecha : Fri, 13 Nov 2026 21:44:38 +0000
-     URL   : https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/
+  1. Where was Nvidia’s security team?
+     Fecha : Sun, 15 Nov 2026 00:08:07 +0000
+     URL   : https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/
+  2. Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang
+     Fecha : Sat, 14 Nov 2026 21:41:22 +0000
+     URL   : https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/
+  3. Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee
+     Fecha : Sat, 14 Nov 2026 20:04:44 +0000
+     URL   : https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. HiringNow
-     Fecha : 2026-11-02T02:23:37-08:00
-     URL   : https://www.producthunt.com/products/hiringnow
-  2. Dex Semantics
-     Fecha : 2026-11-11T13:48:12-08:00
-     URL   : https://www.producthunt.com/products/dex-by-exmergo
-  3. Tacie
-     Fecha : 2026-11-13T07:03:50-08:00
-     URL   : https://www.producthunt.com/products/tacie
+  1. Emayler
+     Fecha : 2026-11-12T15:32:53-08:00
+     URL   : https://www.producthunt.com/products/emayler
+  2. Privacyboard
+     Fecha : 2026-11-14T02:31:24-08:00
+     URL   : https://www.producthunt.com/products/privacyboard
+  3. Pixel Office
+     Fecha : 2026-11-12T08:47:12-08:00
+     URL   : https://www.producthunt.com/products/pixel-office-3
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Jensen Huang and the decline of the visionary showman founder CEO
+  1. An overview of Jensen Huang’s messy days
+     Fecha : 2026-11-15T08:00:00-05:00
+     URL   : https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation
+  2. The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs
+     Fecha : 2026-11-14T10:00:00-05:00
+     URL   : https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview
+  3. Jensen Huang and the decline of the visionary showman founder CEO
      Fecha : 2026-11-14T07:00:00-05:00
      URL   : https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo
-  2. Amazon has a plan to index the world’s online shopping data
-     Fecha : 2026-11-13T18:49:11-05:00
-     URL   : https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search
-  3. ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you
-     Fecha : 2026-11-13T15:45:10-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-11-14  14:55:31
+  Fin del reporte  ·  2026-11-15  15:32:45
 ═════════════════════════════════════════════════════════════════

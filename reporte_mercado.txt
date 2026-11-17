@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-11-16  18:16:20               ║
+║                  Generado: 2026-11-17  17:31:07               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention via @sejournal, @cshel
-     Fecha : Mon, 16 Nov 2026 15:00:34 +0000
-     URL   : https://www.searchenginejournal.com/when-the-wordpress-plugin-update-is-the-security-risk-why-seos-should-pay-attention/595622/
-  2. ChatGPT Ads Vs. Google Search Ads: What Early Data Shows via @sejournal, @MattGSouthern
-     Fecha : Mon, 16 Nov 2026 13:00:58 +0000
-     URL   : https://www.searchenginejournal.com/chatgpt-ads-vs-google-search-ads-early-data/597125/
-  3. Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers via @sejournal, @MattGSouthern
-     Fecha : Sun, 15 Nov 2026 11:30:33 +0000
-     URL   : https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/
+  1. AI Visibility Data: Avoid 4 Traps & Prioritize The Right Work
+     Fecha : Tue, 17 Nov 2026 16:11:24 +0000
+     URL   : https://www.searchenginejournal.com/ai-visibility-data-traps-transperfectdigital-spa/597627/
+  2. Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations via @sejournal, @lorenbaker
+     Fecha : Tue, 17 Nov 2026 13:00:47 +0000
+     URL   : https://www.searchenginejournal.com/patrick-reinhart-on-the-golden-metric-in-ai-search-brand-recommendations/597056/
+  3. Google Adds Branded & Multimodal Data To Search Console API via @sejournal, @MattGSouthern
+     Fecha : Tue, 17 Nov 2026 08:00:55 +0000
+     URL   : https://www.searchenginejournal.com/google-branded-multimodal-search-console-api/597693/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’
-     Fecha : Mon, 16 Nov 2026 18:11:10 +0000
-     URL   : https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/
-  2. FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’
-     Fecha : Mon, 16 Nov 2026 17:36:43 +0000
-     URL   : https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/
-  3. Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’
-     Fecha : Mon, 16 Nov 2026 17:10:00 +0000
-     URL   : https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/
+  1. AI models can be tricked into identifying civilians as military targets by telling them it’s a game
+     Fecha : Tue, 17 Nov 2026 17:20:41 +0000
+     URL   : https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/
+  2. Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO
+     Fecha : Tue, 17 Nov 2026 16:44:15 +0000
+     URL   : https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/
+  3. Daydream’s new AI agent acts as your personal stylist — and can shop for you, too
+     Fecha : Tue, 17 Nov 2026 16:32:55 +0000
+     URL   : https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Boost.space AgentOS
-     Fecha : 2026-11-03T00:33:13-08:00
-     URL   : https://www.producthunt.com/products/boost-space
-  2. Zoom Slides
-     Fecha : 2026-11-05T19:08:24-08:00
-     URL   : https://www.producthunt.com/products/zoom
-  3. OffiAI
-     Fecha : 2026-10-31T06:26:20-07:00
-     URL   : https://www.producthunt.com/products/offiai
+  1. EkLine
+     Fecha : 2026-11-04T13:32:44-08:00
+     URL   : https://www.producthunt.com/products/ekline
+  2. superlog
+     Fecha : 2026-11-15T09:20:53-08:00
+     URL   : https://www.producthunt.com/products/superlog
+  3. Glass Page
+     Fecha : 2026-11-10T08:01:46-08:00
+     URL   : https://www.producthunt.com/products/glass-page
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Audible is trying to make it easier to find audiobooks you’ll actually like
-     Fecha : 2026-11-16T09:00:00-05:00
-     URL   : https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability
-  2. Google Maps can now create trip itineraries for you
-     Fecha : 2026-11-16T09:00:00-05:00
-     URL   : https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning
-  3. The Nvidia scandal isn’t slowing down
-     Fecha : 2026-11-16T08:00:00-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down
+  1. The DOJ says it’s investigating Megaspeed
+     Fecha : 2026-11-17T11:19:03-05:00
+     URL   : https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update
+  2. Jensen Huang says he’s willing to return as Nvidia CEO
+     Fecha : 2026-11-17T11:09:57-05:00
+     URL   : https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement
+  3. Tech leaders are convinced that Jensen Huang’s exit was a plot against him
+     Fecha : 2026-11-16T18:17:34-05:00
+     URL   : https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-11-16  18:16:20
+  Fin del reporte  ·  2026-11-17  17:31:07
 ═════════════════════════════════════════════════════════════════

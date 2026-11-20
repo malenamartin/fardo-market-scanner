@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-11-19  17:14:47               ║
+║                  Generado: 2026-11-20  16:53:01               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Your WordPress Sitemap Isn’t Broken – Chrome 158 Has Dropped XSLT via @sejournal, @TaylorDanRW
-     Fecha : Thu, 19 Nov 2026 15:00:06 +0000
-     URL   : https://www.searchenginejournal.com/your-wordpress-sitemap-isnt-broken-chrome-158-has-dropped-xslt/597549/
-  2. WordPress 7.1.5 Security Release Fixes 18 Vulnerabilities via @sejournal, @martinibuster
-     Fecha : Thu, 19 Nov 2026 14:40:05 +0000
-     URL   : https://www.searchenginejournal.com/wordpress-7-1-5-security-release-fixes-18-vulnerabilities/598080/
-  3. WordPress 7.2 Arrives Dec. 8 – Last-Minute Changes Still Being Made via @sejournal, @MattGSouthern
-     Fecha : Thu, 19 Nov 2026 13:00:50 +0000
-     URL   : https://www.searchenginejournal.com/wordpress-7-2-seo-ai-changes/597616/
+  1. Google Told CMOs To Stop ‘Top 10’ Listicles. Here’s Its Example via @sejournal, @MattGSouthern
+     Fecha : Fri, 20 Nov 2026 16:17:43 +0000
+     URL   : https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/
+  2. A Charity Rescue Dog Outscored Amazon’s Christmas Ad – PPC Accounts Need A Story Before Cyber Week via @sejournal, @gregjarboe
+     Fecha : Fri, 20 Nov 2026 15:00:09 +0000
+     URL   : https://www.searchenginejournal.com/a-charity-rescue-dog-outscored-amazons-christmas-ad-ppc-accounts-need-a-story-before-cyber-week/597789/
+  3. AI Citations: What To Check Before Reacting To A Lost One via @sejournal, @MattGSouthern
+     Fecha : Fri, 20 Nov 2026 13:00:00 +0000
+     URL   : https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories
-     Fecha : Thu, 19 Nov 2026 17:00:00 +0000
-     URL   : https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/
-  2. Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price
-     Fecha : Thu, 19 Nov 2026 16:59:23 +0000
-     URL   : https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/
-  3. At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development
-     Fecha : Thu, 19 Nov 2026 16:19:41 +0000
-     URL   : https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/
+  1. Bending Spoons buys Mailchimp for $3.68 billion
+     Fecha : Fri, 20 Nov 2026 16:16:06 +0000
+     URL   : https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/
+  2. A transcription firm used by police, prosecutors and tech giants exposed customer data online
+     Fecha : Fri, 20 Nov 2026 15:46:07 +0000
+     URL   : https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/
+  3. Six AI-powered gadgets that could make your home office smarter
+     Fecha : Fri, 20 Nov 2026 14:00:00 +0000
+     URL   : https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Spellar for Chrome
-     Fecha : 2026-11-16T04:57:22-08:00
-     URL   : https://www.producthunt.com/products/spellar
-  2. Verse Engine by Ctruh
-     Fecha : 2026-11-17T06:44:33-08:00
-     URL   : https://www.producthunt.com/products/verse-engine-by-ctruh
-  3. Adside
-     Fecha : 2026-11-18T16:52:42-08:00
-     URL   : https://www.producthunt.com/products/adside
+  1. Samiksa
+     Fecha : 2026-11-19T20:22:09-08:00
+     URL   : https://www.producthunt.com/products/samiksa
+  2. Interview Coach
+     Fecha : 2026-11-19T19:48:51-08:00
+     URL   : https://www.producthunt.com/products/interview-coach-3
+  3. ThreadLore
+     Fecha : 2026-11-19T18:03:00-08:00
+     URL   : https://www.producthunt.com/products/threadlore
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Anthropic starts trading on Wall Street
-     Fecha : 2026-11-19T11:52:01-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq
-  2. ChatGPT can transcribe as you speak now with Live Dictation
-     Fecha : 2026-11-19T10:16:45-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation
-  3. With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line
-     Fecha : 2026-11-19T09:25:37-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure
+  1. Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude
+     Fecha : 2026-11-20T11:34:13-05:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem
+  2. The week everything fell apart
+     Fecha : 2026-11-20T09:06:59-05:00
+     URL   : https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast
+  3. Signal is blocking Gemini and Siri AI from reading your screen
+     Fecha : 2026-11-20T07:30:47-05:00
+     URL   : https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-11-19  17:14:47
+  Fin del reporte  ·  2026-11-20  16:53:01
 ═════════════════════════════════════════════════════════════════

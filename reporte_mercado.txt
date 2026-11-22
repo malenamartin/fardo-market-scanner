@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-11-21  16:01:24               ║
+║                  Generado: 2026-11-22  16:07:50               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -23,41 +23,41 @@
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Is selling an AI version of your face to this microdrama startup the future of Hollywood?
-     Fecha : Sat, 21 Nov 2026 16:00:00 +0000
-     URL   : https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/
-  2. Alaska, your next governor is a Wikipedia nerd
-     Fecha : Sat, 21 Nov 2026 15:18:29 +0000
-     URL   : https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/
-  3. Startup sues Apple in India over tap-to-share contacts feature
-     Fecha : Sat, 21 Nov 2026 04:00:00 +0000
-     URL   : https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/
+  1. Can a TV be too large? An investigation
+     Fecha : Sun, 22 Nov 2026 15:00:00 +0000
+     URL   : https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/
+  2. Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance
+     Fecha : Sat, 21 Nov 2026 21:37:10 +0000
+     URL   : https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/
+  3. A tale of two Nvidias
+     Fecha : Sat, 21 Nov 2026 21:07:42 +0000
+     URL   : https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Glassmail
-     Fecha : 2026-11-14T07:57:43-08:00
-     URL   : https://www.producthunt.com/products/glassmail
-  2. Exa Websets V2
-     Fecha : 2026-11-18T09:15:13-08:00
-     URL   : https://www.producthunt.com/products/exa-ai
-  3. AlterContacts
-     Fecha : 2026-11-17T02:25:12-08:00
-     URL   : https://www.producthunt.com/products/alter-contacts-ai-client-relationships
+  1. Creavit Studio 4.0
+     Fecha : 2026-11-20T13:11:32-08:00
+     URL   : https://www.producthunt.com/products/creavit-studio
+  2. Raccoon Kids
+     Fecha : 2026-11-19T02:33:05-08:00
+     URL   : https://www.producthunt.com/products/raccoon-kids
+  3. Leapdeck
+     Fecha : 2026-11-16T05:09:26-08:00
+     URL   : https://www.producthunt.com/products/leapdeck
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Chess.com’s next move is a new hub for classic games, from mahjong to sudoku
+  1. The UN fails to agree on rules regulating ‘killer robots’
+     Fecha : 2026-11-21T15:03:37-05:00
+     URL   : https://www.theverge.com/tech/1039554/un-regulations-killer-robots
+  2. Can Anthropic afford to put safety first?
+     Fecha : 2026-11-21T10:00:00-05:00
+     URL   : https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure
+  3. Chess.com’s next move is a new hub for classic games, from mahjong to sudoku
      Fecha : 2026-11-21T09:00:00-05:00
      URL   : https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai
-  2. Trump threatens ‘tremendous tax’ for moving AI data centers outside the US
-     Fecha : 2026-11-20T13:50:19-05:00
-     URL   : https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax
-  3. Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude
-     Fecha : 2026-11-20T11:34:13-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-11-21  16:01:24
+  Fin del reporte  ·  2026-11-22  16:07:50
 ═════════════════════════════════════════════════════════════════

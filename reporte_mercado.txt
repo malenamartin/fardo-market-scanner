@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-11-23  20:01:15               ║
+║                  Generado: 2026-11-24  19:27:09               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Says Back Button Hijacking Policy Covers Social Visits via @sejournal, @MattGSouthern
-     Fecha : Mon, 23 Nov 2026 18:00:23 +0000
-     URL   : https://www.searchenginejournal.com/google-back-button-hijacking-policy-social-visits/598592/
-  2. The Final Ad Checklist Before BFCM – What To Fix Now & What To Leave via @sejournal, @tonyadam
-     Fecha : Mon, 23 Nov 2026 15:00:32 +0000
-     URL   : https://www.searchenginejournal.com/the-final-ad-checklist-before-bfcm-what-to-fix-now-what-to-leave/597701/
-  3. Google Publishes Guidance For Google-Agent Crawler via @sejournal, @martinibuster
-     Fecha : Mon, 23 Nov 2026 13:12:32 +0000
-     URL   : https://www.searchenginejournal.com/google-publishes-guidance-for-google-agent-crawler/598526/
+  1. Google Announces December 2026 Core Update Ahead Of Rollout via @sejournal, @MattGSouthern
+     Fecha : Tue, 24 Nov 2026 15:10:30 +0000
+     URL   : https://www.searchenginejournal.com/google-december-2026-core-update/598760/
+  2. WordPress Drops To 38.4% Of The Web, Down Nearly 5 Points In A Year via @sejournal, @MattGSouthern
+     Fecha : Tue, 24 Nov 2026 15:00:28 +0000
+     URL   : https://www.searchenginejournal.com/wordpress-drops-to-38-5-of-the-web-down-nearly-5-points-in-a-year/598175/
+  3. Google Confirms November 2026 Core Update Is Complete via @sejournal, @MattGSouthern
+     Fecha : Tue, 24 Nov 2026 14:48:46 +0000
+     URL   : https://www.searchenginejournal.com/google-november-2026-core-update-complete/598751/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. ‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia
-     Fecha : Mon, 23 Nov 2026 19:31:41 +0000
-     URL   : https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/
-  2. Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses
-     Fecha : Mon, 23 Nov 2026 19:14:46 +0000
-     URL   : https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/
-  3. Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO
-     Fecha : Mon, 23 Nov 2026 18:12:22 +0000
-     URL   : https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/
+  1. Anthropic shares fall below IPO price, a worrying sign for AI startups
+     Fecha : Tue, 24 Nov 2026 18:30:42 +0000
+     URL   : https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/
+  2. UK warns AI-driven cyberattacks are exposing years of weak security
+     Fecha : Tue, 24 Nov 2026 18:02:59 +0000
+     URL   : https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/
+  3. Threads comes to iPad and takes a page from X’s playbook with cashtags
+     Fecha : Tue, 24 Nov 2026 17:44:34 +0000
+     URL   : https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Hydrilla
-     Fecha : 2026-03-12T09:31:13-07:00
-     URL   : https://www.producthunt.com/products/hydrilla
-  2. Gauth Personal Study Agent
-     Fecha : 2026-11-20T09:12:34-08:00
-     URL   : https://www.producthunt.com/products/gauth-ai-course
-  3. Dog Translator SuperTranslator
-     Fecha : 2026-11-05T06:56:09-08:00
-     URL   : https://www.producthunt.com/products/dog-translator-supertranslator
+  1. distribution.dev
+     Fecha : 2026-11-17T01:23:57-08:00
+     URL   : https://www.producthunt.com/products/distribution-dev
+  2. Claude Ship
+     Fecha : 2026-11-23T13:00:36-08:00
+     URL   : https://www.producthunt.com/products/claude-code
+  3. tday.com
+     Fecha : 2026-11-23T13:22:27-08:00
+     URL   : https://www.producthunt.com/products/tday
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. Claude AI can review pull requests and ship fixes on its own now
-     Fecha : 2026-11-23T15:00:00-05:00
-     URL   : https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests
-  2. How Jensen Huang ended up as Nvidia CEO again
-     Fecha : 2026-11-23T14:57:18-05:00
-     URL   : https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return
-  3. Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription
-     Fecha : 2026-11-23T14:04:52-05:00
-     URL   : https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording
+  1. David Fincher is being dragged for suspected use of AI in his latest film
+     Fecha : 2026-11-24T13:15:00-05:00
+     URL   : https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive
+  2. Tidal will start banning AI-generated music next month
+     Fecha : 2026-11-24T12:17:09-05:00
+     URL   : https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban
+  3. Jensen Huang deepfakes are the hot new AI slop
+     Fecha : 2026-11-24T11:30:00-05:00
+     URL   : https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-11-23  20:01:15
+  Fin del reporte  ·  2026-11-24  19:27:09
 ═════════════════════════════════════════════════════════════════

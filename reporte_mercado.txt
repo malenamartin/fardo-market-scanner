@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-11-24  19:27:09               ║
+║                  Generado: 2026-11-25  18:34:40               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Google Announces December 2026 Core Update Ahead Of Rollout via @sejournal, @MattGSouthern
-     Fecha : Tue, 24 Nov 2026 15:10:30 +0000
-     URL   : https://www.searchenginejournal.com/google-december-2026-core-update/598760/
-  2. WordPress Drops To 38.4% Of The Web, Down Nearly 5 Points In A Year via @sejournal, @MattGSouthern
-     Fecha : Tue, 24 Nov 2026 15:00:28 +0000
-     URL   : https://www.searchenginejournal.com/wordpress-drops-to-38-5-of-the-web-down-nearly-5-points-in-a-year/598175/
-  3. Google Confirms November 2026 Core Update Is Complete via @sejournal, @MattGSouthern
-     Fecha : Tue, 24 Nov 2026 14:48:46 +0000
-     URL   : https://www.searchenginejournal.com/google-november-2026-core-update-complete/598751/
+  1. Top Publisher League Tables For U.S. & U.K.
+     Fecha : Wed, 25 Nov 2026 18:00:02 +0000
+     URL   : https://www.searchenginejournal.com/top-publisher-league-tables-for-us-uk/598933/
+  2. ChatGPT Ads Are Growing Fast – But Are Advertisers Seeing Results? via @sejournal, @brookeosmundson
+     Fecha : Wed, 25 Nov 2026 15:00:31 +0000
+     URL   : https://www.searchenginejournal.com/chatgpt-ads-are-growing-fast-but-are-advertisers-seeing-results/598052/
+  3. Is GEO Visibility Delivering Business Value, Or Are We Measuring The Wrong Outcome? via @sejournal, @billhunt
+     Fecha : Wed, 25 Nov 2026 13:00:23 +0000
+     URL   : https://www.searchenginejournal.com/is-geo-visibility-delivering-business-value-or-are-we-measuring-the-wrong-outcome/594064/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Anthropic shares fall below IPO price, a worrying sign for AI startups
-     Fecha : Tue, 24 Nov 2026 18:30:42 +0000
-     URL   : https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/
-  2. UK warns AI-driven cyberattacks are exposing years of weak security
-     Fecha : Tue, 24 Nov 2026 18:02:59 +0000
-     URL   : https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/
-  3. Threads comes to iPad and takes a page from X’s playbook with cashtags
-     Fecha : Tue, 24 Nov 2026 17:44:34 +0000
-     URL   : https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/
+  1. Want to buy your kid an AI toy this Christmas? Not in New York
+     Fecha : Wed, 25 Nov 2026 18:11:46 +0000
+     URL   : https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/
+  2. DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers
+     Fecha : Wed, 25 Nov 2026 17:36:51 +0000
+     URL   : https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/
+  3. State AGs fight Character AI’s plan to auction off users’ private chats
+     Fecha : Wed, 25 Nov 2026 17:35:58 +0000
+     URL   : https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. distribution.dev
-     Fecha : 2026-11-17T01:23:57-08:00
-     URL   : https://www.producthunt.com/products/distribution-dev
-  2. Claude Ship
-     Fecha : 2026-11-23T13:00:36-08:00
-     URL   : https://www.producthunt.com/products/claude-code
-  3. tday.com
-     Fecha : 2026-11-23T13:22:27-08:00
-     URL   : https://www.producthunt.com/products/tday
+  1. CodeRabbit Verify
+     Fecha : 2026-11-18T08:26:36-08:00
+     URL   : https://www.producthunt.com/products/coderabbit
+  2. Airbot
+     Fecha : 2026-11-19T08:45:54-08:00
+     URL   : https://www.producthunt.com/products/airbots
+  3. Fompi
+     Fecha : 2026-11-24T09:54:28-08:00
+     URL   : https://www.producthunt.com/products/fompi
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. David Fincher is being dragged for suspected use of AI in his latest film
-     Fecha : 2026-11-24T13:15:00-05:00
-     URL   : https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive
-  2. Tidal will start banning AI-generated music next month
-     Fecha : 2026-11-24T12:17:09-05:00
-     URL   : https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban
-  3. Jensen Huang deepfakes are the hot new AI slop
-     Fecha : 2026-11-24T11:30:00-05:00
-     URL   : https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes
+  1. FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space
+     Fecha : 2026-11-25T12:44:51-05:00
+     URL   : https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers
+  2. Nothing offers a full look at its AI earbuds and charging case
+     Fecha : 2026-11-25T11:00:59-05:00
+     URL   : https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal
+  3. Amazon is reportedly in talks to end Muse AI shopping block
+     Fecha : 2026-11-25T09:12:33-05:00
+     URL   : https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-11-24  19:27:09
+  Fin del reporte  ·  2026-11-25  18:34:40
 ═════════════════════════════════════════════════════════════════

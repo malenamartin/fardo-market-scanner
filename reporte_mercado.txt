@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-11-25  18:34:40               ║
+║                  Generado: 2026-11-26  18:18:52               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Top Publisher League Tables For U.S. & U.K.
-     Fecha : Wed, 25 Nov 2026 18:00:02 +0000
-     URL   : https://www.searchenginejournal.com/top-publisher-league-tables-for-us-uk/598933/
-  2. ChatGPT Ads Are Growing Fast – But Are Advertisers Seeing Results? via @sejournal, @brookeosmundson
-     Fecha : Wed, 25 Nov 2026 15:00:31 +0000
-     URL   : https://www.searchenginejournal.com/chatgpt-ads-are-growing-fast-but-are-advertisers-seeing-results/598052/
-  3. Is GEO Visibility Delivering Business Value, Or Are We Measuring The Wrong Outcome? via @sejournal, @billhunt
-     Fecha : Wed, 25 Nov 2026 13:00:23 +0000
-     URL   : https://www.searchenginejournal.com/is-geo-visibility-delivering-business-value-or-are-we-measuring-the-wrong-outcome/594064/
+  1. The Missing Step In Prompt Tracking Was Written Down In 1995 via @sejournal, @DuaneForrester
+     Fecha : Thu, 26 Nov 2026 15:00:36 +0000
+     URL   : https://www.searchenginejournal.com/the-missing-step-in-prompt-tracking-was-written-down-in-1995/598461/
+  2. What SEOs Can Be Thankful For: 8 Wins To Celebrate In 2026 via @sejournal, @MattGSouthern
+     Fecha : Thu, 26 Nov 2026 13:00:22 +0000
+     URL   : https://www.searchenginejournal.com/what-seos-can-be-thankful-for-2026/598921/
+  3. OpenAI Isn’t Planning Prompt-Level Reports For ChatGPT Ads via @sejournal, @MattGSouthern
+     Fecha : Thu, 26 Nov 2026 04:15:54 +0000
+     URL   : https://www.searchenginejournal.com/openai-isnt-planning-prompt-level-reports-for-chatgpt-ads/599126/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Want to buy your kid an AI toy this Christmas? Not in New York
-     Fecha : Wed, 25 Nov 2026 18:11:46 +0000
-     URL   : https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/
-  2. DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers
-     Fecha : Wed, 25 Nov 2026 17:36:51 +0000
-     URL   : https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/
-  3. State AGs fight Character AI’s plan to auction off users’ private chats
-     Fecha : Wed, 25 Nov 2026 17:35:58 +0000
-     URL   : https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/
+  1. A month with the iPhone Duo has changed how I use my phone
+     Fecha : Thu, 26 Nov 2026 17:00:00 +0000
+     URL   : https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/
+  2. As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue
+     Fecha : Thu, 26 Nov 2026 16:00:00 +0000
+     URL   : https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/
+  3. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks
+     Fecha : Wed, 25 Nov 2026 22:44:32 +0000
+     URL   : https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. CodeRabbit Verify
-     Fecha : 2026-11-18T08:26:36-08:00
-     URL   : https://www.producthunt.com/products/coderabbit
-  2. Airbot
-     Fecha : 2026-11-19T08:45:54-08:00
-     URL   : https://www.producthunt.com/products/airbots
-  3. Fompi
-     Fecha : 2026-11-24T09:54:28-08:00
-     URL   : https://www.producthunt.com/products/fompi
+  1. Upsolve Harness 2.0
+     Fecha : 2026-11-25T14:03:32-08:00
+     URL   : https://www.producthunt.com/products/upsolve-ai
+  2. Claude-Mem Cloud Sync
+     Fecha : 2026-11-25T23:58:18-08:00
+     URL   : https://www.producthunt.com/products/claude-mem
+  3. InfraThrone DevOps Park
+     Fecha : 2026-11-25T04:07:17-08:00
+     URL   : https://www.producthunt.com/products/infrathrone-devops-park
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space
+  1. 42 state AGs are trying to stop Character.AI from selling users’ chats
+     Fecha : 2026-11-26T04:54:40-05:00
+     URL   : https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats
+  2. Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future
+     Fecha : 2026-11-25T16:51:26-05:00
+     URL   : https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent
+  3. FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space
      Fecha : 2026-11-25T12:44:51-05:00
      URL   : https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers
-  2. Nothing offers a full look at its AI earbuds and charging case
-     Fecha : 2026-11-25T11:00:59-05:00
-     URL   : https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal
-  3. Amazon is reportedly in talks to end Muse AI shopping block
-     Fecha : 2026-11-25T09:12:33-05:00
-     URL   : https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-11-25  18:34:40
+  Fin del reporte  ·  2026-11-26  18:18:52
 ═════════════════════════════════════════════════════════════════

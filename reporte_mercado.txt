@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-11-26  18:18:52               ║
+║                  Generado: 2026-11-27  18:01:26               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,54 +10,54 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. The Missing Step In Prompt Tracking Was Written Down In 1995 via @sejournal, @DuaneForrester
-     Fecha : Thu, 26 Nov 2026 15:00:36 +0000
-     URL   : https://www.searchenginejournal.com/the-missing-step-in-prompt-tracking-was-written-down-in-1995/598461/
-  2. What SEOs Can Be Thankful For: 8 Wins To Celebrate In 2026 via @sejournal, @MattGSouthern
-     Fecha : Thu, 26 Nov 2026 13:00:22 +0000
-     URL   : https://www.searchenginejournal.com/what-seos-can-be-thankful-for-2026/598921/
-  3. OpenAI Isn’t Planning Prompt-Level Reports For ChatGPT Ads via @sejournal, @MattGSouthern
-     Fecha : Thu, 26 Nov 2026 04:15:54 +0000
-     URL   : https://www.searchenginejournal.com/openai-isnt-planning-prompt-level-reports-for-chatgpt-ads/599126/
+  1. Paid Search Has An AI Blind Spot – IAB Blueprint Says A Claim Is Not Credit via @sejournal, @gregjarboe
+     Fecha : Fri, 27 Nov 2026 15:00:17 +0000
+     URL   : https://www.searchenginejournal.com/paid-search-has-an-ai-blind-spot-iab-blueprint-says-a-claim-is-not-credit/597307/
+  2. B2B Podcasts Reach Buyers Search Can’t – Where Most Shows Go Wrong
+     Fecha : Fri, 27 Nov 2026 13:00:41 +0000
+     URL   : https://www.searchenginejournal.com/b2b-podcast-growth-channel-search-cant-replace/596484/
+  3. 9 AI Workflows That Turn Marketing Data Into Content AI Cites via @sejournal, @hethr_campbell
+     Fecha : Fri, 27 Nov 2026 08:45:12 +0000
+     URL   : https://www.searchenginejournal.com/9-ai-workflows-that-turn-marketing-data-into-content-ai-cites-recap/598061/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. A month with the iPhone Duo has changed how I use my phone
-     Fecha : Thu, 26 Nov 2026 17:00:00 +0000
-     URL   : https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/
-  2. As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue
-     Fecha : Thu, 26 Nov 2026 16:00:00 +0000
-     URL   : https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/
-  3. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks
-     Fecha : Wed, 25 Nov 2026 22:44:32 +0000
-     URL   : https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/
+  1. Nvidia hits pause on chip shipments to Southeast Asia
+     Fecha : Thu, 26 Nov 2026 20:03:54 +0000
+     URL   : https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/
+  2. Is Alice Huang a spy or not?
+     Fecha : Thu, 26 Nov 2026 20:00:00 +0000
+     URL   : https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/
+  3. X finally gets parental controls after 20 years
+     Fecha : Thu, 26 Nov 2026 19:31:50 +0000
+     URL   : https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. Upsolve Harness 2.0
-     Fecha : 2026-11-25T14:03:32-08:00
-     URL   : https://www.producthunt.com/products/upsolve-ai
-  2. Claude-Mem Cloud Sync
-     Fecha : 2026-11-25T23:58:18-08:00
-     URL   : https://www.producthunt.com/products/claude-mem
-  3. InfraThrone DevOps Park
-     Fecha : 2026-11-25T04:07:17-08:00
-     URL   : https://www.producthunt.com/products/infrathrone-devops-park
+  1. snibl
+     Fecha : 2026-11-22T04:50:36-08:00
+     URL   : https://www.producthunt.com/products/snibl
+  2. Wizstar R1
+     Fecha : 2026-11-24T23:56:05-08:00
+     URL   : https://www.producthunt.com/products/wizstar
+  3. RightFont 2026
+     Fecha : 2026-11-26T15:17:29-08:00
+     URL   : https://www.producthunt.com/products/rightfont
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ·····························································
-  1. 42 state AGs are trying to stop Character.AI from selling users’ chats
+  1. Android’s DIY widgets are a bit of vibe-coding fun
+     Fecha : 2026-11-27T09:00:00-05:00
+     URL   : https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini
+  2. 42 state AGs are trying to stop Character.AI from selling users’ chats
      Fecha : 2026-11-26T04:54:40-05:00
      URL   : https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats
-  2. Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future
+  3. Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future
      Fecha : 2026-11-25T16:51:26-05:00
      URL   : https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent
-  3. FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space
-     Fecha : 2026-11-25T12:44:51-05:00
-     URL   : https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers
 
 ═════════════════════════════════════════════════════════════════
   2.  TITULARES RECIENTES DE COMPETIDORES
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-11-26  18:18:52
+  Fin del reporte  ·  2026-11-27  18:01:26
 ═════════════════════════════════════════════════════════════════

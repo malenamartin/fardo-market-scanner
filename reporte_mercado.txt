@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║               REPORTE DE MERCADO – MARKET SCANNER             ║
-║                  Generado: 2026-11-27  18:01:26               ║
+║                  Generado: 2026-11-28  16:45:48               ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ═════════════════════════════════════════════════════════════════
@@ -10,41 +10,41 @@
   [Search Engine Journal]
   https://www.searchenginejournal.com/feed/
   ·····························································
-  1. Paid Search Has An AI Blind Spot – IAB Blueprint Says A Claim Is Not Credit via @sejournal, @gregjarboe
-     Fecha : Fri, 27 Nov 2026 15:00:17 +0000
-     URL   : https://www.searchenginejournal.com/paid-search-has-an-ai-blind-spot-iab-blueprint-says-a-claim-is-not-credit/597307/
-  2. B2B Podcasts Reach Buyers Search Can’t – Where Most Shows Go Wrong
-     Fecha : Fri, 27 Nov 2026 13:00:41 +0000
-     URL   : https://www.searchenginejournal.com/b2b-podcast-growth-channel-search-cant-replace/596484/
-  3. 9 AI Workflows That Turn Marketing Data Into Content AI Cites via @sejournal, @hethr_campbell
-     Fecha : Fri, 27 Nov 2026 08:45:12 +0000
-     URL   : https://www.searchenginejournal.com/9-ai-workflows-that-turn-marketing-data-into-content-ai-cites-recap/598061/
+  1. Core Updates, Ranking Feedback, Google-Agent & WordPress – SEO Pulse via @sejournal, @MattGSouthern
+     Fecha : Sat, 28 Nov 2026 13:00:00 +0000
+     URL   : https://www.searchenginejournal.com/seo-pulse-core-updates-ranking-feedback-google-agent-wordpress/599171/
+  2. Know What To Fix Before Scaling AI Agents For AEO In 2027 via @sejournal, @hethr_campbell
+     Fecha : Fri, 27 Nov 2026 22:41:34 +0000
+     URL   : https://www.searchenginejournal.com/know-what-to-fix-before-scaling-ai-agents-for-aeo-in-2027/598837/
+  3. Google Moves 404 Guidance To Search Central, Adds A 410 Crawl Note via @sejournal, @MattGSouthern
+     Fecha : Fri, 27 Nov 2026 20:26:24 +0000
+     URL   : https://www.searchenginejournal.com/google-404-guide-410-crawl-frequency/599287/
 
   [TechCrunch]
   https://techcrunch.com/feed/
   ·····························································
-  1. Nvidia hits pause on chip shipments to Southeast Asia
+  1. This new sports app is designed specifically for women’s sports
+     Fecha : Sat, 28 Nov 2026 16:43:39 +0000
+     URL   : https://techcrunch.com/2026/11/28/this-new-sports-app-is-designed-specifically-for-womens-sports/
+  2. Sakana AI’s CEO says its homegrown models are about more than Japan’s national security
+     Fecha : Sat, 28 Nov 2026 14:00:00 +0000
+     URL   : https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/
+  3. Nvidia hits pause on chip shipments to Southeast Asia
      Fecha : Thu, 26 Nov 2026 20:03:54 +0000
      URL   : https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/
-  2. Is Alice Huang a spy or not?
-     Fecha : Thu, 26 Nov 2026 20:00:00 +0000
-     URL   : https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/
-  3. X finally gets parental controls after 20 years
-     Fecha : Thu, 26 Nov 2026 19:31:50 +0000
-     URL   : https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/
 
   [Product Hunt]
   https://www.producthunt.com/feed
   ·····························································
-  1. snibl
-     Fecha : 2026-11-22T04:50:36-08:00
-     URL   : https://www.producthunt.com/products/snibl
-  2. Wizstar R1
-     Fecha : 2026-11-24T23:56:05-08:00
-     URL   : https://www.producthunt.com/products/wizstar
-  3. RightFont 2026
-     Fecha : 2026-11-26T15:17:29-08:00
-     URL   : https://www.producthunt.com/products/rightfont
+  1. overads.io
+     Fecha : 2026-10-20T00:29:52-07:00
+     URL   : https://www.producthunt.com/products/overads-io
+  2. GrayPass
+     Fecha : 2026-11-11T08:07:09-08:00
+     URL   : https://www.producthunt.com/products/graypass
+  3. Slopie
+     Fecha : 2026-11-16T18:25:31-08:00
+     URL   : https://www.producthunt.com/products/slopie
 
   [The Verge – AI]
   https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -79,5 +79,5 @@
   1. [Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?]
 
 ═════════════════════════════════════════════════════════════════
-  Fin del reporte  ·  2026-11-27  18:01:26
+  Fin del reporte  ·  2026-11-28  16:45:48
 ═════════════════════════════════════════════════════════════════
